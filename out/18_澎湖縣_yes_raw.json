@@ -1,0 +1,24 @@
+{
+  "total": 1,
+  "rows": [
+    {
+      "countyName": "澎湖縣",
+      "orgName": "<a href='(06)9261151' target='_blank'>衛生福利部澎湖醫院</a>",
+      "phone": "(06)9261151",
+      "address": "<a href='https://www.google.com.tw/maps/place/澎湖縣馬公市中正路10號' target='_blank'>澎湖縣馬公市中正路10號</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 1,
+      "nextWeekRange": null,
+      "nextWeekCount": 1,
+      "next2WeekRange": null,
+      "next2WeekCount": 2,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 4,
+      "editDate": "2025/08/11",
+      "strTeleconsultation": "否"
+    }
+  ],
+  "totalPages": 1
+}

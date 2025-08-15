@@ -1,0 +1,24 @@
+{
+  "total": 1,
+  "rows": [
+    {
+      "countyName": "臺東縣",
+      "orgName": "<a href='eyemirror2021.com' target='_blank'>凝鏡心理治療所</a>",
+      "phone": "0906363088",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺東市勝利街72號' target='_blank'>臺東市勝利街72號</a>",
+      "payDetail": "場地費400元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "是"
+    }
+  ],
+  "totalPages": 1
+}

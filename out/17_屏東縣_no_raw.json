@@ -1,0 +1,42 @@
+{
+  "total": 2,
+  "rows": [
+    {
+      "countyName": "屏東縣",
+      "orgName": "<a href='https://www.phdkao.com.tw/' target='_blank'>杏福身心診所</a>",
+      "phone": "08-7660058",
+      "address": "<a href='https://www.google.com.tw/maps/place/屏東市中正路177號1樓' target='_blank'>屏東市中正路177號1樓</a>",
+      "payDetail": "掛號費150元 （非本院看診個案）",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "屏東縣",
+      "orgName": "<a href='https://www.vhlc.gov.tw/' target='_blank'>屏東榮民總醫院龍泉分院</a>",
+      "phone": "08-7704115",
+      "address": "<a href='https://www.google.com.tw/maps/place/屏東縣內埔鄉龍潭村昭勝路安平一巷１號' target='_blank'>屏東縣內埔鄉龍潭村昭勝路安平一巷１號</a>",
+      "payDetail": "掛號費50元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "否"
+    }
+  ],
+  "totalPages": 1
+}

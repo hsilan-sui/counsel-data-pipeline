@@ -1,0 +1,24 @@
+{
+  "total": 1,
+  "rows": [
+    {
+      "countyName": "雲林縣",
+      "orgName": "<a href='https://www.facebook.com/profile.php?id=100063481676749' target='_blank'>晴明身心診所</a>",
+      "phone": "05-5330567",
+      "address": "<a href='https://www.google.com.tw/maps/place/雲林縣斗六市大同路183號' target='_blank'>雲林縣斗六市大同路183號</a>",
+      "payDetail": "掛號費200元",
+      "thisWeekRange": null,
+      "thisWeekCount": 3,
+      "nextWeekRange": null,
+      "nextWeekCount": 4,
+      "next2WeekRange": null,
+      "next2WeekCount": 4,
+      "next3WeekRange": null,
+      "next3WeekCount": 4,
+      "in4WeekTotleCount": 15,
+      "editDate": "2025/08/14",
+      "strTeleconsultation": "否"
+    }
+  ],
+  "totalPages": 1
+}

@@ -1,0 +1,40 @@
+{
+  "county": "澎湖縣",
+  "total": 2,
+  "rows": [
+    {
+      "county": "澎湖縣",
+      "org_name": "衛生福利部澎湖醫院",
+      "org_url": "(06)9261151",
+      "phone": "(06)9261151",
+      "address": "澎湖縣馬公市中正路10號",
+      "map_url": "https://www.google.com.tw/maps/place/澎湖縣馬公市中正路10號",
+      "pay_detail": "無",
+      "this_week": 1,
+      "next_week": 1,
+      "next_2_week": 2,
+      "next_3_week": 0,
+      "in_4_weeks": 4,
+      "edit_date": "2025/08/11",
+      "teleconsultation": false,
+      "has_quota": true
+    },
+    {
+      "county": "澎湖縣",
+      "org_name": "如常心理諮商所",
+      "org_url": "https://www.facebook.com/profile.php?id=61566133085557&mibextid=LQQJ4d",
+      "phone": "",
+      "address": "澎湖縣馬公市新村路22號",
+      "map_url": "https://www.google.com.tw/maps/place/澎湖縣馬公市新村路22號",
+      "pay_detail": "無",
+      "this_week": 0,
+      "next_week": 0,
+      "next_2_week": 0,
+      "next_3_week": 0,
+      "in_4_weeks": 0,
+      "edit_date": "2025/08/11",
+      "teleconsultation": false,
+      "has_quota": false
+    }
+  ]
+}

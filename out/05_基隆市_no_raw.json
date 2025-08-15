@@ -1,0 +1,42 @@
+{
+  "total": 2,
+  "rows": [
+    {
+      "countyName": "基隆市",
+      "orgName": "<a href='https://www.kenhaoclinic.com/' target='_blank'>胡耿豪身心精神科診所</a>",
+      "phone": "(02)2431-0311",
+      "address": "<a href='https://www.google.com.tw/maps/place/基隆市安樂區武嶺街85號1樓' target='_blank'>基隆市安樂區武嶺街85號1樓</a>",
+      "payDetail": "行政費300元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "基隆市",
+      "orgName": "<a href='https://www.facebook.com/profile.php?id=100086128950880' target='_blank'>安大心身心診所</a>",
+      "phone": "(02)2469-4100",
+      "address": "<a href='https://www.google.com.tw/maps/place/基隆市中正區新豐街229號' target='_blank'>基隆市中正區新豐街229號</a>",
+      "payDetail": "掛號費400元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/07/29",
+      "strTeleconsultation": "否"
+    }
+  ],
+  "totalPages": 1
+}

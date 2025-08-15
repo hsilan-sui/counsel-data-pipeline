@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "record": "npx playwright codegen https://sps.mohw.gov.tw/mhs --target=javascript"
+  },
+  "devDependencies": {
+    "playwright": "^1.54.2"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1"
+  }
+}

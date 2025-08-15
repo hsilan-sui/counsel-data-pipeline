@@ -1,0 +1,60 @@
+{
+  "total": 3,
+  "rows": [
+    {
+      "countyName": "新竹縣",
+      "orgName": "<a href='https://www.helping.org.tw' target='_blank'>益鼎升心理諮商所</a>",
+      "phone": "0931421391;03-6220303;03-6220305",
+      "address": "<a href='https://www.google.com.tw/maps/place/新竹縣寶山鄉雙豐二街75號1樓' target='_blank'>新竹縣寶山鄉雙豐二街75號1樓</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 10,
+      "nextWeekRange": null,
+      "nextWeekCount": 10,
+      "next2WeekRange": null,
+      "next2WeekCount": 10,
+      "next3WeekRange": null,
+      "next3WeekCount": 10,
+      "in4WeekTotleCount": 40,
+      "editDate": "2025/08/12",
+      "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "新竹縣",
+      "orgName": "<a href='https://www.aozorapsyclinic.com' target='_blank'>青空心理治療所</a>",
+      "phone": "0972-512295",
+      "address": "<a href='https://www.google.com.tw/maps/place/新竹縣竹北市六家五路一段335、337號' target='_blank'>新竹縣竹北市六家五路一段335、337號</a>",
+      "payDetail": "行政處理費400元",
+      "thisWeekRange": null,
+      "thisWeekCount": 3,
+      "nextWeekRange": null,
+      "nextWeekCount": 3,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 6,
+      "editDate": "2025/08/01",
+      "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "新竹縣",
+      "orgName": "<a href='https://org.vghtpe.gov.tw/vhct/' target='_blank'>臺北榮民總醫院新竹分院</a>",
+      "phone": "03-5962134#623",
+      "address": "<a href='https://www.google.com.tw/maps/place/新竹縣竹東鎮中豐路一段81號' target='_blank'>新竹縣竹東鎮中豐路一段81號</a>",
+      "payDetail": "掛號費180元",
+      "thisWeekRange": null,
+      "thisWeekCount": 4,
+      "nextWeekRange": null,
+      "nextWeekCount": 4,
+      "next2WeekRange": null,
+      "next2WeekCount": 4,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 12,
+      "editDate": "2025/08/04",
+      "strTeleconsultation": "否"
+    }
+  ],
+  "totalPages": 1
+}
