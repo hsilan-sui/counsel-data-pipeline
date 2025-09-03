@@ -1,5 +1,5 @@
 {
-  "total": 7,
+  "total": 5,
   "rows": [
     {
       "countyName": "苗栗縣",
@@ -16,25 +16,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 8,
       "in4WeekTotleCount": 32,
-      "editDate": "2025/08/11",
-      "strTeleconsultation": "否"
-    },
-    {
-      "countyName": "苗栗縣",
-      "orgName": "<a href='https://ourtime.com.tw/' target='_blank'>我時心理諮商所</a>",
-      "phone": "037-620780",
-      "address": "<a href='https://www.google.com.tw/maps/place/苗栗縣竹南鎮佳興里環市路三段580號1F' target='_blank'>苗栗縣竹南鎮佳興里環市路三段580號1F</a>",
-      "payDetail": "無",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 2,
-      "next3WeekRange": null,
-      "next3WeekCount": 2,
-      "in4WeekTotleCount": 4,
-      "editDate": "2025/08/15",
+      "editDate": "2025/09/01",
       "strTeleconsultation": "否"
     },
     {
@@ -44,34 +26,16 @@
       "address": "<a href='https://www.google.com.tw/maps/place/苗栗縣頭份市斗煥里11鄰群英路85巷1號' target='_blank'>苗栗縣頭份市斗煥里11鄰群英路85巷1號</a>",
       "payDetail": "無",
       "thisWeekRange": null,
-      "thisWeekCount": 2,
-      "nextWeekRange": null,
-      "nextWeekCount": 2,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 4,
-      "editDate": "2025/07/28",
-      "strTeleconsultation": "是"
-    },
-    {
-      "countyName": "苗栗縣",
-      "orgName": "<a href='https://www.facebook.com/profile.php?id=61558298624935&paipv=0&eav=AfYaRFe0LdFCfgFqhMNkU_SQcnp7qAizuIpZUOPELIkGnz2dBH9kv04wymvntSsgnZM' target='_blank'>謐境心理治療所</a>",
-      "phone": "037-377567",
-      "address": "<a href='https://www.google.com.tw/maps/place/苗栗縣苗栗市中山路398號1樓' target='_blank'>苗栗縣苗栗市中山路398號1樓</a>",
-      "payDetail": "無",
-      "thisWeekRange": null,
       "thisWeekCount": 0,
       "nextWeekRange": null,
-      "nextWeekCount": 0,
+      "nextWeekCount": 3,
       "next2WeekRange": null,
       "next2WeekCount": 3,
       "next3WeekRange": null,
       "next3WeekCount": 0,
-      "in4WeekTotleCount": 3,
-      "editDate": "2025/08/08",
-      "strTeleconsultation": "否"
+      "in4WeekTotleCount": 6,
+      "editDate": "2025/08/26",
+      "strTeleconsultation": "是"
     },
     {
       "countyName": "苗栗縣",
@@ -80,15 +44,15 @@
       "address": "<a href='https://www.google.com.tw/maps/place/苗栗縣頭份市信義路128號' target='_blank'>苗栗縣頭份市信義路128號</a>",
       "payDetail": "掛號費(依院方規定)",
       "thisWeekRange": null,
-      "thisWeekCount": 10,
+      "thisWeekCount": 6,
       "nextWeekRange": null,
-      "nextWeekCount": 11,
+      "nextWeekCount": 12,
       "next2WeekRange": null,
-      "next2WeekCount": 12,
+      "next2WeekCount": 11,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 33,
-      "editDate": "2025/08/04",
+      "next3WeekCount": 12,
+      "in4WeekTotleCount": 41,
+      "editDate": "2025/09/01",
       "strTeleconsultation": "否"
     },
     {
@@ -98,16 +62,16 @@
       "address": "<a href='https://www.google.com.tw/maps/place/苗栗縣後龍鎮新東路426號' target='_blank'>苗栗縣後龍鎮新東路426號</a>",
       "payDetail": "無",
       "thisWeekRange": null,
-      "thisWeekCount": 23,
+      "thisWeekCount": 20,
       "nextWeekRange": null,
-      "nextWeekCount": 23,
+      "nextWeekCount": 20,
       "next2WeekRange": null,
-      "next2WeekCount": 23,
+      "next2WeekCount": 21,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 69,
-      "editDate": "2025/08/05",
-      "strTeleconsultation": "否"
+      "next3WeekCount": 16,
+      "in4WeekTotleCount": 77,
+      "editDate": "2025/09/02",
+      "strTeleconsultation": "是"
     },
     {
       "countyName": "苗栗縣",
@@ -124,7 +88,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 5,
       "in4WeekTotleCount": 20,
-      "editDate": "2025/08/12",
+      "editDate": "2025/09/01",
       "strTeleconsultation": "否"
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "total": 2,
+  "total": 3,
   "rows": [
     {
       "countyName": "嘉義市",
@@ -16,8 +16,26 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/12",
+      "editDate": "2025/08/27",
       "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "嘉義市",
+      "orgName": "<a href='https://nuan-nuan.co/' target='_blank'>暖暖心理治療所</a>",
+      "phone": "無，預約方式請見網站。",
+      "address": "<a href='https://www.google.com.tw/maps/place/嘉義市東區嘉工街51號' target='_blank'>嘉義市東區嘉工街51號</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/09/03",
+      "strTeleconsultation": "否"
     },
     {
       "countyName": "嘉義市",
@@ -34,7 +52,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/12",
+      "editDate": "2025/08/27",
       "strTeleconsultation": "是"
     }
   ],

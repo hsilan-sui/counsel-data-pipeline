@@ -1,5 +1,5 @@
 {
-  "total": 14,
+  "total": 13,
   "rows": [
     {
       "countyName": "新竹縣",
@@ -34,7 +34,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/12",
+      "editDate": "2025/09/02",
       "strTeleconsultation": "否"
     },
     {
@@ -124,7 +124,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/08/20",
       "strTeleconsultation": "否"
     },
     {
@@ -142,7 +142,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/04",
+      "editDate": "2025/08/22",
       "strTeleconsultation": "否"
     },
     {
@@ -183,24 +183,6 @@
     },
     {
       "countyName": "新竹縣",
-      "orgName": "<a href='無' target='_blank'>安立身心診所</a>",
-      "phone": "03-6577622",
-      "address": "<a href='https://www.google.com.tw/maps/place/新竹縣竹北市莊敬北路78號1樓' target='_blank'>新竹縣竹北市莊敬北路78號1樓</a>",
-      "payDetail": "民眾每次需自付200元掛號費",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
-      "strTeleconsultation": "否"
-    },
-    {
-      "countyName": "新竹縣",
       "orgName": "<a href='https://enlightening-cc.com/' target='_blank'>沐光心理諮商所</a>",
       "phone": "03-6578521",
       "address": "<a href='https://www.google.com.tw/maps/place/新竹縣竹北市成功11街150號2樓' target='_blank'>新竹縣竹北市成功11街150號2樓</a>",
@@ -214,7 +196,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/07/22",
+      "editDate": "尚未更新",
       "strTeleconsultation": "是"
     },
     {

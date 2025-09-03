@@ -1,5 +1,5 @@
 {
-  "total": 3,
+  "total": 4,
   "rows": [
     {
       "countyName": "新竹縣",
@@ -12,11 +12,11 @@
       "nextWeekRange": null,
       "nextWeekCount": 10,
       "next2WeekRange": null,
-      "next2WeekCount": 10,
+      "next2WeekCount": 0,
       "next3WeekRange": null,
-      "next3WeekCount": 10,
-      "in4WeekTotleCount": 40,
-      "editDate": "2025/08/12",
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 20,
+      "editDate": "2025/08/18",
       "strTeleconsultation": "是"
     },
     {
@@ -26,15 +26,15 @@
       "address": "<a href='https://www.google.com.tw/maps/place/新竹縣竹北市六家五路一段335、337號' target='_blank'>新竹縣竹北市六家五路一段335、337號</a>",
       "payDetail": "行政處理費400元",
       "thisWeekRange": null,
-      "thisWeekCount": 3,
+      "thisWeekCount": 1,
       "nextWeekRange": null,
-      "nextWeekCount": 3,
+      "nextWeekCount": 2,
       "next2WeekRange": null,
-      "next2WeekCount": 0,
+      "next2WeekCount": 2,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 6,
-      "editDate": "2025/08/01",
+      "next3WeekCount": 3,
+      "in4WeekTotleCount": 8,
+      "editDate": "2025/09/01",
       "strTeleconsultation": "是"
     },
     {
@@ -52,7 +52,25 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 12,
-      "editDate": "2025/08/04",
+      "editDate": "2025/08/26",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "新竹縣",
+      "orgName": "<a href='無' target='_blank'>安立身心診所</a>",
+      "phone": "03-6577622",
+      "address": "<a href='https://www.google.com.tw/maps/place/新竹縣竹北市莊敬北路78號1樓' target='_blank'>新竹縣竹北市莊敬北路78號1樓</a>",
+      "payDetail": "民眾每次需自付200元掛號費",
+      "thisWeekRange": null,
+      "thisWeekCount": 2,
+      "nextWeekRange": null,
+      "nextWeekCount": 2,
+      "next2WeekRange": null,
+      "next2WeekCount": 2,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 6,
+      "editDate": "2025/08/26",
       "strTeleconsultation": "否"
     }
   ],

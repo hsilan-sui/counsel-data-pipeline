@@ -16,7 +16,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 6,
       "in4WeekTotleCount": 24,
-      "editDate": "2025/08/13",
+      "editDate": "2025/08/31",
       "strTeleconsultation": "是"
     },
     {
@@ -34,7 +34,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 6,
-      "editDate": "2025/08/08",
+      "editDate": "2025/08/25",
       "strTeleconsultation": "否"
     },
     {
@@ -44,15 +44,15 @@
       "address": "<a href='https://www.google.com.tw/maps/place/新竹市東區新光路83號' target='_blank'>新竹市東區新光路83號</a>",
       "payDetail": "掛號費平日200元  假日400元",
       "thisWeekRange": null,
-      "thisWeekCount": 3,
+      "thisWeekCount": 0,
       "nextWeekRange": null,
       "nextWeekCount": 0,
       "next2WeekRange": null,
-      "next2WeekCount": 0,
+      "next2WeekCount": 3,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 3,
-      "editDate": "2025/08/11",
+      "next3WeekCount": 3,
+      "in4WeekTotleCount": 6,
+      "editDate": "2025/09/03",
       "strTeleconsultation": "是"
     },
     {
@@ -64,13 +64,13 @@
       "thisWeekRange": null,
       "thisWeekCount": 0,
       "nextWeekRange": null,
-      "nextWeekCount": 4,
+      "nextWeekCount": 0,
       "next2WeekRange": null,
       "next2WeekCount": 4,
       "next3WeekRange": null,
       "next3WeekCount": 0,
-      "in4WeekTotleCount": 8,
-      "editDate": "2025/08/08",
+      "in4WeekTotleCount": 4,
+      "editDate": "2025/08/29",
       "strTeleconsultation": "否"
     }
   ],

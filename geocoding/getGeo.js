@@ -3,8 +3,8 @@ const path = require('path');
 const { chromium } = require('playwright');
 
 // 輸入 / 輸出路徑
-const inputPath = path.join(__dirname, 'test.json'); // ✅ 改成你的檔名
-const outputPath = path.join(__dirname, 'taiwan_with_coords.json');
+const inputPath = path.join(__dirname, '21_金門縣_merged_clean'); // ✅ 改成你的檔名
+const outputPath = path.join(__dirname, '21_金門縣_merged_clean_with_coords.json');
 
 // 讀取資料
 const data = JSON.parse(fs.readFileSync(inputPath, 'utf-8'));

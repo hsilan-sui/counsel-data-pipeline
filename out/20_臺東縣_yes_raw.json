@@ -1,5 +1,5 @@
 {
-  "total": 6,
+  "total": 4,
   "rows": [
     {
       "countyName": "臺東縣",
@@ -10,13 +10,13 @@
       "thisWeekRange": null,
       "thisWeekCount": 5,
       "nextWeekRange": null,
-      "nextWeekCount": 0,
+      "nextWeekCount": 5,
       "next2WeekRange": null,
-      "next2WeekCount": 0,
+      "next2WeekCount": 5,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 5,
-      "editDate": "2025/07/24",
+      "next3WeekCount": 5,
+      "in4WeekTotleCount": 20,
+      "editDate": "2025/09/02",
       "strTeleconsultation": "是"
     },
     {
@@ -34,44 +34,8 @@
       "next3WeekRange": null,
       "next3WeekCount": 6,
       "in4WeekTotleCount": 24,
-      "editDate": "2025/08/12",
+      "editDate": "2025/08/31",
       "strTeleconsultation": "否"
-    },
-    {
-      "countyName": "臺東縣",
-      "orgName": "<a href='https://www.facebook.com/Psychmirror2018/' target='_blank'>心鏡心理諮商所</a>",
-      "phone": "0901063035",
-      "address": "<a href='https://www.google.com.tw/maps/place/臺東市同樂街33號' target='_blank'>臺東市同樂街33號</a>",
-      "payDetail": "行政費300元",
-      "thisWeekRange": null,
-      "thisWeekCount": 6,
-      "nextWeekRange": null,
-      "nextWeekCount": 6,
-      "next2WeekRange": null,
-      "next2WeekCount": 6,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 18,
-      "editDate": "2025/08/07",
-      "strTeleconsultation": "是"
-    },
-    {
-      "countyName": "臺東縣",
-      "orgName": "<a href='https://www.facebook.com/strongerthangood' target='_blank'>茁然谷心理諮商所</a>",
-      "phone": "0965518580",
-      "address": "<a href='https://www.google.com.tw/maps/place/臺東市更生路419巷16號' target='_blank'>臺東市更生路419巷16號</a>",
-      "payDetail": "無",
-      "thisWeekRange": null,
-      "thisWeekCount": 6,
-      "nextWeekRange": null,
-      "nextWeekCount": 2,
-      "next2WeekRange": null,
-      "next2WeekCount": 2,
-      "next3WeekRange": null,
-      "next3WeekCount": 2,
-      "in4WeekTotleCount": 12,
-      "editDate": "2025/08/14",
-      "strTeleconsultation": "是"
     },
     {
       "countyName": "臺東縣",
@@ -80,15 +44,15 @@
       "address": "<a href='https://www.google.com.tw/maps/place/臺東市五權街1號' target='_blank'>臺東市五權街1號</a>",
       "payDetail": "門診掛號費50元，門診基本部分負擔80元",
       "thisWeekRange": null,
-      "thisWeekCount": 2,
+      "thisWeekCount": 3,
       "nextWeekRange": null,
       "nextWeekCount": 3,
       "next2WeekRange": null,
       "next2WeekCount": 0,
       "next3WeekRange": null,
       "next3WeekCount": 0,
-      "in4WeekTotleCount": 5,
-      "editDate": "2025/07/30",
+      "in4WeekTotleCount": 6,
+      "editDate": "2025/08/21",
       "strTeleconsultation": "否"
     },
     {
@@ -106,7 +70,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 16,
-      "editDate": "2025/07/30",
+      "editDate": "2025/08/21",
       "strTeleconsultation": "否"
     }
   ],

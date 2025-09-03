@@ -1,57 +1,51 @@
 county,org_name,org_url,phone,address,map_url,pay_detail,this_week,next_week,next_2_week,next_3_week,in_4_weeks,edit_date,teleconsultation,has_quota
-臺北市,臺北市立聯合醫院松德院區,https://tpech.gov.taipei/mp109201/,02-27263141轉1394,臺北市信義區松德路309號,https://www.google.com.tw/maps/place/臺北市信義區松德路309號,掛號費50元,2,2,2,2,8,2025/08/12,true,true
-臺北市,臺北市立聯合醫院仁愛院區,https://tpech.gov.taipei/mp109151/,02-27093600轉5546,臺北市大安區仁愛路四段10號,https://www.google.com.tw/maps/place/臺北市大安區仁愛路四段10號,掛號費50元,6,6,6,0,18,2025/08/08,true,true
-臺北市,博仁綜合醫院,https://www.pojengh.com.tw/,02-25702211,臺北市松山區光復北路66號,https://www.google.com.tw/maps/place/臺北市松山區光復北路66號,掛號費200元,1,1,1,1,4,2025/08/11,false,true
-臺北市,西園醫療社團法人西園醫院,https://www.westgarden.com.tw/,02-23076968轉1517,臺北市萬華區西園路二段270號,https://www.google.com.tw/maps/place/臺北市萬華區西園路二段270號,無,4,5,6,6,21,2025/08/13,false,true
-臺北市,黃雅芬兒童心智診所,https://linktr.ee/huangyafen,0910-222280  (LINE官方帳號：@childpsy),臺北市中山區南京西路5-1號12樓之1,https://www.google.com.tw/maps/place/臺北市中山區南京西路5-1號12樓之1,無,0,3,4,6,13,2025/08/12,true,true
-臺北市,振芝心身醫學診所,https://www.blossomclinic.com.tw/,02-25069169、LINE ID:  @096jkbbo,臺北市中山區復興北路282號2樓,https://www.google.com.tw/maps/place/臺北市中山區復興北路282號2樓,掛號費300元,10,10,0,0,20,2025/08/14,true,true
-臺北市,自體心理診所,https://selfpsychology.weebly.com/,02-27754121,臺北市大安區延吉街153-9號3樓,https://www.google.com.tw/maps/place/臺北市大安區延吉街153-9號3樓,掛號費200元,8,8,0,0,16,2025/07/31,false,true
-臺北市,伯特利身心診所,https://bethelpsychiatry.mystrikingly.com/?,02-27200938,臺北市信義區光復南路421號2樓,https://www.google.com.tw/maps/place/臺北市信義區光復南路421號2樓,掛號費600元,10,0,0,0,10,2025/07/23,true,true
-臺北市,天晴診所,https://www.skybright.com.tw,02-28355329、02-28355396,臺北市士林區中山北路六段292號,https://www.google.com.tw/maps/place/臺北市士林區中山北路六段292號,掛號費300元,3,3,3,3,12,2025/08/11,false,true
-臺北市,自由想心理診所,https://www.talkfreelyandthink.com/,02-28314837,臺北市士林區福華路122號2樓,https://www.google.com.tw/maps/place/臺北市士林區福華路122號2樓,無,0,0,0,6,6,2025/08/15,false,true
-臺北市,石牌鄭身心醫學診所,http://www.shipaicheng.com.tw/index.php,02-28227660,臺北市北投區石牌路一段69號,https://www.google.com.tw/maps/place/臺北市北投區石牌路一段69號,掛號費：健保250元；自費850元,3,3,3,3,12,2025/08/11,true,true
-臺北市,夏一新身心精神科診所,https://www.softmind.com.tw,02-87928214,臺北市內湖區成功路三段143號4樓,https://www.google.com.tw/maps/place/臺北市內湖區成功路三段143號4樓,掛號費300元,6,6,6,6,24,2025/08/11,false,true
-臺北市,得心身醫學台北總診所,https://www.devenir-psy.com/,02-27510089,臺北市中山區復興北路60號3樓之2,https://www.google.com.tw/maps/place/臺北市中山區復興北路60號3樓之2,掛號費300元,3,3,3,3,12,2025/08/15,false,true
-臺北市,伯特利敦南身心診所,https://www.bethel-clinics.tw/,02-27010622,臺北市大安區和平東路三段1巷51號2樓,https://www.google.com.tw/maps/place/臺北市大安區和平東路三段1巷51號2樓,掛號費600元,2,2,2,0,6,2025/08/07,false,true
-臺北市,怡心診所,https://ihsinpsy.wixsite.com/home,02-27070112,臺北市大安區大安路一段169巷7號,https://www.google.com.tw/maps/place/臺北市大安區大安路一段169巷7號,掛號費200元,8,7,9,6,30,2025/08/12,false,true
-臺北市,暖心全人諮商中心心理諮商所,https://humanitarian-love.com/,02-23661099,臺北市中正區羅斯福路二段198號6樓之5,https://www.google.com.tw/maps/place/臺北市中正區羅斯福路二段198號6樓之5,無,4,4,4,4,16,2025/08/10,true,true
-臺北市,暖心泉恩心理諮商所,https://humanitarian-love.com/,02-23651099,臺北市中正區南昌路二段192號8樓之2,https://www.google.com.tw/maps/place/臺北市中正區南昌路二段192號8樓之2,無,3,3,3,3,12,2025/08/10,false,true
-臺北市,好窩心理諮商所,https://www.psysweethome.com/home,02-23568846,臺北市中正區和平西路一段17號3樓,https://www.google.com.tw/maps/place/臺北市中正區和平西路一段17號3樓,無,0,3,0,0,3,2025/08/13,true,true
-臺北市,璞願心理諮商所,https://pure-wish.com/,02-23897535、0958-994073,臺北市中正區忠孝西路一段41號10樓之17,https://www.google.com.tw/maps/place/臺北市中正區忠孝西路一段41號10樓之17,無,2,1,4,5,12,2025/08/14,false,true
-臺北市,擁抱心理博愛館心理諮商所,https://mental-hug.com.tw/,02-23715808,臺北市中正區博愛路76號10樓之2,https://www.google.com.tw/maps/place/臺北市中正區博愛路76號10樓之2,無,3,0,3,0,6,2025/08/04,true,true
-臺北市,以賽亞心理諮商所,https://www.isaiah611bcc.com/,0933-569611,臺北市中山區吉林路231號3樓,https://www.google.com.tw/maps/place/臺北市中山區吉林路231號3樓,無,3,3,0,0,6,2025/08/10,true,true
-臺北市,一二心理諮商所,https://ercounseling.org/,0932-151618 ，Line ID@fawntaiwan,臺北市中山區南京東路二段176號11樓,https://www.google.com.tw/maps/place/臺北市中山區南京東路二段176號11樓,無,10,10,0,0,20,2025/08/10,true,true
-臺北市,象家園心理諮商所,https://www.elephantsheaven.com/,02-27650285,臺北市松山區民生東路五段69巷25號1樓,https://www.google.com.tw/maps/place/臺北市松山區民生東路五段69巷25號1樓,無,0,0,2,0,2,2025/08/09,true,true
-臺北市,格桑美度心理諮商所,https://kelsang-mind.com/,02-27095598,臺北市大安區東豐街7號14樓,https://www.google.com.tw/maps/place/臺北市大安區東豐街7號14樓,無,6,6,6,6,24,2025/08/13,true,true
-臺北市,啟宗心理諮商所,https://www.mindsopen.com.tw/,02-23254066,臺北市大安區東豐街7號5樓之2,https://www.google.com.tw/maps/place/臺北市大安區東豐街7號5樓之2,無,0,1,1,1,3,2025/08/14,true,true
-臺北市,哈米思心理諮商所,https://counseling.heart-miss.com/,02-23820667,臺北市萬華區柳州街6號4樓,https://www.google.com.tw/maps/place/臺北市萬華區柳州街6號4樓,無,6,6,6,6,24,2025/08/11,false,true
-臺北市,我的心理諮商所,https://wodecounseling.com,0970-608189,臺北市士林區中山北路七段141巷5號4樓,https://www.google.com.tw/maps/place/臺北市士林區中山北路七段141巷5號4樓,無,4,1,5,5,15,2025/08/15,true,true
-臺北市,潛意心理諮商所,https://www.unconscious-counseling.com/,02-28838570,臺北市士林區中正路213巷44號2樓,https://www.google.com.tw/maps/place/臺北市士林區中正路213巷44號2樓,無,10,10,0,0,20,2025/07/30,false,true
-臺北市,利伯他茲心理諮商所,https://www.facebook.com/heartgrowing/?locale=zh_TW,02-29361183,臺北市文山區木柵路二段62號2樓,https://www.google.com.tw/maps/place/臺北市文山區木柵路二段62號2樓,無,0,0,0,3,3,2025/08/15,true,true
-臺北市,冬青心理治療所,https://hollyclinic.weebly.com/,02-23882552,臺北市中正區中山北路一段2號6樓之6,https://www.google.com.tw/maps/place/臺北市中正區中山北路一段2號6樓之6,無,10,10,10,10,40,2025/08/12,true,true
-臺北市,賦能心理治療所,https://psyclinic.dingup.cc/,02-27680668,臺北市松山區民生東路五段202之3號1樓,https://www.google.com.tw/maps/place/臺北市松山區民生東路五段202之3號1樓,無,0,1,0,4,5,2025/08/12,true,true
-臺北市,聊聊心理治療所,https://www.talktalkpsy.com,02-25798519、line id:@bu.com.tw,臺北市松山區八德路三段106巷67號1樓,https://www.google.com.tw/maps/place/臺北市松山區八德路三段106巷67號1樓,無,6,6,6,6,24,2025/08/15,true,true
-臺北市,力人心理治療所,https://www.lijen.net/,02-27081412,臺北市大安區復興南路二段139號10樓,https://www.google.com.tw/maps/place/臺北市大安區復興南路二段139號10樓,無,0,0,0,2,2,2025/08/15,true,true
-臺北市,童伴心理治療所,https://www.acmate-group.com/,02-27555429,臺北市大安區信義路三段190號6樓,https://www.google.com.tw/maps/place/臺北市大安區信義路三段190號6樓,無,6,4,4,4,18,2025/08/10,true,true
-臺北市,沐昕天母心理治療所,https://mushinclinic.wixsite.com/mysite,0909-270237,臺北市士林區德行東路190巷31弄6號1樓,https://www.google.com.tw/maps/place/臺北市士林區德行東路190巷31弄6號1樓,無,12,12,0,0,24,2025/07/30,true,true
-臺北市,天母愛舒眠心理治療所,,02-28235600,臺北市北投區石牌路一段71巷3弄3號1樓,https://www.google.com.tw/maps/place/臺北市北投區石牌路一段71巷3弄3號1樓,無,3,3,3,3,12,2025/08/11,true,true
-臺北市,螺旋梯心理諮商所,https://spiralstairwaycc.tw/,02-26309650,臺北市內湖區安康路261巷7號1樓,https://www.google.com.tw/maps/place/臺北市內湖區安康路261巷7號1樓,無,5,7,5,5,22,2025/08/13,false,true
-臺北市,沁芳心理治療所,https://cfpsylution.com.tw/,02-77529902,臺北市中正區漢口街一段85號6樓之9,https://www.google.com.tw/maps/place/臺北市中正區漢口街一段85號6樓之9,無,0,0,6,6,12,2025/08/14,false,true
-臺北市,理馨西門舘心理諮商所,https://lixincounseling.wordpress.com/,0968-989195,臺北市萬華區漢口街二段51號2樓,https://www.google.com.tw/maps/place/臺北市萬華區漢口街二段51號2樓,無,8,8,8,8,32,2025/08/12,false,true
-臺北市,進安身心診所,https://www.facebook.com/profile.php?id=100057630571995,02-25330726,臺北市中山區北安路593號,https://www.google.com.tw/maps/place/臺北市中山區北安路593號,掛號費200元,6,6,0,0,12,2025/08/02,false,true
-臺北市,諦聽心理諮商所,https://www.facebook.com/profile.php?id=61563998981198,02-23120721、0979-511691,臺北市中正區重慶南路一段121號7樓之6,https://www.google.com.tw/maps/place/臺北市中正區重慶南路一段121號7樓之6,無,0,6,10,12,28,2025/08/10,false,true
-臺北市,開心心理諮商所,https://www.facebook.com/profile.php?id=61566148117568&sk=about,0971-252866,臺北市中正區杭州南路一段131巷35-1號1樓,https://www.google.com.tw/maps/place/臺北市中正區杭州南路一段131巷35-1號1樓,無,9,9,9,9,36,2025/08/13,true,true
-臺北市,大心診所,https://www.betterhelpgroup.com/,02-27718821,臺北市大安區忠孝東路四段153號6樓,https://www.google.com.tw/maps/place/臺北市大安區忠孝東路四段153號6樓,掛號費200元,5,5,5,0,15,2025/08/06,true,true
-臺北市,大心古亭診所,https://www.betterhelpgroup.com/,02-23676883,臺北市中正區南昌路二段206號5樓之1,https://www.google.com.tw/maps/place/臺北市中正區南昌路二段206號5樓之1,掛號費200元,5,5,5,0,15,2025/08/06,true,true
-臺北市,療寓心理諮商所,https://healbuilding.com/,0976-196737,臺北市大同區庫倫街37號3樓,https://www.google.com.tw/maps/place/臺北市大同區庫倫街37號3樓,無,6,0,0,0,6,2025/08/03,false,true
-臺北市,山陵路聆心理治療所,https://www.listening-throughclinic.com/,0972-886171,臺北市中山區民生東路一段42號7樓,https://www.google.com.tw/maps/place/臺北市中山區民生東路一段42號7樓,無,10,10,10,10,40,2025/08/11,false,true
-臺北市,用心說心理治療所,https://www.heartfulpsy.com/,0987-503531,臺北市士林區福國路56巷17號1樓,https://www.google.com.tw/maps/place/臺北市士林區福國路56巷17號1樓,無,4,4,4,6,18,2025/08/13,true,true
-臺北市,捷思心理治療所,https://www.justcounselingcenter.com.tw/,02-23210031、0919-003316,臺北市中正區忠孝東路二段100號5樓之7,https://www.google.com.tw/maps/place/臺北市中正區忠孝東路二段100號5樓之7,無,2,0,0,0,2,2025/08/12,true,true
-臺北市,晴韻心理諮商所,https://ching-yun.com/,0919-010865,臺北市大安區忠孝東路四段59號10樓之1,https://www.google.com.tw/maps/place/臺北市大安區忠孝東路四段59號10樓之1,無,6,6,3,3,18,2025/08/14,false,true
-臺北市,元思心理諮商所,https://www.opin.tw,02-25677795,臺北市中山區中山北路二段99號3樓之1,https://www.google.com.tw/maps/place/臺北市中山區中山北路二段99號3樓之1,無,7,7,7,0,21,2025/08/04,false,true
-臺北市,蘅芯心理諮商所,,0917-579873(建議簡訊聯繫),臺北市中正區重慶南路1段99號11樓1107室,https://www.google.com.tw/maps/place/臺北市中正區重慶南路1段99號11樓1107室,無,3,3,3,0,9,2025/08/08,false,true
-臺北市,新識康心身健康中心心理治療所,https://www.wisecaremhc.com/,02-27218900,臺北市大安區敦化南路一段192號7樓之3,https://www.google.com.tw/maps/place/臺北市大安區敦化南路一段192號7樓之3,無,12,12,0,0,24,2025/07/31,false,true
-臺北市,振芝映煦心身醫學診所,https://www.promise-clinic.com/,02-27030082,臺北市大安區信義路四段341號8樓之1,https://www.google.com.tw/maps/place/臺北市大安區信義路四段341號8樓之1,掛號費300元,28,28,12,12,80,2025/08/12,false,true
+臺北市,臺北市立聯合醫院松德院區,https://tpech.gov.taipei/mp109201/,02-27263141轉1394,臺北市信義區松德路309號,https://www.google.com.tw/maps/place/臺北市信義區松德路309號,掛號費50元,2,3,3,0,8,2025/08/27,true,true
+臺北市,臺北市立聯合醫院仁愛院區,https://tpech.gov.taipei/mp109151/,02-27093600轉5546,臺北市大安區仁愛路四段10號,https://www.google.com.tw/maps/place/臺北市大安區仁愛路四段10號,掛號費50元,6,6,6,6,24,2025/09/01,true,true
+臺北市,博仁綜合醫院,https://www.pojengh.com.tw/,02-25702211,臺北市松山區光復北路66號,https://www.google.com.tw/maps/place/臺北市松山區光復北路66號,掛號費200元,1,1,1,1,4,2025/09/01,false,true
+臺北市,西園醫療社團法人西園醫院,https://www.westgarden.com.tw/,02-23076968轉1517,臺北市萬華區西園路二段270號,https://www.google.com.tw/maps/place/臺北市萬華區西園路二段270號,無,5,6,6,6,23,2025/09/02,false,true
+臺北市,黃雅芬兒童心智診所,https://linktr.ee/huangyafen,0910-222280  (LINE官方帳號：@childpsy),臺北市中山區南京西路5-1號12樓之1,https://www.google.com.tw/maps/place/臺北市中山區南京西路5-1號12樓之1,無,2,4,6,6,18,2025/09/03,true,true
+臺北市,振芝心身醫學診所,https://www.blossomclinic.com.tw/,02-25069169、LINE ID:  @096jkbbo,臺北市中山區復興北路282號2樓,https://www.google.com.tw/maps/place/臺北市中山區復興北路282號2樓,掛號費300元,12,12,12,0,36,2025/08/24,true,true
+臺北市,李政洋身心診所,https://www.leepsyclinic.com/,02-27620086、02-27473339,臺北市松山區三民路84號.健康路345號及民生東路5段192號2樓之3,https://www.google.com.tw/maps/place/臺北市松山區三民路84號.健康路345號及民生東路5段192號2樓之3,掛號費600元,0,1,1,4,6,2025/09/01,true,true
+臺北市,自體心理診所,https://selfpsychology.weebly.com/,02-27754121,臺北市大安區延吉街153-9號3樓,https://www.google.com.tw/maps/place/臺北市大安區延吉街153-9號3樓,掛號費200元,8,8,7,0,23,2025/08/31,false,true
+臺北市,伯特利身心診所,https://bethelpsychiatry.mystrikingly.com/?,02-27200938,臺北市信義區光復南路421號2樓,https://www.google.com.tw/maps/place/臺北市信義區光復南路421號2樓,掛號費600元,5,5,5,5,20,2025/09/02,true,true
+臺北市,天晴診所,https://www.skybright.com.tw,02-28355329、02-28355396,臺北市士林區中山北路六段292號,https://www.google.com.tw/maps/place/臺北市士林區中山北路六段292號,掛號費300元,3,3,0,0,6,2025/09/01,false,true
+臺北市,自由想心理診所,https://www.talkfreelyandthink.com/,02-28314837,臺北市士林區福華路122號2樓,https://www.google.com.tw/maps/place/臺北市士林區福華路122號2樓,無,0,1,2,2,5,2025/09/03,false,true
+臺北市,石牌鄭身心醫學診所,http://www.shipaicheng.com.tw/index.php,02-28227660,臺北市北投區石牌路一段69號,https://www.google.com.tw/maps/place/臺北市北投區石牌路一段69號,掛號費：健保250元；自費850元,3,3,3,3,12,2025/09/01,true,true
+臺北市,夏一新身心精神科診所,https://www.softmind.com.tw,02-87928214,臺北市內湖區成功路三段143號4樓,https://www.google.com.tw/maps/place/臺北市內湖區成功路三段143號4樓,掛號費300元,6,6,6,6,24,2025/09/01,false,true
+臺北市,得心身醫學台北總診所,https://www.devenir-psy.com/,02-27510089,臺北市中山區復興北路60號3樓之2,https://www.google.com.tw/maps/place/臺北市中山區復興北路60號3樓之2,掛號費300元,3,0,0,0,3,2025/09/02,false,true
+臺北市,怡心診所,https://ihsinpsy.wixsite.com/home,02-27070112,臺北市大安區大安路一段169巷7號,https://www.google.com.tw/maps/place/臺北市大安區大安路一段169巷7號,掛號費200元,6,8,9,10,33,2025/09/01,false,true
+臺北市,暖心全人諮商中心心理諮商所,https://humanitarian-love.com/,02-23661099,臺北市中正區羅斯福路二段198號6樓之5,https://www.google.com.tw/maps/place/臺北市中正區羅斯福路二段198號6樓之5,無,4,4,4,4,16,2025/08/31,true,true
+臺北市,暖心泉恩心理諮商所,https://humanitarian-love.com/,02-23651099,臺北市中正區南昌路二段192號8樓之2,https://www.google.com.tw/maps/place/臺北市中正區南昌路二段192號8樓之2,無,3,3,3,3,12,2025/08/31,false,true
+臺北市,好窩心理諮商所,https://www.psysweethome.com/home,02-23568846,臺北市中正區和平西路一段17號3樓,https://www.google.com.tw/maps/place/臺北市中正區和平西路一段17號3樓,無,0,5,0,0,5,2025/08/27,true,true
+臺北市,璞願心理諮商所,https://pure-wish.com/,02-23897535、0958-994073,臺北市中正區忠孝西路一段41號10樓之17,https://www.google.com.tw/maps/place/臺北市中正區忠孝西路一段41號10樓之17,無,0,1,4,5,10,2025/09/02,false,true
+臺北市,擁抱心理博愛館心理諮商所,https://mental-hug.com.tw/,02-23715808,臺北市中正區博愛路76號10樓之2,https://www.google.com.tw/maps/place/臺北市中正區博愛路76號10樓之2,無,6,6,3,3,18,2025/08/31,true,true
+臺北市,點亮心燈諮商中心心理諮商所,https://tolightheartweb.mystrikingly.com/,02-27849528、0968-138838,臺北市中山區松江路289之910號9樓,https://www.google.com.tw/maps/place/臺北市中山區松江路289之910號9樓,無,11,0,0,0,11,2025/09/01,true,true
+臺北市,一二心理諮商所,https://ercounseling.org/,0932-151618 ，Line ID@fawntaiwan,臺北市中山區南京東路二段176號11樓,https://www.google.com.tw/maps/place/臺北市中山區南京東路二段176號11樓,無,8,8,0,0,16,2025/08/31,true,true
+臺北市,立翎心理諮商所,https://lilincounseling.com,02-2779-0757,臺北市大安區忠孝東路四段183號3樓之6,https://www.google.com.tw/maps/place/臺北市大安區忠孝東路四段183號3樓之6,無,1,1,1,1,4,2025/09/02,false,true
+臺北市,格桑美度心理諮商所,https://kelsang-mind.com/,02-27095598,臺北市大安區東豐街7號14樓,https://www.google.com.tw/maps/place/臺北市大安區東豐街7號14樓,無,6,2,2,2,12,2025/09/03,true,true
+臺北市,哈米思心理諮商所,https://counseling.heart-miss.com/,02-23820667,臺北市萬華區柳州街6號4樓,https://www.google.com.tw/maps/place/臺北市萬華區柳州街6號4樓,無,6,6,6,6,24,2025/09/02,false,true
+臺北市,我的心理諮商所,https://wodecounseling.com,0970-608189,臺北市士林區中山北路七段141巷5號4樓,https://www.google.com.tw/maps/place/臺北市士林區中山北路七段141巷5號4樓,無,2,6,6,0,14,2025/08/26,true,true
+臺北市,利伯他茲心理諮商所,https://www.facebook.com/heartgrowing/?locale=zh_TW,02-29361183,臺北市文山區木柵路二段62號2樓,https://www.google.com.tw/maps/place/臺北市文山區木柵路二段62號2樓,無,0,0,0,3,3,2025/09/02,true,true
+臺北市,冬青心理治療所,https://hollyclinic.weebly.com/,02-23882552,臺北市中正區中山北路一段2號6樓之6,https://www.google.com.tw/maps/place/臺北市中正區中山北路一段2號6樓之6,無,10,10,10,10,40,2025/09/02,true,true
+臺北市,賦能心理治療所,https://psyclinic.dingup.cc/,02-27680668,臺北市松山區民生東路五段202之3號1樓,https://www.google.com.tw/maps/place/臺北市松山區民生東路五段202之3號1樓,無,0,0,0,3,3,2025/09/01,true,true
+臺北市,聊聊心理治療所,https://www.talktalkpsy.com,02-25798519、line id:@bu.com.tw,臺北市松山區八德路三段106巷67號1樓,https://www.google.com.tw/maps/place/臺北市松山區八德路三段106巷67號1樓,無,1,2,2,2,7,2025/08/31,true,true
+臺北市,天母愛舒眠心理治療所,,02-28235600,臺北市北投區石牌路一段71巷3弄3號1樓,https://www.google.com.tw/maps/place/臺北市北投區石牌路一段71巷3弄3號1樓,無,3,3,3,3,12,2025/09/01,true,true
+臺北市,螺旋梯心理諮商所,https://spiralstairwaycc.tw/,02-26309650,臺北市內湖區安康路261巷7號1樓,https://www.google.com.tw/maps/place/臺北市內湖區安康路261巷7號1樓,無,5,5,5,0,15,2025/08/29,false,true
+臺北市,辰光心理治療所,https://www.facebook.com/profile.php?id=100093279246751&mibextid=LQQJ4d,0978-946396,臺北市北投區立農路2段202巷2弄1號1樓;地下1樓,https://www.google.com.tw/maps/place/臺北市北投區立農路2段202巷2弄1號1樓;地下1樓,無,6,6,6,0,18,2025/08/27,false,true
+臺北市,沁芳心理治療所,https://cfpsylution.com.tw/,02-77529902,臺北市中正區漢口街一段85號6樓之9,https://www.google.com.tw/maps/place/臺北市中正區漢口街一段85號6樓之9,無,6,6,6,0,18,2025/08/28,false,true
+臺北市,理馨西門舘心理諮商所,https://lixincounseling.wordpress.com/,0968-989195,臺北市萬華區漢口街二段51號2樓,https://www.google.com.tw/maps/place/臺北市萬華區漢口街二段51號2樓,無,8,8,8,0,24,2025/08/24,false,true
+臺北市,進安身心診所,https://www.facebook.com/profile.php?id=100057630571995,02-25330726,臺北市中山區北安路593號,https://www.google.com.tw/maps/place/臺北市中山區北安路593號,掛號費200元,12,12,9,12,45,2025/09/01,false,true
+臺北市,諦聽心理諮商所,https://www.facebook.com/profile.php?id=61563998981198,02-23120721、0979-511691,臺北市中正區重慶南路一段121號7樓之6,https://www.google.com.tw/maps/place/臺北市中正區重慶南路一段121號7樓之6,無,10,11,11,11,43,2025/09/01,false,true
+臺北市,開心心理諮商所,https://www.facebook.com/profile.php?id=61566148117568&sk=about,0971-252866,臺北市中正區杭州南路一段131巷35-1號1樓,https://www.google.com.tw/maps/place/臺北市中正區杭州南路一段131巷35-1號1樓,無,6,6,6,6,24,2025/08/31,true,true
+臺北市,大心診所,https://www.betterhelpgroup.com/,02-27718821,臺北市大安區忠孝東路四段153號6樓,https://www.google.com.tw/maps/place/臺北市大安區忠孝東路四段153號6樓,掛號費200元,5,5,5,0,15,2025/08/27,true,true
+臺北市,大心古亭診所,https://www.betterhelpgroup.com/,02-23676883,臺北市中正區南昌路二段206號5樓之1,https://www.google.com.tw/maps/place/臺北市中正區南昌路二段206號5樓之1,掛號費200元,5,5,5,0,15,2025/08/27,true,true
+臺北市,療寓心理諮商所,https://healbuilding.com/,0976-196737,臺北市大同區庫倫街37號3樓,https://www.google.com.tw/maps/place/臺北市大同區庫倫街37號3樓,無,6,6,6,0,18,2025/09/01,false,true
+臺北市,山陵路聆心理治療所,https://www.listening-throughclinic.com/,0972-886171,臺北市中山區民生東路一段42號7樓,https://www.google.com.tw/maps/place/臺北市中山區民生東路一段42號7樓,無,10,10,10,10,40,2025/09/02,false,true
+臺北市,晴韻心理諮商所,https://ching-yun.com/,0919-010865,臺北市大安區忠孝東路四段59號10樓之1,https://www.google.com.tw/maps/place/臺北市大安區忠孝東路四段59號10樓之1,無,3,0,0,0,3,2025/08/14,false,true
+臺北市,元思心理諮商所,https://www.opin.tw,02-25677795,臺北市中山區中山北路二段99號3樓之1,https://www.google.com.tw/maps/place/臺北市中山區中山北路二段99號3樓之1,無,7,7,0,0,14,2025/08/18,false,true
+臺北市,新識康心身健康中心心理治療所,https://www.wisecaremhc.com/,02-27218900,臺北市大安區敦化南路一段192號7樓之3,https://www.google.com.tw/maps/place/臺北市大安區敦化南路一段192號7樓之3,無,12,12,12,12,48,2025/09/02,false,true
+臺北市,振芝映煦心身醫學診所,https://www.promise-clinic.com/,02-27030082,臺北市大安區信義路四段341號8樓之1,https://www.google.com.tw/maps/place/臺北市大安區信義路四段341號8樓之1,掛號費300元,28,12,12,0,52,2025/08/24,false,true
+臺北市,季遇心理諮商所,https://www.serendipity-counseling.com.tw/,02-23022317,臺北市萬華區桂林路26號2樓之2,https://www.google.com.tw/maps/place/臺北市萬華區桂林路26號2樓之2,無,16,16,16,0,48,2025/08/29,false,true
 臺北市,臺北市立聯合醫院和平婦幼院區,https://tpech.gov.taipei/mp109161/,02-23889595轉8004、8001,臺北市中正區中華路二段33號,https://www.google.com.tw/maps/place/臺北市中正區中華路二段33號,掛號費50元,0,0,0,0,0,尚未更新,false,false
 臺北市,長庚醫療財團法人台北長庚紀念醫院,https://cghdpt.cgmh.org.tw/branch/tpe,03-3281200轉2439或2479,臺北市松山區敦化北路199號,https://www.google.com.tw/maps/place/臺北市松山區敦化北路199號,掛號費100元,0,0,0,0,0,尚未更新,false,false
 臺北市,國泰醫療財團法人國泰綜合醫院,https://www.cgh.org.tw/,02-26482121轉3606,臺北市大安區仁愛路四段280號,https://www.google.com.tw/maps/place/臺北市大安區仁愛路四段280號,無,0,0,0,0,0,尚未更新,false,false
@@ -62,416 +56,412 @@ county,org_name,org_url,phone,address,map_url,pay_detail,this_week,next_week,nex
 臺北市,臺北榮民總醫院,https://www.vghtpe.gov.tw/Index.action,02-28712121,臺北市北投區石牌路二段201號,https://www.google.com.tw/maps/place/臺北市北投區石牌路二段201號,無,0,0,0,0,0,尚未更新,false,false
 臺北市,三軍總醫院北投分院附設民眾診療服務處,https://beitou.tsgh.ndmctsgh.edu.tw/,02-28959808轉603156,臺北市北投區新民路60號,https://www.google.com.tw/maps/place/臺北市北投區新民路60號,無,0,0,0,0,0,尚未更新,true,false
 臺北市,捷思身心醫學診所,https://www.justmentalhealth.com.tw/,02-23221739,臺北市大安區復興南路2段236號12樓之3,https://www.google.com.tw/maps/place/臺北市大安區復興南路2段236號12樓之3,無,0,0,0,0,0,尚未更新,true,false
-臺北市,双悅診所,http://www.joymind.com.tw/,02-27609122,臺北市松山區南京東路五段163-1號,https://www.google.com.tw/maps/place/臺北市松山區南京東路五段163-1號,掛號費200元,0,0,0,0,0,2025/08/11,false,false
-臺北市,李政洋身心診所,https://www.leepsyclinic.com/,02-27620086、02-27473339,臺北市松山區三民路84號.健康路345號及民生東路5段192號2樓之3,https://www.google.com.tw/maps/place/臺北市松山區三民路84號.健康路345號及民生東路5段192號2樓之3,掛號費600元,0,0,0,0,0,2025/08/11,true,false
+臺北市,双悅診所,http://www.joymind.com.tw/,02-27609122,臺北市松山區南京東路五段163-1號,https://www.google.com.tw/maps/place/臺北市松山區南京東路五段163-1號,掛號費200元,0,0,0,0,0,2025/09/01,false,false
 臺北市,宇寧身心診所,http://www.yuning.tw/,02-27080706,臺北市大安區復興南路二段6號3樓,https://www.google.com.tw/maps/place/臺北市大安區復興南路二段6號3樓,掛號費400元,0,0,0,0,0,尚未更新,false,false
 臺北市,萬華身心精神科診所,http://www.wellmind.com.tw/index.asp,02-23088878,臺北市萬華區和平西路三段142號1樓,https://www.google.com.tw/maps/place/臺北市萬華區和平西路三段142號1樓,無,0,0,0,0,0,尚未更新,false,false
 臺北市,松德精神科診所,http://www.hwc.com.tw,02-87894477,臺北市信義區松德路108號,https://www.google.com.tw/maps/place/臺北市信義區松德路108號,無,0,0,0,0,0,尚未更新,false,false
 臺北市,天母康健身心診所,https://www.facebook.com/HappyDr/?locale=zh_TW,02-28378787,臺北市士林區福華路157巷3號1樓,https://www.google.com.tw/maps/place/臺北市士林區福華路157巷3號1樓,掛號費250元,0,0,0,0,0,尚未更新,false,false
-臺北市,誠心身心醫學診所,https://www.drccareyou.com.tw/,02-86631380,臺北市文山區羅斯福路六段138號1樓,https://www.google.com.tw/maps/place/臺北市文山區羅斯福路六段138號1樓,掛號費200元,0,0,0,0,0,2025/08/12,false,false
+臺北市,誠心身心醫學診所,https://www.drccareyou.com.tw/,02-86631380,臺北市文山區羅斯福路六段138號1樓,https://www.google.com.tw/maps/place/臺北市文山區羅斯福路六段138號1樓,掛號費200元,0,0,0,0,0,2025/09/01,false,false
 臺北市,心築身心診所,https://www.mindconstruction.com.tw/,02-28856572,臺北市士林區劍潭路28、30號1樓,https://www.google.com.tw/maps/place/臺北市士林區劍潭路28、30號1樓,掛號費200元,0,0,0,0,0,尚未更新,false,false
 臺北市,士林身心醫學診所,https://www.facebook.com/p/%E5%A3%AB%E6%9E%97%E8%BA%AB%E5%BF%83%E9%86%AB%E5%AD%B8%E8%A8%BA%E6%89%80-100082999257381/?locale=zh_TW,02-28812205,臺北市士林區文林路410號,https://www.google.com.tw/maps/place/臺北市士林區文林路410號,無,0,0,0,0,0,尚未更新,false,false
-臺北市,抱抱心身醫學診所,https://clinic.farhugs.com/,02-87974422,臺北市內湖區文德路70、72號,https://www.google.com.tw/maps/place/臺北市內湖區文德路70、72號,掛號費600元,0,0,0,0,0,2025/08/13,false,false
+臺北市,伯特利敦南身心診所,https://www.bethel-clinics.tw/,02-27010622,臺北市大安區和平東路三段1巷51號2樓,https://www.google.com.tw/maps/place/臺北市大安區和平東路三段1巷51號2樓,掛號費600元,0,0,0,0,0,尚未更新,false,false
+臺北市,抱抱心身醫學診所,https://clinic.farhugs.com/,02-87974422,臺北市內湖區文德路70、72號,https://www.google.com.tw/maps/place/臺北市內湖區文德路70、72號,掛號費600元,0,0,0,0,0,2025/08/25,false,false
 臺北市,萬華維沐身心診所,https://www.facebook.com/mywellsprings/,02-23035690,臺北市萬華區西藏路113號1樓,https://www.google.com.tw/maps/place/臺北市萬華區西藏路113號1樓,掛號費350元(初診收，之後不用再掛號),0,0,0,0,0,尚未更新,false,false
-臺北市,士林抱抱心身醫學診所,https://clinic.farhugs.com/,02-28835477,臺北市士林區中山北路五段476號7樓,https://www.google.com.tw/maps/place/臺北市士林區中山北路五段476號7樓,掛號費600元,0,0,0,0,0,2025/08/11,false,false
+臺北市,士林抱抱心身醫學診所,https://clinic.farhugs.com/,02-28835477,臺北市士林區中山北路五段476號7樓,https://www.google.com.tw/maps/place/臺北市士林區中山北路五段476號7樓,掛號費600元,0,0,0,0,0,2025/08/25,false,false
 臺北市,昕心理諮商所,https://www.xincounseling.com/,0905-866222,臺北市中正區羅斯福路二段56號7樓,https://www.google.com.tw/maps/place/臺北市中正區羅斯福路二段56號7樓,無,0,0,0,0,0,尚未更新,false,false
-臺北市,沐昂心理諮商所,https://moveon4u.mystrikingly.com/,02-23708442,臺北市中正區忠孝西路一段50號17樓之13,https://www.google.com.tw/maps/place/臺北市中正區忠孝西路一段50號17樓之13,無,0,0,0,0,0,2025/07/22,false,false
+臺北市,沐昂心理諮商所,https://moveon4u.mystrikingly.com/,02-23708442,臺北市中正區忠孝西路一段50號17樓之13,https://www.google.com.tw/maps/place/臺北市中正區忠孝西路一段50號17樓之13,無,0,0,0,0,0,尚未更新,false,false
 臺北市,點晴心理諮商所,https://2022sunlight.mystrikingly.com/,0976-710756,臺北市中正區寧波西街87號7樓之2,https://www.google.com.tw/maps/place/臺北市中正區寧波西街87號7樓之2,無,0,0,0,0,0,尚未更新,true,false
-臺北市,蘊寬心理諮商所,https://www.rekosmos.com/,0919-915355,臺北市中山區松江路206號9樓之1,https://www.google.com.tw/maps/place/臺北市中山區松江路206號9樓之1,無,0,0,0,0,0,2025/08/12,true,false
-臺北市,舒心心理諮商所,https://suxinweb.com/,02-25113206,臺北市中山區民生東路一段42號11樓之2,https://www.google.com.tw/maps/place/臺北市中山區民生東路一段42號11樓之2,無,0,0,0,0,0,2025/08/11,false,false
+臺北市,蘊寬心理諮商所,https://www.rekosmos.com/,0919-915355,臺北市中山區松江路206號9樓之1,https://www.google.com.tw/maps/place/臺北市中山區松江路206號9樓之1,無,0,0,0,0,0,2025/09/01,true,false
+臺北市,舒心心理諮商所,https://suxinweb.com/,02-25113206,臺北市中山區民生東路一段42號11樓之2,https://www.google.com.tw/maps/place/臺北市中山區民生東路一段42號11樓之2,無,0,0,0,0,0,2025/08/25,false,false
 臺北市,向日葵心理諮商所,https://www.sunflower-psy.com.tw/,02-25921411,臺北市中山區中山北路三段30號3樓之2,https://www.google.com.tw/maps/place/臺北市中山區中山北路三段30號3樓之2,無,0,0,0,0,0,尚未更新,false,false
-臺北市,點亮心燈諮商中心心理諮商所,https://tolightheartweb.mystrikingly.com/,02-27849528、0968-138838,臺北市中山區松江路289之910號9樓,https://www.google.com.tw/maps/place/臺北市中山區松江路289之910號9樓,無,0,0,0,0,0,2025/08/05,true,false
 臺北市,天光心理諮商所,https://www.thinnkng.com.tw/,02-25117403、0972-882137,臺北市中山區天祥路22號2樓,https://www.google.com.tw/maps/place/臺北市中山區天祥路22號2樓,無,0,0,0,0,0,尚未更新,false,false
-臺北市,綻芯心理諮商所,https://www.bloomingcenter.tw/,02-25016199,臺北市中山區復興北路280巷2號3樓,https://www.google.com.tw/maps/place/臺北市中山區復興北路280巷2號3樓,無,0,0,0,0,0,2025/08/11,true,false
-臺北市,愛牽手心理諮商所,https://www.icarry.com.tw/,0909-046181,臺北市松山區八德路四段666號6樓之1,https://www.google.com.tw/maps/place/臺北市松山區八德路四段666號6樓之1,無,0,0,0,0,0,2025/08/11,false,false
+臺北市,以賽亞心理諮商所,https://www.isaiah611bcc.com/,0933-569611,臺北市中山區吉林路231號3樓,https://www.google.com.tw/maps/place/臺北市中山區吉林路231號3樓,無,0,0,0,0,0,2025/08/25,true,false
+臺北市,綻芯心理諮商所,https://www.bloomingcenter.tw/,02-25016199,臺北市中山區復興北路280巷2號3樓,https://www.google.com.tw/maps/place/臺北市中山區復興北路280巷2號3樓,無,0,0,0,0,0,2025/08/27,true,false
+臺北市,愛牽手心理諮商所,https://www.icarry.com.tw/,0909-046181,臺北市松山區八德路四段666號6樓之1,https://www.google.com.tw/maps/place/臺北市松山區八德路四段666號6樓之1,無,0,0,0,0,0,2025/09/02,false,false
+臺北市,象家園心理諮商所,https://www.elephantsheaven.com/,02-27650285,臺北市松山區民生東路五段69巷25號1樓,https://www.google.com.tw/maps/place/臺北市松山區民生東路五段69巷25號1樓,無,0,0,0,0,0,尚未更新,true,false
 臺北市,格瑞思心理諮商所,https://www.gracecc.com.tw/,02-2325-4648,臺北市大安區信義路四段265巷21弄26號,https://www.google.com.tw/maps/place/臺北市大安區信義路四段265巷21弄26號,無,0,0,0,0,0,尚未更新,true,false
 臺北市,拉第石心理諮商所,https://www.facebook.com/pull.first.stone?mibextid=ZbWKwL,02-27527588轉16(星期日、一休息),臺北市大安區新生南路一段103巷9-1號1樓,https://www.google.com.tw/maps/place/臺北市大安區新生南路一段103巷9-1號1樓,無,0,0,0,0,0,尚未更新,true,false
-臺北市,立翎心理諮商所,https://lilincounseling.com,02-2779-0757,臺北市大安區忠孝東路四段183號3樓之6,https://www.google.com.tw/maps/place/臺北市大安區忠孝東路四段183號3樓之6,無,0,0,0,0,0,2025/08/13,false,false
 臺北市,綻芯安和心理諮商所,https://www.bloomingcenter.tw/,02-27010030,臺北市大安區信義路四段187號7樓,https://www.google.com.tw/maps/place/臺北市大安區信義路四段187號7樓,無,0,0,0,0,0,尚未更新,true,false
 臺北市,歸心心理諮商所,https://innerjourney.com.tw/,02-27039156,臺北市大安區復興南路二段178號3樓,https://www.google.com.tw/maps/place/臺北市大安區復興南路二段178號3樓,無,0,0,0,0,0,尚未更新,false,false
 臺北市,同伴心理諮商所,https://www.acmate-group.com/,02-27555429,臺北市大安區信義路三段190號10樓,https://www.google.com.tw/maps/place/臺北市大安區信義路三段190號10樓,無,0,0,0,0,0,尚未更新,false,false
-臺北市,初和心理諮商所,https://www.true-heart.com.tw/index.html,02-27013392,臺北市大安區信義路四段155號8樓,https://www.google.com.tw/maps/place/臺北市大安區信義路四段155號8樓,無,0,0,0,0,0,2025/08/15,true,false
-臺北市,心寓心理諮商所,https://www.xinyupsy.com.tw/,0910-080536,臺北市大安區羅斯福路三段61號2樓,https://www.google.com.tw/maps/place/臺北市大安區羅斯福路三段61號2樓,無,0,0,0,0,0,2025/08/03,true,false
-臺北市,國立臺北教育大學心理諮商暨健康促進研究中心芳蘭心理諮商所,https://psych.ntue.edu.tw/,02-27321104轉86001,臺北市大安區和平東路二段134-18號,https://www.google.com.tw/maps/place/臺北市大安區和平東路二段134-18號,無,0,0,0,0,0,2025/08/01,true,false
+臺北市,初和心理諮商所,https://www.true-heart.com.tw/index.html,02-27013392,臺北市大安區信義路四段155號8樓,https://www.google.com.tw/maps/place/臺北市大安區信義路四段155號8樓,無,0,0,0,0,0,2025/08/29,true,false
+臺北市,心寓心理諮商所,https://www.xinyupsy.com.tw/,0910-080536,臺北市大安區羅斯福路三段61號2樓,https://www.google.com.tw/maps/place/臺北市大安區羅斯福路三段61號2樓,無,0,0,0,0,0,尚未更新,true,false
+臺北市,國立臺北教育大學心理諮商暨健康促進研究中心芳蘭心理諮商所,https://psych.ntue.edu.tw/,02-27321104轉86001,臺北市大安區和平東路二段134-18號,https://www.google.com.tw/maps/place/臺北市大安區和平東路二段134-18號,無,0,0,0,0,0,2025/08/22,true,false
 臺北市,毛蟲藝術心理諮商所,https://www.maochongart.com/index.php/component/content/featured,02-27551338,臺北市大安區信義路三段202號6樓之1,https://www.google.com.tw/maps/place/臺北市大安區信義路三段202號6樓之1,無,0,0,0,0,0,尚未更新,true,false
 臺北市,愛心理諮商所,https://www.iiispace.com,02-29224977,臺北市大安區和平東路二段66號6樓之1,https://www.google.com.tw/maps/place/臺北市大安區和平東路二段66號6樓之1,無,0,0,0,0,0,尚未更新,true,false
 臺北市,中崙諮商中心心理諮商所,https://www.counseling.com.tw/,02-27319731,臺北市大安區忠孝東路三段54號4樓之1,https://www.google.com.tw/maps/place/臺北市大安區忠孝東路三段54號4樓之1,無,0,0,0,0,0,尚未更新,true,false
+臺北市,啟宗心理諮商所,https://www.mindsopen.com.tw/,02-23254066,臺北市大安區東豐街7號5樓之2,https://www.google.com.tw/maps/place/臺北市大安區東豐街7號5樓之2,無,0,0,0,0,0,2025/08/20,true,false
 臺北市,國立臺灣師範大學社區諮商中心心田心理諮商所,https://www.hsin-tien.com/,02-77495720,臺北市大安區青田街5巷16號,https://www.google.com.tw/maps/place/臺北市大安區青田街5巷16號,無,0,0,0,0,0,尚未更新,true,false
-臺北市,詠安心理諮商所,https://yacounseling.com/,02-26276655、0932-320628,臺北市內湖區港華街57號,https://www.google.com.tw/maps/place/臺北市內湖區港華街57號,無,0,0,0,0,0,2025/08/08,true,false
+臺北市,潛意心理諮商所,https://www.unconscious-counseling.com/,02-28838570,臺北市士林區中正路213巷44號2樓,https://www.google.com.tw/maps/place/臺北市士林區中正路213巷44號2樓,無,0,0,0,0,0,尚未更新,false,false
+臺北市,詠安心理諮商所,https://yacounseling.com/,02-26276655、0932-320628,臺北市內湖區港華街57號,https://www.google.com.tw/maps/place/臺北市內湖區港華街57號,無,0,0,0,0,0,尚未更新,true,false
 臺北市,擁抱心理諮商所,https://mental-hug.com.tw/,02-87920568,臺北市內湖區成功路四段32號4樓,https://www.google.com.tw/maps/place/臺北市內湖區成功路四段32號4樓,無,0,0,0,0,0,尚未更新,true,false
 臺北市,蛹之生心理諮商所,https://www.morph.com.tw/,0968-070-620,臺北市南港區昆陽街85號,https://www.google.com.tw/maps/place/臺北市南港區昆陽街85號,無,0,0,0,0,0,尚未更新,false,false
 臺北市,島語心理諮商所,https://murmurland2022.com/?gad_source=1&gclid=CjwKCAjwyo60BhBiEiwAHmVLJbeaPHN0fy48nx5HFsf0HFqGJkldXwbKEjc8tDOirF2RVZ-P8Km7bxoCzw4QAvD_BwE,02-29302022,臺北市文山區羅斯福路六段10號4樓之2,https://www.google.com.tw/maps/place/臺北市文山區羅斯福路六段10號4樓之2,無,0,0,0,0,0,尚未更新,false,false
 臺北市,依懷心理諮商所,https://listentoyou2023.com,0909-416020,臺北市文山區羅斯福路六段297號6樓,https://www.google.com.tw/maps/place/臺北市文山區羅斯福路六段297號6樓,無,0,0,0,0,0,尚未更新,true,false
 臺北市,宇聯心理治療所,https://worldwideunionpsyc.wixsite.com/wwupc,02-25565255,臺北市大同區承德路二段75巷5號1樓,https://www.google.com.tw/maps/place/臺北市大同區承德路二段75巷5號1樓,無,0,0,0,0,0,尚未更新,true,false
 臺北市,福樂心理治療所,https://fulllove5.webnode.tw/,0919-517774,臺北市大安區信義路四段58號12樓之3,https://www.google.com.tw/maps/place/臺北市大安區信義路四段58號12樓之3,無,0,0,0,0,0,尚未更新,true,false
+臺北市,力人心理治療所,https://www.lijen.net/,02-27081412,臺北市大安區復興南路二段139號10樓,https://www.google.com.tw/maps/place/臺北市大安區復興南路二段139號10樓,無,0,0,0,0,0,2025/09/02,true,false
+臺北市,童伴心理治療所,https://www.acmate-group.com/,02-27555429,臺北市大安區信義路三段190號6樓,https://www.google.com.tw/maps/place/臺北市大安區信義路三段190號6樓,無,0,0,0,0,0,2025/08/21,true,false
 臺北市,展立心理治療所,http://www.all4mind.com.tw/,02-28830823,臺北市士林區中山北路五段527號3樓,https://www.google.com.tw/maps/place/臺北市士林區中山北路五段527號3樓,無,0,0,0,0,0,尚未更新,true,false
+臺北市,沐昕天母心理治療所,https://mushinclinic.wixsite.com/mysite,0909-270237,臺北市士林區德行東路190巷31弄6號1樓,https://www.google.com.tw/maps/place/臺北市士林區德行東路190巷31弄6號1樓,無,0,0,0,0,0,尚未更新,true,false
 臺北市,拾月拾日心理治療所,https://www.facebook.com/1010psy.tw,0919-591010,臺北市文山區羅斯福路六段391號2樓,https://www.google.com.tw/maps/place/臺北市文山區羅斯福路六段391號2樓,無,0,0,0,0,0,尚未更新,true,false
-臺北市,日好心理治療所,https://www.lifewellpsy.com/?utm_source=sps_mohw&utm_medium=search,0979-659938,臺北市大安區敦化南路二段59號7樓之1,https://www.google.com.tw/maps/place/臺北市大安區敦化南路二段59號7樓之1,無,0,0,0,0,0,2025/08/12,true,false
+臺北市,日好心理治療所,https://www.lifewellpsy.com/?utm_source=sps_mohw&utm_medium=search,0979-659938,臺北市大安區敦化南路二段59號7樓之1,https://www.google.com.tw/maps/place/臺北市大安區敦化南路二段59號7樓之1,無,0,0,0,0,0,2025/08/26,true,false
 臺北市,臺北市立萬芳醫院－委託臺北醫學大學辦理,https://www.wanfang.gov.tw/,02-29307930轉53956,臺北市文山區興隆路三段111號5樓,https://www.google.com.tw/maps/place/臺北市文山區興隆路三段111號5樓,無,0,0,0,0,0,尚未更新,false,false
 臺北市,2042心理諮商所,https://2042xinlizishangsuo.webnode.tw/,0907-620489,臺北市中山區復興北路204號2樓,https://www.google.com.tw/maps/place/臺北市中山區復興北路204號2樓,無,0,0,0,0,0,尚未更新,false,false
-臺北市,人生設計心理諮商所,https://acdclifedesign.com/,0983-580856,臺北市大同區南京西路41號8樓之2,https://www.google.com.tw/maps/place/臺北市大同區南京西路41號8樓之2,無,0,0,0,0,0,2025/07/22,true,false
-臺北市,辰光心理治療所,https://www.facebook.com/profile.php?id=100093279246751&mibextid=LQQJ4d,0978-946396,臺北市北投區立農路2段202巷2弄1號1樓;地下1樓,https://www.google.com.tw/maps/place/臺北市北投區立農路2段202巷2弄1號1樓;地下1樓,無,0,0,0,0,0,尚未更新,false,false
+臺北市,人生設計心理諮商所,https://acdclifedesign.com/,0983-580856,臺北市大同區南京西路41號8樓之2,https://www.google.com.tw/maps/place/臺北市大同區南京西路41號8樓之2,無,0,0,0,0,0,尚未更新,true,false
 臺北市,共渡心理諮商所,https://tideovercounseling.wixsite.com/counseling,0976-070618,臺北市信義區吳興街156巷33弄22號1樓,https://www.google.com.tw/maps/place/臺北市信義區吳興街156巷33弄22號1樓,無,0,0,0,0,0,尚未更新,false,false
 臺北市,財團法人加惠文教基金會附設心理諮商所,https://www.jcf.org.tw/,02-25582771,臺北市松山區復興北路181號7樓之5,https://www.google.com.tw/maps/place/臺北市松山區復興北路181號7樓之5,無,0,0,0,0,0,2025/08/12,true,false
 臺北市,臺北市立聯合醫院林森中醫昆明院區,https://tpech.gov.taipei/mp109211/,02-23703739轉1205,臺北市萬華區昆明街100號,https://www.google.com.tw/maps/place/臺北市萬華區昆明街100號,無,0,0,0,0,0,尚未更新,false,false
 臺北市,臺北市立聯合醫院中興院區,https://tpech.gov.taipei/mp109141/,02-25523234轉2101,臺北市大同區鄭州路145號2樓,https://www.google.com.tw/maps/place/臺北市大同區鄭州路145號2樓,掛號費50元,0,0,0,0,0,尚未更新,false,false
 臺北市,覓汨心理治療所,https://www.misquare-psy.com/,02-27587798,臺北市松山區健康路325巷24弄8號,https://www.google.com.tw/maps/place/臺北市松山區健康路325巷24弄8號,無,0,0,0,0,0,尚未更新,true,false
 臺北市,臺北市立聯合醫院陽明院區,https://tpech.gov.taipei/mp109181/,02-28353456,臺北市士林區雨聲街105號,https://www.google.com.tw/maps/place/臺北市士林區雨聲街105號,掛號費50元,0,0,0,0,0,尚未更新,false,false
-臺北市,中山抱抱心身醫學診所,https://clinic.farhugs.com/environments/zhongshan,02-25590381,臺北市大同區承德路一段105號5樓,https://www.google.com.tw/maps/place/臺北市大同區承德路一段105號5樓,掛號費600元,0,0,0,0,0,2025/08/13,false,false
+臺北市,中山抱抱心身醫學診所,https://clinic.farhugs.com/environments/zhongshan,02-25590381,臺北市大同區承德路一段105號5樓,https://www.google.com.tw/maps/place/臺北市大同區承德路一段105號5樓,掛號費600元,0,0,0,0,0,2025/08/25,false,false
 臺北市,北辰身心醫學診所,,02-28925500,臺北市北投區光明路2巷9-3號,https://www.google.com.tw/maps/place/臺北市北投區光明路2巷9-3號,掛號費150元,0,0,0,0,0,尚未更新,false,false
 臺北市,臺北市立聯合醫院忠孝院區,https://tpech.gov.taipei/mp109171/,02-27861288轉1702,臺北市南港區同德路87號,https://www.google.com.tw/maps/place/臺北市南港區同德路87號,掛號費50元,0,0,0,0,0,尚未更新,false,false
 臺北市,輕輕說心理諮商所,https://www.facebook.com/talktalkgently/,無，掛號使用LINE: https://lin.ee/LtdIoAY，ID: @794pxozg,臺北市大安區信義路四段263號11樓之5,https://www.google.com.tw/maps/place/臺北市大安區信義路四段263號11樓之5,無,0,0,0,0,0,尚未更新,false,false
 臺北市,荳點心理諮商所,https://www.hicomma.com.tw,0965-711589,臺北市信義區基隆路一段149號12樓之2,https://www.google.com.tw/maps/place/臺北市信義區基隆路一段149號12樓之2,無,0,0,0,0,0,2025/08/12,true,false
 臺北市,北極星心理治療所,https://www.loadstarpsyclinic.com/,02-25980305、0988-676135、0972-795502,臺北市大同區承德路三段8巷21號1樓,https://www.google.com.tw/maps/place/臺北市大同區承德路三段8巷21號1樓,無,0,0,0,0,0,尚未更新,false,false
 臺北市,翎馨心理治療所,,02-28343136、 0963-616232,臺北市士林區中正路236巷32號,https://www.google.com.tw/maps/place/臺北市士林區中正路236巷32號,無,0,0,0,0,0,尚未更新,false,false
+臺北市,用心說心理治療所,https://www.heartfulpsy.com/,0987-503531,臺北市士林區福國路56巷17號1樓,https://www.google.com.tw/maps/place/臺北市士林區福國路56巷17號1樓,無,0,0,0,0,0,2025/09/01,true,false
+臺北市,捷思心理治療所,https://www.justcounselingcenter.com.tw/,02-23210031、0919-003316,臺北市中正區忠孝東路二段100號5樓之7,https://www.google.com.tw/maps/place/臺北市中正區忠孝東路二段100號5樓之7,無,0,0,0,0,0,2025/08/12,true,false
 臺北市,華昕藝心心理諮商所,https://www.facebook.com/huasin.apcc,02-66057103,臺北市南港區研究院路一段99號2樓之103,https://www.google.com.tw/maps/place/臺北市南港區研究院路一段99號2樓之103,無,0,0,0,0,0,尚未更新,false,false
 臺北市,晴風心理治療所,https://www.fairwindpsy.com,02-85091190,臺北市中山區大直街33巷5號1樓,https://www.google.com.tw/maps/place/臺北市中山區大直街33巷5號1樓,無,0,0,0,0,0,尚未更新,false,false
+臺北市,蘅芯心理諮商所,,0917-579873(建議簡訊聯繫),臺北市中正區重慶南路1段99號11樓1107室,https://www.google.com.tw/maps/place/臺北市中正區重慶南路1段99號11樓1107室,無,0,0,0,0,0,尚未更新,false,false
 臺北市,過好生活心理諮商所,https://www.gooodlifehub.com/,0913-808793,臺北市中正區重慶南路一段10號9樓之6,https://www.google.com.tw/maps/place/臺北市中正區重慶南路一段10號9樓之6,無,0,0,0,0,0,尚未更新,false,false
-臺北市,張老師基金會台北心理諮商所,https://www.1980.org.tw/,02-25326180轉136,臺北市中山區大直街20巷13號,https://www.google.com.tw/maps/place/臺北市中山區大直街20巷13號,無,0,0,0,0,0,尚未更新,false,false
+臺北市,張老師基金會台北心理諮商所,https://www.1980.org.tw/,02-25326180轉136,臺北市中山區大直街20巷16號,https://www.google.com.tw/maps/place/臺北市中山區大直街20巷16號,無,0,0,0,0,0,2025/09/02,false,false
 臺北市,擁抱心藝心理諮商所,https://mental-hug.com.tw/,02-87910019,臺北市內湖區內湖路二段466號2樓,https://www.google.com.tw/maps/place/臺北市內湖區內湖路二段466號2樓,無,0,0,0,0,0,尚未更新,false,false
 臺北市,擁抱甯心理諮商所,https://mental-hug.com.tw/,02-27751298,臺北市松山區復興北路15號5樓之10,https://www.google.com.tw/maps/place/臺北市松山區復興北路15號5樓之10,無,0,0,0,0,0,尚未更新,false,false
-臺北市,艾希爾心理治療所,https://www.mindconstruction.com.tw/,02-28856572,臺北市士林區通河街90號1樓,https://www.google.com.tw/maps/place/臺北市士林區通河街90號1樓,無,0,0,0,0,0,尚未更新,false,false
-臺北市,方舟身心診所,https://spirits.tw/Wenshan/,02-29308080,臺北市文山區興隆路三段84號2樓,https://www.google.com.tw/maps/place/臺北市文山區興隆路三段84號2樓,掛號費200元,0,0,0,0,0,2025/08/11,false,false
-臺北市,蛹之生明德心理諮商所,https://www.morph.com.tw,0968-070620,臺北市北投區明德路118巷23號1樓,https://www.google.com.tw/maps/place/臺北市北投區明德路118巷23號1樓,無,0,0,0,0,0,2025/08/05,false,false
-臺北市,季遇心理諮商所,https://www.serendipity-counseling.com.tw/,02-23022317,臺北市萬華區桂林路26號2樓之2,https://www.google.com.tw/maps/place/臺北市萬華區桂林路26號2樓之2,無,0,0,0,0,0,2025/08/06,false,false
-臺北市,安然心理諮商所,https://walksecurely.weebly.com/,0917-002762,臺北市中正區羅斯福路四段68號8樓之10,https://www.google.com.tw/maps/place/臺北市中正區羅斯福路四段68號8樓之10,無,0,0,0,0,0,尚未更新,false,false
-臺中市,好時光心理治療所,https://gtpsy.com/,0910957527 或加入LINEID: @xfb1049s,台中市大里區國光路二段337號,https://www.google.com.tw/maps/place/台中市大里區國光路二段337號,無,0,0,0,5,5,2025/08/11,false,true
-臺中市,財團法人台灣省私立台中仁愛之家附設靜和醫院,http://www.cott.org.tw/,04-23711129#1124,台中市西區南屯路一段158號,https://www.google.com.tw/maps/place/台中市西區南屯路一段158號,無,12,12,12,12,48,2025/08/12,false,true
-臺中市,清濱醫院,https://www.chibibing.url.tw/index.html,04-26283995#112,台中市清水區港埠路四段195號,https://www.google.com.tw/maps/place/台中市清水區港埠路四段195號,無,6,6,6,0,18,2025/08/06,false,true
-臺中市,寶貝心理諮商所,https://babycounselingtw.weebly.com/,0966299469 或加入Line ID : @330mnqrw,台中市梧棲區民和路一段200號二樓,https://www.google.com.tw/maps/place/台中市梧棲區民和路一段200號二樓,無,8,8,8,8,32,2025/08/15,true,true
-臺中市,怡然心理治療所,http://yiranmind.com,0905467481,台中市西區三民路一段170號4樓之2,https://www.google.com.tw/maps/place/台中市西區三民路一段170號4樓之2,無,12,12,12,0,36,2025/08/05,true,true
-臺中市,心嶼心理治療所,https://www.heartisland.com.tw/,0903645359,台中市北屯區軍福十三路327號,https://www.google.com.tw/maps/place/台中市北屯區軍福十三路327號,無,12,12,12,12,48,2025/08/11,true,true
-臺中市,心門心理諮商所,https://www.minddoor-psy.com/,04-23120896 或加入LINEID: @460xawyr ,台中市沙鹿區正德路72巷50號,https://www.google.com.tw/maps/place/台中市沙鹿區正德路72巷50號,無,2,2,2,2,8,2025/08/14,true,true
-臺中市,陽晴心理治療所,https://www.heartwarming101.com/,0908432988,台中市西區五權五街101號,https://www.google.com.tw/maps/place/台中市西區五權五街101號,無,12,12,12,0,36,2025/08/12,true,true
-臺中市,桐心理治療所,https://www.tongpsy.com/index.php,0953-971130,臺中市南屯區豐富路160巷9號,https://www.google.com.tw/maps/place/臺中市南屯區豐富路160巷9號,無,0,10,10,10,30,2025/08/14,true,true
-臺中市,勵心心理諮商所,https://leeheart1516.wordpress.com/,0928660285,台中市南區德祥街15巷16號,https://www.google.com.tw/maps/place/台中市南區德祥街15巷16號,無,12,12,12,0,36,2025/08/07,true,true
-臺中市,宗益身心醫學診所,https://dryi0.wordpress.com/,(04)2338-0503,台中市烏日區公園路75號,https://www.google.com.tw/maps/place/台中市烏日區公園路75號,掛號費150元,0,0,8,10,18,2025/08/11,false,true
-臺中市,晨心身心診所,https://www.mainpi.com/query?i=2522,04-22780799 或加入LINEID: @536gbokk,台中市太平區中興路158號,https://www.google.com.tw/maps/place/台中市太平區中興路158號,掛號費150元,6,0,10,0,16,2025/08/06,false,true
-臺中市,日音心理治療所,https://wordothing.com,0906693905,臺中市西區福人街96號,https://www.google.com.tw/maps/place/臺中市西區福人街96號,無,8,8,8,8,32,2025/08/12,false,true
-臺中市,心喜心理治療所,https://www.xinxi2024.com/,04-22734567 或加入LINEID: ＠450hnjfs,台中市太平區市民大道一段251號,https://www.google.com.tw/maps/place/台中市太平區市民大道一段251號,無,7,7,7,0,21,2025/08/04,true,true
-臺中市,堅美身心診所,rbmclinic.com.tw,0960782238,臺中市西屯區安和路182號1-2樓,https://www.google.com.tw/maps/place/臺中市西屯區安和路182號1-2樓,掛號費350元,7,7,10,0,24,2025/08/09,false,true
-臺中市,自在心理治療所,https://freeandeasypsy.com,0958265826 或加入LINEID:@freeandeasy,台中市沙鹿區北勢東路748號1樓,https://www.google.com.tw/maps/place/台中市沙鹿區北勢東路748號1樓,無,0,0,1,1,2,2025/08/11,true,true
-臺中市,佳樂身心診所,https://cheer-clinic.com/,0424211693,台中市北屯區四平路369號,https://www.google.com.tw/maps/place/台中市北屯區四平路369號,掛號費200元,6,8,0,0,14,2025/07/29,false,true
-臺中市,時光身心診所,,04-25601413,臺中市大雅區雅環路一段288號1樓,https://www.google.com.tw/maps/place/臺中市大雅區雅環路一段288號1樓,掛號費200元,12,12,0,0,24,2025/07/29,false,true
-臺中市,清海醫院,https://chinghaih.org/,04-25721694#132,臺中市石岡區石岡街下坑巷41-2號,https://www.google.com.tw/maps/place/臺中市石岡區石岡街下坑巷41-2號,初診掛號費150元、複診掛號費100元,3,3,3,3,12,2025/08/15,false,true
-臺中市,佑芯身心診所,https://www.youthink.com.tw/,04-22470375,台中市北屯區興安路二段7號,https://www.google.com.tw/maps/place/台中市北屯區興安路二段7號,無,0,0,0,0,0,2025/07/29,false,false
-臺中市,話嶼心理諮商所,https://dialogueisland.com,04-22335920,台中市北區雙十路二段101號5樓之五,https://www.google.com.tw/maps/place/台中市北區雙十路二段101號5樓之五,無,0,0,0,0,0,2025/07/29,true,false
-臺中市,明朗身心診所,https://www.moodlight.com.tw/,04-24836800,台中市大里區新仁路二段96號,https://www.google.com.tw/maps/place/台中市大里區新仁路二段96號,掛號費250元,0,0,0,0,0,2025/07/29,true,false
-臺中市,向陽心理治療所,https://sunyoung-psy.com/web-appointment/,0985911807 或加入Line ID: @585xemue,台中市西屯區大墩十九街151號,https://www.google.com.tw/maps/place/台中市西屯區大墩十九街151號,無,0,0,0,0,0,2025/07/29,true,false
-臺中市,王家駿身心診所,https://www.facebook.com/ccwpc/?locale=zh_TW,0932138170,台中市北屯區東山路一段332-5號,https://www.google.com.tw/maps/place/台中市北屯區東山路一段332-5號,無,0,0,0,0,0,2025/07/23,false,false
+臺北市,艾希爾心理治療所,https://www.mindconstruction.com.tw/,02-28856572,臺北市士林區通河街90號1樓,https://www.google.com.tw/maps/place/臺北市士林區通河街90號1樓,無,0,0,0,0,0,2025/08/29,false,false
+臺北市,方舟身心診所,https://spirits.tw/Wenshan/,02-29308080,臺北市文山區興隆路三段84號2樓,https://www.google.com.tw/maps/place/臺北市文山區興隆路三段84號2樓,掛號費200元,0,0,0,0,0,2025/09/01,false,false
+臺北市,蛹之生明德心理諮商所,https://www.morph.com.tw,0968-070620,臺北市北投區明德路118巷23號1樓,https://www.google.com.tw/maps/place/臺北市北投區明德路118巷23號1樓,無,0,0,0,0,0,尚未更新,false,false
+臺北市,安然心理諮商所,https://walksecurely.weebly.com/,0917-002762,臺北市中正區羅斯福路四段68號8樓之10,https://www.google.com.tw/maps/place/臺北市中正區羅斯福路四段68號8樓之10,無,0,0,0,0,0,2025/09/01,false,false
+臺中市,好時光心理治療所,https://gtpsy.com/,0910957527 或加入LINEID: @xfb1049s,台中市大里區國光路二段337號,https://www.google.com.tw/maps/place/台中市大里區國光路二段337號,無,0,5,5,5,15,2025/09/02,false,true
+臺中市,財團法人台灣省私立台中仁愛之家附設靜和醫院,http://www.cott.org.tw/,04-23711129#1124,台中市西區南屯路一段158號,https://www.google.com.tw/maps/place/台中市西區南屯路一段158號,無,10,5,10,10,35,2025/09/01,false,true
+臺中市,寶貝心理諮商所,https://babycounselingtw.weebly.com/,0966299469 或加入Line ID : @330mnqrw,台中市梧棲區民和路一段200號二樓,https://www.google.com.tw/maps/place/台中市梧棲區民和路一段200號二樓,無,8,8,8,0,24,2025/08/29,true,true
+臺中市,怡然心理治療所,http://yiranmind.com,0905467481,台中市西區三民路一段170號4樓之2,https://www.google.com.tw/maps/place/台中市西區三民路一段170號4樓之2,無,2,8,12,12,34,2025/09/01,true,true
+臺中市,如穎心理成長中心心理治療所,http://blog.ru-yin.org,04-22282220,台中市中區柳川東路三段5號5樓,https://www.google.com.tw/maps/place/台中市中區柳川東路三段5號5樓,無,6,8,10,0,24,2025/09/01,true,true
+臺中市,心嶼心理治療所,https://www.heartisland.com.tw/,0903645359,台中市北屯區軍福十三路327號,https://www.google.com.tw/maps/place/台中市北屯區軍福十三路327號,無,12,12,10,10,44,2025/09/01,true,true
+臺中市,心門心理諮商所,https://www.minddoor-psy.com/,04-23120896 或加入LINEID: @460xawyr ,台中市沙鹿區正德路72巷50號,https://www.google.com.tw/maps/place/台中市沙鹿區正德路72巷50號,無,2,2,2,2,8,2025/09/02,true,true
+臺中市,陽晴心理治療所,https://www.heartwarming101.com/,0908432988,台中市西區五權五街101號,https://www.google.com.tw/maps/place/台中市西區五權五街101號,無,12,12,12,12,48,2025/09/01,true,true
+臺中市,桐心理治療所,https://www.tongpsy.com/index.php,0953-971130,臺中市南屯區豐富路160巷9號,https://www.google.com.tw/maps/place/臺中市南屯區豐富路160巷9號,無,10,0,0,0,10,2025/08/14,true,true
+臺中市,勵心心理諮商所,https://leeheart1516.wordpress.com/,0928660285,台中市南區德祥街15巷16號,https://www.google.com.tw/maps/place/台中市南區德祥街15巷16號,無,12,12,0,0,24,2025/08/23,true,true
+臺中市,宗益身心醫學診所,https://dryi0.wordpress.com/,(04)2338-0503,台中市烏日區公園路75號,https://www.google.com.tw/maps/place/台中市烏日區公園路75號,掛號費150元,10,2,5,0,17,2025/08/25,false,true
+臺中市,晨心身心診所,https://www.mainpi.com/query?i=2522,04-22780799 或加入LINEID: @536gbokk,台中市太平區中興路158號,https://www.google.com.tw/maps/place/台中市太平區中興路158號,掛號費150元,6,6,6,0,18,2025/08/26,false,true
+臺中市,日音心理治療所,https://wordothing.com,0906693905,臺中市西區福人街96號,https://www.google.com.tw/maps/place/臺中市西區福人街96號,無,5,8,6,0,19,2025/08/29,false,true
+臺中市,心喜心理治療所,https://www.xinxi2024.com/,04-22734567 或加入LINEID: ＠450hnjfs,台中市太平區市民大道一段251號,https://www.google.com.tw/maps/place/台中市太平區市民大道一段251號,無,7,7,7,0,21,2025/08/29,true,true
+臺中市,堅美身心診所,rbmclinic.com.tw,0960782238,臺中市西屯區安和路182號1-2樓,https://www.google.com.tw/maps/place/臺中市西屯區安和路182號1-2樓,掛號費350元,8,10,0,0,18,2025/08/30,false,true
+臺中市,時光身心診所,,04-25601413,臺中市大雅區雅環路一段288號1樓,https://www.google.com.tw/maps/place/臺中市大雅區雅環路一段288號1樓,掛號費200元,12,12,12,0,36,2025/08/25,false,true
+臺中市,清海醫院,https://chinghaih.org/,04-25721694#132,臺中市石岡區石岡街下坑巷41-2號,https://www.google.com.tw/maps/place/臺中市石岡區石岡街下坑巷41-2號,初診掛號費150元、複診掛號費100元,3,0,0,0,3,2025/08/15,false,true
+臺中市,與橋心理諮商所,https://synergy0960.com/,0960908585,臺中市大里區益民路一段78巷40號,https://www.google.com.tw/maps/place/臺中市大里區益民路一段78巷40號,無,4,4,4,0,12,2025/08/27,true,true
+臺中市,佑芯身心診所,https://www.youthink.com.tw/,04-22470375,台中市北屯區興安路二段7號,https://www.google.com.tw/maps/place/台中市北屯區興安路二段7號,無,0,0,0,0,0,尚未更新,false,false
+臺中市,話嶼心理諮商所,https://dialogueisland.com,04-22335920,台中市北區雙十路二段101號5樓之五,https://www.google.com.tw/maps/place/台中市北區雙十路二段101號5樓之五,無,0,0,0,0,0,尚未更新,true,false
+臺中市,明朗身心診所,https://www.moodlight.com.tw/,04-24836800,台中市大里區新仁路二段96號,https://www.google.com.tw/maps/place/台中市大里區新仁路二段96號,掛號費250元,0,0,0,0,0,尚未更新,true,false
+臺中市,清濱醫院,https://www.chibibing.url.tw/index.html,04-26283995#112,台中市清水區港埠路四段195號,https://www.google.com.tw/maps/place/台中市清水區港埠路四段195號,無,0,0,0,0,0,尚未更新,false,false
+臺中市,向陽心理治療所,https://sunyoung-psy.com/web-appointment/,0985911807 或加入Line ID: @585xemue,台中市西屯區大墩十九街151號,https://www.google.com.tw/maps/place/台中市西屯區大墩十九街151號,無,0,0,0,0,0,尚未更新,true,false
+臺中市,王家駿身心診所,https://www.facebook.com/ccwpc/?locale=zh_TW,0932138170,台中市北屯區東山路一段332-5號,https://www.google.com.tw/maps/place/台中市北屯區東山路一段332-5號,無,0,0,0,0,0,尚未更新,false,false
 臺中市,心煦心理治療所,http://theharmonymind.com/,0970002995,台中市西屯區福雅路128巷58號,https://www.google.com.tw/maps/place/台中市西屯區福雅路128巷58號,無,0,0,0,0,0,2025/08/11,true,false
 臺中市,訴心理諮商所,https://sulisten.com/,0908512345 或加入Line ID：@sulisten,台中市西屯區市政北七路186號13樓之8,https://www.google.com.tw/maps/place/台中市西屯區市政北七路186號13樓之8,無,0,0,0,0,0,2025/08/11,true,false
-臺中市,葵心理諮商所,https://www.sunflowercc2023.com,0905677538 或加入LINE ID:@sunflowercc,台中市西屯區台灣大道四段1230巷20之6號,https://www.google.com.tw/maps/place/台中市西屯區台灣大道四段1230巷20之6號,無,0,0,0,0,0,2025/08/06,true,false
-臺中市,如穎心理成長中心心理治療所,http://blog.ru-yin.org,04-22282220,台中市中區柳川東路三段5號5樓,https://www.google.com.tw/maps/place/台中市中區柳川東路三段5號5樓,無,0,0,0,0,0,2025/07/29,true,false
-臺中市,昕晴空間心理諮商所,https://www.thesunden.tw/,04-26628880,台中市沙鹿區光華路499號,https://www.google.com.tw/maps/place/台中市沙鹿區光華路499號,無,0,0,0,0,0,2025/08/03,true,false
-臺中市,靜馨心理治療所,https://www.drchaoclinic.com/,04-23823966,台中市南屯區黎明路一段1144號,https://www.google.com.tw/maps/place/台中市南屯區黎明路一段1144號,無,0,0,0,0,0,2025/07/29,true,false
-臺中市,廖慈凰身心診所,https://www.facebook.com/cfclinic.chen/,04-23255018,臺中市西區博館路115號1樓,https://www.google.com.tw/maps/place/臺中市西區博館路115號1樓,掛號費400元,0,0,0,0,0,2025/07/29,true,false
-臺中市,明德醫院,www.minder.url.tw,04-2657-9595#568，0919817961,台中市梧棲區仁美街33巷50號,https://www.google.com.tw/maps/place/台中市梧棲區仁美街33巷50號,掛號費150元,0,0,0,0,0,2025/07/23,false,false
-臺中市,心風景心理治療所,https://mindscape-psy.com,04-24520809,台中市西屯區弘孝路207號,https://www.google.com.tw/maps/place/台中市西屯區弘孝路207號,無,0,0,0,0,0,2025/07/29,true,false
-臺中市,芙樂奇心理成長心理諮商所,https://www.psflourish.com.tw/,048246028,台中市北屯區大連路二段213號,https://www.google.com.tw/maps/place/台中市北屯區大連路二段213號,無,0,0,0,0,0,2025/07/29,true,false
-臺中市,相癒心理諮商所,https://www.healingdogpsystudio.com,04-22992811 或加入LINEID: @669mzvgc,臺中市北區太原八街110號,https://www.google.com.tw/maps/place/臺中市北區太原八街110號,無,0,0,0,0,0,2025/07/29,true,false
-臺中市,擁恆心理諮商所,https://www.facebook.com/eternalbelongingofmind?mibextid=ZbWKwL,0936185235,台中市大甲區水源路215號1、2樓,https://www.google.com.tw/maps/place/台中市大甲區水源路215號1、2樓,無,0,0,0,0,0,2025/08/14,true,false
-臺中市,晴朗心理諮商所,https://www.sunlight520.tw/,0908038706,臺中市南屯區黎明東街429號,https://www.google.com.tw/maps/place/臺中市南屯區黎明東街429號,0,0,0,0,0,0,2025/07/29,true,false
+臺中市,葵心理諮商所,https://www.sunflowercc2023.com,0905677538 或加入LINE ID:@sunflowercc,台中市西屯區台灣大道四段1230巷20之6號,https://www.google.com.tw/maps/place/台中市西屯區台灣大道四段1230巷20之6號,無,0,0,0,0,0,尚未更新,true,false
+臺中市,昕晴空間心理諮商所,https://www.thesunden.tw/,04-26628880,台中市沙鹿區光華路499號,https://www.google.com.tw/maps/place/台中市沙鹿區光華路499號,無,0,0,0,0,0,尚未更新,true,false
+臺中市,靜馨心理治療所,https://www.drchaoclinic.com/,04-23823966,台中市南屯區黎明路一段1144號,https://www.google.com.tw/maps/place/台中市南屯區黎明路一段1144號,無,0,0,0,0,0,尚未更新,true,false
+臺中市,廖慈凰身心診所,https://www.facebook.com/cfclinic.chen/,04-23255018,臺中市西區博館路115號1樓,https://www.google.com.tw/maps/place/臺中市西區博館路115號1樓,掛號費400元,0,0,0,0,0,尚未更新,true,false
+臺中市,明德醫院,www.minder.url.tw,04-2657-9595#568，0919817961,台中市梧棲區仁美街33巷50號,https://www.google.com.tw/maps/place/台中市梧棲區仁美街33巷50號,掛號費150元,0,0,0,0,0,尚未更新,false,false
+臺中市,心風景心理治療所,https://mindscape-psy.com,04-24520809,台中市西屯區弘孝路207號,https://www.google.com.tw/maps/place/台中市西屯區弘孝路207號,無,0,0,0,0,0,尚未更新,true,false
+臺中市,芙樂奇心理成長心理諮商所,https://www.psflourish.com.tw/,048246028,台中市北屯區大連路二段213號,https://www.google.com.tw/maps/place/台中市北屯區大連路二段213號,無,0,0,0,0,0,尚未更新,true,false
+臺中市,相癒心理諮商所,https://www.healingdogpsystudio.com,04-22992811 或加入LINEID: @669mzvgc,臺中市北區太原八街110號,https://www.google.com.tw/maps/place/臺中市北區太原八街110號,無,0,0,0,0,0,尚未更新,true,false
+臺中市,擁恆心理諮商所,https://www.facebook.com/eternalbelongingofmind?mibextid=ZbWKwL,0936185235,台中市大甲區水源路215號1、2樓,https://www.google.com.tw/maps/place/台中市大甲區水源路215號1、2樓,無,0,0,0,0,0,2025/08/30,true,false
+臺中市,晴朗心理諮商所,https://www.sunlight520.tw/,0908038706,臺中市南屯區黎明東街429號,https://www.google.com.tw/maps/place/臺中市南屯區黎明東街429號,0,0,0,0,0,0,尚未更新,true,false
 臺中市,光田醫療社團法人光田綜合醫院,https://www.ktgh.com.tw/Default.asp,0978307039,台中市沙鹿區沙田路117號,https://www.google.com.tw/maps/place/台中市沙鹿區沙田路117號,掛號費及部分負擔：白天360元；晚上及假日390元,0,0,0,0,0,尚未更新,false,false
 臺中市,寬和心理諮商所,https://www.kindness.tw/,04-23829585,台中市南屯區永春東一路573號,https://www.google.com.tw/maps/place/台中市南屯區永春東一路573號,無,0,0,0,0,0,2025/08/11,true,false
-臺中市,麥子心理治療所,https://wheatclinic.wordpress.com/,0987-186208 或加入LINEID: ＠wheat.psy,臺中市南屯區河南路四段700號1樓,https://www.google.com.tw/maps/place/臺中市南屯區河南路四段700號1樓,無,0,0,0,0,0,2025/07/30,false,false
-臺中市,引光築詩心理治療所,http://www.inpsyclinic.com/,04-37005384,台中市西區忠明南路499號11樓,https://www.google.com.tw/maps/place/台中市西區忠明南路499號11樓,無,0,0,0,0,0,2025/07/29,false,false
-臺中市,財團法人台中市私立慈光社會福利慈善事業基金會附設慈光社區心理諮商所,https://www.tkcy.org.tw/,04-22153505,臺中市東區東英五街88號2樓,https://www.google.com.tw/maps/place/臺中市東區東英五街88號2樓,無,0,0,0,0,0,2025/07/29,true,false
-臺中市,拾月拾日心理治療所,https://1010psy.com.tw,0919591010 或 LINEID:@1010psy,台中市北區文武街6號,https://www.google.com.tw/maps/place/台中市北區文武街6號,無,0,0,0,0,0,2025/07/29,true,false
-臺中市,拾月拾日豐原心理治療所,https://1010psy.com.tw,0919591010 或 LINEID:@1010psy,台中市豐原區葫蘆墩三街199號,https://www.google.com.tw/maps/place/台中市豐原區葫蘆墩三街199號,無,0,0,0,0,0,2025/07/29,true,false
-臺中市,一心心理諮商所,https://www.onecc.com.tw/,04-22075313,台中市北區華中街25號,https://www.google.com.tw/maps/place/台中市北區華中街25號,無,0,0,0,0,0,2025/07/29,true,false
-臺中市,蛹之生成長心理諮商所,https://www.morph.com.tw/,0968-070-620,台中市南屯區五權西路二段478-1號,https://www.google.com.tw/maps/place/台中市南屯區五權西路二段478-1號,無,0,0,0,0,0,2025/07/29,true,false
-臺中市,德仁診所,,04-22652718,台中市南區南平路314號,https://www.google.com.tw/maps/place/台中市南區南平路314號,掛號費200元,0,0,0,0,0,2025/08/11,false,false
-臺中市,耕心心理諮商所,https://www.innerfield.com.tw/,0912622798 或加入LINEID:@156frpfu,台中市南屯區大墩南路412號,https://www.google.com.tw/maps/place/台中市南屯區大墩南路412號,無,0,0,0,0,0,2025/07/29,false,false
-臺中市,臺中榮民總醫院,,04-23592525#3402,臺中市西屯區臺灣大道4段1650號,https://www.google.com.tw/maps/place/臺中市西屯區臺灣大道4段1650號,需先掛號精神科收掛號費570元，後續不需自付費用,0,0,0,0,0,2025/07/29,false,false
-臺中市,竹見好轉心理諮商所,https://ugetbetter.com/,04-22788855 或加入LINEID: @getbetter,台中市太平區成功東路 55 巷 2 號,https://www.google.com.tw/maps/place/台中市太平區成功東路 55 巷 2 號,無,0,0,0,0,0,2025/07/29,true,false
-臺中市,人文傳習書院心理治療所,acclinic2011@gmail.com,04-23134566 04-23751966,台中市西區中美街41巷3號1樓,https://www.google.com.tw/maps/place/台中市西區中美街41巷3號1樓,無,0,0,0,0,0,2025/07/23,false,false
-臺中市,人文傳習書院博雅心理治療所,acclinic2011@gmail.com,04-23134566 04-23751966,台中市西區華美西街一段160號1樓,https://www.google.com.tw/maps/place/台中市西區華美西街一段160號1樓,無,0,0,0,0,0,2025/07/23,false,false
-臺中市,蛹之生心理諮商所,https://www.morph.com.tw/,0968-070-620,台中市南屯區文心路一段46-1號,https://www.google.com.tw/maps/place/台中市南屯區文心路一段46-1號,無,0,0,0,0,0,2025/07/29,true,false
-臺中市,中國醫藥大學附設醫院精神醫學部,https://www.cmuh.cmu.edu.tw/Home/CmuhIndex,04-22052121#11853、11854,台中市北區育德路2號,https://www.google.com.tw/maps/place/台中市北區育德路2號,掛號費150元,0,0,0,0,0,2025/07/29,true,false
-臺中市,玩心聊療心理諮商所,https://play330533.com/,0972330533 或加入LINEID:play330533,臺中市西屯區台灣大道四段936號3樓之6,https://www.google.com.tw/maps/place/臺中市西屯區台灣大道四段936號3樓之6,無,0,0,0,0,0,2025/08/12,false,false
-臺中市,哲石情感心理諮商所,https://www.phistonemind.com/,04-22333385 或加入LINE ID: Phistonemind,台中市北屯區太原路三段150巷8弄15號,https://www.google.com.tw/maps/place/台中市北屯區太原路三段150巷8弄15號,無,0,0,0,0,0,2025/07/29,true,false
-臺中市,日希心理成長中心心理治療所,https://www.zc-mind.com,04-22334789 或加入LINEID:@797kxxjz,臺中市北屯區天津路四段294號,https://www.google.com.tw/maps/place/臺中市北屯區天津路四段294號,無,0,0,0,0,0,2025/07/28,true,false
-臺中市,好晴天身心診所,https://sogoodday.com.tw/,04-25339907 或加入LINEID:@sogoodday,臺中市潭子區中山路二段374號,https://www.google.com.tw/maps/place/臺中市潭子區中山路二段374號,掛號費400元,0,0,0,0,0,2025/07/29,false,false
-臺中市,中科好晴天身心診所,https://sogoodday.com.tw/,04-25602337 或加入LINEID:@sogoodday2,臺中市大雅區中清路四段15號,https://www.google.com.tw/maps/place/臺中市大雅區中清路四段15號,掛號費400元,0,0,0,0,0,2025/07/29,false,false
-臺中市,文心好晴天身心診所,https://sogoodday.com.tw/,04-24735925 或加入LINEID:@sogoodday3,臺中市南屯區文心南路30號,https://www.google.com.tw/maps/place/臺中市南屯區文心南路30號,掛號費400元,0,0,0,0,0,2025/07/29,false,false
-臺中市,禾悅身心醫學診所,https://drhopsyclinic.com/,04-24061020,臺中市大里區新興路101號1樓,https://www.google.com.tw/maps/place/臺中市大里區新興路101號1樓,掛號費200元,0,0,0,0,0,2025/07/29,false,false
-臺中市,與橋心理諮商所,https://synergy0960.com/,0960908585,臺中市大里區益民路一段78巷40號,https://www.google.com.tw/maps/place/臺中市大里區益民路一段78巷40號,無,0,0,0,0,0,2025/07/29,true,false
-臺南市,這會心理諮商所,https://togetherwithheart.com/,0918071281,臺南市關廟區南雄路二段30號,https://www.google.com.tw/maps/place/臺南市關廟區南雄路二段30號,無,12,12,0,0,24,2025/08/14,true,true
-臺南市,看見光亮心理諮商所,https://www.hopelight.com.tw/index.html,06-3584327,臺南市北區海安路三段985巷27弄13號,https://www.google.com.tw/maps/place/臺南市北區海安路三段985巷27弄13號,無,0,0,1,0,1,2025/08/11,true,true
-臺南市,元品心理諮商所,http://www.opin.tw/,06-2229592,臺南市安平區安平路428號2樓,https://www.google.com.tw/maps/place/臺南市安平區安平路428號2樓,無,3,3,3,0,9,2025/08/05,true,true
-臺南市,奇美醫療財團法人奇美醫院,https://www.chimei.org.tw/,06-2228116分機58206,臺南市永康區中華路901號,https://www.google.com.tw/maps/place/臺南市永康區中華路901號,無,4,7,10,0,21,2025/08/04,false,true
-臺南市,曙光角落心理諮商所,http://www.eosgrace.com,0978909965,臺南市東區崇明路155巷4號,https://www.google.com.tw/maps/place/臺南市東區崇明路155巷4號,無,0,4,4,4,12,2025/08/12,false,true
-臺南市,悅晴心理諮商所,https://reurl.cc/yL3gaD,0912874211,臺南市安平區怡平路442巷88號2樓,https://www.google.com.tw/maps/place/臺南市安平區怡平路442巷88號2樓,無,0,3,6,6,15,2025/08/15,false,true
-臺南市,台灣基督長老教會新樓醫療財團法人麻豆新樓醫院,https://www.sinlau.org.tw/,06-5702228,臺南市麻豆區埤頭里麻佳路一段207號,https://www.google.com.tw/maps/place/臺南市麻豆區埤頭里麻佳路一段207號,掛號費120元,3,3,0,0,6,2025/07/29,true,true
-臺南市,繪日藝術心理諮商所,,（06）3565588,臺南市安南區怡安路一段98號,https://www.google.com.tw/maps/place/臺南市安南區怡安路一段98號,自付場地費400元。如進行藝術治療媒材費200元另計。,10,10,10,10,40,2025/08/13,true,true
-臺南市,看見愛心理諮商所,,06-2977769,臺南市安平區永華二街183號1樓,https://www.google.com.tw/maps/place/臺南市安平區永華二街183號1樓,無,3,1,3,0,7,2025/08/07,true,true
-臺南市,安平心寬診所,https://www.facebook.com/AnpingMindSPA/,06-2973757,台南市安平區華平路537號,https://www.google.com.tw/maps/place/台南市安平區華平路537號,本院所轉介心理諮商需先醫師看診評估，依初診或複診收取掛號費,10,12,11,11,44,2025/08/15,false,true
-臺南市,禾心心理諮商所,https://www.sandplayworld-holdingself.com.tw/team2.html,06-3587725,臺南市北區中華北路二段80巷65號,https://www.google.com.tw/maps/place/臺南市北區中華北路二段80巷65號,自付場地費400元,9,3,10,10,32,2025/08/14,true,true
-臺南市,深藏心理治療所,,0963689820,臺南市東區崇明路399號2樓,https://www.google.com.tw/maps/place/臺南市東區崇明路399號2樓,行政處理費250元（單次）,12,12,12,0,36,2025/08/06,true,true
-臺南市,元品文華心理諮商所,,06-2955257,臺南市安平區建平七街308號,https://www.google.com.tw/maps/place/臺南市安平區建平七街308號,無,3,3,3,0,9,2025/08/05,false,true
-臺南市,樂而康診所,,06-2607799,臺南市東區崇德路880號一樓,https://www.google.com.tw/maps/place/臺南市東區崇德路880號一樓,掛號費200元,10,10,9,0,29,2025/08/04,false,true
-臺南市,快樂心寧身心診所,FB: 快樂心寧診所-台南永康,06-273-8666,台南市永康區永大路二段187號,https://www.google.com.tw/maps/place/台南市永康區永大路二段187號,初診病人需看診(掛號費150元),2,0,0,0,2,2025/07/25,false,true
-臺南市,好心情心理諮商所,https://goodmoodpsy.weebly.com/,0909334443,臺南市安平區建平七街453巷75號2樓之2,https://www.google.com.tw/maps/place/臺南市安平區建平七街453巷75號2樓之2,場地費200元,10,10,8,0,28,2025/08/04,true,true
-臺南市,欣橋心理治療所,http://bridges-clinic.com,0937-800-681、06-3022820,臺南市永康區東橋十街20號,https://www.google.com.tw/maps/place/臺南市永康區東橋十街20號,行政費用400元,8,8,8,0,24,2025/08/05,true,true
-臺南市,星語心理治療所,https://ppstainan.com/home-a/,0938057530,臺南市永康區東橋一路552號,https://www.google.com.tw/maps/place/臺南市永康區東橋一路552號,無,8,8,8,8,32,2025/08/11,true,true
-臺南市,真心診所,http://www.heartfeltclinic.com,06-3036002,臺南市永康區東橋十街118號2樓,https://www.google.com.tw/maps/place/臺南市永康區東橋十街118號2樓,掛號費250元,6,6,0,0,12,2025/08/02,true,true
-臺南市,和朗心理諮商所,https://2024bekind.mystrikingly.com/,06-2993800,臺南市安平區文平路428號2樓,https://www.google.com.tw/maps/place/臺南市安平區文平路428號2樓,無,1,1,0,0,2,2025/08/10,true,true
+臺中市,麥子心理治療所,https://wheatclinic.wordpress.com/,0987-186208 或加入LINEID: ＠wheat.psy,臺中市南屯區河南路四段700號1樓,https://www.google.com.tw/maps/place/臺中市南屯區河南路四段700號1樓,無,0,0,0,0,0,2025/08/18,false,false
+臺中市,引光築詩心理治療所,http://www.inpsyclinic.com/,04-37005384,台中市西區忠明南路499號11樓,https://www.google.com.tw/maps/place/台中市西區忠明南路499號11樓,無,0,0,0,0,0,尚未更新,false,false
+臺中市,財團法人台中市私立慈光社會福利慈善事業基金會附設慈光社區心理諮商所,https://www.tkcy.org.tw/,04-22153505,臺中市東區東英五街88號2樓,https://www.google.com.tw/maps/place/臺中市東區東英五街88號2樓,無,0,0,0,0,0,尚未更新,true,false
+臺中市,拾月拾日心理治療所,https://1010psy.com.tw,0919591010 或 LINEID:@1010psy,台中市北區文武街6號,https://www.google.com.tw/maps/place/台中市北區文武街6號,無,0,0,0,0,0,尚未更新,true,false
+臺中市,拾月拾日豐原心理治療所,https://1010psy.com.tw,0919591010 或 LINEID:@1010psy,台中市豐原區葫蘆墩三街199號,https://www.google.com.tw/maps/place/台中市豐原區葫蘆墩三街199號,無,0,0,0,0,0,尚未更新,true,false
+臺中市,一心心理諮商所,https://www.onecc.com.tw/,04-22075313,台中市北區華中街25號,https://www.google.com.tw/maps/place/台中市北區華中街25號,無,0,0,0,0,0,尚未更新,true,false
+臺中市,蛹之生成長心理諮商所,https://www.morph.com.tw/,0968-070-620,台中市南屯區五權西路二段478-1號,https://www.google.com.tw/maps/place/台中市南屯區五權西路二段478-1號,無,0,0,0,0,0,尚未更新,true,false
+臺中市,德仁診所,,04-22652718,台中市南區南平路314號,https://www.google.com.tw/maps/place/台中市南區南平路314號,掛號費200元,0,0,0,0,0,2025/08/27,false,false
+臺中市,耕心心理諮商所,https://www.innerfield.com.tw/,0912622798 或加入LINEID:@156frpfu,台中市南屯區大墩南路412號,https://www.google.com.tw/maps/place/台中市南屯區大墩南路412號,無,0,0,0,0,0,尚未更新,false,false
+臺中市,臺中榮民總醫院,,04-23592525#3402,臺中市西屯區臺灣大道4段1650號,https://www.google.com.tw/maps/place/臺中市西屯區臺灣大道4段1650號,需先掛號精神科收掛號費570元，後續不需自付費用,0,0,0,0,0,尚未更新,false,false
+臺中市,竹見好轉心理諮商所,https://ugetbetter.com/,04-22788855 或加入LINEID: @getbetter,台中市太平區成功東路 55 巷 2 號,https://www.google.com.tw/maps/place/台中市太平區成功東路 55 巷 2 號,無,0,0,0,0,0,尚未更新,true,false
+臺中市,人文傳習書院心理治療所,acclinic2011@gmail.com,04-23134566 04-23751966,台中市西區中美街41巷3號1樓,https://www.google.com.tw/maps/place/台中市西區中美街41巷3號1樓,無,0,0,0,0,0,尚未更新,false,false
+臺中市,人文傳習書院博雅心理治療所,acclinic2011@gmail.com,04-23134566 04-23751966,台中市西區華美西街一段160號1樓,https://www.google.com.tw/maps/place/台中市西區華美西街一段160號1樓,無,0,0,0,0,0,尚未更新,false,false
+臺中市,蛹之生心理諮商所,https://www.morph.com.tw/,0968-070-620,台中市南屯區文心路一段46-1號,https://www.google.com.tw/maps/place/台中市南屯區文心路一段46-1號,無,0,0,0,0,0,尚未更新,true,false
+臺中市,中國醫藥大學附設醫院精神醫學部,https://www.cmuh.cmu.edu.tw/Home/CmuhIndex,04-22052121#11853、11854,台中市北區育德路2號,https://www.google.com.tw/maps/place/台中市北區育德路2號,掛號費150元,0,0,0,0,0,尚未更新,true,false
+臺中市,自在心理治療所,https://freeandeasypsy.com,0958265826 或加入LINEID:@freeandeasy,台中市沙鹿區北勢東路748號1樓,https://www.google.com.tw/maps/place/台中市沙鹿區北勢東路748號1樓,無,0,0,0,0,0,2025/09/01,true,false
+臺中市,玩心聊療心理諮商所,https://play330533.com/,0972330533 或加入LINEID:play330533,臺中市西屯區台灣大道四段936號3樓之6,https://www.google.com.tw/maps/place/臺中市西屯區台灣大道四段936號3樓之6,無,0,0,0,0,0,2025/08/28,false,false
+臺中市,佳樂身心診所,https://cheer-clinic.com/,0424211693,台中市北屯區四平路369號,https://www.google.com.tw/maps/place/台中市北屯區四平路369號,掛號費200元,0,0,0,0,0,尚未更新,false,false
+臺中市,哲石情感心理諮商所,https://www.phistonemind.com/,04-22333385 或加入LINE ID: Phistonemind,台中市北屯區太原路三段150巷8弄15號,https://www.google.com.tw/maps/place/台中市北屯區太原路三段150巷8弄15號,無,0,0,0,0,0,尚未更新,true,false
+臺中市,日希心理成長中心心理治療所,https://www.zc-mind.com,04-22334789 或加入LINEID:@797kxxjz,臺中市北屯區天津路四段294號,https://www.google.com.tw/maps/place/臺中市北屯區天津路四段294號,無,0,0,0,0,0,尚未更新,true,false
+臺中市,好晴天身心診所,https://sogoodday.com.tw/,04-25339907 或加入LINEID:@sogoodday,臺中市潭子區中山路二段374號,https://www.google.com.tw/maps/place/臺中市潭子區中山路二段374號,掛號費400元,0,0,0,0,0,尚未更新,false,false
+臺中市,中科好晴天身心診所,https://sogoodday.com.tw/,04-25602337 或加入LINEID:@sogoodday2,臺中市大雅區中清路四段15號,https://www.google.com.tw/maps/place/臺中市大雅區中清路四段15號,掛號費400元,0,0,0,0,0,尚未更新,false,false
+臺中市,文心好晴天身心診所,https://sogoodday.com.tw/,04-24735925 或加入LINEID:@sogoodday3,臺中市南屯區文心南路30號,https://www.google.com.tw/maps/place/臺中市南屯區文心南路30號,掛號費400元,0,0,0,0,0,尚未更新,false,false
+臺中市,禾悅身心醫學診所,https://drhopsyclinic.com/,04-24061020,臺中市大里區新興路101號1樓,https://www.google.com.tw/maps/place/臺中市大里區新興路101號1樓,掛號費200元,0,0,0,0,0,尚未更新,false,false
+臺南市,看見光亮心理諮商所,https://www.hopelight.com.tw/index.html,06-3584327,臺南市北區海安路三段985巷27弄13號,https://www.google.com.tw/maps/place/臺南市北區海安路三段985巷27弄13號,無,0,0,1,0,1,2025/08/27,true,true
+臺南市,奇美醫療財團法人奇美醫院,https://www.chimei.org.tw/,06-2228116分機58206,臺南市永康區中華路901號,https://www.google.com.tw/maps/place/臺南市永康區中華路901號,無,6,7,11,0,24,2025/08/25,false,true
+臺南市,曙光角落心理諮商所,http://www.eosgrace.com,0978909965,臺南市東區崇明路155巷4號,https://www.google.com.tw/maps/place/臺南市東區崇明路155巷4號,無,0,3,3,3,9,2025/08/31,false,true
+臺南市,悅晴心理諮商所,https://reurl.cc/yL3gaD,0912874211,臺南市安平區怡平路442巷88號2樓,https://www.google.com.tw/maps/place/臺南市安平區怡平路442巷88號2樓,無,3,3,5,6,17,2025/08/31,false,true
+臺南市,緩緩心理諮商所,https://www.huanhuan.tw/,0902009832,臺南市北區開元里北園街124巷10弄64號2樓,https://www.google.com.tw/maps/place/臺南市北區開元里北園街124巷10弄64號2樓,自付場地費400元,3,3,0,0,6,2025/08/23,true,true
+臺南市,繪日藝術心理諮商所,,（06）3565588,臺南市安南區怡安路一段98號,https://www.google.com.tw/maps/place/臺南市安南區怡安路一段98號,自付場地費400元。如進行藝術治療媒材費200元另計。,10,8,8,0,26,2025/08/26,true,true
+臺南市,看見愛心理諮商所,,06-2977769,臺南市安平區永華二街183號1樓,https://www.google.com.tw/maps/place/臺南市安平區永華二街183號1樓,無,0,0,3,3,6,2025/09/02,true,true
+臺南市,樂行診所,https://www.cjclinic.com.tw/,06-2705633,台南市仁德區中正路二段1116號,https://www.google.com.tw/maps/place/台南市仁德區中正路二段1116號,首次需先讓醫師評估確認需求才會分派治療，故會有首次看診費用，排入方案治療後，三次治療不額外收取費用看診費用,2,2,2,2,8,2025/09/02,false,true
+臺南市,安平心寬診所,https://www.facebook.com/AnpingMindSPA/,06-2973757,台南市安平區華平路537號,https://www.google.com.tw/maps/place/台南市安平區華平路537號,本院所轉介心理諮商需先醫師看診評估，依初診或複診收取掛號費,10,10,11,12,43,2025/09/01,false,true
+臺南市,禾心心理諮商所,https://www.sandplayworld-holdingself.com.tw/team2.html,06-3587725,臺南市北區中華北路二段80巷65號,https://www.google.com.tw/maps/place/臺南市北區中華北路二段80巷65號,自付場地費400元,8,12,8,10,38,2025/09/02,true,true
+臺南市,深藏心理治療所,,0963689820,臺南市東區崇明路399號2樓,https://www.google.com.tw/maps/place/臺南市東區崇明路399號2樓,行政處理費250元（單次）,12,12,12,0,36,2025/08/25,true,true
+臺南市,上善心理治療所,,06-237-5555,臺南市北區林森路三段77號2樓,https://www.google.com.tw/maps/place/臺南市北區林森路三段77號2樓,無,9,9,11,12,41,2025/09/01,true,true
+臺南市,春暉診所,,06-2690555,臺南市東區崇學路139-2號,https://www.google.com.tw/maps/place/臺南市東區崇學路139-2號,行政處理費200元,0,2,2,2,6,2025/09/02,false,true
+臺南市,樂而康診所,,06-2607799,臺南市東區崇德路880號一樓,https://www.google.com.tw/maps/place/臺南市東區崇德路880號一樓,掛號費200元,3,5,6,7,21,2025/09/01,false,true
+臺南市,好心情心理諮商所,https://goodmoodpsy.weebly.com/,0909334443,臺南市安平區建平七街453巷75號2樓之2,https://www.google.com.tw/maps/place/臺南市安平區建平七街453巷75號2樓之2,場地費200元,8,8,8,0,24,2025/08/26,true,true
+臺南市,欣橋心理治療所,http://bridges-clinic.com,0937-800-681、06-3022820,臺南市永康區東橋十街20號,https://www.google.com.tw/maps/place/臺南市永康區東橋十街20號,行政費用400元,5,5,5,5,20,2025/09/01,true,true
+臺南市,星語心理治療所,https://ppstainan.com/home-a/,0938057530,臺南市永康區東橋一路552號,https://www.google.com.tw/maps/place/臺南市永康區東橋一路552號,無,8,4,4,4,20,2025/09/01,true,true
+臺南市,真心診所,http://www.heartfeltclinic.com,06-3036002,臺南市永康區東橋十街118號2樓,https://www.google.com.tw/maps/place/臺南市永康區東橋十街118號2樓,掛號費250元,3,3,0,0,6,2025/09/01,true,true
+臺南市,和朗心理諮商所,https://2024bekind.mystrikingly.com/,06-2993800,臺南市安平區文平路428號2樓,https://www.google.com.tw/maps/place/臺南市安平區文平路428號2樓,無,0,1,2,2,5,2025/09/01,true,true
+臺南市,這會心理諮商所,https://togetherwithheart.com/,0918071281,臺南市關廟區南雄路二段30號,https://www.google.com.tw/maps/place/臺南市關廟區南雄路二段30號,無,0,0,0,0,0,2025/09/02,true,false
 臺南市,慈恩心理治療所,https://www.cheerpsy.com/,06-3126267,臺南市永康區中華路1-60號,https://www.google.com.tw/maps/place/臺南市永康區中華路1-60號,自付場地費400元,0,0,0,0,0,尚未更新,true,false
 臺南市,溫柔拾光心理諮商所,https://gentle-space.com/,06-2099980,臺南市東區東光路二段122號,https://www.google.com.tw/maps/place/臺南市東區東光路二段122號,無,0,0,0,0,0,尚未更新,false,false
-臺南市,自然就好心理諮商所,https://www.facebook.com/natureiswell/,06-2752858,臺南市東區慶東街214號,https://www.google.com.tw/maps/place/臺南市東區慶東街214號,無,0,0,0,0,0,尚未更新,true,false
+臺南市,元品心理諮商所,http://www.opin.tw/,06-2229592,臺南市安平區安平路428號2樓,https://www.google.com.tw/maps/place/臺南市安平區安平路428號2樓,無,0,0,0,0,0,尚未更新,true,false
+臺南市,自然就好心理諮商所,https://www.facebook.com/natureiswell/,06-2752858,臺南市東區慶東街214號,https://www.google.com.tw/maps/place/臺南市東區慶東街214號,無,0,0,0,0,0,2025/08/28,true,false
 臺南市,財團法人台灣省私立台南仁愛之家附設仁馨醫院,,06─5902336＃28,臺南市新化區中山路20號,https://www.google.com.tw/maps/place/臺南市新化區中山路20號,無,0,0,0,0,0,尚未更新,true,false
-臺南市,心寬診所,https://www.mindspa.com.tw/outpatient.html,06-3131212,臺南市永康區中華路245號,https://www.google.com.tw/maps/place/臺南市永康區中華路245號,掛號費150元,0,0,0,0,0,尚未更新,false,false
-臺南市,明如身心診所,,06-7225656,臺南市佳里區進學路163-1號,https://www.google.com.tw/maps/place/臺南市佳里區進學路163-1號,初診病人需看診(掛號費200元/部分負擔50元/藥品部分負擔0-200元),0,0,0,0,0,2025/08/04,false,false
+臺南市,心寬診所,https://www.mindspa.com.tw/outpatient.html,06-3131212,臺南市永康區中華路245號,https://www.google.com.tw/maps/place/臺南市永康區中華路245號,掛號費150元,0,0,0,0,0,2025/08/25,false,false
+臺南市,明如身心診所,,06-7225656,臺南市佳里區進學路163-1號,https://www.google.com.tw/maps/place/臺南市佳里區進學路163-1號,初診病人需看診(掛號費200元/部分負擔50元/藥品部分負擔0-200元),0,0,0,0,0,2025/08/26,false,false
 臺南市,樂驛心理諮商所,https://leyi.tw/,06-2095055,臺南市東區育樂街166-4號4樓,https://www.google.com.tw/maps/place/臺南市東區育樂街166-4號4樓,無,0,0,0,0,0,尚未更新,true,false
 臺南市,衛生福利部新營醫院,https://www.syh.mohw.gov.tw/,(06)6351131轉2346,臺南市新營區信義街73號,https://www.google.com.tw/maps/place/臺南市新營區信義街73號,掛號費100元,0,0,0,0,0,尚未更新,false,false
 臺南市,東寧身心診所,,06-2091090,臺南市東區東寧路24-3號,https://www.google.com.tw/maps/place/臺南市東區東寧路24-3號,掛號費200,0,0,0,0,0,尚未更新,false,false
-臺南市,緩緩心理諮商所,https://www.huanhuan.tw/,0902009832,臺南市北區開元里北園街124巷10弄64號2樓,https://www.google.com.tw/maps/place/臺南市北區開元里北園街124巷10弄64號2樓,自付場地費400元,0,0,0,0,0,尚未更新,true,false
 臺南市,伴行心理治療所,,0975124951,臺南市善化區文昌路42-1號,https://www.google.com.tw/maps/place/臺南市善化區文昌路42-1號,行政費400元,0,0,0,0,0,尚未更新,true,false
-臺南市,日安心理治療所,https://good-day-psy.blogspot.com/p/about.html,06-2643939,臺南市南區新興里夏林路167號1樓,https://www.google.com.tw/maps/place/臺南市南區新興里夏林路167號1樓,掛號費200元,0,0,0,0,0,尚未更新,true,false
+臺南市,台灣基督長老教會新樓醫療財團法人麻豆新樓醫院,https://www.sinlau.org.tw/,06-5702228,臺南市麻豆區埤頭里麻佳路一段207號,https://www.google.com.tw/maps/place/臺南市麻豆區埤頭里麻佳路一段207號,掛號費120元,0,0,0,0,0,尚未更新,true,false
+臺南市,日安心理治療所,https://good-day-psy.blogspot.com/p/about.html,06-2643939,臺南市南區新興里夏林路167號1樓,https://www.google.com.tw/maps/place/臺南市南區新興里夏林路167號1樓,掛號費200元,0,0,0,0,0,2025/08/19,true,false
 臺南市,蕭文勝診所,,062755088,臺南市東區東門路二段205號,https://www.google.com.tw/maps/place/臺南市東區東門路二段205號,掛號費200元,0,0,0,0,0,尚未更新,true,false
 臺南市,蕭尹瑩身心診所,https://www.hsiaoclinic.com.tw/,062002268,臺南市北區長榮路四段141號,https://www.google.com.tw/maps/place/臺南市北區長榮路四段141號,掛號費200元,0,0,0,0,0,尚未更新,true,false
 臺南市,林俞仲身心精神科診所,linpsyclinic99@gmail.com,06-3036006,臺南市永康區中山南路31號,https://www.google.com.tw/maps/place/臺南市永康區中山南路31號,行政處理費200元,0,0,0,0,0,尚未更新,false,false
 臺南市,安大身心精神科診所,https://sites.google.com/view/tainan-psyclinic/,06-2568886,台南市安南區海佃路二段450號,https://www.google.com.tw/maps/place/台南市安南區海佃路二段450號,行政處理費200元,0,0,0,0,0,尚未更新,false,false
-臺南市,樂行診所,https://www.cjclinic.com.tw/,06-2705633,台南市仁德區中正路二段1116號,https://www.google.com.tw/maps/place/台南市仁德區中正路二段1116號,首次需先讓醫師評估確認需求才會分派治療，故會有首次看診費用，排入方案治療後，三次治療不額外收取費用看診費用,0,0,0,0,0,尚未更新,false,false
 臺南市,寬欣心理治療所,kx.kxmind@gmail.com,06-2510966,臺南市北區育德一街227號,https://www.google.com.tw/maps/place/臺南市北區育德一街227號,無,0,0,0,0,0,尚未更新,true,false
-臺南市,芯寬欣心理治療所,https://www.kxmind.com/index.php,06-2510560,臺南市北區北安路一段273號,https://www.google.com.tw/maps/place/臺南市北區北安路一段273號,無,0,0,0,0,0,尚未更新,false,false
+臺南市,芯寬欣心理治療所,https://www.kxmind.com/index.php,06-2510560,臺南市北區北安路一段273號,https://www.google.com.tw/maps/place/臺南市北區北安路一段273號,無,0,0,0,0,0,2025/08/25,false,false
 臺南市,衛生福利部嘉南療養院,https://www.cnpc.mohw.gov.tw/,06-2795019#1183,臺南市仁德區裕忠路539號,https://www.google.com.tw/maps/place/臺南市仁德區裕忠路539號,無,0,0,0,0,0,尚未更新,true,false
 臺南市,白河林眼科診所,,066831116,臺南市白河區中山路2-53號,https://www.google.com.tw/maps/place/臺南市白河區中山路2-53號,掛號費50元+部份負擔50元,0,0,0,0,0,尚未更新,true,false
 臺南市,明澤欣心診所,https://hsin-sin.com.tw,062012866,臺南市永康區永大路三段411號,https://www.google.com.tw/maps/place/臺南市永康區永大路三段411號,掛號費200元,0,0,0,0,0,尚未更新,false,false
-臺南市,上善心理治療所,,06-237-5555,臺南市北區林森路三段77號2樓,https://www.google.com.tw/maps/place/臺南市北區林森路三段77號2樓,無,0,0,0,0,0,2025/07/22,true,false
-臺南市,春暉診所,,06-2690555,臺南市東區崇學路139-2號,https://www.google.com.tw/maps/place/臺南市東區崇學路139-2號,行政處理費200元,0,0,0,0,0,2025/07/28,false,false
 臺南市,欣空間心理治療所,,06-3318678,臺南市東區裕和路97號,https://www.google.com.tw/maps/place/臺南市東區裕和路97號,無,0,0,0,0,0,尚未更新,false,false
+臺南市,元品文華心理諮商所,,06-2955257,臺南市安平區建平七街308號,https://www.google.com.tw/maps/place/臺南市安平區建平七街308號,無,0,0,0,0,0,尚未更新,false,false
 臺南市,構好心理諮商所,good-enough.tw,0919507907,臺南東區東平路111號2樓之8,https://www.google.com.tw/maps/place/臺南東區東平路111號2樓之8,無,0,0,0,0,0,尚未更新,false,false
-臺南市,沐盼心理諮商所,https://mupan137.com/  ,0979-732750,臺南市新市區中正路137號,https://www.google.com.tw/maps/place/臺南市新市區中正路137號,場地費：200元,0,0,0,0,0,尚未更新,false,false
+臺南市,快樂心寧身心診所,FB: 快樂心寧診所-台南永康,06-273-8666,台南市永康區永大路二段187號,https://www.google.com.tw/maps/place/台南市永康區永大路二段187號,初診病人需看診(掛號費150元),0,0,0,0,0,尚未更新,false,false
+臺南市,沐盼心理諮商所,https://mupan137.com/  ,0979-732750,臺南市新市區中正路137號,https://www.google.com.tw/maps/place/臺南市新市區中正路137號,場地費：200元,0,0,0,0,0,2025/08/27,false,false
 臺南市,山實心理諮商所,https://shanshi2025.com/,0910370032,臺南市玉井區中山路416號,https://www.google.com.tw/maps/place/臺南市玉井區中山路416號,場地費250元,0,0,0,0,0,尚未更新,true,false
 臺南市,康舟診所,https://www.wholesomeship.com/realtime.asp,06-2655345,臺南市南區金華路一段486號2樓,https://www.google.com.tw/maps/place/臺南市南區金華路一段486號2樓,掛號費250元,0,0,0,0,0,2025/08/14,true,false
-臺南市,聽見‧覺旅心理諮商所,,0978461808,臺南市安平區郡平路305號1、2樓,https://www.google.com.tw/maps/place/臺南市安平區郡平路305號1、2樓,行政管理費200元,0,0,0,0,0,2025/07/23,true,false
+臺南市,聽見‧覺旅心理諮商所,,0978461808,臺南市安平區郡平路305號1、2樓,https://www.google.com.tw/maps/place/臺南市安平區郡平路305號1、2樓,行政管理費200元,0,0,0,0,0,2025/08/21,true,false
 臺南市,禾覓心理諮商所,https://www.holduandme.com/,0933322398,臺南市南區三和街9號,https://www.google.com.tw/maps/place/臺南市南區三和街9號,行政費200元,0,0,0,0,0,尚未更新,true,false
-臺南市,好家在心理諮商所,https://www.hokatsai-counseling.com/,0909522499,臺南市中西區友愛街237號,https://www.google.com.tw/maps/place/臺南市中西區友愛街237號,無,0,0,0,0,0,尚未更新,true,false
-高雄市,小魚兒心理治療所,https://www.childpsycho365.com,(07)398-0118,高雄市三民區澄清路620號2樓,https://www.google.com.tw/maps/place/高雄市三民區澄清路620號2樓,行政處理費500元,0,2,2,2,6,2025/08/15,true,true
-高雄市,小魚兒心理成長空間心理治療所,https://linktr.ee/childpsycho365,(07)398-0118,高雄市三民區澄和路25號,https://www.google.com.tw/maps/place/高雄市三民區澄和路25號,行政處理費500元,3,0,0,0,3,2025/08/15,true,true
-高雄市,盼望心理治療所,https://www.livinghopetw.com/,(07)550-6592,高雄市左營區至聖路3號,https://www.google.com.tw/maps/place/高雄市左營區至聖路3號,行政處理費200元,0,0,0,2,2,2025/08/16,true,true
-高雄市,微風心理治療所,https://www.breeze-psychology.com/,0911-901-899,高雄市鼓山區美術東三路23號,https://www.google.com.tw/maps/place/高雄市鼓山區美術東三路23號,行政處理費400元,12,12,12,0,36,2025/08/04,false,true
-高雄市,心之森心理治療所,https://www.forestofmind.com/,(07)380-9380,高雄市三民區民族巷1-7號,https://www.google.com.tw/maps/place/高雄市三民區民族巷1-7號,行政處理費200元,2,2,2,2,8,2025/08/12,true,true
-高雄市,旅行心理治療所,https://sites.google.com/view/journey-psychological-clinic,0972-691-801,高雄市苓雅區憲政路138號,https://www.google.com.tw/maps/place/高雄市苓雅區憲政路138號,行政處理費500元,1,1,1,1,4,2025/08/10,false,true
-高雄市,幸福家庭心理諮商所,https://sites.google.com/view/rosehappyfamily,0931-890-895,高雄市楠梓區大學東路620號,https://www.google.com.tw/maps/place/高雄市楠梓區大學東路620號,無,6,6,6,2,20,2025/08/11,true,true
-高雄市,回甘心理諮商所,https://bsccpsy.com/,(07)588-9880,高雄市左營區站前北路100號4樓,https://www.google.com.tw/maps/place/高雄市左營區站前北路100號4樓,無,12,12,12,12,48,2025/08/15,true,true
-高雄市,繪心庭心理諮商所(可協助偏鄉),https://www.facebook.com/Pmindgarden/?locale=zh_TW,(07)553-0101,高雄市鼓山區華榮路228號7樓,https://www.google.com.tw/maps/place/高雄市鼓山區華榮路228號7樓,無,8,0,0,0,8,2025/08/11,true,true
-高雄市,安康心理諮商所,https://www.ankangcenter.com/,(07)726-3880,高雄市新興區新興路34號2樓,https://www.google.com.tw/maps/place/高雄市新興區新興路34號2樓,無,4,4,4,4,16,2025/08/15,false,true
-高雄市,藍秀宏心理諮商所,,0988-271-987,高雄市鼓山區博愛二路343號5樓之2,https://www.google.com.tw/maps/place/高雄市鼓山區博愛二路343號5樓之2,無,4,4,4,0,12,2025/08/06,false,true
-高雄市,予愛心理諮商所,http://www.promise2love.com/paper/services_index.php?title_id=5627,0905-923-518,高雄市三民區臥龍路54巷32號,https://www.google.com.tw/maps/place/高雄市三民區臥龍路54巷32號,行政處理費200元,3,3,3,0,9,2025/08/07,true,true
-高雄市,伴心理諮商所,https://companion.com.tw/,(07)345-1358,高雄市三民區明仁路58號,https://www.google.com.tw/maps/place/高雄市三民區明仁路58號,無,6,6,6,0,18,2025/08/07,true,true
-高雄市,蛻變心理諮商所,https://www.facebook.com/k0920142596?mibextid=LQQJ4d,0920-142-596,高雄市前鎮區廣東三街400巷15之1號,https://www.google.com.tw/maps/place/高雄市前鎮區廣東三街400巷15之1號,無,12,12,12,0,36,2025/08/03,false,true
-高雄市,靠港心理諮商所,https://www.facebook.com/profile.php?id=61556501167864,0972-779-011,高雄市小港區維安街48巷29弄2-6號5樓,https://www.google.com.tw/maps/place/高雄市小港區維安街48巷29弄2-6號5樓,無,5,8,8,0,21,2025/08/04,false,true
-高雄市,慢慢心理諮商所,https://maman5361050.com/,(07)536-1050,高雄市前鎮區一心二路21號5樓之3,https://www.google.com.tw/maps/place/高雄市前鎮區一心二路21號5樓之3,無,20,20,20,20,80,2025/08/12,false,true
-高雄市,心靈角落心理諮商所,https://www.facebook.com/PsychoasisStudio,從網站FB申請預約,高雄市左營區自由二路142巷28號,https://www.google.com.tw/maps/place/高雄市左營區自由二路142巷28號,無,8,8,0,0,16,2025/07/30,false,true
-高雄市,心蘊心理諮商所,https://www.mellowcounseling.com/,Line ID：@mc2020,高雄市苓雅區成功一路232號13樓之9,https://www.google.com.tw/maps/place/高雄市苓雅區成功一路232號13樓之9,無,12,12,0,0,24,2025/07/29,true,true
-高雄市,港灣藝術心理諮商所,https://harborarttherapy.com/,Line ID：@harborart,高雄市三民區察哈爾二街10巷45號,https://www.google.com.tw/maps/place/高雄市三民區察哈爾二街10巷45號,行政處理費300元,12,12,12,12,48,2025/08/11,false,true
-高雄市,浪心人心理諮商所,https://www.outhearter.org,0921-311-675,高雄市鳳山區青年路一段262巷39號1樓,https://www.google.com.tw/maps/place/高雄市鳳山區青年路一段262巷39號1樓,行政處理費200元,4,8,8,0,20,2025/08/05,true,true
-高雄市,欣語心理諮商所,https://www.heartrich2017.com/,0968-991-520,高雄市三民區天津街148號1-2樓,https://www.google.com.tw/maps/place/高雄市三民區天津街148號1-2樓,無,0,0,2,5,7,2025/08/11,false,true
-高雄市,冬勝診所,https://www.facebook.com/dongshengclinic,(07)727-8392,高雄市苓雅區中正一路472號,https://www.google.com.tw/maps/place/高雄市苓雅區中正一路472號,行政處理費400元,7,7,7,0,21,2025/08/05,false,true
-高雄市,澄清文鳳診所,http://www.phoenixclinic.com.tw/,(07)398-6611,高雄市三民區澄清路651號1-2樓,https://www.google.com.tw/maps/place/高雄市三民區澄清路651號1-2樓,掛號費150元,3,3,3,0,9,2025/08/04,false,true
-高雄市,維佳身心診所,https://www.facebook.com/profile.php?id=100090506332137,(07)364-6776,高雄市楠梓區加仁路153號,https://www.google.com.tw/maps/place/高雄市楠梓區加仁路153號,掛號費150元,0,2,3,2,7,2025/08/12,false,true
-高雄市,心欣診所,https://www.facebook.com/JoycePsychiatricClinic/,(07)364-0490,高雄市楠梓區德民路822號,https://www.google.com.tw/maps/place/高雄市楠梓區德民路822號,掛號費100元,3,3,4,3,13,2025/08/12,false,true
-高雄市,茂德診所,,(07)312-2238,高雄市三民區自由一路14號,https://www.google.com.tw/maps/place/高雄市三民區自由一路14號,無,0,8,11,10,29,2025/08/15,false,true
-高雄市,楊明仁診所,,(07)223-2223,高雄市苓雅區憲政路258-1號,https://www.google.com.tw/maps/place/高雄市苓雅區憲政路258-1號,掛號費230元,6,6,6,0,18,2025/08/06,false,true
-高雄市,文心診所,https://www.wen-clinic.com.tw/,(07)310-8004,高雄市三民區大裕路256號,https://www.google.com.tw/maps/place/高雄市三民區大裕路256號,掛號費150元,4,5,5,0,14,2025/08/07,false,true
-高雄市,仁武深忻診所,https://renwu-heartconsult.tw/,(07)374-6583,高雄市仁武區仁雄路67-5號,https://www.google.com.tw/maps/place/高雄市仁武區仁雄路67-5號,行政處理費400元,1,2,0,0,3,2025/08/01,false,true
-高雄市,耕心療癒診所,https://www.healing.tw/,(07)359-2011,高雄市左營區曾子路332號,https://www.google.com.tw/maps/place/高雄市左營區曾子路332號,無,10,10,10,10,40,2025/08/12,false,true
-高雄市,工協身心診所,https://gongxie.com.tw,(07)702-0000,高雄市鳳山區勝利路15號1-2樓,https://www.google.com.tw/maps/place/高雄市鳳山區勝利路15號1-2樓,掛號費150元,5,5,5,5,20,2025/08/11,false,true
-高雄市,佳璋診所,https://www.dr1127.com.tw/,(07)721-2090,高雄市苓雅區三多一路303號,https://www.google.com.tw/maps/place/高雄市苓雅區三多一路303號,掛號費300元+行政處理費100元共400元,2,2,2,0,6,2025/08/05,false,true
-高雄市,高雄市立聯合醫院,https://www.kmuh.gov.tw,(07)555-2565,高雄市鼓山區中華一路976號,https://www.google.com.tw/maps/place/高雄市鼓山區中華一路976號,掛號費50元,2,2,2,2,8,2025/08/14,false,true
-高雄市,衛生福利部旗山醫院,https://www.chis.mohw.gov.tw/,(07)661-3811,高雄市旗山區大德里中學路60號,https://www.google.com.tw/maps/place/高雄市旗山區大德里中學路60號,掛號費150元,2,2,2,0,6,2025/08/05,false,true
-高雄市,高雄市立民生醫院,https://kmsh.kcg.gov.tw/Default.aspx,(07)751-1131,高雄市苓雅區凱旋二路134號,https://www.google.com.tw/maps/place/高雄市苓雅區凱旋二路134號,無,3,3,3,3,12,2025/08/11,false,true
-高雄市,樂安醫院,http://www.lokan.com.tw/index.htm,(07)625-6791,高雄市岡山區通校路300號,https://www.google.com.tw/maps/place/高雄市岡山區通校路300號,行政處理費100元,1,1,1,0,3,2025/08/04,false,true
-高雄市,高雄市立大同醫院(委託長庚醫療財團法人經營),https://www.cgmh.org.tw/TW/Services/Team,(07)291-1101 分機8029,高雄市前金區中華三路68號 ,https://www.google.com.tw/maps/place/高雄市前金區中華三路68號 ,無,4,4,4,0,12,2025/08/04,false,true
-高雄市,財團法人台灣省私立高雄仁愛之家附設慈惠醫院,https://thmh.khja.org.tw/,(07)703-0315,高雄市大寮區後庄里鳳屏一路509號,https://www.google.com.tw/maps/place/高雄市大寮區後庄里鳳屏一路509號,掛號費100元,5,5,5,5,20,2025/08/12,true,true
-高雄市,燕巢靜和醫療社團法人燕巢靜和醫院,https://www.jing-ho.com.tw/,(07)615-6555分機151,高雄市燕巢區深水路3-20號,https://www.google.com.tw/maps/place/高雄市燕巢區深水路3-20號,掛號費50元/次,3,3,2,3,11,2025/08/12,false,true
-高雄市,欣靜和診所,https://www.facebook.com/profile.php?id=61560423341061&mibextid=LQQJ4d,(07)236-7773,高雄市新興區八德一路298號,https://www.google.com.tw/maps/place/高雄市新興區八德一路298號,掛號費150,8,8,8,0,24,2025/08/06,false,true
-高雄市,芯耕圓心理諮商所,https://www.growheart.tw/,(07)556-7315,高雄市左營區至聖路312號17樓之三,https://www.google.com.tw/maps/place/高雄市左營區至聖路312號17樓之三,無,4,5,5,5,19,2025/08/12,true,true
-高雄市,欣明精神科診所,,(07)662-7802,高雄市旗山區延平一路660號,https://www.google.com.tw/maps/place/高雄市旗山區延平一路660號,掛號費130元,5,5,5,0,15,2025/08/07,false,true
-高雄市,高雄市立旗津醫院(委託財團法人私立高雄醫學大學經營),https://www.kmch.org.tw/web/wwwkmch/cindex.asp,(07)5711188,高雄市旗津區旗港路33號,https://www.google.com.tw/maps/place/高雄市旗津區旗港路33號,掛號費100元,0,1,1,2,4,2025/08/11,false,true
-高雄市,安好心理諮商所,https://www.facebook.com/jennylincares,LineID：@anhao,高雄市前鎮區崗山東街34號,https://www.google.com.tw/maps/place/高雄市前鎮區崗山東街34號,行政處理費500元,6,6,6,6,24,2025/08/10,false,true
-高雄市,繪星心理治療所,https://www.lfstarsinmind.com/,(07)236-2585,高雄市新興區八德一路212號2樓,https://www.google.com.tw/maps/place/高雄市新興區八德一路212號2樓,平日白天18:00前:行政處理費200+掛號費100元，夜間18:00後含週六：行政處理費600+掛號費100元 ,0,0,0,0,0,2025/08/09,true,false
-高雄市,宇智心理治療所,,(07)777-5580,高雄市鳳山區文衡路490號2樓,https://www.google.com.tw/maps/place/高雄市鳳山區文衡路490號2樓,無,0,0,0,0,0,2025/07/31,false,false
+臺南市,好家在心理諮商所,https://www.hokatsai-counseling.com/,0909522499,臺南市中西區友愛街237號,https://www.google.com.tw/maps/place/臺南市中西區友愛街237號,無,0,0,0,0,0,2025/09/01,true,false
+高雄市,小魚兒心理治療所,https://www.childpsycho365.com,(07)398-0118,高雄市三民區澄清路620號2樓,https://www.google.com.tw/maps/place/高雄市三民區澄清路620號2樓,行政處理費500元,2,2,2,0,6,2025/09/01,true,true
+高雄市,小魚兒心理成長空間心理治療所,https://linktr.ee/childpsycho365,(07)398-0118,高雄市三民區澄和路25號,https://www.google.com.tw/maps/place/高雄市三民區澄和路25號,行政處理費500元,2,2,2,0,6,2025/09/01,true,true
+高雄市,盼望心理治療所,https://www.livinghopetw.com/,(07)550-6592,高雄市左營區至聖路3號,https://www.google.com.tw/maps/place/高雄市左營區至聖路3號,行政處理費200元,0,0,0,2,2,2025/09/01,true,true
+高雄市,微風心理治療所,https://www.breeze-psychology.com/,0911-901-899,高雄市鼓山區美術東三路23號,https://www.google.com.tw/maps/place/高雄市鼓山區美術東三路23號,行政處理費400元,12,12,12,0,36,2025/08/25,false,true
+高雄市,心之森心理治療所,https://www.forestofmind.com/,(07)380-9380,高雄市三民區民族巷1-7號,https://www.google.com.tw/maps/place/高雄市三民區民族巷1-7號,行政處理費200元,2,2,2,0,6,2025/08/25,true,true
+高雄市,心托邦心理治療所,https://www.mindtopia.com.tw/,0983-769-055,高雄市苓雅區中正二路131號,https://www.google.com.tw/maps/place/高雄市苓雅區中正二路131號,行政處理費200元,0,0,0,4,4,2025/09/01,true,true
+高雄市,旅行心理治療所,https://sites.google.com/view/journey-psychological-clinic,0972-691-801,高雄市苓雅區憲政路138號,https://www.google.com.tw/maps/place/高雄市苓雅區憲政路138號,行政處理費500元,1,1,2,12,16,2025/08/31,false,true
+高雄市,欣寧心理治療所,https://www.facebook.com/CheerfulMindsClinics,(07)350-2119,高雄市左營區重愛路395號,https://www.google.com.tw/maps/place/高雄市左營區重愛路395號,平日下午五點前：掛號費100元+行政處理費300元，平日下午五點後與周六/日整日：掛號費100元+行政處理費500元,61,0,0,0,61,2025/08/31,false,true
+高雄市,幸福家庭心理諮商所,https://sites.google.com/view/rosehappyfamily,0931-890-895,高雄市楠梓區大學東路620號,https://www.google.com.tw/maps/place/高雄市楠梓區大學東路620號,無,2,2,2,1,7,2025/08/31,true,true
+高雄市,回甘心理諮商所,https://bsccpsy.com/,(07)588-9880,高雄市左營區站前北路100號4樓,https://www.google.com.tw/maps/place/高雄市左營區站前北路100號4樓,無,12,12,12,0,36,2025/08/26,true,true
+高雄市,安康心理諮商所,https://www.ankangcenter.com/,(07)726-3880,高雄市新興區新興路34號2樓,https://www.google.com.tw/maps/place/高雄市新興區新興路34號2樓,無,4,4,4,0,12,2025/08/28,false,true
+高雄市,予愛心理諮商所,http://www.promise2love.com/paper/services_index.php?title_id=5627,0905-923-518,高雄市三民區臥龍路54巷32號,https://www.google.com.tw/maps/place/高雄市三民區臥龍路54巷32號,行政處理費200元,0,3,3,3,9,2025/09/02,true,true
+高雄市,伴心理諮商所,https://companion.com.tw/,(07)345-1358,高雄市三民區明仁路58號,https://www.google.com.tw/maps/place/高雄市三民區明仁路58號,無,6,6,6,0,18,2025/08/27,true,true
+高雄市,蛻變心理諮商所,https://www.facebook.com/k0920142596?mibextid=LQQJ4d,0920-142-596,高雄市前鎮區廣東三街400巷15之1號,https://www.google.com.tw/maps/place/高雄市前鎮區廣東三街400巷15之1號,無,12,12,12,0,36,2025/08/26,false,true
+高雄市,遇見心理諮商所,https://www.meetcc2020.com.tw/index.html,(07)345-3569,高雄市左營區重光路82號,https://www.google.com.tw/maps/place/高雄市左營區重光路82號,無,4,4,4,4,16,2025/09/02,true,true
+高雄市,靠港心理諮商所,https://www.facebook.com/profile.php?id=61556501167864,0972-779-011,高雄市小港區維安街48巷29弄2-6號5樓,https://www.google.com.tw/maps/place/高雄市小港區維安街48巷29弄2-6號5樓,無,0,5,4,6,15,2025/09/02,false,true
+高雄市,心靈角落心理諮商所,https://www.facebook.com/PsychoasisStudio,從網站FB申請預約,高雄市左營區自由二路142巷28號,https://www.google.com.tw/maps/place/高雄市左營區自由二路142巷28號,無,8,3,3,3,17,2025/08/31,false,true
+高雄市,心蘊心理諮商所,https://www.mellowcounseling.com/,Line ID：@mc2020,高雄市苓雅區成功一路232號13樓之9,https://www.google.com.tw/maps/place/高雄市苓雅區成功一路232號13樓之9,無,12,12,12,0,36,2025/08/26,true,true
+高雄市,港灣藝術心理諮商所,https://harborarttherapy.com/,Line ID：@harborart,高雄市三民區察哈爾二街10巷45號,https://www.google.com.tw/maps/place/高雄市三民區察哈爾二街10巷45號,行政處理費300元,12,12,12,0,36,2025/08/29,false,true
+高雄市,欣語心理諮商所,https://www.heartrich2017.com/,0968-991-520,高雄市三民區天津街148號1-2樓,https://www.google.com.tw/maps/place/高雄市三民區天津街148號1-2樓,無,1,2,2,3,8,2025/09/01,false,true
+高雄市,冬勝診所,https://www.facebook.com/dongshengclinic,(07)727-8392,高雄市苓雅區中正一路472號,https://www.google.com.tw/maps/place/高雄市苓雅區中正一路472號,行政處理費400元,6,6,6,6,24,2025/08/31,false,true
+高雄市,澄清文鳳診所,http://www.phoenixclinic.com.tw/,(07)398-6611,高雄市三民區澄清路651號1-2樓,https://www.google.com.tw/maps/place/高雄市三民區澄清路651號1-2樓,掛號費150元,3,3,3,5,14,2025/09/01,false,true
+高雄市,維佳身心診所,https://www.facebook.com/profile.php?id=100090506332137,(07)364-6776,高雄市楠梓區加仁路153號,https://www.google.com.tw/maps/place/高雄市楠梓區加仁路153號,掛號費150元,2,3,4,3,12,2025/09/02,false,true
+高雄市,心欣診所,https://www.facebook.com/JoycePsychiatricClinic/,(07)364-0490,高雄市楠梓區德民路822號,https://www.google.com.tw/maps/place/高雄市楠梓區德民路822號,掛號費100元,3,4,3,4,14,2025/09/01,false,true
+高雄市,茂德診所,,(07)312-2238,高雄市三民區自由一路14號,https://www.google.com.tw/maps/place/高雄市三民區自由一路14號,無,7,9,10,0,26,2025/08/30,false,true
+高雄市,楊明仁診所,,(07)223-2223,高雄市苓雅區憲政路258-1號,https://www.google.com.tw/maps/place/高雄市苓雅區憲政路258-1號,掛號費230元,4,4,4,5,17,2025/09/02,false,true
+高雄市,仁武深忻診所,https://renwu-heartconsult.tw/,(07)374-6583,高雄市仁武區仁雄路67-5號,https://www.google.com.tw/maps/place/高雄市仁武區仁雄路67-5號,行政處理費400元,2,2,2,2,8,2025/09/01,false,true
+高雄市,耕心療癒診所,https://www.healing.tw/,(07)359-2011,高雄市左營區曾子路332號,https://www.google.com.tw/maps/place/高雄市左營區曾子路332號,無,10,10,0,0,20,2025/08/18,false,true
+高雄市,工協身心診所,https://gongxie.com.tw,(07)702-0000,高雄市鳳山區勝利路15號1-2樓,https://www.google.com.tw/maps/place/高雄市鳳山區勝利路15號1-2樓,掛號費150元,3,3,3,0,9,2025/08/29,false,true
+高雄市,寬福診所,http://kfclinic.com.tw/index.php,(07)558-0809,高雄市左營區明誠二路200號,https://www.google.com.tw/maps/place/高雄市左營區明誠二路200號,無,2,2,2,0,6,2025/08/29,false,true
+高雄市,佳璋診所,https://www.dr1127.com.tw/,(07)721-2090,高雄市苓雅區三多一路303號,https://www.google.com.tw/maps/place/高雄市苓雅區三多一路303號,掛號費300元+行政處理費100元共400元,2,2,0,0,4,2025/08/17,false,true
+高雄市,高雄市立聯合醫院,https://www.kmuh.gov.tw,(07)555-2565,高雄市鼓山區中華一路976號,https://www.google.com.tw/maps/place/高雄市鼓山區中華一路976號,掛號費50元,0,2,2,0,4,2025/08/25,false,true
+高雄市,衛生福利部旗山醫院,https://www.chis.mohw.gov.tw/,(07)661-3811,高雄市旗山區大德里中學路60號,https://www.google.com.tw/maps/place/高雄市旗山區大德里中學路60號,掛號費150元,2,2,0,0,4,2025/08/21,false,true
+高雄市,高雄市立民生醫院,https://kmsh.kcg.gov.tw/Default.aspx,(07)751-1131,高雄市苓雅區凱旋二路134號,https://www.google.com.tw/maps/place/高雄市苓雅區凱旋二路134號,無,3,3,3,3,12,2025/09/01,false,true
+高雄市,樂安醫院,http://www.lokan.com.tw/index.htm,(07)625-6791,高雄市岡山區通校路300號,https://www.google.com.tw/maps/place/高雄市岡山區通校路300號,行政處理費100元,1,1,1,0,3,2025/08/26,false,true
+高雄市,高雄市立大同醫院(委託長庚醫療財團法人經營),https://www.cgmh.org.tw/TW/Services/Team,(07)291-1101 分機8029,高雄市前金區中華三路68號 ,https://www.google.com.tw/maps/place/高雄市前金區中華三路68號 ,無,3,3,3,0,9,2025/08/25,false,true
+高雄市,財團法人台灣省私立高雄仁愛之家附設慈惠醫院,https://thmh.khja.org.tw/,(07)703-0315,高雄市大寮區後庄里鳳屏一路509號,https://www.google.com.tw/maps/place/高雄市大寮區後庄里鳳屏一路509號,掛號費100元,5,5,0,0,10,2025/08/20,true,true
+高雄市,燕巢靜和醫療社團法人燕巢靜和醫院,https://www.jing-ho.com.tw/,(07)615-6555分機151,高雄市燕巢區深水路3-20號,https://www.google.com.tw/maps/place/高雄市燕巢區深水路3-20號,掛號費50元/次,2,3,3,0,8,2025/08/27,false,true
+高雄市,欣靜和診所,https://www.facebook.com/profile.php?id=61560423341061&mibextid=LQQJ4d,(07)236-7773,高雄市新興區八德一路298號,https://www.google.com.tw/maps/place/高雄市新興區八德一路298號,掛號費150,8,8,0,0,16,2025/08/23,false,true
+高雄市,芯耕圓心理諮商所,https://www.growheart.tw/,(07)556-7315,高雄市左營區至聖路312號17樓之三,https://www.google.com.tw/maps/place/高雄市左營區至聖路312號17樓之三,無,5,5,5,0,15,2025/08/25,true,true
+高雄市,和誼診所,http://www.yehiclinic.com,(07)285-5698,高雄市前金區六合二路98號,https://www.google.com.tw/maps/place/高雄市前金區六合二路98號,掛號費300元+行政處理費100元共400元,3,3,0,0,6,2025/08/17,false,true
+高雄市,高雄市立旗津醫院(委託財團法人私立高雄醫學大學經營),https://www.kmch.org.tw/web/wwwkmch/cindex.asp,(07)5711188,高雄市旗津區旗港路33號,https://www.google.com.tw/maps/place/高雄市旗津區旗港路33號,掛號費100元,2,1,1,0,4,2025/09/02,false,true
+高雄市,安好心理諮商所,https://www.facebook.com/jennylincares,LineID：@anhao,高雄市前鎮區崗山東街34號,https://www.google.com.tw/maps/place/高雄市前鎮區崗山東街34號,行政處理費500元,6,6,6,0,18,2025/08/27,false,true
+高雄市,繪星心理治療所,https://www.lfstarsinmind.com/,(07)236-2585,高雄市新興區八德一路212號2樓,https://www.google.com.tw/maps/place/高雄市新興區八德一路212號2樓,平日白天18:00前:行政處理費200+掛號費100元，夜間18:00後含週六：行政處理費600+掛號費100元 ,0,0,0,0,0,2025/08/19,true,false
+高雄市,宇智心理治療所,,(07)777-5580,高雄市鳳山區文衡路490號2樓,https://www.google.com.tw/maps/place/高雄市鳳山區文衡路490號2樓,無,0,0,0,0,0,2025/08/17,false,false
 高雄市,溫島心理治療所,https://www.facebook.com/wondermind515,(07)963-8515,高雄市前鎮區瑞和街6號,https://www.google.com.tw/maps/place/高雄市前鎮區瑞和街6號,掛號費100元,0,0,0,0,0,尚未更新,false,false
 高雄市,路以心理治療所,https://www.facebook.com/raah.psychotherapy?mibextid=ZbWKwL,0975-375-759,高雄市鳳山區瑞春街4號1、2樓,https://www.google.com.tw/maps/place/高雄市鳳山區瑞春街4號1、2樓,無,0,0,0,0,0,尚未更新,false,false
 高雄市,禾好心理治療所,https://www.howhowmind.com/,0912-208-826,高雄市苓雅區正大路119號2樓,https://www.google.com.tw/maps/place/高雄市苓雅區正大路119號2樓,行政處理費600元,0,0,0,0,0,尚未更新,true,false
 高雄市,美術館禾好心理治療所,https://www.howhowmind.com/,0912-208-826,高雄市鼓山區美術北一街81號,https://www.google.com.tw/maps/place/高雄市鼓山區美術北一街81號,行政處理費600元,0,0,0,0,0,尚未更新,true,false
-高雄市,心托邦心理治療所,https://www.mindtopia.com.tw/,0983-769-055,高雄市苓雅區中正二路131號,https://www.google.com.tw/maps/place/高雄市苓雅區中正二路131號,行政處理費200元,0,0,0,0,0,尚未更新,true,false
-高雄市,欣寧心理治療所,https://www.facebook.com/CheerfulMindsClinics,(07)350-2119,高雄市左營區重愛路395號,https://www.google.com.tw/maps/place/高雄市左營區重愛路395號,平日下午五點前：掛號費100元+行政處理費300元，平日下午五點後與周六/日整日：掛號費100元+行政處理費500元,0,0,0,0,0,2025/08/03,false,false
 高雄市,澄河心理諮商所,https://www.facebook.com/wellspring.kh,從網站FB申請預約,高雄市楠梓區朝明路160巷4號,https://www.google.com.tw/maps/place/高雄市楠梓區朝明路160巷4號,無,0,0,0,0,0,2025/08/12,false,false
 高雄市,方泊心理諮商所,https://www.fb-wayfarer.com,(07)395-9000,高雄市三民區建元路56號2樓,https://www.google.com.tw/maps/place/高雄市三民區建元路56號2樓,行政處理費400元,0,0,0,0,0,尚未更新,true,false
 高雄市,散步後花園心理諮商所,https://gardenwalking.com/,Line ID：@048mljoz,高雄市苓雅區林德街10巷15號4樓,https://www.google.com.tw/maps/place/高雄市苓雅區林德街10巷15號4樓,無,0,0,0,0,0,尚未更新,true,false
 高雄市,華遠心理諮商所,https://lovelifelearn.bangtech.com,(07)552-7285,高雄市鼓山區厚德路186號6樓之1,https://www.google.com.tw/maps/place/高雄市鼓山區厚德路186號6樓之1,無,0,0,0,0,0,尚未更新,false,false
-高雄市,敲敲話心理諮商所,https://www.qiaotalk.com/,Line ID：@008josxk,高雄市三民區安泰里天津街255巷24號5樓,https://www.google.com.tw/maps/place/高雄市三民區安泰里天津街255巷24號5樓,行政處理費400元,0,0,0,0,0,2025/08/13,true,false
+高雄市,敲敲話心理諮商所,https://www.qiaotalk.com/,Line ID：@008josxk,高雄市三民區安泰里天津街255巷24號5樓,https://www.google.com.tw/maps/place/高雄市三民區安泰里天津街255巷24號5樓,行政處理費400元,0,0,0,0,0,2025/08/27,true,false
+高雄市,繪心庭心理諮商所(可協助偏鄉),https://www.facebook.com/Pmindgarden/?locale=zh_TW,(07)553-0101,高雄市鼓山區華榮路228號7樓,https://www.google.com.tw/maps/place/高雄市鼓山區華榮路228號7樓,無,0,0,0,0,0,2025/08/30,true,false
 高雄市,綠野仙蹤心理諮商所,https://greenfield188.wordpress.com/,(07)550-8216,高雄市左營區裕誠路188號2樓,https://www.google.com.tw/maps/place/高雄市左營區裕誠路188號2樓,無,0,0,0,0,0,尚未更新,true,false
-高雄市,小宅心理諮商所,https://www.iamkhhouse.com/,0918-061-622,高雄市前鎮區文橫三路194-3號,https://www.google.com.tw/maps/place/高雄市前鎮區文橫三路194-3號,行政處理費400元,0,0,0,0,0,2025/08/12,true,false
-高雄市,好加在心理諮商所,https://haojazai.com/,0975-733-510,高雄市苓雅區苓雅一路15號三樓,https://www.google.com.tw/maps/place/高雄市苓雅區苓雅一路15號三樓,行政處理費400元,0,0,0,0,0,2025/08/11,false,false
-高雄市,遇見心理諮商所,https://www.meetcc2020.com.tw/index.html,(07)345-3569,高雄市左營區重光路82號,https://www.google.com.tw/maps/place/高雄市左營區重光路82號,無,0,0,0,0,0,尚未更新,true,false
+高雄市,小宅心理諮商所,https://www.iamkhhouse.com/,0918-061-622,高雄市前鎮區文橫三路194-3號,https://www.google.com.tw/maps/place/高雄市前鎮區文橫三路194-3號,行政處理費400元,0,0,0,0,0,2025/08/19,true,false
+高雄市,藍秀宏心理諮商所,,0988-271-987,高雄市鼓山區博愛二路343號5樓之2,https://www.google.com.tw/maps/place/高雄市鼓山區博愛二路343號5樓之2,無,0,0,0,0,0,2025/09/03,false,false
+高雄市,好加在心理諮商所,https://haojazai.com/,0975-733-510,高雄市苓雅區苓雅一路15號三樓,https://www.google.com.tw/maps/place/高雄市苓雅區苓雅一路15號三樓,行政處理費400元,0,0,0,0,0,2025/08/25,false,false
+高雄市,慢慢心理諮商所,https://maman5361050.com/,(07)536-1050,高雄市前鎮區一心二路21號5樓之3,https://www.google.com.tw/maps/place/高雄市前鎮區一心二路21號5樓之3,無,0,0,0,0,0,2025/08/31,false,false
 高雄市,神木心理諮商所,https://www.facebook.com/profile.php?id=61556593215868&mibextid=LQQJ4d,0901-245-230,高雄市前鎮區二聖路230號,https://www.google.com.tw/maps/place/高雄市前鎮區二聖路230號,無,0,0,0,0,0,尚未更新,false,false
+高雄市,浪心人心理諮商所,https://www.outhearter.org,0921-311-675,高雄市鳳山區青年路一段262巷39號1樓,https://www.google.com.tw/maps/place/高雄市鳳山區青年路一段262巷39號1樓,行政處理費200元,0,0,0,0,0,尚未更新,true,false
 高雄市,高安診所,https://sites.google.com/view/kao-an/,0905-414-363,高雄市新興區中山一路59號,https://www.google.com.tw/maps/place/高雄市新興區中山一路59號,無,0,0,0,0,0,尚未更新,false,false
-高雄市,心悅診所,https://www.facebook.com/profile.php?id=100064048774868,(07)380-5562,高雄市三民區建工路587號,https://www.google.com.tw/maps/place/高雄市三民區建工路587號,掛號費200元,0,0,0,0,0,2025/08/14,true,false
-高雄市,和成診所,https://clinic3.ark-medicine.com/doctorterm,(07)796-1900,高雄市鳳山區和成路71號,https://www.google.com.tw/maps/place/高雄市鳳山區和成路71號,掛號費100元,0,0,0,0,0,2025/08/08,false,false
+高雄市,心悅診所,https://www.facebook.com/profile.php?id=100064048774868,(07)380-5562,高雄市三民區建工路587號,https://www.google.com.tw/maps/place/高雄市三民區建工路587號,掛號費200元,0,0,0,0,0,2025/08/30,true,false
+高雄市,和成診所,https://clinic3.ark-medicine.com/doctorterm,(07)796-1900,高雄市鳳山區和成路71號,https://www.google.com.tw/maps/place/高雄市鳳山區和成路71號,掛號費100元,0,0,0,0,0,尚未更新,false,false
+高雄市,文心診所,https://www.wen-clinic.com.tw/,(07)310-8004,高雄市三民區大裕路256號,https://www.google.com.tw/maps/place/高雄市三民區大裕路256號,掛號費150元,0,0,0,0,0,尚未更新,false,false
 高雄市,大順景福診所,http://jfclinic.com.tw/,(07)383-3799,高雄市三民區大順二路720號,https://www.google.com.tw/maps/place/高雄市三民區大順二路720號,無,0,0,0,0,0,尚未更新,false,false
-高雄市,寬福診所,http://kfclinic.com.tw/index.php,(07)558-0809,高雄市左營區明誠二路200號,https://www.google.com.tw/maps/place/高雄市左營區明誠二路200號,無,0,0,0,0,0,尚未更新,false,false
-高雄市,高雄榮民總醫院,https://www.vghks.gov.tw/,(07)342-2121分機72067,高雄市左營區大中一路386號,https://www.google.com.tw/maps/place/高雄市左營區大中一路386號,無,0,0,0,0,0,2025/08/12,false,false
+高雄市,高雄榮民總醫院,https://www.vghks.gov.tw/,(07)342-2121分機72067,高雄市左營區大中一路386號,https://www.google.com.tw/maps/place/高雄市左營區大中一路386號,無,0,0,0,0,0,2025/08/25,false,false
 高雄市,高雄市立小港醫院(委託財團法人私立高雄醫學大學經營),https://www.kmsh.org.tw/Web/KMSHInterWeb/InterWeb/Cover,(07)803-6783分機3850，https://forms.gle/caaXcRRAeHgpDyfv8預約網站,高雄市小港區山明路482號,https://www.google.com.tw/maps/place/高雄市小港區山明路482號,無,0,0,0,0,0,尚未更新,false,false
-高雄市,高雄市立凱旋醫院,https://ksph.kcg.gov.tw/,(07)751-3171,高雄市苓雅區凱旋二路130號,https://www.google.com.tw/maps/place/高雄市苓雅區凱旋二路130號,無,0,0,0,0,0,2025/08/07,true,false
+高雄市,高雄市立凱旋醫院,https://ksph.kcg.gov.tw/,(07)751-3171,高雄市苓雅區凱旋二路130號,https://www.google.com.tw/maps/place/高雄市苓雅區凱旋二路130號,無,0,0,0,0,0,尚未更新,true,false
 高雄市,財團法人私立高雄醫學大學附設中和紀念醫院,https://www.kmuh.org.tw/,(07)312-1101分機6751,高雄市三民區自由一路100號,https://www.google.com.tw/maps/place/高雄市三民區自由一路100號,掛號費150元,0,0,0,0,0,尚未更新,true,false
-高雄市,義大醫療財團法人義大醫院,https://www.edah.org.tw/,(07)615-0011,高雄市燕巢區義大路1號,https://www.google.com.tw/maps/place/高雄市燕巢區義大路1號,無,0,0,0,0,0,2025/08/15,false,false
+高雄市,義大醫療財團法人義大醫院,https://www.edah.org.tw/,(07)615-0011,高雄市燕巢區義大路1號,https://www.google.com.tw/maps/place/高雄市燕巢區義大路1號,無,0,0,0,0,0,2025/08/27,false,false
 高雄市,高雄市立鳳山醫院（委託長庚醫療財團法人經營）,https://cghdpt.cgmh.org.tw/branch/fsn,(07)741-8151,高雄市鳳山區經武路42-1號,https://www.google.com.tw/maps/place/高雄市鳳山區經武路42-1號,掛號費70元，部分負擔80元,0,0,0,0,0,尚未更新,false,false
 高雄市,長庚醫療財團法人高雄長庚紀念醫院,https://cghdpt.cgmh.org.tw/branch/shk,(07)731-7123轉8780、8781、8782,高雄市鳥松區大埤路123號,https://www.google.com.tw/maps/place/高雄市鳥松區大埤路123號,無,0,0,0,0,0,尚未更新,false,false
-高雄市,和誼診所,http://www.yehiclinic.com,(07)285-5698,高雄市前金區六合二路98號,https://www.google.com.tw/maps/place/高雄市前金區六合二路98號,掛號費300元+行政處理費100元共400元,0,0,0,0,0,2025/08/02,false,false
 高雄市,信義醫療財團法人高雄基督教醫院,https://www.kch.org.tw/default.php,(07)332-1111#6766,高雄市苓雅區華新街８６號,https://www.google.com.tw/maps/place/高雄市苓雅區華新街８６號,掛號費150元,0,0,0,0,0,尚未更新,false,false
+高雄市,欣明精神科診所,,(07)662-7802,高雄市旗山區延平一路660號,https://www.google.com.tw/maps/place/高雄市旗山區延平一路660號,掛號費130元,0,0,0,0,0,2025/08/26,false,false
 高雄市,國立高雄師範大學附設和平心理諮商所,https://peace-pcc.nknu.edu.tw,(07)531-3381,高雄市鼓山區內惟路8號,https://www.google.com.tw/maps/place/高雄市鼓山區內惟路8號,無,0,0,0,0,0,尚未更新,false,false
 高雄市,繪星巨蛋館心理治療所,https://www.lfstarsinmind.com/,(07)552-2858,高雄市左營區南屏路259-1號1樓,https://www.google.com.tw/maps/place/高雄市左營區南屏路259-1號1樓,平日白天18:00前：行政處理費200，掛號費100元 夜間18:00後含週六：行政處理費600，掛號費100元,0,0,0,0,0,尚未更新,true,false
 高雄市,展穎診所 ,https://www.facebook.com/profile.php?id=100003075606826&lst=100003075606826%3A100003075606826%3A1517968902,(07)713-0822,高雄市苓雅區四維一路157號,https://www.google.com.tw/maps/place/高雄市苓雅區四維一路157號,無,0,0,0,0,0,尚未更新,false,false
 高雄市,楠梓臻心診所,https://nanzizhenxin.weebly.com/,(07)363-1096,高雄市楠梓區右昌街656號,https://www.google.com.tw/maps/place/高雄市楠梓區右昌街656號,掛號費100元,0,0,0,0,0,尚未更新,false,false
-高雄市,小宇宙心理治療所,https://www.facebook.com/profile.php?id=61566388522584,(07)380-5160,高雄市三民區建工路585號2樓,https://www.google.com.tw/maps/place/高雄市三民區建工路585號2樓,行政處理費200元,0,0,0,0,0,2025/08/14,true,false
-高雄市,暖心心理諮商所,https://sites.google.com/view/crcc2025/,(07)777-6248,高雄市鳳山區建國路三段248號,https://www.google.com.tw/maps/place/高雄市鳳山區建國路三段248號,無,0,0,0,0,0,2025/07/23,true,false
+高雄市,小宇宙心理治療所,https://www.facebook.com/profile.php?id=61566388522584,(07)380-5160,高雄市三民區建工路585號2樓,https://www.google.com.tw/maps/place/高雄市三民區建工路585號2樓,行政處理費200元,0,0,0,0,0,2025/09/03,true,false
+高雄市,暖心心理諮商所,https://sites.google.com/view/crcc2025/,(07)777-6248,高雄市鳳山區建國路三段248號,https://www.google.com.tw/maps/place/高雄市鳳山區建國路三段248號,無,0,0,0,0,0,2025/09/02,true,false
 高雄市,心和心理諮商所,https://www.peacefulheart520.com/,(07)215-5838、0963-985-063,高雄市前金區中正四路235號9樓之5,https://www.google.com.tw/maps/place/高雄市前金區中正四路235號9樓之5,行政管理費600元,0,0,0,0,0,尚未更新,true,false
-高雄市,大海心理諮商所,https://www.facebook.com/profile.php?id=61551094383247,0910-538-598,高雄市新興區中正二路192號6樓之1,https://www.google.com.tw/maps/place/高雄市新興區中正二路192號6樓之1,行政費用200元整,0,0,0,0,0,2025/07/23,true,false
-高雄市,蛹之生心理諮商所,https://www.morph.com.tw,0968-070-620或至官網填寫預約表單,高雄市楠梓區土庫一路178號,https://www.google.com.tw/maps/place/高雄市楠梓區土庫一路178號,無,0,0,0,0,0,尚未更新,false,false
-基隆市,衛生福利部基隆醫院,https://www.kln.mohw.gov.tw,(02)24292525#3611,基隆市信義區信二路268號,https://www.google.com.tw/maps/place/基隆市信義區信二路268號,掛號費100元,7,7,8,8,30,2025/08/15,false,true
-基隆市,維德醫療社團法人基隆維德醫院,http://www.vitahosp.com.tw/,(02)2469-6688,基隆市中正區調和街210號,https://www.google.com.tw/maps/place/基隆市中正區調和街210號,掛號費150元,2,2,0,0,4,2025/07/31,false,true
-基隆市,基隆心身心精神科診所,http://www.keelungheart.com.tw/,(02)2428-3399,基隆市仁愛區仁一路181號1樓,https://www.google.com.tw/maps/place/基隆市仁愛區仁一路181號1樓,無,0,0,1,1,2,2025/08/13,false,true
-基隆市,耘心心理諮商所,https://counseling.i-talk.tw/,(02)2427-10000968-522-731,基隆市信義區信一路150號5樓A室,https://www.google.com.tw/maps/place/基隆市信義區信一路150號5樓A室,無,8,8,10,0,26,2025/08/04,false,true
-基隆市,心晴天心理治療所,https://clearmindpsy.com/,(02)24211009,基隆市中正區中正路12之5號2樓,https://www.google.com.tw/maps/place/基隆市中正區中正路12之5號2樓,無,6,6,6,0,18,2025/08/07,false,true
-基隆市,胡耿豪身心精神科診所,https://www.kenhaoclinic.com/,(02)2431-0311,基隆市安樂區武嶺街85號1樓,https://www.google.com.tw/maps/place/基隆市安樂區武嶺街85號1樓,行政費300元,0,0,0,0,0,尚未更新,false,false
-基隆市,安大心身心診所,https://www.facebook.com/profile.php?id=100086128950880,(02)2469-4100,基隆市中正區新豐街229號,https://www.google.com.tw/maps/place/基隆市中正區新豐街229號,掛號費400元,0,0,0,0,0,2025/07/29,false,false
-新竹市,理心潛能心理諮商所,www.drleec3.com,0933357785,新竹市食品路177巷23號,https://www.google.com.tw/maps/place/新竹市食品路177巷23號,無,6,6,6,6,24,2025/08/13,true,true
-新竹市,雲起心理治療所,http://ycpsycenter.com.tw,0978479875,新竹市自由路67號7樓之2,https://www.google.com.tw/maps/place/新竹市自由路67號7樓之2,無,2,2,2,0,6,2025/08/08,false,true
-新竹市,杜華心苑心理諮商所,https://www.dowdslove.url.tw/,03-5736178,新竹市東區新光路83號,https://www.google.com.tw/maps/place/新竹市東區新光路83號,掛號費平日200元  假日400元,3,0,0,0,3,2025/08/11,true,true
-新竹市,若竹心理諮商所,https://www.bamboo-counseling.com/,03-5166186,新竹市東區大學路81巷3號2樓,https://www.google.com.tw/maps/place/新竹市東區大學路81巷3號2樓,行政處理費400元,0,4,4,0,8,2025/08/08,false,true
-新竹市,能清安欣診所,http://www.provenceclinic.com.tw/clinic.htm,03-5357600,新竹市東區光華街29號,https://www.google.com.tw/maps/place/新竹市東區光華街29號,掛號費300元,0,0,0,0,0,2025/08/08,false,false
+高雄市,大海心理諮商所,https://www.facebook.com/profile.php?id=61551094383247,0910-538-598,高雄市新興區中正二路192號6樓之1,https://www.google.com.tw/maps/place/高雄市新興區中正二路192號6樓之1,行政費用200元整,0,0,0,0,0,尚未更新,true,false
+高雄市,蛹之生心理諮商所,https://www.morph.com.tw,0968-070-620或至官網填寫預約表單,高雄市楠梓區土庫一路178號,https://www.google.com.tw/maps/place/高雄市楠梓區土庫一路178號,無,0,0,0,0,0,2025/09/01,false,false
+新竹市,理心潛能心理諮商所,www.drleec3.com,0933357785,新竹市食品路177巷23號,https://www.google.com.tw/maps/place/新竹市食品路177巷23號,無,6,6,6,6,24,2025/08/31,true,true
+新竹市,雲起心理治療所,http://ycpsycenter.com.tw,0978479875,新竹市自由路67號7樓之2,https://www.google.com.tw/maps/place/新竹市自由路67號7樓之2,無,2,2,2,0,6,2025/08/25,false,true
+新竹市,杜華心苑心理諮商所,https://www.dowdslove.url.tw/,03-5736178,新竹市東區新光路83號,https://www.google.com.tw/maps/place/新竹市東區新光路83號,掛號費平日200元  假日400元,0,0,3,3,6,2025/09/03,true,true
+新竹市,若竹心理諮商所,https://www.bamboo-counseling.com/,03-5166186,新竹市東區大學路81巷3號2樓,https://www.google.com.tw/maps/place/新竹市東區大學路81巷3號2樓,行政處理費400元,0,0,4,0,4,2025/08/29,false,true
+新竹市,能清安欣診所,http://www.provenceclinic.com.tw/clinic.htm,03-5357600,新竹市東區光華街29號,https://www.google.com.tw/maps/place/新竹市東區光華街29號,掛號費300元,0,0,0,0,0,尚未更新,false,false
 新竹市,觀心心理治療所,https://www.mindspacepsytherapy.com/,03-5670642,新竹市東區關新東路159號2樓,https://www.google.com.tw/maps/place/新竹市東區關新東路159號2樓,掛號費200元,0,0,0,0,0,尚未更新,false,false
-新竹市,蛹之生心理諮商所,https://www.morph.com.tw/,0968-070-620,新竹市東區關東里光復路一段268巷9弄1號1-2樓,https://www.google.com.tw/maps/place/新竹市東區關東里光復路一段268巷9弄1號1-2樓,無,0,0,0,0,0,2025/08/08,false,false
-新竹市,林正修診所,https://linzhengxiuzhensuo.webnode.tw/aboutdlpc/, 03-516 6746,新竹市新光路38號,https://www.google.com.tw/maps/place/新竹市新光路38號,掛號費200元(114年1月1日起調整為250元),0,0,0,0,0,2025/08/08,false,false
-新竹市,椿心理諮商所,chauhueyw@yahoo.com.tw,0900643707,新竹市東區東大路1段50號1樓,https://www.google.com.tw/maps/place/新竹市東區東大路1段50號1樓,行政處理費400元,0,0,0,0,0,2025/08/08,false,false
-新竹市,聊癒之森身心診所,https://healingoasis119.com/,03-5721925,新竹市東區金城三路119號1樓,https://www.google.com.tw/maps/place/新竹市東區金城三路119號1樓,心理評估與掛號費 400元,0,0,0,0,0,2025/08/08,false,false
-新竹市,光合心理諮商所,https://khpsy.com/,0900755940,新竹市東區民生路193號11樓,https://www.google.com.tw/maps/place/新竹市東區民生路193號11樓,掛號費200元,0,0,0,0,0,2025/08/08,false,false
+新竹市,蛹之生心理諮商所,https://www.morph.com.tw/,0968-070-620,新竹市東區關東里光復路一段268巷9弄1號1-2樓,https://www.google.com.tw/maps/place/新竹市東區關東里光復路一段268巷9弄1號1-2樓,無,0,0,0,0,0,尚未更新,false,false
+新竹市,林正修診所,https://linzhengxiuzhensuo.webnode.tw/aboutdlpc/, 03-516 6746,新竹市新光路38號,https://www.google.com.tw/maps/place/新竹市新光路38號,掛號費200元(114年1月1日起調整為250元),0,0,0,0,0,尚未更新,false,false
+新竹市,椿心理諮商所,chauhueyw@yahoo.com.tw,0900643707,新竹市東區東大路1段50號1樓,https://www.google.com.tw/maps/place/新竹市東區東大路1段50號1樓,行政處理費400元,0,0,0,0,0,尚未更新,false,false
+新竹市,聊癒之森身心診所,https://healingoasis119.com/,03-5721925,新竹市東區金城三路119號1樓,https://www.google.com.tw/maps/place/新竹市東區金城三路119號1樓,心理評估與掛號費 400元,0,0,0,0,0,尚未更新,false,false
+新竹市,光合心理諮商所,https://khpsy.com/,0900755940,新竹市東區民生路193號11樓,https://www.google.com.tw/maps/place/新竹市東區民生路193號11樓,掛號費200元,0,0,0,0,0,尚未更新,false,false
 新竹市,新竹沛智心理治療所,https://www.facebook.com/hsinchupeichih,03-5799969,新竹市東區慈雲路105號,https://www.google.com.tw/maps/place/新竹市東區慈雲路105號,無,0,0,0,0,0,尚未更新,false,false
-新竹市,馬大元診所,https://mdycliniccom.wordpress.com/,03-5794698,新竹市東區龍山里光復路一段544巷36號1樓,https://www.google.com.tw/maps/place/新竹市東區龍山里光復路一段544巷36號1樓,無,0,0,0,0,0,2025/08/08,false,false
-新竹市,寬心自在心理諮商所,https://www.openmind-counseling-center.com/,03-5426695,新竹市東大路二段3號3樓,https://www.google.com.tw/maps/place/新竹市東大路二段3號3樓,18歲以上成人-掛號費200元18歲以下青少年-掛號費400元,0,0,0,0,0,2025/08/08,true,false
-新竹市,國泰醫療財團法人新竹國泰綜合醫院,https://hsinchu.cgh.org.tw/,03-5278999,新竹市中華路二段678號,https://www.google.com.tw/maps/place/新竹市中華路二段678號,掛號費200元,0,0,0,0,0,2025/08/08,false,false
-新竹市,晨境語言暨心理治療所,https://www.facebook.com/morning20230901,0921569487,新竹市北區北大路180號4樓,https://www.google.com.tw/maps/place/新竹市北區北大路180號4樓,無,0,0,0,0,0,2025/08/08,false,false
+新竹市,馬大元診所,https://mdycliniccom.wordpress.com/,03-5794698,新竹市東區龍山里光復路一段544巷36號1樓,https://www.google.com.tw/maps/place/新竹市東區龍山里光復路一段544巷36號1樓,無,0,0,0,0,0,尚未更新,false,false
+新竹市,寬心自在心理諮商所,https://www.openmind-counseling-center.com/,03-5426695,新竹市東大路二段3號3樓,https://www.google.com.tw/maps/place/新竹市東大路二段3號3樓,18歲以上成人-掛號費200元18歲以下青少年-掛號費400元,0,0,0,0,0,尚未更新,true,false
+新竹市,國泰醫療財團法人新竹國泰綜合醫院,https://hsinchu.cgh.org.tw/,03-5278999,新竹市中華路二段678號,https://www.google.com.tw/maps/place/新竹市中華路二段678號,掛號費200元,0,0,0,0,0,2025/08/28,false,false
+新竹市,晨境語言暨心理治療所,https://www.facebook.com/morning20230901,0921569487,新竹市北區北大路180號4樓,https://www.google.com.tw/maps/place/新竹市北區北大路180號4樓,無,0,0,0,0,0,尚未更新,false,false
 新竹市,親禾身心診所,https://www.sproutpsyclinic.com.tw/,5771057,新竹市東區關新二街67號,https://www.google.com.tw/maps/place/新竹市東區關新二街67號,掛號費200元,0,0,0,0,0,尚未更新,false,false
 新竹市,國立臺灣大學醫學院附設醫院新竹臺大分院新竹醫院,https://www.hch.gov.tw/,03-5326151分機522701,新竹市經國路一段442巷25號,https://www.google.com.tw/maps/place/新竹市經國路一段442巷25號,無,0,0,0,0,0,尚未更新,false,false
-嘉義市,戴德森醫療財團法人嘉義基督教醫院,http://www.cych.org.tw/,05-2765041#8585,嘉義市東區保建街100號7樓,https://www.google.com.tw/maps/place/嘉義市東區保建街100號7樓,日間服務100元；夜間、假日服務150元(遵循方案原則，本院於醫事作業每次收取掛號費),6,3,3,3,15,2025/08/12,false,true
-嘉義市,天主教中華聖母修女會醫療財團法人天主教聖馬爾定醫院,http://www.stm.org.tw/ml/,05-2780040#3201,嘉義市東區民權路60號,https://www.google.com.tw/maps/place/嘉義市東區民權路60號,無,5,5,5,5,20,2025/08/14,false,true
-嘉義市,陽明醫院,https://www.ymhospital.com.tw/nym/,05-2252000#3679,嘉義市東區吳鳳北路252號,https://www.google.com.tw/maps/place/嘉義市東區吳鳳北路252號,掛號費150元,2,2,2,2,8,2025/08/12,false,true
-嘉義市,知心連冀診所,https://www.facebook.com/profile.php?id=100063584450962&mibextid=ZbWKwL,05-2286808,嘉義市西區中山路523號,https://www.google.com.tw/maps/place/嘉義市西區中山路523號,無,6,6,6,6,24,2025/08/10,false,true
-嘉義市,暖暖心理治療所,https://nuan-nuan.co/,無，預約方式請見網站。,嘉義市東區嘉工街51號,https://www.google.com.tw/maps/place/嘉義市東區嘉工街51號,無,0,0,0,2,2,2025/08/12,false,true
-嘉義市,心言心理諮商所,https://openwish.mystrikingly.com/,0982-569979,嘉義市西區玉康路130號,https://www.google.com.tw/maps/place/嘉義市西區玉康路130號,無,2,2,4,4,12,2025/08/12,false,true
-嘉義市,覓祈心理諮商所,https://meetcheers.blogspot.com/,05-2785175,嘉義市東區小雅路353號1樓,https://www.google.com.tw/maps/place/嘉義市東區小雅路353號1樓,無,4,6,6,2,18,2025/08/12,true,true
-嘉義市,欣明心理治療所,https://www.xin-ming.org/,05-2787282,嘉義市東區安和街234號,https://www.google.com.tw/maps/place/嘉義市東區安和街234號,自114年4月1日起增收掛號費150元,0,0,0,0,0,2025/08/12,true,false
-嘉義市,小足跡心理治療所,https://littlestepspsy.wixsite.com/index/,05-2330031,嘉義市西區德安路31號,https://www.google.com.tw/maps/place/嘉義市西區德安路31號,無,0,0,0,0,0,2025/08/12,true,false
-新北市,拾心心理治療所,https://sites.google.com/view/aroundupsy,0909-617-628,新北市板橋區縣民大道一段104號2樓,https://www.google.com.tw/maps/place/新北市板橋區縣民大道一段104號2樓,行政處理費(平日18:00前)：600元行政處理費(平日18:00後、周六)：1000元,7,7,7,7,28,2025/08/14,true,true
-新北市,漱心坊心理治療所,https://www.okmood.com/,(02)8991-4930,新北市新莊區明中街38號8樓,https://www.google.com.tw/maps/place/新北市新莊區明中街38號8樓,掛號費150元（具重大傷病、身心障礙、中低收入等掛號費100元）,6,10,10,0,26,2025/08/04,true,true
-新北市,沐昕心理治療所,https://mushinclinic.wixsite.com/mysite,(02)29800479/0909-270-237,新北市三重區三光街30巷10號,https://www.google.com.tw/maps/place/新北市三重區三光街30巷10號,行政手續費500元,12,12,12,0,36,2025/08/06,true,true
-新北市,養心心理治療所,https://www.facebook.com/nurturemymind,(02)8928-0123,新北市永和區博愛街10號1樓,https://www.google.com.tw/maps/place/新北市永和區博愛街10號1樓,掛號費400元場地設備維護費500元,2,2,2,0,6,2025/08/11,true,true
-新北市,嘉誼心理治療所,https://www.facebook.com/profile.php?id=61554562233343&locale=zh_TW,0962-035-930,新北市三峽區復興路59號2樓,https://www.google.com.tw/maps/place/新北市三峽區復興路59號2樓,行政處理費300元,5,5,5,5,20,2025/08/12,false,true
-新北市,小漁村心理諮商所,https://www.littlefishingvillage.com/,(02)8914-7484,新北市新店區三民路65號2樓,https://www.google.com.tw/maps/place/新北市新店區三民路65號2樓,行政費用300元,8,9,4,5,26,2025/08/15,false,true
-新北市,點心語心理諮商所,https://totellheart.mystrikingly.com/,0979-772-735,新北市三重區重新路四段53號11樓,https://www.google.com.tw/maps/place/新北市三重區重新路四段53號11樓,無,0,0,0,7,7,2025/08/11,true,true
-新北市,喜樂心理諮商所,https://www.heart-hug-counseling.org/,(02)2981-0715,新北市三重區重陽路四段42號2樓,https://www.google.com.tw/maps/place/新北市三重區重陽路四段42號2樓,掛號費200元,5,5,5,0,15,2025/08/08,true,true
-新北市,覓心理諮商所,https://miiclinics.com,0965-833-520,新北市林口區仁愛二路77號1樓,https://www.google.com.tw/maps/place/新北市林口區仁愛二路77號1樓,行政費用400元,15,15,15,15,60,2025/08/10,true,true
-新北市,家好心理諮商所,https://www.good.org.tw/,0972-706-289(02)2601-2992,新北市林口區仁愛路二段502號2樓之3,https://www.google.com.tw/maps/place/新北市林口區仁愛路二段502號2樓之3,行政費500元,12,12,12,12,48,2025/08/12,true,true
-新北市,理馨心理諮商所,https://lixincounseling.wordpress.com,0968-989-195,新北市土城區永安街103號5樓,https://www.google.com.tw/maps/place/新北市土城區永安街103號5樓,行政費300元,8,8,8,8,32,2025/08/12,true,true
-新北市,頂溪心理諮商所,https://www.dingxicounselingcenter.com/,(02)8927-3456,新北市永和區竹林路21號3樓,https://www.google.com.tw/maps/place/新北市永和區竹林路21號3樓,無,0,2,2,2,6,2025/08/10,true,true
-新北市,賽斯身心靈診所,https://www.sethclinic.com/intro.php,(02)2218-0875,新北市新店區中央七街26號2樓,https://www.google.com.tw/maps/place/新北市新店區中央七街26號2樓,掛號費100元,5,5,6,0,16,2025/08/05,true,true
-新北市,均樂身心診所,https://tmsclinic.net/,(02)2913-5017,新北市新店區民族路29號1樓,https://www.google.com.tw/maps/place/新北市新店區民族路29號1樓,掛號費250元,0,2,2,1,5,2025/08/15,false,true
-新北市,治聿身心醫學診所,https://healingpsyclin.com/,(02)2218-8374,新北市新店區中興路三段250號1樓,https://www.google.com.tw/maps/place/新北市新店區中興路三段250號1樓,掛號費250元,1,2,1,0,4,2025/08/12,true,true
-新北市,安興精神科診所,https://www.afriend.com.tw/index-ap.php,(02)2974-3029,新北市三重區重新路三段132號1樓,https://www.google.com.tw/maps/place/新北市三重區重新路三段132號1樓,掛號費250元,4,4,0,0,8,2025/08/04,false,true
-新北市,美麗心成人兒童精神科診所,https://spirits.tw/Sanchong/,(02)2988-6773,新北市三重區正義北路210號,https://www.google.com.tw/maps/place/新北市三重區正義北路210號,掛號費250元,1,1,0,0,2,2025/08/11,false,true
-新北市,中永和身心精神科診所,http://www.healthmind.com.tw/,(02)2929-1555,新北市永和區中正路558號1、2樓,https://www.google.com.tw/maps/place/新北市永和區中正路558號1、2樓,無,6,0,0,0,6,2025/07/23,false,true
-新北市,悠活精神科診所,https://spirits.tw/Tucheng/,(02)2274-8877,新北市土城區學府路一段158號,https://www.google.com.tw/maps/place/新北市土城區學府路一段158號,掛號費250元,1,1,0,0,2,2025/08/11,false,true
-新北市,行天宮醫療志業醫療財團法人恩主公醫院,https://www.eck.org.tw/,(02)2672-3456轉3401,新北市三峽區復興路399號、中山路198號、258號,https://www.google.com.tw/maps/place/新北市三峽區復興路399號、中山路198號、258號,掛號費200元,10,10,10,0,30,2025/08/05,false,true
-新北市,台灣基督長老教會馬偕醫療財團法人淡水馬偕紀念醫院,https://www.mmh.org.tw/home.php?area=ts,自殺防治中心：(02)2809-4661轉2778,新北市淡水區民生路45號,https://www.google.com.tw/maps/place/新北市淡水區民生路45號,掛號費150元,3,3,3,3,12,2025/08/11,true,true
-新北市,輔仁大學學校財團法人輔仁大學附設醫院,https://www.hospital.fju.edu.tw/#gsc.tab=0,(02)8512-8888,新北市泰山區貴子路69號,https://www.google.com.tw/maps/place/新北市泰山區貴子路69號,掛號費加診察費390元,7,7,7,7,28,2025/08/13,false,true
-新北市,怡濟慈園醫療社團法人宏濟神經精神科醫院,https://newhongchi.com/,(02)2211-8899轉705,新北市新店區安忠路57巷5號,https://www.google.com.tw/maps/place/新北市新店區安忠路57巷5號,無,5,5,0,0,10,2025/08/02,false,true
-新北市,無論如河心理諮商所,,0931-452-669,新北市淡水區新民街76巷16號3樓,https://www.google.com.tw/maps/place/新北市淡水區新民街76巷16號3樓,行政處理費500元(僅收取一次),2,2,0,0,4,2025/08/02,false,true
-新北市,好日子心理治療所,https://www.gooddaysclinic.com/, 0978-150-785,新北市三重區正義北路227號2樓,https://www.google.com.tw/maps/place/新北市三重區正義北路227號2樓,行政費400元,0,2,4,5,11,2025/08/12,false,true
-新北市,回家心理諮商所,https://mindhome.com.tw,0912-608-017,新北市板橋區華江一路608號7樓,https://www.google.com.tw/maps/place/新北市板橋區華江一路608號7樓,自付行政費 : 200元/次,5,0,0,0,5,2025/07/22,true,true
-新北市,沐樂心理諮商所,https://www.move-wellbeing.com/,(02)2915-0060,新北市新店區二十張路33巷2弄3號1樓,https://www.google.com.tw/maps/place/新北市新店區二十張路33巷2弄3號1樓,無,6,6,12,0,24,2025/08/09,true,true
-新北市,悅安身心診所,,(02)2245-0067,新北市中和區南山路51號1樓,https://www.google.com.tw/maps/place/新北市中和區南山路51號1樓,行政處理費400元,0,0,0,3,3,2025/08/15,false,true
-新北市,喜悅診所,https://spirits.tw/Shulin/,(02)2682-0039,新北市樹林區中山路一段10號1樓,https://www.google.com.tw/maps/place/新北市樹林區中山路一段10號1樓,掛號費250元,0,1,1,0,2,2025/08/13,false,true
-新北市,合誼身心診所,https://friendship-clinic.com/,(02)8286-1138,新北市蘆洲區集賢路222號,https://www.google.com.tw/maps/place/新北市蘆洲區集賢路222號,掛號費250元,5,5,5,0,15,2025/08/06,false,true
-新北市,青禾心理諮商所,https://www.resiliencebq.com/,0966-197-367,新北市板橋區三民路二段38號3樓之1,https://www.google.com.tw/maps/place/新北市板橋區三民路二段38號3樓之1,行政費400元,3,5,5,5,18,2025/08/14,false,true
-新北市,沐居心理諮商所,https://www.facebook.com/profile.php?id=61571066048453,0910-752-203,新北市新店區中央七街67號1樓,https://www.google.com.tw/maps/place/新北市新店區中央七街67號1樓,無,3,3,3,0,9,2025/08/04,true,true
-新北市,明心心理治療所,https://starpsyclinic.cc/,0908-512-165,新北市新莊區新知一路69號9樓,https://www.google.com.tw/maps/place/新北市新莊區新知一路69號9樓,行政費400元,2,0,0,0,2,2025/08/14,true,true
-新北市,順心診所,https://spirits.tw/Banqiao/,(02)8952-0669,新北市板橋區中山路二段141號,https://www.google.com.tw/maps/place/新北市板橋區中山路二段141號,掛號費250元,1,1,1,0,3,2025/08/11,false,true
-新北市,星嶼心理治療所,https://xingyuxinliyuyanzhinenglianhezhiliaosuo.webnode.tw/,(02)2969-9307,新北市板橋區文化路一段145號6樓之5,https://www.google.com.tw/maps/place/新北市板橋區文化路一段145號6樓之5,行政作業費尖峰時段：400元（周末全日、周間夜間六點半後） 離峰時段：200元（周間下午）,0,0,0,0,0,2025/08/10,false,false
-新北市,馨動心理治療所,https://www.heartwarmingclinic.tw/,line ID：@125pptme,新北市板橋區文化路二段182巷3弄33號5樓,https://www.google.com.tw/maps/place/新北市板橋區文化路二段182巷3弄33號5樓,行政費200元,0,0,0,0,0,2025/08/11,false,false
-新北市,知芯心理治療所,https://withyoupsy.com/,(02)2952-8180,新北市板橋區館前東路22號六樓,https://www.google.com.tw/maps/place/新北市板橋區館前東路22號六樓,行政費400元,0,0,0,0,0,2025/07/28,true,false
-新北市,悅現心理治療所,https://meant2bejoy.com/,(02)2255-6580,新北市板橋區文化路二段182巷1弄15號2樓,https://www.google.com.tw/maps/place/新北市板橋區文化路二段182巷1弄15號2樓,掛號費500元(僅需第一次前來時繳納),0,0,0,0,0,2025/08/15,true,false
-新北市,好安心心理治療所,https://goodcare.vip/,(02)8521-9843,新北市新莊區中平路377巷43號1樓,https://www.google.com.tw/maps/place/新北市新莊區中平路377巷43號1樓,掛號費200元,0,0,0,0,0,尚未更新,true,false
+嘉義市,戴德森醫療財團法人嘉義基督教醫院,http://www.cych.org.tw/,05-2765041#8585,嘉義市東區保建街100號7樓,https://www.google.com.tw/maps/place/嘉義市東區保建街100號7樓,日間服務100元；夜間、假日服務150元(遵循方案原則，本院於醫事作業每次收取掛號費),3,3,3,3,12,2025/09/01,false,true
+嘉義市,天主教中華聖母修女會醫療財團法人天主教聖馬爾定醫院,http://www.stm.org.tw/ml/,05-2780040#3201,嘉義市東區民權路60號,https://www.google.com.tw/maps/place/嘉義市東區民權路60號,無,5,5,5,5,20,2025/09/02,false,true
+嘉義市,陽明醫院,https://www.ymhospital.com.tw/nym/,05-2252000#3679,嘉義市東區吳鳳北路252號,https://www.google.com.tw/maps/place/嘉義市東區吳鳳北路252號,掛號費150元,2,2,2,0,6,2025/08/25,false,true
+嘉義市,知心連冀診所,https://www.facebook.com/profile.php?id=100063584450962&mibextid=ZbWKwL,05-2286808,嘉義市西區中山路523號,https://www.google.com.tw/maps/place/嘉義市西區中山路523號,無,6,6,6,6,24,2025/08/31,false,true
+嘉義市,心言心理諮商所,https://openwish.mystrikingly.com/,0982-569979,嘉義市西區玉康路130號,https://www.google.com.tw/maps/place/嘉義市西區玉康路130號,無,0,0,2,2,4,2025/09/03,false,true
+嘉義市,覓祈心理諮商所,https://meetcheers.blogspot.com/,05-2785175,嘉義市東區小雅路353號1樓,https://www.google.com.tw/maps/place/嘉義市東區小雅路353號1樓,無,9,6,6,7,28,2025/09/02,true,true
+嘉義市,欣明心理治療所,https://www.xin-ming.org/,05-2787282,嘉義市東區安和街234號,https://www.google.com.tw/maps/place/嘉義市東區安和街234號,自114年4月1日起增收掛號費150元,0,0,0,0,0,2025/08/27,true,false
+嘉義市,暖暖心理治療所,https://nuan-nuan.co/,無，預約方式請見網站。,嘉義市東區嘉工街51號,https://www.google.com.tw/maps/place/嘉義市東區嘉工街51號,無,0,0,0,0,0,2025/09/03,false,false
+嘉義市,小足跡心理治療所,https://littlestepspsy.wixsite.com/index/,05-2330031,嘉義市西區德安路31號,https://www.google.com.tw/maps/place/嘉義市西區德安路31號,無,0,0,0,0,0,2025/08/27,true,false
+新北市,漱心坊心理治療所,https://www.okmood.com/,(02)8991-4930,新北市新莊區明中街38號8樓,https://www.google.com.tw/maps/place/新北市新莊區明中街38號8樓,掛號費150元（具重大傷病、身心障礙、中低收入等掛號費100元）,6,8,6,0,20,2025/08/29,true,true
+新北市,嘉誼心理治療所,https://www.facebook.com/profile.php?id=61554562233343&locale=zh_TW,0962-035-930,新北市三峽區復興路59號2樓,https://www.google.com.tw/maps/place/新北市三峽區復興路59號2樓,行政處理費300元,5,5,5,5,20,2025/09/02,false,true
+新北市,小漁村心理諮商所,https://www.littlefishingvillage.com/,(02)8914-7484,新北市新店區三民路65號2樓,https://www.google.com.tw/maps/place/新北市新店區三民路65號2樓,行政費用300元,5,4,4,0,13,2025/08/25,false,true
+新北市,點心語心理諮商所,https://totellheart.mystrikingly.com/,0979-772-735,新北市三重區重新路四段53號11樓,https://www.google.com.tw/maps/place/新北市三重區重新路四段53號11樓,無,9,0,0,0,9,2025/09/01,true,true
+新北市,喜樂心理諮商所,https://www.heart-hug-counseling.org/,(02)2981-0715,新北市三重區重陽路四段42號2樓,https://www.google.com.tw/maps/place/新北市三重區重陽路四段42號2樓,掛號費200元,5,5,5,5,20,2025/09/01,true,true
+新北市,覓心理諮商所,https://miiclinics.com,0965-833-520,新北市林口區仁愛二路77號1樓,https://www.google.com.tw/maps/place/新北市林口區仁愛二路77號1樓,行政費用400元,10,10,10,10,40,2025/09/01,true,true
+新北市,家好心理諮商所,https://www.good.org.tw/,0972-706-289(02)2601-2992,新北市林口區仁愛路二段502號2樓之3,https://www.google.com.tw/maps/place/新北市林口區仁愛路二段502號2樓之3,行政費500元,12,12,12,12,48,2025/09/02,true,true
+新北市,理馨心理諮商所,https://lixincounseling.wordpress.com,0968-989-195,新北市土城區永安街103號5樓,https://www.google.com.tw/maps/place/新北市土城區永安街103號5樓,行政費300元,8,8,8,8,32,2025/09/01,true,true
+新北市,賽斯身心靈診所,https://www.sethclinic.com/intro.php,(02)2218-0875,新北市新店區中央七街26號2樓,https://www.google.com.tw/maps/place/新北市新店區中央七街26號2樓,掛號費100元,5,5,0,0,10,2025/08/18,true,true
+新北市,治聿身心醫學診所,https://healingpsyclin.com/,(02)2218-8374,新北市新店區中興路三段250號1樓,https://www.google.com.tw/maps/place/新北市新店區中興路三段250號1樓,掛號費250元,2,0,1,1,4,2025/09/03,true,true
+新北市,安興精神科診所,https://www.afriend.com.tw/index-ap.php,(02)2974-3029,新北市三重區重新路三段132號1樓,https://www.google.com.tw/maps/place/新北市三重區重新路三段132號1樓,掛號費250元,5,5,5,0,15,2025/08/29,false,true
+新北市,合康診所,https://www.facebook.com/hekang.clinic/?locale=zh_TW,(02)8642-5222,新北市汐止區大同路二段512號,https://www.google.com.tw/maps/place/新北市汐止區大同路二段512號,掛號費200元,2,2,2,0,6,2025/08/25,false,true
+新北市,行天宮醫療志業醫療財團法人恩主公醫院,https://www.eck.org.tw/,(02)2672-3456轉3401,新北市三峽區復興路399號、中山路198號、258號,https://www.google.com.tw/maps/place/新北市三峽區復興路399號、中山路198號、258號,掛號費200元,10,10,10,0,30,2025/08/28,false,true
+新北市,台灣基督長老教會馬偕醫療財團法人淡水馬偕紀念醫院,https://www.mmh.org.tw/home.php?area=ts,自殺防治中心：(02)2809-4661轉2778,新北市淡水區民生路45號,https://www.google.com.tw/maps/place/新北市淡水區民生路45號,掛號費150元,3,3,2,1,9,2025/09/01,true,true
+新北市,輔仁大學學校財團法人輔仁大學附設醫院,https://www.hospital.fju.edu.tw/#gsc.tab=0,(02)8512-8888,新北市泰山區貴子路69號,https://www.google.com.tw/maps/place/新北市泰山區貴子路69號,掛號費加診察費390元,7,7,7,6,27,2025/09/01,false,true
+新北市,怡濟慈園醫療社團法人宏濟神經精神科醫院,https://newhongchi.com/,(02)2211-8899轉705,新北市新店區安忠路57巷5號,https://www.google.com.tw/maps/place/新北市新店區安忠路57巷5號,無,5,2,0,0,7,2025/08/18,false,true
+新北市,輔大診所,https://www.fjuclinic.com/,(02)2905-2526,新北市新莊區中正路510號醫學大樓一樓,https://www.google.com.tw/maps/place/新北市新莊區中正路510號醫學大樓一樓,掛號費150元,1,0,0,0,1,2025/08/20,false,true
+新北市,回家心理諮商所,https://mindhome.com.tw,0912-608-017,新北市板橋區華江一路608號7樓,https://www.google.com.tw/maps/place/新北市板橋區華江一路608號7樓,自付行政費 : 200元/次,5,5,0,0,10,2025/08/27,true,true
+新北市,沐樂心理諮商所,https://www.move-wellbeing.com/,(02)2915-0060,新北市新店區二十張路33巷2弄3號1樓,https://www.google.com.tw/maps/place/新北市新店區二十張路33巷2弄3號1樓,無,0,3,3,0,6,2025/08/26,true,true
+新北市,悅安身心診所,,(02)2245-0067,新北市中和區南山路51號1樓,https://www.google.com.tw/maps/place/新北市中和區南山路51號1樓,行政處理費400元,3,0,0,0,3,2025/08/28,false,true
+新北市,青禾心理諮商所,https://www.resiliencebq.com/,0966-197-367,新北市板橋區三民路二段38號3樓之1,https://www.google.com.tw/maps/place/新北市板橋區三民路二段38號3樓之1,行政費400元,3,3,2,2,10,2025/09/01,false,true
+新北市,星嶼心理治療所,https://xingyuxinliyuyanzhinenglianhezhiliaosuo.webnode.tw/,(02)2969-9307,新北市板橋區文化路一段145號6樓之5,https://www.google.com.tw/maps/place/新北市板橋區文化路一段145號6樓之5,行政作業費尖峰時段：400元（周末全日、周間夜間六點半後） 離峰時段：200元（周間下午）,0,0,0,0,0,2025/08/31,false,false
+新北市,馨動心理治療所,https://www.heartwarmingclinic.tw/,line ID：@125pptme,新北市板橋區文化路二段182巷3弄33號5樓,https://www.google.com.tw/maps/place/新北市板橋區文化路二段182巷3弄33號5樓,行政費200元,0,0,0,0,0,2025/08/31,false,false
+新北市,知芯心理治療所,https://withyoupsy.com/,(02)2952-8180,新北市板橋區館前東路22號六樓,https://www.google.com.tw/maps/place/新北市板橋區館前東路22號六樓,行政費400元,0,0,0,0,0,2025/08/20,true,false
+新北市,拾心心理治療所,https://sites.google.com/view/aroundupsy,0909-617-628,新北市板橋區縣民大道一段104號2樓,https://www.google.com.tw/maps/place/新北市板橋區縣民大道一段104號2樓,行政處理費(平日18:00前)：600元行政處理費(平日18:00後、周六)：1000元,0,0,0,0,0,2025/09/02,true,false
+新北市,悅現心理治療所,https://meant2bejoy.com/,(02)2255-6580,新北市板橋區文化路二段182巷1弄15號2樓,https://www.google.com.tw/maps/place/新北市板橋區文化路二段182巷1弄15號2樓,掛號費500元(僅需第一次前來時繳納),0,0,0,0,0,2025/08/28,true,false
+新北市,好安心心理治療所,https://goodcare.vip/,(02)8521-9843,新北市新莊區中平路377巷43號1樓,https://www.google.com.tw/maps/place/新北市新莊區中平路377巷43號1樓,掛號費200元,0,0,0,0,0,2025/08/18,true,false
 新北市,五守心理治療所,https://containfive.com/,0905-344-459,新北市新莊區中港路五守新村35巷2號3樓,https://www.google.com.tw/maps/place/新北市新莊區中港路五守新村35巷2號3樓,行政費300元,0,0,0,0,0,2025/08/11,false,false
-新北市,知芯新店心理治療所,https://withyoupsy.com/,(02)8914-5945,新北市新店區北新路二段177-3號4樓,https://www.google.com.tw/maps/place/新北市新店區北新路二段177-3號4樓,行政費400元,0,0,0,0,0,2025/07/28,true,false
-新北市,夢屋心理治療所,https://www.excellenspine.com/counseling,0922-999-491,新北市三峽區大義路19號1-2樓,https://www.google.com.tw/maps/place/新北市三峽區大義路19號1-2樓,掛號費400元,0,0,0,0,0,尚未更新,false,false
+新北市,知芯新店心理治療所,https://withyoupsy.com/,(02)8914-5945,新北市新店區北新路二段177-3號4樓,https://www.google.com.tw/maps/place/新北市新店區北新路二段177-3號4樓,行政費400元,0,0,0,0,0,2025/08/29,true,false
+新北市,沐昕心理治療所,https://mushinclinic.wixsite.com/mysite,(02)29800479/0909-270-237,新北市三重區三光街30巷10號,https://www.google.com.tw/maps/place/新北市三重區三光街30巷10號,行政手續費500元,0,0,0,0,0,2025/08/19,true,false
+新北市,養心心理治療所,https://www.facebook.com/nurturemymind,(02)8928-0123,新北市永和區博愛街10號1樓,https://www.google.com.tw/maps/place/新北市永和區博愛街10號1樓,掛號費400元場地設備維護費500元,0,0,0,0,0,2025/08/11,true,false
+新北市,夢屋心理治療所,https://www.excellenspine.com/counseling,0922-999-491,新北市三峽區大義路19號1-2樓,https://www.google.com.tw/maps/place/新北市三峽區大義路19號1-2樓,掛號費400元,0,0,0,0,0,2025/08/25,false,false
 新北市,蛹之生心理諮商所,https://www.morph.com.tw/,0968-070-620,新北市板橋區文化路一段46巷38號,https://www.google.com.tw/maps/place/新北市板橋區文化路一段46巷38號,無,0,0,0,0,0,尚未更新,true,false
 新北市,心語心理諮商所,https://www.innervoice-counseling.com.tw/,(02)2250-0002,新北市板橋區莒光路39巷10號4樓,https://www.google.com.tw/maps/place/新北市板橋區莒光路39巷10號4樓,行政費300元,0,0,0,0,0,尚未更新,true,false
 新北市,板橋小宅心理諮商所,https://www.iamkhhouse.com/,0906-843-319,新北市板橋區介壽街84巷3號2樓,https://www.google.com.tw/maps/place/新北市板橋區介壽街84巷3號2樓,行政費600元,0,0,0,0,0,尚未更新,true,false
 新北市,同在心理諮商所,https://beingcounselingcenter.com/,0905-168-815,新北市板橋區新民街27號7樓,https://www.google.com.tw/maps/place/新北市板橋區新民街27號7樓,臨時失約需支付1000元行政管理費,0,0,0,0,0,尚未更新,true,false
-新北市,南方心理諮商所,https://thesouth.com.tw/,(02)2916-0135,新北市新店區永新街30號3樓,https://www.google.com.tw/maps/place/新北市新店區永新街30號3樓,無,0,0,0,0,0,2025/08/12,true,false
-新北市,大山心理諮商所,https://greatmountain0603.com/,0981-418-723,新北市新店區民權路41號5樓,https://www.google.com.tw/maps/place/新北市新店區民權路41號5樓,無,0,0,0,0,0,2025/08/13,true,false
+新北市,南方心理諮商所,https://thesouth.com.tw/,(02)2916-0135,新北市新店區永新街30號3樓,https://www.google.com.tw/maps/place/新北市新店區永新街30號3樓,無,0,0,0,0,0,2025/09/02,true,false
+新北市,大山心理諮商所,https://greatmountain0603.com/,0981-418-723,新北市新店區民權路41號5樓,https://www.google.com.tw/maps/place/新北市新店區民權路41號5樓,無,0,0,0,0,0,2025/09/01,true,false
 新北市,雨止晴拾心理諮商所,https://www.facebook.com/profile.php?id=100086565971182,(02)7751-8779,新北市三重區仁美街108巷25號1樓,https://www.google.com.tw/maps/place/新北市三重區仁美街108巷25號1樓,無,0,0,0,0,0,尚未更新,true,false
 新北市,方煦心理諮商所,https://www.fongxu.com/,(02)8985-3002,新北市三重區重陽路一段89號6樓之5,https://www.google.com.tw/maps/place/新北市三重區重陽路一段89號6樓之5,無,0,0,0,0,0,尚未更新,true,false
-新北市,予諾心理諮商所,https://www.inner-promise.com/,(02)2608-2500,新北市林口區公園路129號2樓,https://www.google.com.tw/maps/place/新北市林口區公園路129號2樓,場地行政規費600元,0,0,0,0,0,2025/07/26,false,false
+新北市,予諾心理諮商所,https://www.inner-promise.com/,(02)2608-2500,新北市林口區公園路129號2樓,https://www.google.com.tw/maps/place/新北市林口區公園路129號2樓,場地行政規費600元,0,0,0,0,0,2025/08/30,false,false
 新北市,蛹之生生不息心理諮商所,https://www.morph.com.tw/,0968-070-620,新北市中和區中安街178巷18弄25號1樓,https://www.google.com.tw/maps/place/新北市中和區中安街178巷18弄25號1樓,無,0,0,0,0,0,尚未更新,false,false
-新北市,轉化心理諮商所,https://zhuanhuaxinlizishangsuo.webnode.tw/,0908-078-921,新北市三峽區大義路189號4樓之2,https://www.google.com.tw/maps/place/新北市三峽區大義路189號4樓之2,無,0,0,0,0,0,2025/07/25,false,false
+新北市,轉化心理諮商所,https://zhuanhuaxinlizishangsuo.webnode.tw/,0908-078-921,新北市三峽區大義路189號4樓之2,https://www.google.com.tw/maps/place/新北市三峽區大義路189號4樓之2,無,0,0,0,0,0,尚未更新,false,false
+新北市,頂溪心理諮商所,https://www.dingxicounselingcenter.com/,(02)8927-3456,新北市永和區竹林路21號3樓,https://www.google.com.tw/maps/place/新北市永和區竹林路21號3樓,無,0,0,0,0,0,2025/08/31,true,false
 新北市,楊孟達身心精神科診所,http://www.bodymind.com.tw/about.asp,(02)2255-5222,新北市板橋區文化路一段275號1樓,https://www.google.com.tw/maps/place/新北市板橋區文化路一段275號1樓,無,0,0,0,0,0,尚未更新,false,false
-新北市,幸福身心精神科診所,http://www.lovemind.com.tw/,(02)2957-8000,新北市板橋區實踐路83號,https://www.google.com.tw/maps/place/新北市板橋區實踐路83號,無,0,0,0,0,0,尚未更新,false,false
+新北市,幸福身心精神科診所,http://www.lovemind.com.tw/,(02)2957-8000,新北市板橋區實踐路83號,https://www.google.com.tw/maps/place/新北市板橋區實踐路83號,無,0,0,0,0,0,2025/08/29,false,false
 新北市,恆友精神科診所,https://www.afriend.com.tw/index-hp.php,(02)2990-7909,新北市新莊區幸福東路135號1樓,https://www.google.com.tw/maps/place/新北市新莊區幸福東路135號1樓,掛號費250元,0,0,0,0,0,尚未更新,false,false
-新北市,育心身心精神科診所,https://spirits.tw/Xinzhuang/,(02)2277-9773,新北市新莊區新泰路177號,https://www.google.com.tw/maps/place/新北市新莊區新泰路177號,掛號費250元,0,0,0,0,0,2025/08/11,false,false
+新北市,育心身心精神科診所,https://spirits.tw/Xinzhuang/,(02)2277-9773,新北市新莊區新泰路177號,https://www.google.com.tw/maps/place/新北市新莊區新泰路177號,掛號費250元,0,0,0,0,0,2025/08/25,false,false
+新北市,均樂身心診所,https://tmsclinic.net/,(02)2913-5017,新北市新店區民族路29號1樓,https://www.google.com.tw/maps/place/新北市新店區民族路29號1樓,掛號費250元,0,0,0,0,0,2025/08/21,false,false
+新北市,美麗心成人兒童精神科診所,https://spirits.tw/Sanchong/,(02)2988-6773,新北市三重區正義北路210號,https://www.google.com.tw/maps/place/新北市三重區正義北路210號,掛號費250元,0,0,0,0,0,2025/09/01,false,false
 新北市,維品身心診所,https://tmsclinic.net/,(02)2242-2510,新北市中和區連城路4號1樓,https://www.google.com.tw/maps/place/新北市中和區連城路4號1樓,初診掛號費用350元,0,0,0,0,0,尚未更新,false,false
-新北市,樂活精神科診所,https://spirits.tw/Zhonghe/,(02)2946-3655,新北市中和區安樂路25號1樓,https://www.google.com.tw/maps/place/新北市中和區安樂路25號1樓,掛號費250元,0,0,0,0,0,2025/08/11,false,false
+新北市,樂活精神科診所,https://spirits.tw/Zhonghe/,(02)2946-3655,新北市中和區安樂路25號1樓,https://www.google.com.tw/maps/place/新北市中和區安樂路25號1樓,掛號費250元,0,0,0,0,0,2025/08/25,false,false
+新北市,中永和身心精神科診所,http://www.healthmind.com.tw/,(02)2929-1555,新北市永和區中正路558號1、2樓,https://www.google.com.tw/maps/place/新北市永和區中正路558號1、2樓,無,0,0,0,0,0,尚未更新,false,false
 新北市,欣彥身心診所,https://foreverpmc-0535.weebly.com/,(02)2847-1319,新北市蘆洲區復興路200號1樓,https://www.google.com.tw/maps/place/新北市蘆洲區復興路200號1樓,掛號費200元部分負擔50元,0,0,0,0,0,尚未更新,false,false
-新北市,合康診所,https://www.facebook.com/hekang.clinic/?locale=zh_TW,(02)8642-5222,新北市汐止區大同路二段512號,https://www.google.com.tw/maps/place/新北市汐止區大同路二段512號,掛號費200元,0,0,0,0,0,尚未更新,false,false
+新北市,悠活精神科診所,https://spirits.tw/Tucheng/,(02)2274-8877,新北市土城區學府路一段158號,https://www.google.com.tw/maps/place/新北市土城區學府路一段158號,掛號費250元,0,0,0,0,0,2025/09/01,false,false
 新北市,衛生福利部八里療養院,https://www.bali.mohw.gov.tw/web/index/index.jsp,(02)2610-1660,新北市八里區華富山33號,https://www.google.com.tw/maps/place/新北市八里區華富山33號,無,0,0,0,0,0,尚未更新,true,false
 新北市,衛生福利部八里療養院土城院區,https://www.bali.mohw.gov.tw/web/index/index.jsp,(02)2274-5250,新北市土城區青雲路6號,https://www.google.com.tw/maps/place/新北市土城區青雲路6號,無,0,0,0,0,0,尚未更新,true,false
 新北市,衛生福利部八里療養院蘆洲院區,https://www.bali.mohw.gov.tw/web/index/index.jsp,(02)8285-6224,新北市蘆洲區長樂路148號,https://www.google.com.tw/maps/place/新北市蘆洲區長樂路148號,無,0,0,0,0,0,尚未更新,true,false
-新北市,衛生福利部臺北醫院,https://www.tph.mohw.gov.tw/,(02)2276-5566,新北市新莊區思源路127號,https://www.google.com.tw/maps/place/新北市新莊區思源路127號,掛號費120元,0,0,0,0,0,尚未更新,false,false
-新北市,衛生福利部雙和醫院(委託臺北醫學大學興建經營),https://shh.tmu.edu.tw/page/Introduction.aspx?IntroType=A&deptCode=13,(02)2249-0088轉70217,新北市中和區中正路291號,https://www.google.com.tw/maps/place/新北市中和區中正路291號,掛號費150-200元,0,0,0,0,0,尚未更新,false,false
+新北市,衛生福利部臺北醫院,https://www.tph.mohw.gov.tw/,(02)2276-5566,新北市新莊區思源路127號,https://www.google.com.tw/maps/place/新北市新莊區思源路127號,掛號費120元,0,0,0,0,0,2025/09/02,false,false
+新北市,衛生福利部雙和醫院(委託臺北醫學大學興建經營),https://shh.tmu.edu.tw/page/Introduction.aspx?IntroType=A&deptCode=13,(02)2249-0088轉70217,新北市中和區中正路291號,https://www.google.com.tw/maps/place/新北市中和區中正路291號,掛號費150-200元,0,0,0,0,0,2025/09/01,false,false
 新北市,新北市立聯合醫院三重院區,https://www.ntch.ntpc.gov.tw/,(02)2982-9111,新北市三重區新北大道一段3號,https://www.google.com.tw/maps/place/新北市三重區新北大道一段3號,掛號費50元,0,0,0,0,0,尚未更新,false,false
 新北市,新北市立聯合醫院板橋院區,https://www.ntch.ntpc.gov.tw/,(02)2257-5151,新北市板橋區英士路198號,https://www.google.com.tw/maps/place/新北市板橋區英士路198號,掛號費50元,0,0,0,0,0,尚未更新,false,false
+新北市,無論如河心理諮商所,,0931-452-669,新北市淡水區新民街76巷16號3樓,https://www.google.com.tw/maps/place/新北市淡水區新民街76巷16號3樓,行政處理費500元(僅收取一次),0,0,0,0,0,尚未更新,false,false
 新北市,汐止館愛心理諮商所,https://www.iiispace.com,(02)6604-0530,新北市汐止區大同路512號6樓,https://www.google.com.tw/maps/place/新北市汐止區大同路512號6樓,無,0,0,0,0,0,尚未更新,false,false
-新北市,輔大診所,https://www.fjuclinic.com/,(02)2905-2526,新北市新莊區中正路510號醫學大樓一樓,https://www.google.com.tw/maps/place/新北市新莊區中正路510號醫學大樓一樓,掛號費150元,0,0,0,0,0,尚未更新,false,false
+新北市,好日子心理治療所,https://www.gooddaysclinic.com/, 0978-150-785,新北市三重區正義北路227號2樓,https://www.google.com.tw/maps/place/新北市三重區正義北路227號2樓,行政費400元,0,0,0,0,0,2025/09/02,false,false
 新北市,悠幼心理治療所,https://zh-tw.facebook.com/100091498491724,Line預約：https://line.me/ti/p/@uukids,新北市板橋區板新路85號2樓,https://www.google.com.tw/maps/place/新北市板橋區板新路85號2樓,掛號費400元/次,0,0,0,0,0,尚未更新,false,false
 新北市,米露谷板橋心理治療所,https://www.mirukupsy.com/,(02)2271-0754,新北市板橋區文化路一段147號7樓之2,https://www.google.com.tw/maps/place/新北市板橋區文化路一段147號7樓之2,【平日18:00前】掛號費$100+行政費$300 【平日18:00後及週末】掛號費$100+行政費$500,0,0,0,0,0,尚未更新,true,false
 新北市,米露谷新店心理治療所,https://www.mirukupsy.com/,(02)2918-6620,新北市新店區民權路77號9樓,https://www.google.com.tw/maps/place/新北市新店區民權路77號9樓,【平日18:00前】掛號費$100+行政費$300 【平日18:00後及週末】掛號費$100+行政費$500,0,0,0,0,0,尚未更新,true,false
 新北市,米露谷心理治療所,https://www.mirukupsy.com/,(02)8245-8820,新北市中和區連勝街28號2樓,https://www.google.com.tw/maps/place/新北市中和區連勝街28號2樓,【平日18:00前】掛號費$100+行政費$300 【平日18:00後及週末】掛號費$100+行政費$500,0,0,0,0,0,尚未更新,true,false
 新北市,古意心理諮商所,https://guyipeace996.wordpress.com/,官方line帳號：@310sbier,新北市新店區建國路12-2號2樓,https://www.google.com.tw/maps/place/新北市新店區建國路12-2號2樓,行政費500元,0,0,0,0,0,尚未更新,false,false
 新北市,佳好+good心理諮商所,https://forms.gle/kUDpt6Fncjq9B2EY9,(02)8512-2660,新北市三重區光復路一段70號4樓,https://www.google.com.tw/maps/place/新北市三重區光復路一段70號4樓,場地費400元,0,0,0,0,0,尚未更新,true,false
+新北市,喜悅診所,https://spirits.tw/Shulin/,(02)2682-0039,新北市樹林區中山路一段10號1樓,https://www.google.com.tw/maps/place/新北市樹林區中山路一段10號1樓,掛號費250元,0,0,0,0,0,2025/09/01,false,false
 新北市,財團法人台灣省私立台北仁濟院附設新莊仁濟醫院,https://www.tjci-sj.org.tw/dispPageBox/SJMAIN.aspx?ddsPageID=SJHP,(02)2201-5222,新北市新莊區中環路一段28號,https://www.google.com.tw/maps/place/新北市新莊區中環路一段28號,自付掛號費,0,0,0,0,0,尚未更新,false,false
-新北市,林口抱抱心身醫學診所,https://clinic.farhugs.com/,(02)2606-9578,新北市林口區文化三路一段205號1、2樓,https://www.google.com.tw/maps/place/新北市林口區文化三路一段205號1、2樓,掛號費600元,0,0,0,0,0,2025/08/11,false,false
+新北市,林口抱抱心身醫學診所,https://clinic.farhugs.com/,(02)2606-9578,新北市林口區文化三路一段205號1、2樓,https://www.google.com.tw/maps/place/新北市林口區文化三路一段205號1、2樓,掛號費600元,0,0,0,0,0,2025/08/25,false,false
+新北市,合誼身心診所,https://friendship-clinic.com/,(02)8286-1138,新北市蘆洲區集賢路222號,https://www.google.com.tw/maps/place/新北市蘆洲區集賢路222號,掛號費250元,0,0,0,0,0,尚未更新,false,false
 新北市,好安心蘆洲心理治療所,https://goodcare.vip/,(02)2855-9478,新北市三重區集仁街158號,https://www.google.com.tw/maps/place/新北市三重區集仁街158號,掛號費200元,0,0,0,0,0,2025/08/14,true,false
-新北市,知芯板橋心理治療所,https://withyoupsy.com/,(02)2952-0505,新北市板橋區四川路一段23號5樓之1,https://www.google.com.tw/maps/place/新北市板橋區四川路一段23號5樓之1,行政費400元,0,0,0,0,0,2025/07/28,false,false
-新北市,同心心理諮商所,https://beingcounselingcenter.com/,0905-919-815,新北市板橋區文化路一段188巷18號2樓,https://www.google.com.tw/maps/place/新北市板橋區文化路一段188巷18號2樓,臨時失約需支付1000元行政管理費,0,0,0,0,0,尚未更新,true,false
+新北市,知芯板橋心理治療所,https://withyoupsy.com/,(02)2952-0505,新北市板橋區四川路一段23號5樓之1,https://www.google.com.tw/maps/place/新北市板橋區四川路一段23號5樓之1,行政費400元,0,0,0,0,0,2025/08/20,false,false
+新北市,同心心理諮商所,https://beingcounselingcenter.com/,0905-919-815,新北市板橋區文化路一段188巷18號2樓,https://www.google.com.tw/maps/place/新北市板橋區文化路一段188巷18號2樓,臨時失約需支付1000元行政管理費,0,0,0,0,0,2025/08/18,true,false
+新北市,沐居心理諮商所,https://www.facebook.com/profile.php?id=61571066048453,0910-752-203,新北市新店區中央七街67號1樓,https://www.google.com.tw/maps/place/新北市新店區中央七街67號1樓,無,0,0,0,0,0,2025/08/19,true,false
+新北市,明心心理治療所,https://starpsyclinic.cc/,0908-512-165,新北市新莊區新知一路69號9樓,https://www.google.com.tw/maps/place/新北市新莊區新知一路69號9樓,行政費400元,0,0,0,0,0,2025/08/19,true,false
 新北市,米露谷板橋兒青暨育才中心心理治療所,https://www.mirukupsy.com/,(02)2271-0754,新北市板橋區文化路一段135號6樓,https://www.google.com.tw/maps/place/新北市板橋區文化路一段135號6樓,【平日18:00前】掛號費$100+行政費$300 【平日18:00後及週末】掛號費$100+行政費$500,0,0,0,0,0,尚未更新,false,false
-新北市,語境心理諮商所,https://counsel-land.com/,0966-030-676,新北市淡水區平遠街1之7號,https://www.google.com.tw/maps/place/新北市淡水區平遠街1之7號,行政處理費600元,0,0,0,0,0,2025/08/07,false,false
-桃園市,尚語身心診所,https://www.listenerclinic.tw/,03-4512180,桃園市中壢區忠孝路62號,https://www.google.com.tw/maps/place/桃園市中壢區忠孝路62號,行政管理費 400元,2,2,2,5,11,2025/08/11,false,true
-桃園市,尼思湖心理諮商所,https://sites.google.com/view/neathlake/%E9%A6%96%E9%A0%81?authuser=0,03-2122721 ; 0916-832895,桃園市蘆竹區南平街35號B1,https://www.google.com.tw/maps/place/桃園市蘆竹區南平街35號B1,行政管理暨場地費400元,12,12,0,0,24,2025/08/09,true,true
-桃園市,衛生福利部桃園療養院,https://www.typc.mohw.gov.tw/,03-3698553分機2301-2308,桃園市桃園區龍壽街71號,https://www.google.com.tw/maps/place/桃園市桃園區龍壽街71號,掛號費150元,1,3,3,0,7,2025/08/05,true,true
-桃園市,拾心元心理諮商所,https://sites.google.com/view/takeheart2023,03-2202182,桃園市桃園區中山路703號2樓之2,https://www.google.com.tw/maps/place/桃園市桃園區中山路703號2樓之2,無,2,2,2,2,8,2025/08/12,false,true
-桃園市,澈心理諮商所,https://beche202311.com/,03-3579128,桃園市桃園區同德二街160號之2-3樓,https://www.google.com.tw/maps/place/桃園市桃園區同德二街160號之2-3樓,無,10,10,10,10,40,2025/08/11,true,true
-桃園市,振心身心診所,https://www.inspireclinic.com.tw/,03-3376868,桃園市桃園區中山北路57號1樓,https://www.google.com.tw/maps/place/桃園市桃園區中山北路57號1樓,掛號費200元,0,0,0,1,1,2025/08/14,false,true
-桃園市,四葉草心理治療所,,0963-080526,桃園市桃園區中正路1048號6樓,https://www.google.com.tw/maps/place/桃園市桃園區中正路1048號6樓,無,4,4,4,4,16,2025/08/15,false,true
-桃園市,聯新國際醫院,https://www.landseedhospital.com.tw,03-494-1234,桃園市平鎮市廣泰路77號 ,https://www.google.com.tw/maps/place/桃園市平鎮市廣泰路77號 ,掛號費300-350元,1,1,0,0,2,2025/08/01,false,true
-桃園市,向光心理諮商所,https://www.siangguangpsy.com/,0958143562,桃園市八德區介壽路二段788號9樓,https://www.google.com.tw/maps/place/桃園市八德區介壽路二段788號9樓,行政管理費400元,0,0,2,0,2,2025/08/03,false,true
-桃園市,薰喆心理治療所,https://www.shiunjer.com/,0933-720139,桃園市桃園區中埔一街107號1樓,https://www.google.com.tw/maps/place/桃園市桃園區中埔一街107號1樓,行政費400元,3,3,3,3,12,2025/08/11,false,true
-桃園市,宣恩心理諮商所,https://hsuanann-psy.carrd.co/,0905-498-990,桃園市中壢區寶慶街17號一樓,https://www.google.com.tw/maps/place/桃園市中壢區寶慶街17號一樓,無,2,2,2,2,8,2025/08/14,false,true
-桃園市,育禾身心診所,https://spirits.tw/Luzhu/,03-212-4688,桃園市蘆竹區中正路138號,https://www.google.com.tw/maps/place/桃園市蘆竹區中正路138號,掛號費200元,0,1,1,0,2,2025/08/11,false,true
-桃園市,助人心理諮商所,,03-3359532,桃園市桃園區復興路207號16樓1603室,https://www.google.com.tw/maps/place/桃園市桃園區復興路207號16樓1603室,無,8,8,8,0,24,2025/08/07,false,true
-桃園市,福安心理治療所,,03-2737788,桃園市桃園區中正路1195號6 樓,https://www.google.com.tw/maps/place/桃園市桃園區中正路1195號6 樓,無,10,10,10,0,30,2025/08/05,false,true
+新北市,語境心理諮商所,https://counsel-land.com/,0966-030-676,新北市淡水區平遠街1之7號,https://www.google.com.tw/maps/place/新北市淡水區平遠街1之7號,行政處理費600元,0,0,0,0,0,2025/09/01,false,false
+新北市,順心診所,https://spirits.tw/Banqiao/,(02)8952-0669,新北市板橋區中山路二段141號,https://www.google.com.tw/maps/place/新北市板橋區中山路二段141號,掛號費250元,0,0,0,0,0,2025/08/27,false,false
+桃園市,新晴心理諮商所,https://www.happymind.url.tw,0928-889882,桃園市中壢區中北路二段119號12樓之六,https://www.google.com.tw/maps/place/桃園市中壢區中北路二段119號12樓之六,掛號費200元，行政處理費200元,4,10,10,0,24,2025/09/02,false,true
+桃園市,尚語身心診所,https://www.listenerclinic.tw/,03-4512180,桃園市中壢區忠孝路62號,https://www.google.com.tw/maps/place/桃園市中壢區忠孝路62號,行政管理費 400元,5,5,5,5,20,2025/09/01,false,true
+桃園市,衛生福利部桃園療養院,https://www.typc.mohw.gov.tw/,03-3698553分機2301-2308,桃園市桃園區龍壽街71號,https://www.google.com.tw/maps/place/桃園市桃園區龍壽街71號,掛號費150元,2,2,3,0,7,2025/08/27,true,true
+桃園市,拾心元心理諮商所,https://sites.google.com/view/takeheart2023,03-2202182,桃園市桃園區中山路703號2樓之2,https://www.google.com.tw/maps/place/桃園市桃園區中山路703號2樓之2,無,2,2,0,0,4,2025/08/21,false,true
+桃園市,澈心理諮商所,https://beche202311.com/,03-3579128,桃園市桃園區同德二街160號之2-3樓,https://www.google.com.tw/maps/place/桃園市桃園區同德二街160號之2-3樓,無,10,10,10,10,40,2025/09/01,true,true
+桃園市,振心身心診所,https://www.inspireclinic.com.tw/,03-3376868,桃園市桃園區中山北路57號1樓,https://www.google.com.tw/maps/place/桃園市桃園區中山北路57號1樓,掛號費200元,0,1,0,0,1,2025/08/23,false,true
+桃園市,四葉草心理治療所,,0963-080526,桃園市桃園區中正路1048號6樓,https://www.google.com.tw/maps/place/桃園市桃園區中正路1048號6樓,無,4,0,0,0,4,2025/08/15,false,true
+桃園市,柏樂診所,https://happypoclinic.blogspot.com/,（03）4560208,桃園市中壢區中山東路二段37號1樓,https://www.google.com.tw/maps/place/桃園市中壢區中山東路二段37號1樓,掛號費230元,1,1,2,0,4,2025/08/30,false,true
+桃園市,敏盛綜合醫院,https://www.e-ms.com.tw/,033179599,桃園市桃園區經國路168號,https://www.google.com.tw/maps/place/桃園市桃園區經國路168號,無,1,1,1,1,4,2025/09/01,false,true
+桃園市,薰喆心理治療所,https://www.shiunjer.com/,0933-720139,桃園市桃園區中埔一街107號1樓,https://www.google.com.tw/maps/place/桃園市桃園區中埔一街107號1樓,行政費400元,5,5,5,5,20,2025/09/01,false,true
+桃園市,福安心理治療所,,03-2737788,桃園市桃園區中正路1195號6 樓,https://www.google.com.tw/maps/place/桃園市桃園區中正路1195號6 樓,無,15,15,0,0,30,2025/08/21,false,true
 桃園市,新楊梅診所,https://www.nymc.com.tw/,03-4856530,桃園市楊梅區環東路476號,https://www.google.com.tw/maps/place/桃園市楊梅區環東路476號,行政管理費400元,0,0,0,0,0,尚未更新,false,false
-桃園市,新晴心理諮商所,https://www.happymind.url.tw,0928-889882,桃園市中壢區中北路二段119號12樓之六,https://www.google.com.tw/maps/place/桃園市中壢區中北路二段119號12樓之六,掛號費200元，行政處理費200元,0,0,0,0,0,尚未更新,false,false
 桃園市,謐時光心理諮商所,https://metime270.com,033128327,桃園市蘆竹區光明路一段60巷22號,https://www.google.com.tw/maps/place/桃園市蘆竹區光明路一段60巷22號,行政掛號費400元,0,0,0,0,0,尚未更新,true,false
 桃園市,舒欣身心診所,,034031058,桃園市平鎮區上海路221號,https://www.google.com.tw/maps/place/桃園市平鎮區上海路221號,掛號費150元,0,0,0,0,0,尚未更新,false,false
 桃園市,中原大學附設冠英心理治療所,https://kymhc.cycu.edu.tw/?gclid=CjwKCAjwov6hBhBsEiwAvrvN6OxWG9sP_uTZWFQQUDzf689kA8izvnDzVE_vY_lVZyLWa0TkxfiJGhoCr6kQAvD_BwE,03-265-7090,桃園市中壢區中北路200號(中原大學生物科技館707室),https://www.google.com.tw/maps/place/桃園市中壢區中北路200號(中原大學生物科技館707室),無,0,0,0,0,0,2025/08/13,false,false
 桃園市,居善醫院,http://www.jushan.com.tw/,03-3866511,桃園市大園區大觀路910號,https://www.google.com.tw/maps/place/桃園市大園區大觀路910號,掛號費100元,0,0,0,0,0,尚未更新,true,false
-桃園市,心澤心理諮商所,www.nourish.com.tw,0976-085331,桃園市桃園區中正路1322號4樓,https://www.google.com.tw/maps/place/桃園市桃園區中正路1322號4樓,無,0,0,0,0,0,尚未更新,false,false
+桃園市,尼思湖心理諮商所,https://sites.google.com/view/neathlake/%E9%A6%96%E9%A0%81?authuser=0,03-2122721 ; 0916-832895,桃園市蘆竹區南平街35號B1,https://www.google.com.tw/maps/place/桃園市蘆竹區南平街35號B1,行政管理暨場地費400元,0,0,0,0,0,尚未更新,true,false
+桃園市,心澤心理諮商所,www.nourish.com.tw,0976-085331,桃園市桃園區中正路1322號4樓,https://www.google.com.tw/maps/place/桃園市桃園區中正路1322號4樓,無,0,0,0,0,0,2025/08/22,false,false
 桃園市,昭質心理諮商所,,以官方line預約,桃園市中壢區福壽九街16號2樓,https://www.google.com.tw/maps/place/桃園市中壢區福壽九街16號2樓,掛號費200元,0,0,0,0,0,尚未更新,false,false
 桃園市,放心心理治療所,https://www.facebook.com/heartwithfun,033790885,桃園市桃園區國際路2段18號1樓,https://www.google.com.tw/maps/place/桃園市桃園區國際路2段18號1樓,行政場地費400元,0,0,0,0,0,尚未更新,true,false
 桃園市,心設計心理諮商所,https://wdesigncounseling.com,03-4013311,桃園市平鎮區文化街66-1號1樓,https://www.google.com.tw/maps/place/桃園市平鎮區文化街66-1號1樓,行政場地費400元,0,0,0,0,0,尚未更新,false,false
@@ -482,134 +472,133 @@ county,org_name,org_url,phone,address,map_url,pay_detail,this_week,next_week,nex
 桃園市,心園心理治療所,https://www.mind-garden.org/index.aspx,03-3317485,桃園市桃園區忠一路15號,https://www.google.com.tw/maps/place/桃園市桃園區忠一路15號,行政掛號費400元,0,0,0,0,0,尚未更新,true,false
 桃園市,福德身心診所,https://www.facebook.com/tudigong.psychiatricclinic/,03-425-3680,桃園市中壢區中美路二段97號一樓,https://www.google.com.tw/maps/place/桃園市中壢區中美路二段97號一樓,掛號費150元及行政費50元,0,0,0,0,0,尚未更新,false,false
 桃園市,人生策展人心理諮商所,https://thelifecurator.com.tw/,0919705585,桃園市龜山區萬壽路二段1199巷76號1F,https://www.google.com.tw/maps/place/桃園市龜山區萬壽路二段1199巷76號1F,無,0,0,0,0,0,尚未更新,false,false
+桃園市,聯新國際醫院,https://www.landseedhospital.com.tw,03-494-1234,桃園市平鎮市廣泰路77號 ,https://www.google.com.tw/maps/place/桃園市平鎮市廣泰路77號 ,掛號費300-350元,0,0,0,0,0,尚未更新,false,false
 桃園市,財團法人桃園市藍迪基金會附設澄語社區心理諮商所,https://www.rch.com.tw/counseling_center/about-chengyu/,03-4901500分機125,楊梅區電研路190巷92弄100號,https://www.google.com.tw/maps/place/楊梅區電研路190巷92弄100號,無,0,0,0,0,0,尚未更新,false,false
 桃園市,采靈心理諮商所,https://cailingc.com.tw/,03-4855730分機11,桃園市楊梅區楊新北路162號,https://www.google.com.tw/maps/place/桃園市楊梅區楊新北路162號,行政費用200元,0,0,0,0,0,尚未更新,false,false
 桃園市,沙爾德聖保祿修女會醫療財團法人聖保祿醫院,https://www.sph.org.tw/welcome/,03-3613141 #7694,桃園市桃園區建新街123號,https://www.google.com.tw/maps/place/桃園市桃園區建新街123號,掛號費250元,0,0,0,0,0,尚未更新,false,false
-桃園市,澄禾心理諮商所,https://chenghe-counseling.com/,033413505,桃園市桃園區水岸二街96號,https://www.google.com.tw/maps/place/桃園市桃園區水岸二街96號,行政費400元,0,0,0,0,0,尚未更新,false,false
-桃園市,柏樂診所,https://happypoclinic.blogspot.com/,（03）4560208,桃園市中壢區中山東路二段37號1樓,https://www.google.com.tw/maps/place/桃園市中壢區中山東路二段37號1樓,掛號費230元,0,0,0,0,0,尚未更新,false,false
+桃園市,澄禾心理諮商所,https://chenghe-counseling.com/,033413505,桃園市桃園區水岸二街96號,https://www.google.com.tw/maps/place/桃園市桃園區水岸二街96號,行政費400元,0,0,0,0,0,2025/08/19,false,false
+桃園市,向光心理諮商所,https://www.siangguangpsy.com/,0958143562,桃園市八德區介壽路二段788號9樓,https://www.google.com.tw/maps/place/桃園市八德區介壽路二段788號9樓,行政管理費400元,0,0,0,0,0,2025/09/01,false,false
 桃園市,聊瞭心理諮商所,https://liaoliao-psy.com,03-2850663,桃園市中壢區強國路14號2樓,https://www.google.com.tw/maps/place/桃園市中壢區強國路14號2樓,行政費400元/次,0,0,0,0,0,2025/08/14,false,false
 桃園市,沛田心理治療所,https://wonderlandclinic.com.tw/,03-2871007,桃園市大園區致祥三街53號,https://www.google.com.tw/maps/place/桃園市大園區致祥三街53號,掛號費400元,0,0,0,0,0,尚未更新,false,false
 桃園市,迎旭診所,,(03)4277126,桃園市中壢區延平路146號,https://www.google.com.tw/maps/place/桃園市中壢區延平路146號,掛號費200元,0,0,0,0,0,尚未更新,false,false
 桃園市,心晴診所,sunshine-clinic.com.tw,03/3467895,桃園市桃園區大有路360號1樓,https://www.google.com.tw/maps/place/桃園市桃園區大有路360號1樓,無,0,0,0,0,0,尚未更新,true,false
-桃園市,當陽之境身心診所,https://reurl.cc/z1daAQ,033557998,桃園市桃園區大業路一段436 號,https://www.google.com.tw/maps/place/桃園市桃園區大業路一段436 號,掛號費200元加行政管理費200元共400元,0,0,0,0,0,尚未更新,false,false
-桃園市,敏盛綜合醫院,https://www.e-ms.com.tw/,033179599,桃園市桃園區經國路168號,https://www.google.com.tw/maps/place/桃園市桃園區經國路168號,無,0,0,0,0,0,尚未更新,false,false
+桃園市,當陽之境身心診所,https://reurl.cc/z1daAQ,033557998,桃園市桃園區大業路一段436 號,https://www.google.com.tw/maps/place/桃園市桃園區大業路一段436 號,掛號費200元加行政管理費200元共400元,0,0,0,0,0,2025/08/18,false,false
+桃園市,宣恩心理諮商所,https://hsuanann-psy.carrd.co/,0905-498-990,桃園市中壢區寶慶街17號一樓,https://www.google.com.tw/maps/place/桃園市中壢區寶慶街17號一樓,無,0,0,0,0,0,2025/08/25,false,false
+桃園市,育禾身心診所,https://spirits.tw/Luzhu/,03-212-4688,桃園市蘆竹區中正路138號,https://www.google.com.tw/maps/place/桃園市蘆竹區中正路138號,掛號費200元,0,0,0,0,0,2025/09/01,false,false
 桃園市,長庚醫療財團法人林口長庚紀念醫院,https://cghdpt.cgmh.org.tw/branch/lnk,03-3281200分機2479,桃園市龜山區復興街5號,https://www.google.com.tw/maps/place/桃園市龜山區復興街5號,門診掛號費 100 元,0,0,0,0,0,尚未更新,false,false
 桃園市,長庚醫療財團法人桃園長庚紀念醫院,https://cghdpt.cgmh.org.tw/branch/hel,03-3281200 轉分機2479,桃園市龜山區舊路里頂湖路 123 號,https://www.google.com.tw/maps/place/桃園市龜山區舊路里頂湖路 123 號,門診：西醫、中醫 150 元,0,0,0,0,0,尚未更新,false,false
 桃園市,心吉時心理諮商所,https://www.xjstw.com,03-2805158,桃園市中壢區元化路113號2樓,https://www.google.com.tw/maps/place/桃園市中壢區元化路113號2樓,場地暨行政費400元,0,0,0,0,0,2025/08/11,false,false
-桃園市,野薑花心理諮商所,https://ginger-flower.com/,(03)355-9779,桃園市桃園區大有路508號2樓,https://www.google.com.tw/maps/place/桃園市桃園區大有路508號2樓,無,0,0,0,0,0,2025/07/28,false,false
-桃園市,有伴心理諮商所,https://www.beingwithshalom.com/,0975665345(周一至周四上午9:00~12:00),桃園市中壢區民權路245-1號(2樓),https://www.google.com.tw/maps/place/桃園市中壢區民權路245-1號(2樓),100,0,0,0,0,0,2025/08/07,false,false
-新竹縣,益鼎升心理諮商所,https://www.helping.org.tw,0931421391;03-6220303;03-6220305,新竹縣寶山鄉雙豐二街75號1樓,https://www.google.com.tw/maps/place/新竹縣寶山鄉雙豐二街75號1樓,無,10,10,10,10,40,2025/08/12,true,true
-新竹縣,青空心理治療所,https://www.aozorapsyclinic.com,0972-512295,新竹縣竹北市六家五路一段335、337號,https://www.google.com.tw/maps/place/新竹縣竹北市六家五路一段335、337號,行政處理費400元,3,3,0,0,6,2025/08/01,true,true
-新竹縣,臺北榮民總醫院新竹分院,https://org.vghtpe.gov.tw/vhct/,03-5962134#623,新竹縣竹東鎮中豐路一段81號,https://www.google.com.tw/maps/place/新竹縣竹東鎮中豐路一段81號,掛號費180元,4,4,4,0,12,2025/08/04,false,true
+桃園市,助人心理諮商所,,03-3359532,桃園市桃園區復興路207號16樓1603室,https://www.google.com.tw/maps/place/桃園市桃園區復興路207號16樓1603室,無,0,0,0,0,0,尚未更新,false,false
+桃園市,野薑花心理諮商所,https://ginger-flower.com/,(03)355-9779,桃園市桃園區大有路508號2樓,https://www.google.com.tw/maps/place/桃園市桃園區大有路508號2樓,無,0,0,0,0,0,2025/08/29,true,false
+桃園市,有伴心理諮商所,https://www.beingwithshalom.com/,0975665345(周一至周四上午9:00~12:00),桃園市中壢區民權路245-1號(2樓),https://www.google.com.tw/maps/place/桃園市中壢區民權路245-1號(2樓),100,0,0,0,0,0,尚未更新,false,false
+新竹縣,益鼎升心理諮商所,https://www.helping.org.tw,0931421391;03-6220303;03-6220305,新竹縣寶山鄉雙豐二街75號1樓,https://www.google.com.tw/maps/place/新竹縣寶山鄉雙豐二街75號1樓,無,10,10,0,0,20,2025/08/18,true,true
+新竹縣,青空心理治療所,https://www.aozorapsyclinic.com,0972-512295,新竹縣竹北市六家五路一段335、337號,https://www.google.com.tw/maps/place/新竹縣竹北市六家五路一段335、337號,行政處理費400元,1,2,2,3,8,2025/09/01,true,true
+新竹縣,臺北榮民總醫院新竹分院,https://org.vghtpe.gov.tw/vhct/,03-5962134#623,新竹縣竹東鎮中豐路一段81號,https://www.google.com.tw/maps/place/新竹縣竹東鎮中豐路一段81號,掛號費180元,4,4,4,0,12,2025/08/26,false,true
+新竹縣,安立身心診所,,03-6577622,新竹縣竹北市莊敬北路78號1樓,https://www.google.com.tw/maps/place/新竹縣竹北市莊敬北路78號1樓,民眾每次需自付200元掛號費,2,2,2,0,6,2025/08/26,false,true
 新竹縣,培靈醫療社團法人關西醫院,https://peiling.kooco.co/,03-5476399,新竹縣關西鎮石門33之1號,https://www.google.com.tw/maps/place/新竹縣關西鎮石門33之1號,無,0,0,0,0,0,尚未更新,false,false
-新竹縣,心園心理治療所,https://www.mind-garden.org/doctor_1.aspx,03-5506375,新竹縣竹北市勝利八街二段111號,https://www.google.com.tw/maps/place/新竹縣竹北市勝利八街二段111號,400掛號費,0,0,0,0,0,2025/08/12,false,false
+新竹縣,心園心理治療所,https://www.mind-garden.org/doctor_1.aspx,03-5506375,新竹縣竹北市勝利八街二段111號,https://www.google.com.tw/maps/place/新竹縣竹北市勝利八街二段111號,400掛號費,0,0,0,0,0,2025/09/02,false,false
 新竹縣,寬心自在心理諮商所(竹北所),https://www.openmind-counseling-center.com/,03-5426695,新竹縣竹北市中正東路213號2樓,https://www.google.com.tw/maps/place/新竹縣竹北市中正東路213號2樓,18歲以上成人-掛號費200元18歲以下青少年-掛號費400元,0,0,0,0,0,尚未更新,false,false
 新竹縣,台齡身心診所,http://www.tlwu.tw,35586857,新竹縣竹北市文信路376號,https://www.google.com.tw/maps/place/新竹縣竹北市文信路376號,無,0,0,0,0,0,尚未更新,false,false
 新竹縣,心璞藝術心理諮商所,https://www.xinpu-counseling.com/,03-6685726,新竹縣竹北市光明六路東二段48號,https://www.google.com.tw/maps/place/新竹縣竹北市光明六路東二段48號,無,0,0,0,0,0,尚未更新,false,false
 新竹縣,理路嵐天心理諮商所,https://www.facebook.com/Leeloolanlan/,03-5290015,新竹縣寶山鄉雙豐二街25巷6號2樓,https://www.google.com.tw/maps/place/新竹縣寶山鄉雙豐二街25巷6號2樓,無,0,0,0,0,0,尚未更新,false,false
-新竹縣,智諭潛能發展心理治療所,www.zhiyutherapy.com,03-6571550,新竹縣竹北市科大二街49號1樓,https://www.google.com.tw/maps/place/新竹縣竹北市科大二街49號1樓,無,0,0,0,0,0,尚未更新,false,false
-新竹縣,星晴心理治療所,https://www.xinching-psy.com,03-6578690,新竹縣竹北市光明六路東二段268號,https://www.google.com.tw/maps/place/新竹縣竹北市光明六路東二段268號,掛號費 200 元,0,0,0,0,0,2025/08/04,false,false
+新竹縣,智諭潛能發展心理治療所,www.zhiyutherapy.com,03-6571550,新竹縣竹北市科大二街49號1樓,https://www.google.com.tw/maps/place/新竹縣竹北市科大二街49號1樓,無,0,0,0,0,0,2025/08/20,false,false
+新竹縣,星晴心理治療所,https://www.xinching-psy.com,03-6578690,新竹縣竹北市光明六路東二段268號,https://www.google.com.tw/maps/place/新竹縣竹北市光明六路東二段268號,掛號費 200 元,0,0,0,0,0,2025/08/22,false,false
 新竹縣,拾光心理諮商所,https://lightsinyou.com/,03-5583800,新竹縣竹北市文信路23號1樓,https://www.google.com.tw/maps/place/新竹縣竹北市文信路23號1樓,無,0,0,0,0,0,尚未更新,true,false
 新竹縣,六竹診所,https://www.hexa-health.com.tw/,03-5505550,新竹縣竹北市嘉豐二街一段48號1樓,https://www.google.com.tw/maps/place/新竹縣竹北市嘉豐二街一段48號1樓,掛號費200元自付額50元,0,0,0,0,0,尚未更新,false,false
-新竹縣,安立身心診所,,03-6577622,新竹縣竹北市莊敬北路78號1樓,https://www.google.com.tw/maps/place/新竹縣竹北市莊敬北路78號1樓,民眾每次需自付200元掛號費,0,0,0,0,0,尚未更新,false,false
-新竹縣,沐光心理諮商所,https://enlightening-cc.com/,03-6578521,新竹縣竹北市成功11街150號2樓,https://www.google.com.tw/maps/place/新竹縣竹北市成功11街150號2樓,行政費500保證金600(結案後退回),0,0,0,0,0,2025/07/22,true,false
+新竹縣,沐光心理諮商所,https://enlightening-cc.com/,03-6578521,新竹縣竹北市成功11街150號2樓,https://www.google.com.tw/maps/place/新竹縣竹北市成功11街150號2樓,行政費500保證金600(結案後退回),0,0,0,0,0,尚未更新,true,false
 新竹縣,中國醫藥大學新竹附設醫院,https://www.cmu-hch.cmu.edu.tw/,03-5580558分機1158,新竹縣竹北市興隆路一段199號,https://www.google.com.tw/maps/place/新竹縣竹北市興隆路一段199號,掛號費260元,0,0,0,0,0,尚未更新,false,false
 新竹縣,天主教仁慈醫療財團法人仁慈醫院,https://www.mercy.org.tw/,03-5993500,新竹縣湖口鄉忠孝路29號,https://www.google.com.tw/maps/place/新竹縣湖口鄉忠孝路29號,掛號費150元,0,0,0,0,0,尚未更新,false,false
-宜蘭縣,喜悅心理諮商所,https://portaly.cc/joycounseling,0975216206,宜蘭縣五結鄉鎮安村舊街一路110巷10號,https://www.google.com.tw/maps/place/宜蘭縣五結鄉鎮安村舊街一路110巷10號,無,1,1,3,0,5,2025/08/04,false,true
-宜蘭縣,宜然自得心理諮商所,FB粉絲團「宜然自得心理諮商所」,03-9109776,宜蘭縣礁溪鄉和平路16巷1號,https://www.google.com.tw/maps/place/宜蘭縣礁溪鄉和平路16巷1號,無,6,6,0,0,12,2025/07/31,true,true
-宜蘭縣,雨後心理治療所,https://www.facebook.com/rainorshineclinic,03-9657998,宜蘭縣五結鄉台興路96號1樓,https://www.google.com.tw/maps/place/宜蘭縣五結鄉台興路96號1樓,平日白天9:00-17:00免費，夜間17:00後及週六週日行政處理費400元,0,0,0,0,0,2025/07/31,false,false
-宜蘭縣,伴心理諮商所,https://www.accmentalhealth.com/,0975-087710,宜蘭縣礁溪鄉仁愛路11巷5號,https://www.google.com.tw/maps/place/宜蘭縣礁溪鄉仁愛路11巷5號,無,0,0,0,0,0,2025/07/31,true,false
-宜蘭縣,聊癒心理諮商所,https://www.facebook.com/talkingtherapycounseling,0930121253,宜蘭縣羅東鎮康莊路42號,https://www.google.com.tw/maps/place/宜蘭縣羅東鎮康莊路42號,400元(行政與場地費用),0,0,0,0,0,2025/07/31,true,false
-宜蘭縣,臺北榮民總醫院員山分院,https://org.vghtpe.gov.tw/ysvh/,03-9222141,宜蘭縣員山鄉內城村榮光路386號,https://www.google.com.tw/maps/place/宜蘭縣員山鄉內城村榮光路386號,掛號費,0,0,0,0,0,2025/07/31,false,false
-宜蘭縣,臺北榮民總醫院蘇澳分院,https://org.vghtpe.gov.tw/savh/,03-9905106,宜蘭縣蘇澳鎮蘇濱路一段301號,https://www.google.com.tw/maps/place/宜蘭縣蘇澳鎮蘇濱路一段301號,掛號費,0,0,0,0,0,2025/07/31,false,false
-宜蘭縣,享受美光心理治療所,,0939504295,宜蘭市黎明三路329巷55弄11號,https://www.google.com.tw/maps/place/宜蘭市黎明三路329巷55弄11號,無,0,0,0,0,0,2025/07/31,false,false
-宜蘭縣,永恩心理諮商所,FB:永恩心理諮商所,0976-026667,宜蘭市中山路一段660號,https://www.google.com.tw/maps/place/宜蘭市中山路一段660號,無,0,0,0,0,0,2025/07/31,true,false
-宜蘭縣,馨家心理治療所,FB：馨家心理治療所LINE:@300wfmhu,0963621858,宜蘭市民權新路340號一樓,https://www.google.com.tw/maps/place/宜蘭市民權新路340號一樓,無,0,0,0,0,0,2025/07/31,true,false
-宜蘭縣,國立陽明交通大學附設醫院,https://www.hosp.nycu.edu.tw/,03-9325192,宜蘭縣宜蘭市新民路152號,https://www.google.com.tw/maps/place/宜蘭縣宜蘭市新民路152號,掛號費(依身分別收取),0,0,0,0,0,2025/07/31,false,false
-宜蘭縣,立心理諮商所,https://reurl.cc/1bolLp,0908-166-003,宜蘭縣五結鄉二結路370號2樓,https://www.google.com.tw/maps/place/宜蘭縣五結鄉二結路370號2樓,無,0,0,0,0,0,2025/07/31,true,false
-宜蘭縣,五餅二魚身心科診所,https://hisworkclinic.com/,(03)9550705,宜蘭縣羅東鎮林森路154-1號,https://www.google.com.tw/maps/place/宜蘭縣羅東鎮林森路154-1號,400元（行政與場地費用）,0,0,0,0,0,2025/07/31,false,false
-宜蘭縣,海天醫院,https://hiten.pixnet.net/blog/post/30897934,(03)9308010,宜蘭縣壯圍鄉古亭路23-9號,https://www.google.com.tw/maps/place/宜蘭縣壯圍鄉古亭路23-9號,無,0,0,0,0,0,2025/07/31,false,false
-苗栗縣,衛生福利部苗栗醫院,https://www.mil.mohw.gov.tw/,037-261920#1265,苗栗縣苗栗市為公路747號,https://www.google.com.tw/maps/place/苗栗縣苗栗市為公路747號,無,8,8,8,8,32,2025/08/11,false,true
-苗栗縣,我時心理諮商所,https://ourtime.com.tw/,037-620780,苗栗縣竹南鎮佳興里環市路三段580號1F,https://www.google.com.tw/maps/place/苗栗縣竹南鎮佳興里環市路三段580號1F,無,0,0,2,2,4,2025/08/15,false,true
-苗栗縣,逍遙心理諮商所,https://counseling.xiaoyaoxinli.com/,03-5729385,苗栗縣頭份市斗煥里11鄰群英路85巷1號,https://www.google.com.tw/maps/place/苗栗縣頭份市斗煥里11鄰群英路85巷1號,無,2,2,0,0,4,2025/07/28,true,true
-苗栗縣,謐境心理治療所,https://www.facebook.com/profile.php?id=61558298624935&paipv=0&eav=AfYaRFe0LdFCfgFqhMNkU_SQcnp7qAizuIpZUOPELIkGnz2dBH9kv04wymvntSsgnZM,037-377567,苗栗縣苗栗市中山路398號1樓,https://www.google.com.tw/maps/place/苗栗縣苗栗市中山路398號1樓,無,0,0,3,0,3,2025/08/08,false,true
-苗栗縣,為恭醫療財團法人為恭紀念醫院,https://www.weigong.org.tw/,037-676811#53370,苗栗縣頭份市信義路128號,https://www.google.com.tw/maps/place/苗栗縣頭份市信義路128號,掛號費(依院方規定),10,11,12,0,33,2025/08/04,false,true
-苗栗縣,度情心理諮商所,https://du-ching.mystrikingly.com/,037-728869,苗栗縣後龍鎮新東路426號,https://www.google.com.tw/maps/place/苗栗縣後龍鎮新東路426號,無,23,23,23,0,69,2025/08/05,false,true
-苗栗縣,小巷子心理治療所,https://www.facebook.com/profile.php?id=61564986991056,037-598590,苗栗縣頭份市長安街45之1號1樓,https://www.google.com.tw/maps/place/苗栗縣頭份市長安街45之1號1樓,行政費200元,5,5,5,5,20,2025/08/12,false,true
-彰化縣,沐昀心理治療所,https://www.daylight-psy.com/,04-7200060,彰化市博愛街64 號,https://www.google.com.tw/maps/place/彰化市博愛街64 號,無,2,4,0,0,6,2025/07/31,false,true
-彰化縣,真宸心理治療所,www.jenchenpc.com,0909-506501,彰化市金馬路三段135號,https://www.google.com.tw/maps/place/彰化市金馬路三段135號,無,10,10,10,10,40,2025/08/11,true,true
-彰化縣,彰化基督教醫療財團法人彰化基督教醫院,https://www.cch.org.tw/,04-7238595,彰化縣彰化市南校街135號;中華路176號;旭光路235號;旭光路320號,https://www.google.com.tw/maps/place/彰化縣彰化市南校街135號;中華路176號;旭光路235號;旭光路320號,無,7,11,12,11,41,2025/08/11,true,true
-彰化縣,唯心心理治療所,https://www.facebook.com/profile.php?id=100088722120204,04-7222076,彰化市辭修路76號,https://www.google.com.tw/maps/place/彰化市辭修路76號,無,2,5,5,0,12,2025/08/15,false,true
-彰化縣,敦仁醫院,https://www.dunren.com.tw/,04-7071727#203,彰化縣員林市員水路一段102巷74弄99號,https://www.google.com.tw/maps/place/彰化縣員林市員水路一段102巷74弄99號,無,0,0,0,0,0,尚未更新,false,false
-彰化縣,雁行心理諮商所,https://loveiseverythingorg.wordpress.com,0908-139283,彰化縣彰化市桃源里南郭路一段361-1號,https://www.google.com.tw/maps/place/彰化縣彰化市桃源里南郭路一段361-1號,無,0,0,0,0,0,尚未更新,false,false
+宜蘭縣,喜悅心理諮商所,https://portaly.cc/joycounseling,0975216206,宜蘭縣五結鄉鎮安村舊街一路110巷10號,https://www.google.com.tw/maps/place/宜蘭縣五結鄉鎮安村舊街一路110巷10號,無,4,3,2,0,9,2025/08/29,false,true
+宜蘭縣,雨後心理治療所,https://www.facebook.com/rainorshineclinic,03-9657998,宜蘭縣五結鄉台興路96號1樓,https://www.google.com.tw/maps/place/宜蘭縣五結鄉台興路96號1樓,平日白天9:00-17:00免費，夜間17:00後及週六週日行政處理費400元,0,0,0,0,0,尚未更新,false,false
+宜蘭縣,伴心理諮商所,https://www.accmentalhealth.com/,0975-087710,宜蘭縣礁溪鄉仁愛路11巷5號,https://www.google.com.tw/maps/place/宜蘭縣礁溪鄉仁愛路11巷5號,無,0,0,0,0,0,尚未更新,true,false
+宜蘭縣,聊癒心理諮商所,https://www.facebook.com/talkingtherapycounseling,0930121253,宜蘭縣羅東鎮康莊路42號,https://www.google.com.tw/maps/place/宜蘭縣羅東鎮康莊路42號,400元(行政與場地費用),0,0,0,0,0,尚未更新,true,false
+宜蘭縣,臺北榮民總醫院員山分院,https://org.vghtpe.gov.tw/ysvh/,03-9222141,宜蘭縣員山鄉內城村榮光路386號,https://www.google.com.tw/maps/place/宜蘭縣員山鄉內城村榮光路386號,掛號費,0,0,0,0,0,尚未更新,false,false
+宜蘭縣,臺北榮民總醫院蘇澳分院,https://org.vghtpe.gov.tw/savh/,03-9905106,宜蘭縣蘇澳鎮蘇濱路一段301號,https://www.google.com.tw/maps/place/宜蘭縣蘇澳鎮蘇濱路一段301號,掛號費,0,0,0,0,0,尚未更新,false,false
+宜蘭縣,享受美光心理治療所,,0939504295,宜蘭市黎明三路329巷55弄11號,https://www.google.com.tw/maps/place/宜蘭市黎明三路329巷55弄11號,無,0,0,0,0,0,尚未更新,false,false
+宜蘭縣,永恩心理諮商所,FB:永恩心理諮商所,0976-026667,宜蘭市中山路一段660號,https://www.google.com.tw/maps/place/宜蘭市中山路一段660號,無,0,0,0,0,0,尚未更新,true,false
+宜蘭縣,馨家心理治療所,FB：馨家心理治療所LINE:@300wfmhu,0963621858,宜蘭市民權新路340號一樓,https://www.google.com.tw/maps/place/宜蘭市民權新路340號一樓,無,0,0,0,0,0,尚未更新,true,false
+宜蘭縣,國立陽明交通大學附設醫院,https://www.hosp.nycu.edu.tw/,03-9325192,宜蘭縣宜蘭市新民路152號,https://www.google.com.tw/maps/place/宜蘭縣宜蘭市新民路152號,掛號費(依身分別收取),0,0,0,0,0,尚未更新,false,false
+宜蘭縣,宜然自得心理諮商所,FB粉絲團「宜然自得心理諮商所」,03-9109776,宜蘭縣礁溪鄉和平路16巷1號,https://www.google.com.tw/maps/place/宜蘭縣礁溪鄉和平路16巷1號,無,0,0,0,0,0,2025/08/19,true,false
+宜蘭縣,立心理諮商所,https://reurl.cc/1bolLp,0908-166-003,宜蘭縣五結鄉二結路370號2樓,https://www.google.com.tw/maps/place/宜蘭縣五結鄉二結路370號2樓,無,0,0,0,0,0,尚未更新,true,false
+宜蘭縣,五餅二魚身心科診所,https://hisworkclinic.com/,(03)9550705,宜蘭縣羅東鎮林森路154-1號,https://www.google.com.tw/maps/place/宜蘭縣羅東鎮林森路154-1號,400元（行政與場地費用）,0,0,0,0,0,尚未更新,false,false
+宜蘭縣,海天醫院,https://hiten.pixnet.net/blog/post/30897934,(03)9308010,宜蘭縣壯圍鄉古亭路23-9號,https://www.google.com.tw/maps/place/宜蘭縣壯圍鄉古亭路23-9號,無,0,0,0,0,0,尚未更新,false,false
+苗栗縣,衛生福利部苗栗醫院,https://www.mil.mohw.gov.tw/,037-261920#1265,苗栗縣苗栗市為公路747號,https://www.google.com.tw/maps/place/苗栗縣苗栗市為公路747號,無,8,8,8,8,32,2025/09/01,false,true
+苗栗縣,逍遙心理諮商所,https://counseling.xiaoyaoxinli.com/,03-5729385,苗栗縣頭份市斗煥里11鄰群英路85巷1號,https://www.google.com.tw/maps/place/苗栗縣頭份市斗煥里11鄰群英路85巷1號,無,0,3,3,0,6,2025/08/26,true,true
+苗栗縣,為恭醫療財團法人為恭紀念醫院,https://www.weigong.org.tw/,037-676811#53370,苗栗縣頭份市信義路128號,https://www.google.com.tw/maps/place/苗栗縣頭份市信義路128號,掛號費(依院方規定),6,12,11,12,41,2025/09/01,false,true
+苗栗縣,度情心理諮商所,https://du-ching.mystrikingly.com/,037-728869,苗栗縣後龍鎮新東路426號,https://www.google.com.tw/maps/place/苗栗縣後龍鎮新東路426號,無,20,20,21,16,77,2025/09/02,true,true
+苗栗縣,小巷子心理治療所,https://www.facebook.com/profile.php?id=61564986991056,037-598590,苗栗縣頭份市長安街45之1號1樓,https://www.google.com.tw/maps/place/苗栗縣頭份市長安街45之1號1樓,行政費200元,5,5,5,5,20,2025/09/01,false,true
+苗栗縣,我時心理諮商所,https://ourtime.com.tw/,037-620780,苗栗縣竹南鎮佳興里環市路三段580號1F,https://www.google.com.tw/maps/place/苗栗縣竹南鎮佳興里環市路三段580號1F,無,0,0,0,0,0,2025/09/01,false,false
+苗栗縣,謐境心理治療所,https://www.facebook.com/profile.php?id=61558298624935&paipv=0&eav=AfYaRFe0LdFCfgFqhMNkU_SQcnp7qAizuIpZUOPELIkGnz2dBH9kv04wymvntSsgnZM,037-377567,苗栗縣苗栗市中山路398號1樓,https://www.google.com.tw/maps/place/苗栗縣苗栗市中山路398號1樓,無,0,0,0,0,0,尚未更新,false,false
+彰化縣,敦仁醫院,https://www.dunren.com.tw/,04-7071727#203,彰化縣員林市員水路一段102巷74弄99號,https://www.google.com.tw/maps/place/彰化縣員林市員水路一段102巷74弄99號,無,1,1,0,0,2,2025/08/20,false,true
+彰化縣,沐昀心理治療所,https://www.daylight-psy.com/,04-7200060,彰化市博愛街64 號,https://www.google.com.tw/maps/place/彰化市博愛街64 號,無,0,2,0,0,2,2025/08/23,false,true
+彰化縣,雁行心理諮商所,https://loveiseverythingorg.wordpress.com,0908-139283,彰化縣彰化市桃源里南郭路一段361-1號,https://www.google.com.tw/maps/place/彰化縣彰化市桃源里南郭路一段361-1號,無,4,4,4,4,16,2025/08/31,false,true
+彰化縣,真宸心理治療所,www.jenchenpc.com,0909-506501,彰化市金馬路三段135號,https://www.google.com.tw/maps/place/彰化市金馬路三段135號,無,10,10,10,10,40,2025/09/01,true,true
+彰化縣,彰化基督教醫療財團法人彰化基督教醫院,https://www.cch.org.tw/,04-7238595,彰化縣彰化市南校街135號;中華路176號;旭光路235號;旭光路320號,https://www.google.com.tw/maps/place/彰化縣彰化市南校街135號;中華路176號;旭光路235號;旭光路320號,無,7,11,11,11,40,2025/09/02,true,true
+彰化縣,唯心心理治療所,https://www.facebook.com/profile.php?id=100088722120204,04-7222076,彰化市辭修路76號,https://www.google.com.tw/maps/place/彰化市辭修路76號,無,1,2,9,0,12,2025/08/28,false,true
+彰化縣,未知有智心理諮商所,https://unknown-wisdom.com/,0921-623003,彰化市中山路一段403號6樓,https://www.google.com.tw/maps/place/彰化市中山路一段403號6樓,,5,5,5,0,15,2025/08/26,false,true
 彰化縣,芙樂奇心理諮商所,https://www.psflourish.com.tw/,04-8346028,彰化縣員林市南和街64號,https://www.google.com.tw/maps/place/彰化縣員林市南和街64號,無,0,0,0,0,0,尚未更新,true,false
 彰化縣,秀傳醫療社團法人秀傳紀念醫院,https://www.scmh.org.tw/,0975-611-165/0975-611-234,彰化縣彰化市中山路一段542號,https://www.google.com.tw/maps/place/彰化縣彰化市中山路一段542號,無,0,0,0,0,0,尚未更新,false,false
 彰化縣,四季心心理諮商所,https://seasonmind.blogspot.com/,0966-189708,彰化縣員林市浮圳路二段470號,https://www.google.com.tw/maps/place/彰化縣員林市浮圳路二段470號,無,0,0,0,0,0,尚未更新,true,false
-彰化縣,彰化師大社區心理諮商所,https://humanweb.ncue.edu.tw/app/index.php,04-7289258,彰化市進德路1號(綜合中心3樓),https://www.google.com.tw/maps/place/彰化市進德路1號(綜合中心3樓),無,0,0,0,0,0,尚未更新,true,false
+彰化縣,彰化師大社區心理諮商所,https://humanweb.ncue.edu.tw/app/index.php,04-7289258,彰化市進德路1號(綜合中心3樓),https://www.google.com.tw/maps/place/彰化市進德路1號(綜合中心3樓),無,0,0,0,0,0,2025/08/30,true,false
 彰化縣,衛生福利部彰化醫院,https://www.chhw.mohw.gov.tw/guide.php,8298686,彰化縣埔心鄉中正路二段80號,https://www.google.com.tw/maps/place/彰化縣埔心鄉中正路二段80號,掛號費320元,0,0,0,0,0,尚未更新,false,false
 彰化縣,修慧身心科診所,,04-7266158,彰化縣和美鎮中圍里彰新路三段531號,https://www.google.com.tw/maps/place/彰化縣和美鎮中圍里彰新路三段531號,掛號費150元,0,0,0,0,0,尚未更新,true,false
-彰化縣,未知有智心理諮商所,https://unknown-wisdom.com/,0921-623003,彰化市中山路一段403號6樓,https://www.google.com.tw/maps/place/彰化市中山路一段403號6樓,,0,0,0,0,0,尚未更新,false,false
 彰化縣,安晴心理治療所,,0963682903,彰化縣鹿港鎮埔崙里自由路301號,https://www.google.com.tw/maps/place/彰化縣鹿港鎮埔崙里自由路301號,,0,0,0,0,0,尚未更新,true,false
-南投縣,衛生福利部草屯療養院,https://www.ttpc.mohw.gov.tw/,049-2550800,南投縣草屯鎮玉屏路161號,https://www.google.com.tw/maps/place/南投縣草屯鎮玉屏路161號,無,3,3,3,3,12,2025/08/11,true,true
-南投縣,衛生福利部南投醫院,https://netreg01.nant.mohw.gov.tw/OINetReg.WebRwd/Reg/DeptCalendar?DeptId=1305,049-2231150#2128,南投縣南投市復興路478號,https://www.google.com.tw/maps/place/南投縣南投市復興路478號,無,12,0,0,0,12,2025/07/21,true,true
-南投縣,臺中榮民總醫院埔里分院,https://www.pulivh.gov.tw/,049-2990833分機7107,南投縣埔里鎮榮光路一號,https://www.google.com.tw/maps/place/南投縣埔里鎮榮光路一號,掛號費180元,2,1,2,0,5,2025/08/05,false,true
-南投縣,致遠身心科診所,,049-2248282,南投市康壽里南陽路415號,https://www.google.com.tw/maps/place/南投市康壽里南陽路415號,掛號費150元,12,12,0,0,24,2025/07/29,true,true
-南投縣,微聲想想心理治療所,,0912169868,南投縣埔里鎮西康路52號,https://www.google.com.tw/maps/place/南投縣埔里鎮西康路52號,,6,6,6,6,24,2025/08/13,false,true
+南投縣,衛生福利部草屯療養院,https://www.ttpc.mohw.gov.tw/,049-2550800,南投縣草屯鎮玉屏路161號,https://www.google.com.tw/maps/place/南投縣草屯鎮玉屏路161號,無,3,3,3,0,9,2025/08/24,true,true
+南投縣,唯聆心理治療所,https://www.willingtotherapy.com/,0958797012,南投縣草屯鎮仁愛街270號,https://www.google.com.tw/maps/place/南投縣草屯鎮仁愛街270號,無,3,3,3,3,12,2025/09/02,false,true
+南投縣,微聲想想心理治療所,,0912169868,南投縣埔里鎮西康路52號,https://www.google.com.tw/maps/place/南投縣埔里鎮西康路52號,,6,6,6,0,18,2025/08/29,false,true
+南投縣,衛生福利部南投醫院,https://netreg01.nant.mohw.gov.tw/OINetReg.WebRwd/Reg/DeptCalendar?DeptId=1305,049-2231150#2128,南投縣南投市復興路478號,https://www.google.com.tw/maps/place/南投縣南投市復興路478號,無,0,0,0,0,0,尚未更新,true,false
 南投縣,埔基醫療財團法人埔里基督教醫院,https://www.pch.org.tw/department.php?depid=136#depblk287,049-2912151#5650,南投縣埔里鎮鐵山路1號,https://www.google.com.tw/maps/place/南投縣埔里鎮鐵山路1號,無,0,0,0,0,0,尚未更新,false,false
-南投縣,唯聆心理治療所,https://www.willingtotherapy.com/,0958797012,南投縣草屯鎮仁愛街270號,https://www.google.com.tw/maps/place/南投縣草屯鎮仁愛街270號,無,0,0,0,0,0,尚未更新,false,false
-南投縣,生命樹心理諮商所,,0931868809,南投市文化南路106號2樓,https://www.google.com.tw/maps/place/南投市文化南路106號2樓,,0,0,0,0,0,尚未更新,false,false
-雲林縣,晴明身心診所,https://www.facebook.com/profile.php?id=100063481676749,05-5330567,雲林縣斗六市大同路183號,https://www.google.com.tw/maps/place/雲林縣斗六市大同路183號,掛號費200元,3,4,4,4,15,2025/08/14,false,true
+南投縣,臺中榮民總醫院埔里分院,https://www.pulivh.gov.tw/,049-2990833分機7107,南投縣埔里鎮榮光路一號,https://www.google.com.tw/maps/place/南投縣埔里鎮榮光路一號,掛號費180元,0,0,0,0,0,尚未更新,false,false
+南投縣,致遠身心科診所,,049-2248282,南投市康壽里南陽路415號,https://www.google.com.tw/maps/place/南投市康壽里南陽路415號,掛號費150元,0,0,0,0,0,尚未更新,true,false
+南投縣,生命樹心理諮商所,,0931868809,南投市文化南路106號2樓,https://www.google.com.tw/maps/place/南投市文化南路106號2樓,,0,0,0,0,0,2025/08/24,false,false
+雲林縣,晴明身心診所,https://www.facebook.com/profile.php?id=100063481676749,05-5330567,雲林縣斗六市大同路183號,https://www.google.com.tw/maps/place/雲林縣斗六市大同路183號,掛號費200元,4,5,4,0,13,2025/08/28,false,true
+雲林縣,雲晴心理諮商所,https://yunching0108.blogspot.com/,0921523828,雲林縣虎尾鎮光復路315巷7號,https://www.google.com.tw/maps/place/雲林縣虎尾鎮光復路315巷7號,無,5,0,0,0,5,2025/08/16,false,true
 雲林縣,信安醫療社團法人信安醫院,http://www.hsinan.com.tw/,05-5223788,雲林縣斗六市瓦厝路159號,https://www.google.com.tw/maps/place/雲林縣斗六市瓦厝路159號,無,0,0,0,0,0,尚未更新,false,false
 雲林縣,天主教若瑟醫療財團法人若瑟醫院,https://www.stjoho.org.tw/www2012/,05-6337333,雲林縣虎尾鎮新生路74號,https://www.google.com.tw/maps/place/雲林縣虎尾鎮新生路74號,掛號費150元,0,0,0,0,0,尚未更新,false,false
 雲林縣,廖寶全診所,https://www.facebook.com/safemind2020,05-6322584,雲林縣虎尾鎮東明路182號,https://www.google.com.tw/maps/place/雲林縣虎尾鎮東明路182號,無,0,0,0,0,0,尚未更新,false,false
-雲林縣,雲晴心理諮商所,https://yunching0108.blogspot.com/,0921523828,雲林縣虎尾鎮光復路315巷7號,https://www.google.com.tw/maps/place/雲林縣虎尾鎮光復路315巷7號,無,0,0,0,0,0,尚未更新,false,false
 雲林縣,綠水心理諮商所,,0958137607,雲林縣虎尾鎮林森路一段416巷15號2樓,https://www.google.com.tw/maps/place/雲林縣虎尾鎮林森路一段416巷15號2樓,行政處理費200元,0,0,0,0,0,尚未更新,false,false
 雲林縣,穗訸心理治療所,https://www.facebook.com/profile.php?id=100071396570518,0936762822,雲林縣斗六市建成路59巷11號1樓,https://www.google.com.tw/maps/place/雲林縣斗六市建成路59巷11號1樓,行政費500元,0,0,0,0,0,尚未更新,false,false
 雲林縣,何正岳診所,,05-5328680,雲林縣斗六市鎮西里建成路115號,https://www.google.com.tw/maps/place/雲林縣斗六市鎮西里建成路115號,0,0,0,0,0,0,尚未更新,false,false
 雲林縣,又見花開心理諮商所,https://www.facebook.com/profile.php?id=61571898251312,05-5362708,雲林縣斗六市明德北路一段177號,https://www.google.com.tw/maps/place/雲林縣斗六市明德北路一段177號,0,0,0,0,0,0,尚未更新,false,false
-嘉義縣,佛教慈濟醫療財團法人大林慈濟醫院,https://dalin.tzuchi-healthcare.org.tw,05-2648000,嘉義縣大林鎮民生號2號,https://www.google.com.tw/maps/place/嘉義縣大林鎮民生號2號,掛號費100元,6,6,6,0,18,2025/08/06,false,true
-嘉義縣,臺中榮民總醫院灣橋分院,https://www.vhwc.gov.tw/,05-2791072#7378,嘉義縣竹崎鄉灣橋村石麻園38號,https://www.google.com.tw/maps/place/嘉義縣竹崎鄉灣橋村石麻園38號,第一次至本院建立病歷以利後續繼續治療，掛號費50元,6,6,0,0,12,2025/07/30,false,true
-嘉義縣,款待心理諮商所,https://sites.google.com/view/neshama1125,0971-822301,嘉義縣民雄鄉中樂村保生街81巷25號,https://www.google.com.tw/maps/place/嘉義縣民雄鄉中樂村保生街81巷25號,行政費100元,5,8,10,0,23,2025/08/09,false,true
-嘉義縣,敬重自我存在心理諮商中心,https://respectbeing2020.mystrikingly.com/,05-2264948,嘉義縣民雄鄉建國路一段1020之2946號,https://www.google.com.tw/maps/place/嘉義縣民雄鄉建國路一段1020之2946號,行政處理及場地費200元,12,12,12,12,48,2025/08/12,false,true
-屏東縣,安己心理治療所,,0930920640,屏東市民富街86巷13號,https://www.google.com.tw/maps/place/屏東市民富街86巷13號,無,3,4,4,0,11,2025/08/04,false,true
-屏東縣,牧陽心理治療所,http://www.muyoung.com.tw/,08-7328695,屏東縣屏東市中山路277號,https://www.google.com.tw/maps/place/屏東縣屏東市中山路277號,1.週間平日：200元（含掛號費及行政處理費）2.晚間及假日：300元（含掛號費、行政處理費及晚間假日指定費）3.中低收入戶、領有身心障礙手冊、重大傷病卡者免掛號費，僅需繳交100元行政處理費。,10,12,12,0,34,2025/08/14,false,true
-屏東縣,衛生福利部屏東醫院,https://www.pntn.mohw.gov.tw,08-736-3011轉2811,屏東市自由路270號,https://www.google.com.tw/maps/place/屏東市自由路270號,無,0,0,3,3,6,2025/08/11,false,true
-屏東縣,啟初心理治療所,https://www.facebook.com/profile.php?id=100063721707238,0975313630,屏東市仁愛路79-2號,https://www.google.com.tw/maps/place/屏東市仁愛路79-2號,掛號費100元,12,12,0,0,24,2025/08/01,false,true
-屏東縣,屏安醫療社團法人屏安醫院,http://www.pingan.url.tw/htdocs/index.php,08-7622670 分機1121,屏東縣長治鄉信義路129號 (長治院區)、屏東縣麟洛鄉中山路160-1號(麟洛院區),https://www.google.com.tw/maps/place/屏東縣長治鄉信義路129號 (長治院區)、屏東縣麟洛鄉中山路160-1號(麟洛院區),無,9,9,0,0,18,2025/08/04,false,true
-屏東縣,瑞興診所,http://www.pingan.url.tw/pinane/h/h1/h1.html,08-7378888,屏東縣屏東市瑞光路二段250號2樓,https://www.google.com.tw/maps/place/屏東縣屏東市瑞光路二段250號2樓,無,6,6,6,0,18,2025/08/04,false,true
-屏東縣,國軍高雄總醫院屏東分院附設民眾診療服務處,https://802.mnd.gov.tw/815/,08-7560756,屏東縣屏東市大湖路58巷22號,https://www.google.com.tw/maps/place/屏東縣屏東市大湖路58巷22號,掛號費50元,2,2,2,0,6,2025/08/05,false,true
-屏東縣,屏基醫療財團法人屏東基督教醫院,https://www.ptch.org.tw,(08)7368686#2111,屏東市大連路60號,https://www.google.com.tw/maps/place/屏東市大連路60號,無,3,3,3,0,9,2025/08/04,false,true
-屏東縣,覺解心理諮商所,https://www.facebook.com/counselingclinic.tw/,0932826972,屏東縣林邊鄉光林村信義路14之3號,https://www.google.com.tw/maps/place/屏東縣林邊鄉光林村信義路14之3號,無,12,12,12,12,48,2025/08/11,false,true
-屏東縣,安泰醫療社團法人安泰醫院,https://www.tsmh.org.tw/sites/web_dg/show_web_page.php?edsno=2,08-8329966,屏東縣東港鎮中正一段210號,https://www.google.com.tw/maps/place/屏東縣東港鎮中正一段210號,無,3,3,3,0,9,2025/08/06,false,true
-屏東縣,迦樂醫療財團法人迦樂醫院,https://caloh.org.tw,0985652350,屏東縣新埤鄉箕湖村進化路12-200號,https://www.google.com.tw/maps/place/屏東縣新埤鄉箕湖村進化路12-200號,掛號費150元,12,12,0,0,24,2025/07/30,false,true
+屏東縣,牧陽心理治療所,http://www.muyoung.com.tw/,08-7328695,屏東縣屏東市中山路277號,https://www.google.com.tw/maps/place/屏東縣屏東市中山路277號,1.週間平日：200元（含掛號費及行政處理費）2.晚間及假日：300元（含掛號費、行政處理費及晚間假日指定費）3.中低收入戶、領有身心障礙手冊、重大傷病卡者免掛號費，僅需繳交100元行政處理費。,0,10,12,0,22,2025/08/28,false,true
+屏東縣,衛生福利部屏東醫院,https://www.pntn.mohw.gov.tw,08-736-3011轉2811,屏東市自由路270號,https://www.google.com.tw/maps/place/屏東市自由路270號,無,3,0,0,0,3,2025/08/11,false,true
+屏東縣,啟初心理治療所,https://www.facebook.com/profile.php?id=100063721707238,0975313630,屏東市仁愛路79-2號,https://www.google.com.tw/maps/place/屏東市仁愛路79-2號,掛號費100元,6,6,0,0,12,2025/08/18,false,true
+屏東縣,瑞興診所,http://www.pingan.url.tw/pinane/h/h1/h1.html,08-7378888,屏東縣屏東市瑞光路二段250號2樓,https://www.google.com.tw/maps/place/屏東縣屏東市瑞光路二段250號2樓,無,6,6,0,0,12,2025/08/20,false,true
+屏東縣,國軍高雄總醫院屏東分院附設民眾診療服務處,https://802.mnd.gov.tw/815/,08-7560756,屏東縣屏東市大湖路58巷22號,https://www.google.com.tw/maps/place/屏東縣屏東市大湖路58巷22號,掛號費50元,2,2,0,0,4,2025/08/20,false,true
+屏東縣,覺解心理諮商所,https://www.facebook.com/counselingclinic.tw/,0932826972,屏東縣林邊鄉光林村信義路14之3號,https://www.google.com.tw/maps/place/屏東縣林邊鄉光林村信義路14之3號,無,12,12,12,12,48,2025/09/02,false,true
+屏東縣,安泰醫療社團法人安泰醫院,https://www.tsmh.org.tw/sites/web_dg/show_web_page.php?edsno=2,08-8329966,屏東縣東港鎮中正一段210號,https://www.google.com.tw/maps/place/屏東縣東港鎮中正一段210號,無,4,4,4,0,12,2025/08/26,false,true
+屏東縣,安己心理治療所,,0930920640,屏東市民富街86巷13號,https://www.google.com.tw/maps/place/屏東市民富街86巷13號,無,0,0,0,0,0,尚未更新,false,false
 屏東縣,杏福身心診所,https://www.phdkao.com.tw/,08-7660058,屏東市中正路177號1樓,https://www.google.com.tw/maps/place/屏東市中正路177號1樓,掛號費150元 （非本院看診個案）,0,0,0,0,0,尚未更新,false,false
 屏東縣,屏東榮民總醫院龍泉分院,https://www.vhlc.gov.tw/,08-7704115,屏東縣內埔鄉龍潭村昭勝路安平一巷１號,https://www.google.com.tw/maps/place/屏東縣內埔鄉龍潭村昭勝路安平一巷１號,掛號費50元,0,0,0,0,0,尚未更新,false,false
-澎湖縣,衛生福利部澎湖醫院,(06)9261151,(06)9261151,澎湖縣馬公市中正路10號,https://www.google.com.tw/maps/place/澎湖縣馬公市中正路10號,無,1,1,2,0,4,2025/08/11,false,true
-澎湖縣,如常心理諮商所,https://www.facebook.com/profile.php?id=61566133085557&mibextid=LQQJ4d,,澎湖縣馬公市新村路22號,https://www.google.com.tw/maps/place/澎湖縣馬公市新村路22號,無,0,0,0,0,0,2025/08/11,false,false
-花蓮縣,臺灣基督教門諾會醫療財團法人門諾醫院,https://www.mch.org.tw/Docs/601/Default.aspx,03-8241433,花蓮市民權路44號,https://www.google.com.tw/maps/place/花蓮市民權路44號,首次收取掛號費150元，第二三次無收費,6,6,8,0,20,2025/08/06,false,true
-花蓮縣,臺灣基督教門諾會醫療財團法人門諾醫院壽豐分院,https://www.mch.org.tw/Docs/601/Default.aspx,03-8664600*2107,花蓮縣壽豐鄉共和村魚池52號,https://www.google.com.tw/maps/place/花蓮縣壽豐鄉共和村魚池52號,首次收取掛號費100元，第二三次無收費,9,9,8,0,26,2025/08/06,false,true
-花蓮縣,佛教慈濟醫療財團法人花蓮慈濟醫院,https://hlm.tzuchi.com.tw/home/,03-8561825,花蓮縣花蓮市中央路三段707號,https://www.google.com.tw/maps/place/花蓮縣花蓮市中央路三段707號,無,1,1,0,0,2,2025/07/27,false,true
-花蓮縣,衛生福利部玉里醫院,https://www.ttyl.mohw.gov.tw/,03-8886141,花蓮縣玉里鎮中華路448號,https://www.google.com.tw/maps/place/花蓮縣玉里鎮中華路448號,無,4,4,4,4,16,2025/08/12,true,true
-花蓮縣,衛生福利部花蓮醫院,https://www.hwln.mohw.gov.tw/,038358141-6125,花蓮市中正路600號,https://www.google.com.tw/maps/place/花蓮市中正路600號,掛號費50元,2,3,3,0,8,2025/08/07,false,true
-花蓮縣,睿翔心理治療所,https://sites.google.com/view/williamxie,03-8246020,花蓮縣花蓮市中美一街31號3樓之2,https://www.google.com.tw/maps/place/花蓮縣花蓮市中美一街31號3樓之2,無,2,2,2,2,8,2025/08/10,false,true
-花蓮縣,澄隅心理諮商所,https://www.facebook.com/profile.php?id=100085883623546&mibextid=JRoKGi,0966407840,花蓮縣花蓮市主和里福建街266號,https://www.google.com.tw/maps/place/花蓮縣花蓮市主和里福建街266號,行政場地費300元,8,8,8,0,24,2025/08/05,false,true
-花蓮縣,光陰時繫心理治療所,https://kairospsy.com/,0905019866,花蓮市大同街9之4號,https://www.google.com.tw/maps/place/花蓮市大同街9之4號,行政處理費400元,1,1,1,1,4,2025/08/15,true,true
-花蓮縣,銘心身心診所,https://www.clinics.com.tw/hospital/3545012907,(03)8226116,花蓮市民政里31號鄰中美路113之2號1-2樓,https://www.google.com.tw/maps/place/花蓮市民政里31號鄰中美路113之2號1-2樓,,6,4,4,6,20,2025/08/11,false,true
-花蓮縣,臺北榮民總醫院玉里分院,https://org.vghtpe.gov.tw/vhyl/,03-8883141,花蓮縣玉里鎮新興街91號,https://www.google.com.tw/maps/place/花蓮縣玉里鎮新興街91號,無,0,0,0,0,0,2025/08/04,false,false
-花蓮縣,國軍花蓮總醫院附設民眾診療服務處,https://805.mnd.gov.tw/,03-8263151#815870,花蓮縣新城鄉嘉里路163號,https://www.google.com.tw/maps/place/花蓮縣新城鄉嘉里路163號,無,0,0,0,0,0,尚未更新,false,false
-花蓮縣,美的心理諮商所,https://www.facebook.com/PaintUrLife.H,0986620895,花蓮市林森路246-1號2樓,https://www.google.com.tw/maps/place/花蓮市林森路246-1號2樓,無,0,0,0,0,0,2025/08/07,false,false
+屏東縣,屏安醫療社團法人屏安醫院,http://www.pingan.url.tw/htdocs/index.php,08-7622670 分機1121,屏東縣長治鄉信義路129號 (長治院區)、屏東縣麟洛鄉中山路160-1號(麟洛院區),https://www.google.com.tw/maps/place/屏東縣長治鄉信義路129號 (長治院區)、屏東縣麟洛鄉中山路160-1號(麟洛院區),無,0,0,0,0,0,尚未更新,false,false
+屏東縣,屏基醫療財團法人屏東基督教醫院,https://www.ptch.org.tw,(08)7368686#2111,屏東市大連路60號,https://www.google.com.tw/maps/place/屏東市大連路60號,無,0,0,0,0,0,尚未更新,false,false
+屏東縣,迦樂醫療財團法人迦樂醫院,https://caloh.org.tw,0985652350,屏東縣新埤鄉箕湖村進化路12-200號,https://www.google.com.tw/maps/place/屏東縣新埤鄉箕湖村進化路12-200號,掛號費150元,0,0,0,0,0,尚未更新,false,false
+澎湖縣,衛生福利部澎湖醫院,(06)9261151,(06)9261151,澎湖縣馬公市中正路10號,https://www.google.com.tw/maps/place/澎湖縣馬公市中正路10號,無,1,1,0,0,2,2025/08/27,false,true
+澎湖縣,如常心理諮商所,https://www.facebook.com/profile.php?id=61566133085557&mibextid=LQQJ4d,,澎湖縣馬公市新村路22號,https://www.google.com.tw/maps/place/澎湖縣馬公市新村路22號,無,0,0,0,0,0,2025/09/01,false,false
+花蓮縣,臺灣基督教門諾會醫療財團法人門諾醫院,https://www.mch.org.tw/Docs/601/Default.aspx,03-8241433,花蓮市民權路44號,https://www.google.com.tw/maps/place/花蓮市民權路44號,首次收取掛號費150元，第二三次無收費,5,5,5,5,20,2025/09/01,false,true
+花蓮縣,臺灣基督教門諾會醫療財團法人門諾醫院壽豐分院,https://www.mch.org.tw/Docs/601/Default.aspx,03-8664600*2107,花蓮縣壽豐鄉共和村魚池52號,https://www.google.com.tw/maps/place/花蓮縣壽豐鄉共和村魚池52號,首次收取掛號費100元，第二三次無收費,5,6,6,5,22,2025/09/01,false,true
+花蓮縣,佛教慈濟醫療財團法人花蓮慈濟醫院,https://hlm.tzuchi.com.tw/home/,03-8561825,花蓮縣花蓮市中央路三段707號,https://www.google.com.tw/maps/place/花蓮縣花蓮市中央路三段707號,無,1,1,1,1,4,2025/09/01,false,true
+花蓮縣,衛生福利部玉里醫院,https://www.ttyl.mohw.gov.tw/,03-8886141,花蓮縣玉里鎮中華路448號,https://www.google.com.tw/maps/place/花蓮縣玉里鎮中華路448號,無,4,0,0,0,4,2025/08/12,true,true
+花蓮縣,衛生福利部花蓮醫院,https://www.hwln.mohw.gov.tw/,038358141-6125,花蓮市中正路600號,https://www.google.com.tw/maps/place/花蓮市中正路600號,掛號費50元,3,3,3,0,9,2025/08/27,false,true
+花蓮縣,美的心理諮商所,https://www.facebook.com/PaintUrLife.H,0986620895,花蓮市林森路246-1號2樓,https://www.google.com.tw/maps/place/花蓮市林森路246-1號2樓,無,0,0,1,1,2,2025/09/02,false,true
+花蓮縣,睿翔心理治療所,https://sites.google.com/view/williamxie,03-8246020,花蓮縣花蓮市中美一街31號3樓之2,https://www.google.com.tw/maps/place/花蓮縣花蓮市中美一街31號3樓之2,無,2,0,0,0,2,2025/08/10,false,true
+花蓮縣,澄隅心理諮商所,https://www.facebook.com/profile.php?id=100085883623546&mibextid=JRoKGi,0966407840,花蓮縣花蓮市主和里福建街266號,https://www.google.com.tw/maps/place/花蓮縣花蓮市主和里福建街266號,行政場地費300元,8,8,8,0,24,2025/08/26,false,true
+花蓮縣,光陰時繫心理治療所,https://kairospsy.com/,0905019866,花蓮市大同街9之4號,https://www.google.com.tw/maps/place/花蓮市大同街9之4號,行政處理費400元,1,1,1,1,4,2025/09/01,true,true
+花蓮縣,銘心身心診所,https://www.clinics.com.tw/hospital/3545012907,(03)8226116,花蓮市民政里31號鄰中美路113之2號1-2樓,https://www.google.com.tw/maps/place/花蓮市民政里31號鄰中美路113之2號1-2樓,,6,2,3,0,11,2025/08/29,false,true
+花蓮縣,臺北榮民總醫院玉里分院,https://org.vghtpe.gov.tw/vhyl/,03-8883141,花蓮縣玉里鎮新興街91號,https://www.google.com.tw/maps/place/花蓮縣玉里鎮新興街91號,無,0,0,0,0,0,2025/08/28,false,false
+花蓮縣,國軍花蓮總醫院附設民眾診療服務處,https://805.mnd.gov.tw/,03-8263151#815870,花蓮縣新城鄉嘉里路163號,https://www.google.com.tw/maps/place/花蓮縣新城鄉嘉里路163號,無,0,0,0,0,0,2025/09/03,false,false
 花蓮縣,力美心靈空間心理諮商所,FB:力美相談所AnimaAnimus,0920135290,花蓮縣吉安鄉永安村明仁二街176巷1號1樓,https://www.google.com.tw/maps/place/花蓮縣吉安鄉永安村明仁二街176巷1號1樓,掛號費100元,0,0,0,0,0,尚未更新,true,false
 花蓮縣,秘密花園心理諮商所,http://hlmimi.strikingly.com/,0918096864,花蓮縣吉安鄉仁里五街146號,https://www.google.com.tw/maps/place/花蓮縣吉安鄉仁里五街146號,無,0,0,0,0,0,尚未更新,true,false
 花蓮縣,相嶼心理治療所,https://sites.google.com/view/hualienpsycho/%E9%97%9C%E6%96%BC%E7%9B%B8%E5%B6%BC,03-8246899,花蓮市中興路97號,https://www.google.com.tw/maps/place/花蓮市中興路97號,行政掛號費400元,0,0,0,0,0,尚未更新,false,false
 花蓮縣,昔日如今心理諮商所,https://www.past2now.com,03-8335110,花蓮市花崗街62號,https://www.google.com.tw/maps/place/花蓮市花崗街62號,行政處理費400元,0,0,0,0,0,尚未更新,true,false
 花蓮縣,春好心理治療所,,03-8333182,花蓮市中和街182號,https://www.google.com.tw/maps/place/花蓮市中和街182號,,0,0,0,0,0,尚未更新,false,false
-花蓮縣,本然心理諮商所,https://www.facebook.com/profile.php?id=61566611673712,Line ID：peaceshilim,花蓮巿和平路362號4樓之1,https://www.google.com.tw/maps/place/花蓮巿和平路362號4樓之1,行政掛號費150元,0,0,0,0,0,尚未更新,true,false
-花蓮縣,瑞恩心理諮商所,https://www.facebook.com/share/1P5pp1VkE3/,0982100828,花蓮巿延平街169號2樓,https://www.google.com.tw/maps/place/花蓮巿延平街169號2樓,無,0,0,0,0,0,2025/07/21,false,false
-臺東縣,第3空間,https://www.facebook.com/artofbeing2021/,官方line：@361tbmgk,臺東市傳廣路445號2樓,https://www.google.com.tw/maps/place/臺東市傳廣路445號2樓,行政費300元,5,0,0,0,5,2025/07/24,true,true
-臺東縣,美好心理諮商所,https://www.facebook.com/profile.php?id=61556895522751,0972977477,臺東市新展街23巷7號,https://www.google.com.tw/maps/place/臺東市新展街23巷7號,行政費200元(僅第一次諮商需要繳納),6,6,6,6,24,2025/08/12,false,true
-臺東縣,心鏡心理諮商所,https://www.facebook.com/Psychmirror2018/,0901063035,臺東市同樂街33號,https://www.google.com.tw/maps/place/臺東市同樂街33號,行政費300元,6,6,6,0,18,2025/08/07,true,true
-臺東縣,茁然谷心理諮商所,https://www.facebook.com/strongerthangood,0965518580,臺東市更生路419巷16號,https://www.google.com.tw/maps/place/臺東市更生路419巷16號,無,6,2,2,2,12,2025/08/14,true,true
-臺東縣,衛生福利部臺東醫院,https://www.tait.mohw.gov.tw/,089-324112,臺東市五權街1號,https://www.google.com.tw/maps/place/臺東市五權街1號,門診掛號費50元，門診基本部分負擔80元,2,3,0,0,5,2025/07/30,false,true
-臺東縣,衛生福利部臺東醫院成功分院,https://www.tait.mohw.gov.tw/ck/index.php,089-854748,臺東縣成功鎮中山東路32號,https://www.google.com.tw/maps/place/臺東縣成功鎮中山東路32號,門診掛號費50元，門診基本部分負擔64元,8,8,0,0,16,2025/07/30,false,true
+花蓮縣,本然心理諮商所,https://www.facebook.com/profile.php?id=61566611673712,Line ID：peaceshilim,花蓮巿和平路362號4樓之1,https://www.google.com.tw/maps/place/花蓮巿和平路362號4樓之1,行政掛號費150元,0,0,0,0,0,2025/09/03,true,false
+花蓮縣,瑞恩心理諮商所,https://www.facebook.com/share/1P5pp1VkE3/,0982100828,花蓮巿延平街169號2樓,https://www.google.com.tw/maps/place/花蓮巿延平街169號2樓,無,0,0,0,0,0,尚未更新,false,false
+臺東縣,第3空間,https://www.facebook.com/artofbeing2021/,官方line：@361tbmgk,臺東市傳廣路445號2樓,https://www.google.com.tw/maps/place/臺東市傳廣路445號2樓,行政費300元,5,5,5,5,20,2025/09/02,true,true
+臺東縣,美好心理諮商所,https://www.facebook.com/profile.php?id=61556895522751,0972977477,臺東市新展街23巷7號,https://www.google.com.tw/maps/place/臺東市新展街23巷7號,行政費200元(僅第一次諮商需要繳納),6,6,6,6,24,2025/08/31,false,true
+臺東縣,衛生福利部臺東醫院,https://www.tait.mohw.gov.tw/,089-324112,臺東市五權街1號,https://www.google.com.tw/maps/place/臺東市五權街1號,門診掛號費50元，門診基本部分負擔80元,3,3,0,0,6,2025/08/21,false,true
+臺東縣,衛生福利部臺東醫院成功分院,https://www.tait.mohw.gov.tw/ck/index.php,089-854748,臺東縣成功鎮中山東路32號,https://www.google.com.tw/maps/place/臺東縣成功鎮中山東路32號,門診掛號費50元，門診基本部分負擔64元,8,8,0,0,16,2025/08/21,false,true
 臺東縣,凝鏡心理治療所,eyemirror2021.com,0906363088,臺東市勝利街72號,https://www.google.com.tw/maps/place/臺東市勝利街72號,場地費400元,0,0,0,0,0,尚未更新,true,false
-金門縣,曾杏榕診所,,082-335666,金湖鎮市港二路170號1樓,https://www.google.com.tw/maps/place/金湖鎮市港二路170號1樓,無,0,0,0,0,0,2025/07/29,false,false
+臺東縣,心鏡心理諮商所,https://www.facebook.com/Psychmirror2018/,0901063035,臺東市同樂街33號,https://www.google.com.tw/maps/place/臺東市同樂街33號,行政費300元,0,0,0,0,0,尚未更新,true,false
+臺東縣,茁然谷心理諮商所,https://www.facebook.com/strongerthangood,0965518580,臺東市更生路419巷16號,https://www.google.com.tw/maps/place/臺東市更生路419巷16號,無,0,0,0,0,0,2025/09/02,true,false
+金門縣,曾杏榕診所,,082-335666,金湖鎮市港二路170號1樓,https://www.google.com.tw/maps/place/金湖鎮市港二路170號1樓,無,0,0,0,0,0,尚未更新,false,false

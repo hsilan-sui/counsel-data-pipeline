@@ -1,6 +1,24 @@
 {
-  "total": 32,
+  "total": 33,
   "rows": [
+    {
+      "countyName": "臺南市",
+      "orgName": "<a href='https://togetherwithheart.com/' target='_blank'>這會心理諮商所</a>",
+      "phone": "0918071281",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺南市關廟區南雄路二段30號' target='_blank'>臺南市關廟區南雄路二段30號</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/09/02",
+      "strTeleconsultation": "是"
+    },
     {
       "countyName": "臺南市",
       "orgName": "<a href='https://www.cheerpsy.com/' target='_blank'>慈恩心理治療所</a>",
@@ -39,6 +57,24 @@
     },
     {
       "countyName": "臺南市",
+      "orgName": "<a href='http://www.opin.tw/' target='_blank'>元品心理諮商所</a>",
+      "phone": "06-2229592",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺南市安平區安平路428號2樓' target='_blank'>臺南市安平區安平路428號2樓</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "臺南市",
       "orgName": "<a href='https://www.facebook.com/natureiswell/' target='_blank'>自然就好心理諮商所</a>",
       "phone": "06-2752858",
       "address": "<a href='https://www.google.com.tw/maps/place/臺南市東區慶東街214號' target='_blank'>臺南市東區慶東街214號</a>",
@@ -52,7 +88,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/08/28",
       "strTeleconsultation": "是"
     },
     {
@@ -88,7 +124,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/08/25",
       "strTeleconsultation": "否"
     },
     {
@@ -106,7 +142,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/04",
+      "editDate": "2025/08/26",
       "strTeleconsultation": "否"
     },
     {
@@ -165,10 +201,10 @@
     },
     {
       "countyName": "臺南市",
-      "orgName": "<a href='https://www.huanhuan.tw/' target='_blank'>緩緩心理諮商所</a>",
-      "phone": "0902009832",
-      "address": "<a href='https://www.google.com.tw/maps/place/臺南市北區開元里北園街124巷10弄64號2樓' target='_blank'>臺南市北區開元里北園街124巷10弄64號2樓</a>",
-      "payDetail": "自付場地費400元",
+      "orgName": "<a href='' target='_blank'>伴行心理治療所</a>",
+      "phone": "0975124951",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺南市善化區文昌路42-1號' target='_blank'>臺南市善化區文昌路42-1號</a>",
+      "payDetail": "行政費400元",
       "thisWeekRange": null,
       "thisWeekCount": 0,
       "nextWeekRange": null,
@@ -183,10 +219,10 @@
     },
     {
       "countyName": "臺南市",
-      "orgName": "<a href='' target='_blank'>伴行心理治療所</a>",
-      "phone": "0975124951",
-      "address": "<a href='https://www.google.com.tw/maps/place/臺南市善化區文昌路42-1號' target='_blank'>臺南市善化區文昌路42-1號</a>",
-      "payDetail": "行政費400元",
+      "orgName": "<a href='https://www.sinlau.org.tw/' target='_blank'>台灣基督長老教會新樓醫療財團法人麻豆新樓醫院</a>",
+      "phone": "06-5702228",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺南市麻豆區埤頭里麻佳路一段207號' target='_blank'>臺南市麻豆區埤頭里麻佳路一段207號</a>",
+      "payDetail": "掛號費120元",
       "thisWeekRange": null,
       "thisWeekCount": 0,
       "nextWeekRange": null,
@@ -214,7 +250,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/08/19",
       "strTeleconsultation": "是"
     },
     {
@@ -291,24 +327,6 @@
     },
     {
       "countyName": "臺南市",
-      "orgName": "<a href='https://www.cjclinic.com.tw/' target='_blank'>樂行診所</a>",
-      "phone": "06-2705633",
-      "address": "<a href='https://www.google.com.tw/maps/place/台南市仁德區中正路二段1116號' target='_blank'>台南市仁德區中正路二段1116號</a>",
-      "payDetail": "首次需先讓醫師評估確認需求才會分派治療，故會有首次看診費用，排入方案治療後，三次治療不額外收取費用看診費用",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
-      "strTeleconsultation": "否"
-    },
-    {
-      "countyName": "臺南市",
       "orgName": "<a href='kx.kxmind@gmail.com' target='_blank'>寬欣心理治療所</a>",
       "phone": "06-2510966",
       "address": "<a href='https://www.google.com.tw/maps/place/臺南市北區育德一街227號' target='_blank'>臺南市北區育德一街227號</a>",
@@ -340,7 +358,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/08/25",
       "strTeleconsultation": "否"
     },
     {
@@ -399,9 +417,9 @@
     },
     {
       "countyName": "臺南市",
-      "orgName": "<a href='' target='_blank'>上善心理治療所</a>",
-      "phone": "06-237-5555",
-      "address": "<a href='https://www.google.com.tw/maps/place/臺南市北區林森路三段77號2樓' target='_blank'>臺南市北區林森路三段77號2樓</a>",
+      "orgName": "<a href='' target='_blank'>欣空間心理治療所</a>",
+      "phone": "06-3318678",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺南市東區裕和路97號' target='_blank'>臺南市東區裕和路97號</a>",
       "payDetail": "無",
       "thisWeekRange": null,
       "thisWeekCount": 0,
@@ -412,32 +430,14 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/07/22",
-      "strTeleconsultation": "是"
-    },
-    {
-      "countyName": "臺南市",
-      "orgName": "<a href='' target='_blank'>春暉診所</a>",
-      "phone": "06-2690555",
-      "address": "<a href='https://www.google.com.tw/maps/place/臺南市東區崇學路139-2號' target='_blank'>臺南市東區崇學路139-2號</a>",
-      "payDetail": "行政處理費200元",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "2025/07/28",
+      "editDate": "尚未更新",
       "strTeleconsultation": "否"
     },
     {
       "countyName": "臺南市",
-      "orgName": "<a href='' target='_blank'>欣空間心理治療所</a>",
-      "phone": "06-3318678",
-      "address": "<a href='https://www.google.com.tw/maps/place/臺南市東區裕和路97號' target='_blank'>臺南市東區裕和路97號</a>",
+      "orgName": "<a href='' target='_blank'>元品文華心理諮商所</a>",
+      "phone": "06-2955257",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺南市安平區建平七街308號' target='_blank'>臺南市安平區建平七街308號</a>",
       "payDetail": "無",
       "thisWeekRange": null,
       "thisWeekCount": 0,
@@ -471,6 +471,24 @@
     },
     {
       "countyName": "臺南市",
+      "orgName": "<a href='FB: 快樂心寧診所-台南永康' target='_blank'>快樂心寧身心診所</a>",
+      "phone": "06-273-8666",
+      "address": "<a href='https://www.google.com.tw/maps/place/台南市永康區永大路二段187號' target='_blank'>台南市永康區永大路二段187號</a>",
+      "payDetail": "初診病人需看診(掛號費150元)",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "臺南市",
       "orgName": "<a href='https://mupan137.com/  ' target='_blank'>沐盼心理諮商所</a>",
       "phone": "0979-732750",
       "address": "<a href='https://www.google.com.tw/maps/place/臺南市新市區中正路137號' target='_blank'>臺南市新市區中正路137號</a>",
@@ -484,7 +502,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/08/27",
       "strTeleconsultation": "否"
     },
     {
@@ -538,7 +556,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/07/23",
+      "editDate": "2025/08/21",
       "strTeleconsultation": "是"
     },
     {
@@ -574,7 +592,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/09/01",
       "strTeleconsultation": "是"
     }
   ],

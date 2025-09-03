@@ -1,5 +1,5 @@
 {
-  "total": 12,
+  "total": 13,
   "rows": [
     {
       "countyName": "宜蘭縣",
@@ -16,7 +16,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/07/31",
+      "editDate": "尚未更新",
       "strTeleconsultation": "否"
     },
     {
@@ -34,7 +34,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/07/31",
+      "editDate": "尚未更新",
       "strTeleconsultation": "是"
     },
     {
@@ -52,7 +52,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/07/31",
+      "editDate": "尚未更新",
       "strTeleconsultation": "是"
     },
     {
@@ -70,7 +70,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/07/31",
+      "editDate": "尚未更新",
       "strTeleconsultation": "否"
     },
     {
@@ -88,7 +88,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/07/31",
+      "editDate": "尚未更新",
       "strTeleconsultation": "否"
     },
     {
@@ -106,7 +106,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/07/31",
+      "editDate": "尚未更新",
       "strTeleconsultation": "否"
     },
     {
@@ -124,7 +124,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/07/31",
+      "editDate": "尚未更新",
       "strTeleconsultation": "是"
     },
     {
@@ -142,7 +142,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/07/31",
+      "editDate": "尚未更新",
       "strTeleconsultation": "是"
     },
     {
@@ -160,8 +160,26 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/07/31",
+      "editDate": "尚未更新",
       "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "宜蘭縣",
+      "orgName": "<a href='FB粉絲團「宜然自得心理諮商所」' target='_blank'>宜然自得心理諮商所</a>",
+      "phone": "03-9109776",
+      "address": "<a href='https://www.google.com.tw/maps/place/宜蘭縣礁溪鄉和平路16巷1號' target='_blank'>宜蘭縣礁溪鄉和平路16巷1號</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/08/19",
+      "strTeleconsultation": "是"
     },
     {
       "countyName": "宜蘭縣",
@@ -178,7 +196,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/07/31",
+      "editDate": "尚未更新",
       "strTeleconsultation": "是"
     },
     {
@@ -196,7 +214,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/07/31",
+      "editDate": "尚未更新",
       "strTeleconsultation": "否"
     },
     {
@@ -214,7 +232,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/07/31",
+      "editDate": "尚未更新",
       "strTeleconsultation": "否"
     }
   ],

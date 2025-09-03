@@ -1,5 +1,5 @@
 {
-  "total": 2,
+  "total": 1,
   "rows": [
     {
       "countyName": "宜蘭縣",
@@ -8,34 +8,16 @@
       "address": "<a href='https://www.google.com.tw/maps/place/宜蘭縣五結鄉鎮安村舊街一路110巷10號' target='_blank'>宜蘭縣五結鄉鎮安村舊街一路110巷10號</a>",
       "payDetail": "無",
       "thisWeekRange": null,
-      "thisWeekCount": 1,
+      "thisWeekCount": 4,
       "nextWeekRange": null,
-      "nextWeekCount": 1,
+      "nextWeekCount": 3,
       "next2WeekRange": null,
-      "next2WeekCount": 3,
+      "next2WeekCount": 2,
       "next3WeekRange": null,
       "next3WeekCount": 0,
-      "in4WeekTotleCount": 5,
-      "editDate": "2025/08/04",
+      "in4WeekTotleCount": 9,
+      "editDate": "2025/08/29",
       "strTeleconsultation": "否"
-    },
-    {
-      "countyName": "宜蘭縣",
-      "orgName": "<a href='FB粉絲團「宜然自得心理諮商所」' target='_blank'>宜然自得心理諮商所</a>",
-      "phone": "03-9109776",
-      "address": "<a href='https://www.google.com.tw/maps/place/宜蘭縣礁溪鄉和平路16巷1號' target='_blank'>宜蘭縣礁溪鄉和平路16巷1號</a>",
-      "payDetail": "無",
-      "thisWeekRange": null,
-      "thisWeekCount": 6,
-      "nextWeekRange": null,
-      "nextWeekCount": 6,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 12,
-      "editDate": "2025/07/31",
-      "strTeleconsultation": "是"
     }
   ],
   "totalPages": 1

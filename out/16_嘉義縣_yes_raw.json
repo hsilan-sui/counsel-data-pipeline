@@ -1,5 +1,5 @@
 {
-  "total": 4,
+  "total": 3,
   "rows": [
     {
       "countyName": "嘉義縣",
@@ -14,27 +14,9 @@
       "next2WeekRange": null,
       "next2WeekCount": 6,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 18,
-      "editDate": "2025/08/06",
-      "strTeleconsultation": "否"
-    },
-    {
-      "countyName": "嘉義縣",
-      "orgName": "<a href='https://www.vhwc.gov.tw/' target='_blank'>臺中榮民總醫院灣橋分院</a>",
-      "phone": "05-2791072#7378",
-      "address": "<a href='https://www.google.com.tw/maps/place/嘉義縣竹崎鄉灣橋村石麻園38號' target='_blank'>嘉義縣竹崎鄉灣橋村石麻園38號</a>",
-      "payDetail": "第一次至本院建立病歷以利後續繼續治療，掛號費50元",
-      "thisWeekRange": null,
-      "thisWeekCount": 6,
-      "nextWeekRange": null,
-      "nextWeekCount": 6,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 12,
-      "editDate": "2025/07/30",
+      "next3WeekCount": 6,
+      "in4WeekTotleCount": 24,
+      "editDate": "2025/09/01",
       "strTeleconsultation": "否"
     },
     {
@@ -46,13 +28,13 @@
       "thisWeekRange": null,
       "thisWeekCount": 5,
       "nextWeekRange": null,
-      "nextWeekCount": 8,
+      "nextWeekCount": 6,
       "next2WeekRange": null,
-      "next2WeekCount": 10,
+      "next2WeekCount": 8,
       "next3WeekRange": null,
       "next3WeekCount": 0,
-      "in4WeekTotleCount": 23,
-      "editDate": "2025/08/09",
+      "in4WeekTotleCount": 19,
+      "editDate": "2025/08/28",
       "strTeleconsultation": "否"
     },
     {
@@ -70,7 +52,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 12,
       "in4WeekTotleCount": 48,
-      "editDate": "2025/08/12",
+      "editDate": "2025/09/03",
       "strTeleconsultation": "否"
     }
   ],

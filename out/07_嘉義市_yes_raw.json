@@ -1,5 +1,5 @@
 {
-  "total": 7,
+  "total": 6,
   "rows": [
     {
       "countyName": "嘉義市",
@@ -8,15 +8,15 @@
       "address": "<a href='https://www.google.com.tw/maps/place/嘉義市東區保建街100號7樓' target='_blank'>嘉義市東區保建街100號7樓</a>",
       "payDetail": "日間服務100元；夜間、假日服務150元(遵循方案原則，本院於醫事作業每次收取掛號費)",
       "thisWeekRange": null,
-      "thisWeekCount": 6,
+      "thisWeekCount": 3,
       "nextWeekRange": null,
       "nextWeekCount": 3,
       "next2WeekRange": null,
       "next2WeekCount": 3,
       "next3WeekRange": null,
       "next3WeekCount": 3,
-      "in4WeekTotleCount": 15,
-      "editDate": "2025/08/12",
+      "in4WeekTotleCount": 12,
+      "editDate": "2025/09/01",
       "strTeleconsultation": "否"
     },
     {
@@ -34,7 +34,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 5,
       "in4WeekTotleCount": 20,
-      "editDate": "2025/08/14",
+      "editDate": "2025/09/02",
       "strTeleconsultation": "否"
     },
     {
@@ -50,9 +50,9 @@
       "next2WeekRange": null,
       "next2WeekCount": 2,
       "next3WeekRange": null,
-      "next3WeekCount": 2,
-      "in4WeekTotleCount": 8,
-      "editDate": "2025/08/12",
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 6,
+      "editDate": "2025/08/25",
       "strTeleconsultation": "否"
     },
     {
@@ -70,25 +70,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 6,
       "in4WeekTotleCount": 24,
-      "editDate": "2025/08/10",
-      "strTeleconsultation": "否"
-    },
-    {
-      "countyName": "嘉義市",
-      "orgName": "<a href='https://nuan-nuan.co/' target='_blank'>暖暖心理治療所</a>",
-      "phone": "無，預約方式請見網站。",
-      "address": "<a href='https://www.google.com.tw/maps/place/嘉義市東區嘉工街51號' target='_blank'>嘉義市東區嘉工街51號</a>",
-      "payDetail": "無",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 2,
-      "in4WeekTotleCount": 2,
-      "editDate": "2025/08/12",
+      "editDate": "2025/08/31",
       "strTeleconsultation": "否"
     },
     {
@@ -98,15 +80,15 @@
       "address": "<a href='https://www.google.com.tw/maps/place/嘉義市西區玉康路130號' target='_blank'>嘉義市西區玉康路130號</a>",
       "payDetail": "無",
       "thisWeekRange": null,
-      "thisWeekCount": 2,
+      "thisWeekCount": 0,
       "nextWeekRange": null,
-      "nextWeekCount": 2,
+      "nextWeekCount": 0,
       "next2WeekRange": null,
-      "next2WeekCount": 4,
+      "next2WeekCount": 2,
       "next3WeekRange": null,
-      "next3WeekCount": 4,
-      "in4WeekTotleCount": 12,
-      "editDate": "2025/08/12",
+      "next3WeekCount": 2,
+      "in4WeekTotleCount": 4,
+      "editDate": "2025/09/03",
       "strTeleconsultation": "否"
     },
     {
@@ -116,15 +98,15 @@
       "address": "<a href='https://www.google.com.tw/maps/place/嘉義市東區小雅路353號1樓' target='_blank'>嘉義市東區小雅路353號1樓</a>",
       "payDetail": "無",
       "thisWeekRange": null,
-      "thisWeekCount": 4,
+      "thisWeekCount": 9,
       "nextWeekRange": null,
       "nextWeekCount": 6,
       "next2WeekRange": null,
       "next2WeekCount": 6,
       "next3WeekRange": null,
-      "next3WeekCount": 2,
-      "in4WeekTotleCount": 18,
-      "editDate": "2025/08/12",
+      "next3WeekCount": 7,
+      "in4WeekTotleCount": 28,
+      "editDate": "2025/09/02",
       "strTeleconsultation": "是"
     }
   ],

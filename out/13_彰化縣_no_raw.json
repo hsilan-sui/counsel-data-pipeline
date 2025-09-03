@@ -1,42 +1,6 @@
 {
-  "total": 10,
+  "total": 7,
   "rows": [
-    {
-      "countyName": "彰化縣",
-      "orgName": "<a href='https://www.dunren.com.tw/' target='_blank'>敦仁醫院</a>",
-      "phone": "04-7071727#203",
-      "address": "<a href='https://www.google.com.tw/maps/place/彰化縣員林市員水路一段102巷74弄99號' target='_blank'>彰化縣員林市員水路一段102巷74弄99號</a>",
-      "payDetail": "無",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
-      "strTeleconsultation": "否"
-    },
-    {
-      "countyName": "彰化縣",
-      "orgName": "<a href='https://loveiseverythingorg.wordpress.com' target='_blank'>雁行心理諮商所</a>",
-      "phone": "0908-139283",
-      "address": "<a href='https://www.google.com.tw/maps/place/彰化縣彰化市桃源里南郭路一段361-1號' target='_blank'>彰化縣彰化市桃源里南郭路一段361-1號</a>",
-      "payDetail": "無",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
-      "strTeleconsultation": "否"
-    },
     {
       "countyName": "彰化縣",
       "orgName": "<a href='https://www.psflourish.com.tw/' target='_blank'>芙樂奇心理諮商所</a>",
@@ -106,7 +70,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/08/30",
       "strTeleconsultation": "是"
     },
     {
@@ -144,24 +108,6 @@
       "in4WeekTotleCount": 0,
       "editDate": "尚未更新",
       "strTeleconsultation": "是"
-    },
-    {
-      "countyName": "彰化縣",
-      "orgName": "<a href='https://unknown-wisdom.com/' target='_blank'>未知有智心理諮商所</a>",
-      "phone": "0921-623003",
-      "address": "<a href='https://www.google.com.tw/maps/place/彰化市中山路一段403號6樓' target='_blank'>彰化市中山路一段403號6樓</a>",
-      "payDetail": null,
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
-      "strTeleconsultation": "否"
     },
     {
       "countyName": "彰化縣",

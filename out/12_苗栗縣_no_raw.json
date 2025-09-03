@@ -1,5 +1,42 @@
 {
-  "total": 0,
-  "rows": [],
+  "total": 2,
+  "rows": [
+    {
+      "countyName": "苗栗縣",
+      "orgName": "<a href='https://ourtime.com.tw/' target='_blank'>我時心理諮商所</a>",
+      "phone": "037-620780",
+      "address": "<a href='https://www.google.com.tw/maps/place/苗栗縣竹南鎮佳興里環市路三段580號1F' target='_blank'>苗栗縣竹南鎮佳興里環市路三段580號1F</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/09/01",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "苗栗縣",
+      "orgName": "<a href='https://www.facebook.com/profile.php?id=61558298624935&paipv=0&eav=AfYaRFe0LdFCfgFqhMNkU_SQcnp7qAizuIpZUOPELIkGnz2dBH9kv04wymvntSsgnZM' target='_blank'>謐境心理治療所</a>",
+      "phone": "037-377567",
+      "address": "<a href='https://www.google.com.tw/maps/place/苗栗縣苗栗市中山路398號1樓' target='_blank'>苗栗縣苗栗市中山路398號1樓</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "否"
+    }
+  ],
   "totalPages": 1
 }

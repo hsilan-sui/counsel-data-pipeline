@@ -1,5 +1,5 @@
 {
-  "total": 83,
+  "total": 89,
   "rows": [
     {
       "countyName": "臺北市",
@@ -196,26 +196,8 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/11",
+      "editDate": "2025/09/01",
       "strTeleconsultation": "否"
-    },
-    {
-      "countyName": "臺北市",
-      "orgName": "<a href='https://www.leepsyclinic.com/' target='_blank'>李政洋身心診所</a>",
-      "phone": "02-27620086、02-27473339",
-      "address": "<a href='https://www.google.com.tw/maps/place/臺北市松山區三民路84號.健康路345號及民生東路5段192號2樓之3' target='_blank'>臺北市松山區三民路84號.健康路345號及民生東路5段192號2樓之3</a>",
-      "payDetail": "掛號費600元",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "2025/08/11",
-      "strTeleconsultation": "是"
     },
     {
       "countyName": "臺北市",
@@ -304,7 +286,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/12",
+      "editDate": "2025/09/01",
       "strTeleconsultation": "否"
     },
     {
@@ -345,6 +327,24 @@
     },
     {
       "countyName": "臺北市",
+      "orgName": "<a href='https://www.bethel-clinics.tw/' target='_blank'>伯特利敦南身心診所</a>",
+      "phone": "02-27010622",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺北市大安區和平東路三段1巷51號2樓' target='_blank'>臺北市大安區和平東路三段1巷51號2樓</a>",
+      "payDetail": "掛號費600元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "臺北市",
       "orgName": "<a href='https://clinic.farhugs.com/' target='_blank'>抱抱心身醫學診所</a>",
       "phone": "02-87974422",
       "address": "<a href='https://www.google.com.tw/maps/place/臺北市內湖區文德路70、72號' target='_blank'>臺北市內湖區文德路70、72號</a>",
@@ -358,7 +358,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/13",
+      "editDate": "2025/08/25",
       "strTeleconsultation": "否"
     },
     {
@@ -394,7 +394,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/11",
+      "editDate": "2025/08/25",
       "strTeleconsultation": "否"
     },
     {
@@ -430,7 +430,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/07/22",
+      "editDate": "尚未更新",
       "strTeleconsultation": "否"
     },
     {
@@ -466,7 +466,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/12",
+      "editDate": "2025/09/01",
       "strTeleconsultation": "是"
     },
     {
@@ -484,7 +484,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/11",
+      "editDate": "2025/08/25",
       "strTeleconsultation": "否"
     },
     {
@@ -507,24 +507,6 @@
     },
     {
       "countyName": "臺北市",
-      "orgName": "<a href='https://tolightheartweb.mystrikingly.com/' target='_blank'>點亮心燈諮商中心心理諮商所</a>",
-      "phone": "02-27849528、0968-138838",
-      "address": "<a href='https://www.google.com.tw/maps/place/臺北市中山區松江路289之910號9樓' target='_blank'>臺北市中山區松江路289之910號9樓</a>",
-      "payDetail": "無",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "2025/08/05",
-      "strTeleconsultation": "是"
-    },
-    {
-      "countyName": "臺北市",
       "orgName": "<a href='https://www.thinnkng.com.tw/' target='_blank'>天光心理諮商所</a>",
       "phone": "02-25117403、0972-882137",
       "address": "<a href='https://www.google.com.tw/maps/place/臺北市中山區天祥路22號2樓' target='_blank'>臺北市中山區天祥路22號2樓</a>",
@@ -543,6 +525,24 @@
     },
     {
       "countyName": "臺北市",
+      "orgName": "<a href='https://www.isaiah611bcc.com/' target='_blank'>以賽亞心理諮商所</a>",
+      "phone": "0933-569611",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺北市中山區吉林路231號3樓' target='_blank'>臺北市中山區吉林路231號3樓</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/08/25",
+      "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "臺北市",
       "orgName": "<a href='https://www.bloomingcenter.tw/' target='_blank'>綻芯心理諮商所</a>",
       "phone": "02-25016199",
       "address": "<a href='https://www.google.com.tw/maps/place/臺北市中山區復興北路280巷2號3樓' target='_blank'>臺北市中山區復興北路280巷2號3樓</a>",
@@ -556,7 +556,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/11",
+      "editDate": "2025/08/27",
       "strTeleconsultation": "是"
     },
     {
@@ -574,8 +574,26 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/11",
+      "editDate": "2025/09/02",
       "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "臺北市",
+      "orgName": "<a href='https://www.elephantsheaven.com/' target='_blank'>象家園心理諮商所</a>",
+      "phone": "02-27650285",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺北市松山區民生東路五段69巷25號1樓' target='_blank'>臺北市松山區民生東路五段69巷25號1樓</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "是"
     },
     {
       "countyName": "臺北市",
@@ -612,24 +630,6 @@
       "in4WeekTotleCount": 0,
       "editDate": "尚未更新",
       "strTeleconsultation": "是"
-    },
-    {
-      "countyName": "臺北市",
-      "orgName": "<a href='https://lilincounseling.com' target='_blank'>立翎心理諮商所</a>",
-      "phone": "02-2779-0757",
-      "address": "<a href='https://www.google.com.tw/maps/place/臺北市大安區忠孝東路四段183號3樓之6' target='_blank'>臺北市大安區忠孝東路四段183號3樓之6</a>",
-      "payDetail": "無",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "2025/08/13",
-      "strTeleconsultation": "否"
     },
     {
       "countyName": "臺北市",
@@ -700,7 +700,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/15",
+      "editDate": "2025/08/29",
       "strTeleconsultation": "是"
     },
     {
@@ -718,7 +718,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/03",
+      "editDate": "尚未更新",
       "strTeleconsultation": "是"
     },
     {
@@ -736,7 +736,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/01",
+      "editDate": "2025/08/22",
       "strTeleconsultation": "是"
     },
     {
@@ -795,6 +795,24 @@
     },
     {
       "countyName": "臺北市",
+      "orgName": "<a href='https://www.mindsopen.com.tw/' target='_blank'>啟宗心理諮商所</a>",
+      "phone": "02-23254066",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺北市大安區東豐街7號5樓之2' target='_blank'>臺北市大安區東豐街7號5樓之2</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/08/20",
+      "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "臺北市",
       "orgName": "<a href='https://www.hsin-tien.com/' target='_blank'>國立臺灣師範大學社區諮商中心心田心理諮商所</a>",
       "phone": "02-77495720",
       "address": "<a href='https://www.google.com.tw/maps/place/臺北市大安區青田街5巷16號' target='_blank'>臺北市大安區青田街5巷16號</a>",
@@ -813,6 +831,24 @@
     },
     {
       "countyName": "臺北市",
+      "orgName": "<a href='https://www.unconscious-counseling.com/' target='_blank'>潛意心理諮商所</a>",
+      "phone": "02-28838570",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺北市士林區中正路213巷44號2樓' target='_blank'>臺北市士林區中正路213巷44號2樓</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "臺北市",
       "orgName": "<a href='https://yacounseling.com/' target='_blank'>詠安心理諮商所</a>",
       "phone": "02-26276655、0932-320628",
       "address": "<a href='https://www.google.com.tw/maps/place/臺北市內湖區港華街57號' target='_blank'>臺北市內湖區港華街57號</a>",
@@ -826,7 +862,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/08",
+      "editDate": "尚未更新",
       "strTeleconsultation": "是"
     },
     {
@@ -939,9 +975,63 @@
     },
     {
       "countyName": "臺北市",
+      "orgName": "<a href='https://www.lijen.net/' target='_blank'>力人心理治療所</a>",
+      "phone": "02-27081412",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺北市大安區復興南路二段139號10樓' target='_blank'>臺北市大安區復興南路二段139號10樓</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/09/02",
+      "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "臺北市",
+      "orgName": "<a href='https://www.acmate-group.com/' target='_blank'>童伴心理治療所</a>",
+      "phone": "02-27555429",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺北市大安區信義路三段190號6樓' target='_blank'>臺北市大安區信義路三段190號6樓</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/08/21",
+      "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "臺北市",
       "orgName": "<a href='http://www.all4mind.com.tw/' target='_blank'>展立心理治療所</a>",
       "phone": "02-28830823",
       "address": "<a href='https://www.google.com.tw/maps/place/臺北市士林區中山北路五段527號3樓' target='_blank'>臺北市士林區中山北路五段527號3樓</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "臺北市",
+      "orgName": "<a href='https://mushinclinic.wixsite.com/mysite' target='_blank'>沐昕天母心理治療所</a>",
+      "phone": "0909-270237",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺北市士林區德行東路190巷31弄6號1樓' target='_blank'>臺北市士林區德行東路190巷31弄6號1樓</a>",
       "payDetail": "無",
       "thisWeekRange": null,
       "thisWeekCount": 0,
@@ -988,7 +1078,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/12",
+      "editDate": "2025/08/26",
       "strTeleconsultation": "是"
     },
     {
@@ -1042,26 +1132,8 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/07/22",
-      "strTeleconsultation": "是"
-    },
-    {
-      "countyName": "臺北市",
-      "orgName": "<a href='https://www.facebook.com/profile.php?id=100093279246751&mibextid=LQQJ4d' target='_blank'>辰光心理治療所</a>",
-      "phone": "0978-946396",
-      "address": "<a href='https://www.google.com.tw/maps/place/臺北市北投區立農路2段202巷2弄1號1樓;地下1樓' target='_blank'>臺北市北投區立農路2段202巷2弄1號1樓;地下1樓</a>",
-      "payDetail": "無",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
       "editDate": "尚未更新",
-      "strTeleconsultation": "否"
+      "strTeleconsultation": "是"
     },
     {
       "countyName": "臺北市",
@@ -1186,7 +1258,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/13",
+      "editDate": "2025/08/25",
       "strTeleconsultation": "否"
     },
     {
@@ -1299,6 +1371,42 @@
     },
     {
       "countyName": "臺北市",
+      "orgName": "<a href='https://www.heartfulpsy.com/' target='_blank'>用心說心理治療所</a>",
+      "phone": "0987-503531",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺北市士林區福國路56巷17號1樓' target='_blank'>臺北市士林區福國路56巷17號1樓</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/09/01",
+      "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "臺北市",
+      "orgName": "<a href='https://www.justcounselingcenter.com.tw/' target='_blank'>捷思心理治療所</a>",
+      "phone": "02-23210031、0919-003316",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺北市中正區忠孝東路二段100號5樓之7' target='_blank'>臺北市中正區忠孝東路二段100號5樓之7</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/08/12",
+      "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "臺北市",
       "orgName": "<a href='https://www.facebook.com/huasin.apcc' target='_blank'>華昕藝心心理諮商所</a>",
       "phone": "02-66057103",
       "address": "<a href='https://www.google.com.tw/maps/place/臺北市南港區研究院路一段99號2樓之103' target='_blank'>臺北市南港區研究院路一段99號2樓之103</a>",
@@ -1335,6 +1443,24 @@
     },
     {
       "countyName": "臺北市",
+      "orgName": "<a href='' target='_blank'>蘅芯心理諮商所</a>",
+      "phone": "0917-579873(建議簡訊聯繫)",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺北市中正區重慶南路1段99號11樓1107室' target='_blank'>臺北市中正區重慶南路1段99號11樓1107室</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "臺北市",
       "orgName": "<a href='https://www.gooodlifehub.com/' target='_blank'>過好生活心理諮商所</a>",
       "phone": "0913-808793",
       "address": "<a href='https://www.google.com.tw/maps/place/臺北市中正區重慶南路一段10號9樓之6' target='_blank'>臺北市中正區重慶南路一段10號9樓之6</a>",
@@ -1355,7 +1481,7 @@
       "countyName": "臺北市",
       "orgName": "<a href='https://www.1980.org.tw/' target='_blank'>張老師基金會台北心理諮商所</a>",
       "phone": "02-25326180轉136",
-      "address": "<a href='https://www.google.com.tw/maps/place/臺北市中山區大直街20巷13號' target='_blank'>臺北市中山區大直街20巷13號</a>",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺北市中山區大直街20巷16號' target='_blank'>臺北市中山區大直街20巷16號</a>",
       "payDetail": "無",
       "thisWeekRange": null,
       "thisWeekCount": 0,
@@ -1366,7 +1492,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/09/02",
       "strTeleconsultation": "否"
     },
     {
@@ -1420,7 +1546,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/08/29",
       "strTeleconsultation": "否"
     },
     {
@@ -1438,7 +1564,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/11",
+      "editDate": "2025/09/01",
       "strTeleconsultation": "否"
     },
     {
@@ -1456,25 +1582,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/05",
-      "strTeleconsultation": "否"
-    },
-    {
-      "countyName": "臺北市",
-      "orgName": "<a href='https://www.serendipity-counseling.com.tw/' target='_blank'>季遇心理諮商所</a>",
-      "phone": "02-23022317",
-      "address": "<a href='https://www.google.com.tw/maps/place/臺北市萬華區桂林路26號2樓之2' target='_blank'>臺北市萬華區桂林路26號2樓之2</a>",
-      "payDetail": "無",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "2025/08/06",
+      "editDate": "尚未更新",
       "strTeleconsultation": "否"
     },
     {
@@ -1492,7 +1600,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/09/01",
       "strTeleconsultation": "否"
     }
   ],

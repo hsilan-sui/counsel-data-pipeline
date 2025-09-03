@@ -1,5 +1,5 @@
 {
-  "total": 33,
+  "total": 36,
   "rows": [
     {
       "countyName": "桃園市",
@@ -7,24 +7,6 @@
       "phone": "03-4856530",
       "address": "<a href='https://www.google.com.tw/maps/place/桃園市楊梅區環東路476號' target='_blank'>桃園市楊梅區環東路476號</a>",
       "payDetail": "行政管理費400元",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
-      "strTeleconsultation": "否"
-    },
-    {
-      "countyName": "桃園市",
-      "orgName": "<a href='https://www.happymind.url.tw' target='_blank'>新晴心理諮商所</a>",
-      "phone": "0928-889882",
-      "address": "<a href='https://www.google.com.tw/maps/place/桃園市中壢區中北路二段119號12樓之六' target='_blank'>桃園市中壢區中北路二段119號12樓之六</a>",
-      "payDetail": "掛號費200元，行政處理費200元",
       "thisWeekRange": null,
       "thisWeekCount": 0,
       "nextWeekRange": null,
@@ -111,6 +93,24 @@
     },
     {
       "countyName": "桃園市",
+      "orgName": "<a href='https://sites.google.com/view/neathlake/%E9%A6%96%E9%A0%81?authuser=0' target='_blank'>尼思湖心理諮商所</a>",
+      "phone": "03-2122721 ; 0916-832895",
+      "address": "<a href='https://www.google.com.tw/maps/place/桃園市蘆竹區南平街35號B1' target='_blank'>桃園市蘆竹區南平街35號B1</a>",
+      "payDetail": "行政管理暨場地費400元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "桃園市",
       "orgName": "<a href='www.nourish.com.tw' target='_blank'>心澤心理諮商所</a>",
       "phone": "0976-085331",
       "address": "<a href='https://www.google.com.tw/maps/place/桃園市桃園區中正路1322號4樓' target='_blank'>桃園市桃園區中正路1322號4樓</a>",
@@ -124,7 +124,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/08/22",
       "strTeleconsultation": "否"
     },
     {
@@ -309,6 +309,24 @@
     },
     {
       "countyName": "桃園市",
+      "orgName": "<a href='https://www.landseedhospital.com.tw' target='_blank'>聯新國際醫院</a>",
+      "phone": "03-494-1234",
+      "address": "<a href='https://www.google.com.tw/maps/place/桃園市平鎮市廣泰路77號 ' target='_blank'>桃園市平鎮市廣泰路77號 </a>",
+      "payDetail": "掛號費300-350元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "桃園市",
       "orgName": "<a href='https://www.rch.com.tw/counseling_center/about-chengyu/' target='_blank'>財團法人桃園市藍迪基金會附設澄語社區心理諮商所</a>",
       "phone": "03-4901500分機125",
       "address": "<a href='https://www.google.com.tw/maps/place/楊梅區電研路190巷92弄100號' target='_blank'>楊梅區電研路190巷92弄100號</a>",
@@ -376,15 +394,15 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/08/19",
       "strTeleconsultation": "否"
     },
     {
       "countyName": "桃園市",
-      "orgName": "<a href='https://happypoclinic.blogspot.com/' target='_blank'>柏樂診所</a>",
-      "phone": "（03）4560208",
-      "address": "<a href='https://www.google.com.tw/maps/place/桃園市中壢區中山東路二段37號1樓' target='_blank'>桃園市中壢區中山東路二段37號1樓</a>",
-      "payDetail": "掛號費230元",
+      "orgName": "<a href='https://www.siangguangpsy.com/' target='_blank'>向光心理諮商所</a>",
+      "phone": "0958143562",
+      "address": "<a href='https://www.google.com.tw/maps/place/桃園市八德區介壽路二段788號9樓' target='_blank'>桃園市八德區介壽路二段788號9樓</a>",
+      "payDetail": "行政管理費400元",
       "thisWeekRange": null,
       "thisWeekCount": 0,
       "nextWeekRange": null,
@@ -394,7 +412,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/09/01",
       "strTeleconsultation": "否"
     },
     {
@@ -484,14 +502,14 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/08/18",
       "strTeleconsultation": "否"
     },
     {
       "countyName": "桃園市",
-      "orgName": "<a href='https://www.e-ms.com.tw/' target='_blank'>敏盛綜合醫院</a>",
-      "phone": "033179599",
-      "address": "<a href='https://www.google.com.tw/maps/place/桃園市桃園區經國路168號' target='_blank'>桃園市桃園區經國路168號</a>",
+      "orgName": "<a href='https://hsuanann-psy.carrd.co/' target='_blank'>宣恩心理諮商所</a>",
+      "phone": "0905-498-990",
+      "address": "<a href='https://www.google.com.tw/maps/place/桃園市中壢區寶慶街17號一樓' target='_blank'>桃園市中壢區寶慶街17號一樓</a>",
       "payDetail": "無",
       "thisWeekRange": null,
       "thisWeekCount": 0,
@@ -502,7 +520,25 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/08/25",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "桃園市",
+      "orgName": "<a href='https://spirits.tw/Luzhu/' target='_blank'>育禾身心診所</a>",
+      "phone": "03-212-4688",
+      "address": "<a href='https://www.google.com.tw/maps/place/桃園市蘆竹區中正路138號' target='_blank'>桃園市蘆竹區中正路138號</a>",
+      "payDetail": "掛號費200元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/09/01",
       "strTeleconsultation": "否"
     },
     {
@@ -561,6 +597,24 @@
     },
     {
       "countyName": "桃園市",
+      "orgName": "<a href='無' target='_blank'>助人心理諮商所</a>",
+      "phone": "03-3359532",
+      "address": "<a href='https://www.google.com.tw/maps/place/桃園市桃園區復興路207號16樓1603室' target='_blank'>桃園市桃園區復興路207號16樓1603室</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "桃園市",
       "orgName": "<a href='https://ginger-flower.com/' target='_blank'>野薑花心理諮商所</a>",
       "phone": "(03)355-9779",
       "address": "<a href='https://www.google.com.tw/maps/place/桃園市桃園區大有路508號2樓' target='_blank'>桃園市桃園區大有路508號2樓</a>",
@@ -574,8 +628,8 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/07/28",
-      "strTeleconsultation": "否"
+      "editDate": "2025/08/29",
+      "strTeleconsultation": "是"
     },
     {
       "countyName": "桃園市",
@@ -592,7 +646,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/07",
+      "editDate": "尚未更新",
       "strTeleconsultation": "否"
     }
   ],

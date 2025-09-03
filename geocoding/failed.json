@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "i": 0,
+    "name": "曾杏榕診所",
+    "url": "https://www.google.com.tw/maps/place/金湖鎮市港二路170號1樓",
+    "reason": "no_coords_in_url_or_meta",
+    "urlNow": "https://www.google.com.tw/maps/place/%E9%87%91%E6%B9%96%E9%8E%AE%E5%B8%82%E6%B8%AF%E4%BA%8C%E8%B7%AF170%E8%99%9F1%E6%A8%93"
+  }
+]

@@ -1,6 +1,24 @@
 {
-  "total": 3,
+  "total": 5,
   "rows": [
+    {
+      "countyName": "南投縣",
+      "orgName": "<a href='https://netreg01.nant.mohw.gov.tw/OINetReg.WebRwd/Reg/DeptCalendar?DeptId=1305' target='_blank'>衛生福利部南投醫院</a>",
+      "phone": "049-2231150#2128",
+      "address": "<a href='https://www.google.com.tw/maps/place/南投縣南投市復興路478號' target='_blank'>南投縣南投市復興路478號</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "是"
+    },
     {
       "countyName": "南投縣",
       "orgName": "<a href='https://www.pch.org.tw/department.php?depid=136#depblk287' target='_blank'>埔基醫療財團法人埔里基督教醫院</a>",
@@ -21,10 +39,10 @@
     },
     {
       "countyName": "南投縣",
-      "orgName": "<a href='https://www.willingtotherapy.com/' target='_blank'>唯聆心理治療所</a>",
-      "phone": "0958797012",
-      "address": "<a href='https://www.google.com.tw/maps/place/南投縣草屯鎮仁愛街270號' target='_blank'>南投縣草屯鎮仁愛街270號</a>",
-      "payDetail": "無",
+      "orgName": "<a href='https://www.pulivh.gov.tw/' target='_blank'>臺中榮民總醫院埔里分院</a>",
+      "phone": "049-2990833分機7107",
+      "address": "<a href='https://www.google.com.tw/maps/place/南投縣埔里鎮榮光路一號' target='_blank'>南投縣埔里鎮榮光路一號</a>",
+      "payDetail": "掛號費180元",
       "thisWeekRange": null,
       "thisWeekCount": 0,
       "nextWeekRange": null,
@@ -36,6 +54,24 @@
       "in4WeekTotleCount": 0,
       "editDate": "尚未更新",
       "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "南投縣",
+      "orgName": "<a href='無' target='_blank'>致遠身心科診所</a>",
+      "phone": "049-2248282",
+      "address": "<a href='https://www.google.com.tw/maps/place/南投市康壽里南陽路415號' target='_blank'>南投市康壽里南陽路415號</a>",
+      "payDetail": "掛號費150元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "是"
     },
     {
       "countyName": "南投縣",
@@ -52,7 +88,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/08/24",
       "strTeleconsultation": "否"
     }
   ],

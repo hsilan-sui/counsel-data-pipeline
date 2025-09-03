@@ -12,11 +12,11 @@
       "nextWeekRange": null,
       "nextWeekCount": 1,
       "next2WeekRange": null,
-      "next2WeekCount": 2,
+      "next2WeekCount": 0,
       "next3WeekRange": null,
       "next3WeekCount": 0,
-      "in4WeekTotleCount": 4,
-      "editDate": "2025/08/11",
+      "in4WeekTotleCount": 2,
+      "editDate": "2025/08/27",
       "strTeleconsultation": "否"
     }
   ],
