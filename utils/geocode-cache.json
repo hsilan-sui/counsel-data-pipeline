@@ -2450,5 +2450,5189 @@
     "confidence": 10,
     "formatted": "臺灣, 811, 高雄市 楠梓區 土庫一路 178號",
     "source": "opencage"
+  },
+  "信義區基隆市信義區信二路268號": {
+    "lat": 25.1304556,
+    "lng": 121.7483216,
+    "confidence": 10,
+    "formatted": "臺灣, 基隆市 信義區 信二路 268號",
+    "source": "opencage"
+  },
+  "基隆市基隆市仁愛區仁一路181號": {
+    "lat": 25.1279093,
+    "lng": 121.7513408,
+    "confidence": 10,
+    "formatted": "臺灣, 基隆市 仁愛區 仁一路 181號",
+    "source": "opencage"
+  },
+  "基隆市信義區信一路150號": {
+    "lat": 25.1294903,
+    "lng": 121.746901,
+    "confidence": 9,
+    "formatted": "臺灣, 基隆市 信義區 信一路, 好樂迪",
+    "source": "opencage"
+  },
+  "中正區基隆市中正區新豐街229號": {
+    "lat": 25.1368633,
+    "lng": 121.7884054,
+    "confidence": 10,
+    "formatted": "臺灣, 20251, 基隆市 中正區 新豐街 229號",
+    "source": "opencage"
+  },
+  "基隆市中正區中正路12-5號": {
+    "lat": 25.1486238,
+    "lng": 121.7619606,
+    "confidence": 10,
+    "formatted": "臺灣, 基隆市 中正區 中正路, 基隆港舊信號台",
+    "source": "opencage"
+  },
+  "新竹市自由路67號": {
+    "lat": 25.1833906,
+    "lng": 121.4242088,
+    "confidence": 9,
+    "formatted": "臺灣, 251, 新北市 淡水區 沙崙路 168, 家樂福超市",
+    "source": "opencage"
+  },
+  "新竹市東區新光路83號": {
+    "lat": 24.7923876,
+    "lng": 121.012584,
+    "confidence": 9,
+    "formatted": "臺灣, 新竹市 慈雲路, 好市多",
+    "source": "opencage"
+  },
+  "新竹市東區大學路81巷3號": {
+    "lat": 24.7739302,
+    "lng": 120.9999163,
+    "confidence": 10,
+    "formatted": "臺灣, 30076, 寶山鄉 新竹科學工業園區 園區三路, 均豪精密工業",
+    "source": "opencage"
+  },
+  "新竹市東區關東里光復路一段268巷9弄1號": {
+    "lat": 24.7828496,
+    "lng": 121.0203278,
+    "confidence": 10,
+    "formatted": "臺灣, 新竹市 光復路一段268巷9弄 1號",
+    "source": "opencage"
+  },
+  "新竹市新光路38號": {
+    "lat": 24.7923876,
+    "lng": 121.012584,
+    "confidence": 9,
+    "formatted": "臺灣, 新竹市 慈雲路, 好市多",
+    "source": "opencage"
+  },
+  "新竹市東區慈雲路105號": {
+    "lat": 24.7930957,
+    "lng": 121.0135137,
+    "confidence": 9,
+    "formatted": "臺灣, 新竹市 慈雲路 188, 好市多",
+    "source": "opencage"
+  },
+  "新竹市東區龍山里光復路一段544巷36號": {
+    "lat": 24.7876763,
+    "lng": 121.0111987,
+    "confidence": 10,
+    "formatted": "臺灣, 新竹市 光復路一段544巷 36號",
+    "source": "opencage"
+  },
+  "新竹市中華路二段678號": {
+    "lat": 24.8058913,
+    "lng": 120.9773429,
+    "confidence": 9,
+    "formatted": "臺灣, 新竹市 中華路二段, 好樂迪",
+    "source": "opencage"
+  },
+  "新竹市北區北大路180號": {
+    "lat": 23.0357274,
+    "lng": 120.3010212,
+    "confidence": 9,
+    "formatted": "臺灣, 712, 臺南市 豐榮里 大智路, 唐人街好茶飲",
+    "source": "opencage"
+  },
+  "新竹市經國路一段442號": {
+    "lat": 24.8152978,
+    "lng": 120.991882,
+    "confidence": 9,
+    "formatted": "臺灣, 300, 新竹市 經國路一段, Yeager951雅各居家 - 森手木工/比佛利名床新竹專賣店 - 新竹實木手工傢俱推薦 | 高級進口床墊好評 | 優質餐桌椅 | 床頭櫃 床架 | 沙發 實木衣櫥 | 專業手作訂製 | 客製化茶几桌",
+    "source": "opencage"
+  },
+  "東區新竹市光復路1段1號": {
+    "lat": 24.7808526,
+    "lng": 121.0262675,
+    "confidence": 10,
+    "formatted": "臺灣, 新竹市 光復路一段 1號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HSZ"
+      ],
+      "_category": "building",
+      "_normalized_city": "新竹市",
+      "_type": "building",
+      "city": "新竹市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "1號",
+      "road": "光復路一段",
+      "town": "東區",
+      "village": "金山里"
+    },
+    "source": "opencage"
+  },
+  "東區新竹市光復路1段36號": {
+    "lat": 24.7814617,
+    "lng": 121.0256668,
+    "confidence": 10,
+    "formatted": "臺灣, 新竹市 光復路一段 36號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HSZ"
+      ],
+      "_category": "building",
+      "_normalized_city": "新竹市",
+      "_type": "building",
+      "city": "新竹市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "36號",
+      "road": "光復路一段",
+      "town": "東區",
+      "village": "關東里"
+    },
+    "source": "opencage"
+  },
+  "嘉義市東區保建街100號": {
+    "lat": 23.5005314,
+    "lng": 120.4517331,
+    "confidence": 9,
+    "formatted": "臺灣, 600, 嘉義市 東區 保建街",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-CYI"
+      ],
+      "_category": "road",
+      "_normalized_city": "嘉義市",
+      "_type": "road",
+      "city": "嘉義市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "neighbourhood": "義教里",
+      "postcode": "600",
+      "road": "保建街",
+      "suburb": "東區",
+      "village": "後湖"
+    },
+    "source": "opencage"
+  },
+  "嘉義市東區民權路60號": {
+    "lat": 23.4835116,
+    "lng": 120.4577798,
+    "confidence": 9,
+    "formatted": "臺灣, 600, 嘉義市 東區 民權路",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-CYI"
+      ],
+      "_category": "road",
+      "_normalized_city": "嘉義市",
+      "_type": "road",
+      "city": "嘉義市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "neighbourhood": "中山里",
+      "postcode": "600",
+      "road": "民權路",
+      "road_type": "residential",
+      "suburb": "東區"
+    },
+    "source": "opencage"
+  },
+  "嘉義市東區吳鳳北路252號": {
+    "lat": 23.4834112,
+    "lng": 120.4523288,
+    "confidence": 9,
+    "formatted": "臺灣, 600, 嘉義市 東區 吳鳳北路",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-CYI"
+      ],
+      "_category": "road",
+      "_normalized_city": "嘉義市",
+      "_type": "road",
+      "city": "嘉義市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "neighbourhood": "北門里",
+      "postcode": "600",
+      "road": "吳鳳北路",
+      "road_type": "tertiary",
+      "suburb": "東區"
+    },
+    "source": "opencage"
+  },
+  "嘉義市西區中山路523號": {
+    "lat": 23.4778447,
+    "lng": 120.4409868,
+    "confidence": 9,
+    "formatted": "臺灣, 600, 嘉義市 西區 中山路",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-CYI"
+      ],
+      "_category": "road",
+      "_normalized_city": "嘉義市",
+      "_type": "road",
+      "city": "嘉義市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "neighbourhood": "書院里",
+      "postcode": "600",
+      "road": "中山路",
+      "road_type": "secondary",
+      "suburb": "西區"
+    },
+    "source": "opencage"
+  },
+  "嘉義市西區玉康路130號": {
+    "lat": 23.4742791,
+    "lng": 120.4277716,
+    "confidence": 9,
+    "formatted": "臺灣, 600, 嘉義市 西區 玉康路",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-CYI"
+      ],
+      "_category": "road",
+      "_normalized_city": "嘉義市",
+      "_type": "road",
+      "city": "嘉義市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "neighbourhood": "磚磘里",
+      "postcode": "600",
+      "road": "玉康路",
+      "road_type": "residential",
+      "suburb": "西區"
+    },
+    "source": "opencage"
+  },
+  "嘉義市東區小雅路353號": {
+    "lat": 23.4756356,
+    "lng": 120.4713452,
+    "confidence": 9,
+    "formatted": "臺灣, 600, 嘉義市 東區 小雅路",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-CYI"
+      ],
+      "_category": "road",
+      "_normalized_city": "嘉義市",
+      "_type": "road",
+      "city": "嘉義市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "neighbourhood": "長竹里",
+      "postcode": "600",
+      "road": "小雅路",
+      "road_type": "tertiary",
+      "suburb": "東區",
+      "village": "草地尾"
+    },
+    "source": "opencage"
+  },
+  "嘉義市東區街234號": {
+    "lat": 23.4799131,
+    "lng": 120.4658509,
+    "confidence": 10,
+    "formatted": "臺灣, 600, 嘉義市 東區 公園街, 林園豪景",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-CYI"
+      ],
+      "_category": "building",
+      "_normalized_city": "嘉義市",
+      "_type": "building",
+      "building": "林園豪景",
+      "city": "嘉義市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "neighbourhood": "東川里",
+      "postcode": "600",
+      "road": "公園街",
+      "suburb": "東區",
+      "village": "草地尾"
+    },
+    "source": "opencage"
+  },
+  "嘉義市東區嘉工街51號": {
+    "lat": 23.4703868,
+    "lng": 120.4669269,
+    "confidence": 9,
+    "formatted": "臺灣, 600, 嘉義市 東區 嘉工街",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-CYI"
+      ],
+      "_category": "road",
+      "_normalized_city": "嘉義市",
+      "_type": "road",
+      "city": "嘉義市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "neighbourhood": "短竹里",
+      "postcode": "600",
+      "road": "嘉工街",
+      "road_type": "residential",
+      "suburb": "東區",
+      "village": "草地尾"
+    },
+    "source": "opencage"
+  },
+  "嘉義市西區德安路31號": {
+    "lat": 23.4839469,
+    "lng": 120.4322329,
+    "confidence": 9,
+    "formatted": "臺灣, 600, 嘉義市 西區 德安路",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-CYI"
+      ],
+      "_category": "road",
+      "_normalized_city": "嘉義市",
+      "_type": "road",
+      "city": "嘉義市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "neighbourhood": "竹圍里",
+      "postcode": "600",
+      "road": "德安路",
+      "road_type": "tertiary",
+      "suburb": "西區",
+      "village": "北社尾"
+    },
+    "source": "opencage"
+  },
+  "新北市新莊區明中街38號": {
+    "lat": 25.052147,
+    "lng": 121.4579676,
+    "confidence": 9,
+    "formatted": "臺灣, 新北市 新莊區 福壽街, 好餃舍手工水餃",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "新北市",
+      "_type": "restaurant",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "neighbourhood": "和平里",
+      "restaurant": "好餃舍手工水餃",
+      "road": "福壽街",
+      "suburb": "新莊區",
+      "village": "中港厝"
+    },
+    "source": "opencage"
+  },
+  "新北市三峽區復興路59號": {
+    "lat": 24.9370818,
+    "lng": 121.3730304,
+    "confidence": 10,
+    "formatted": "臺灣, 23741, 新北市 三峽區 復興路 59號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "59號",
+      "neighbourhood": "永舘里",
+      "postcode": "23741",
+      "road": "復興路",
+      "suburb": "三峽區",
+      "village": "北大特區"
+    },
+    "source": "opencage"
+  },
+  "新北市新店區三民路65號": {
+    "lat": 24.9711971,
+    "lng": 121.5363568,
+    "confidence": 10,
+    "formatted": "臺灣, 23150, 新北市 新店區 三民路 65號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "65號",
+      "neighbourhood": "中華里",
+      "postcode": "23150",
+      "road": "三民路",
+      "suburb": "新店區",
+      "village": "大坪林"
+    },
+    "source": "opencage"
+  },
+  "新北市三重區重新路四段53號": {
+    "lat": 25.0574475,
+    "lng": 121.4877026,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 三重區 重新路四段 53號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "53號",
+      "neighbourhood": "過田里",
+      "road": "重新路四段",
+      "suburb": "三重區"
+    },
+    "source": "opencage"
+  },
+  "新北市三重區重陽路四段42號": {
+    "lat": 25.070011,
+    "lng": 121.4914802,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 三重區 重陽路四段 42號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "42號",
+      "neighbourhood": "信安里",
+      "road": "重陽路四段",
+      "suburb": "三重區"
+    },
+    "source": "opencage"
+  },
+  "新北市林口區仁愛二路77號": {
+    "lat": 25.0757166,
+    "lng": 121.3680911,
+    "confidence": 10,
+    "formatted": "臺灣, 244, 新北市 林口區 仁愛二路 77號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "77號",
+      "neighbourhood": "南勢里",
+      "postcode": "244",
+      "road": "仁愛二路",
+      "suburb": "林口區"
+    },
+    "source": "opencage"
+  },
+  "新北市林口區仁愛路二段502號": {
+    "lat": 25.0764649,
+    "lng": 121.3754337,
+    "confidence": 10,
+    "formatted": "臺灣, 24446, 新北市 林口區 仁愛路二段 502號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "502號",
+      "neighbourhood": "湖南里",
+      "postcode": "24446",
+      "road": "仁愛路二段",
+      "suburb": "林口區"
+    },
+    "source": "opencage"
+  },
+  "新北市土城區永安街103號": {
+    "lat": 24.9641302,
+    "lng": 121.4298963,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 土城區 永安街 103號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "103號",
+      "neighbourhood": "永寧里",
+      "road": "永安街",
+      "suburb": "土城區",
+      "village": "頂埔"
+    },
+    "source": "opencage"
+  },
+  "新北市新店區中央七街26號": {
+    "lat": 24.9752241,
+    "lng": 121.529589,
+    "confidence": 10,
+    "formatted": "臺灣, 23150, 新北市 新店區 中央七街 26號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "26號",
+      "neighbourhood": "中央里",
+      "postcode": "23150",
+      "road": "中央七街",
+      "suburb": "新店區",
+      "village": "大坪林"
+    },
+    "source": "opencage"
+  },
+  "新北市新店區中興路三段250號": {
+    "lat": 24.9840908,
+    "lng": 121.5430489,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 新店區 中興路三段 250號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "250號",
+      "neighbourhood": "信義里",
+      "road": "中興路三段",
+      "suburb": "新店區",
+      "village": "大坪林"
+    },
+    "source": "opencage"
+  },
+  "新北市三重區重新路三段132號": {
+    "lat": 25.0597889,
+    "lng": 121.4916925,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 三重區 重新路三段 132號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "132號",
+      "neighbourhood": "菜寮里",
+      "road": "重新路三段",
+      "suburb": "三重區"
+    },
+    "source": "opencage"
+  },
+  "新北市汐止區大同路二段512號": {
+    "lat": 25.0716236,
+    "lng": 121.6649171,
+    "confidence": 9,
+    "formatted": "臺灣, 22184, 新北市 汐止區 大同路二段",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "road",
+      "_normalized_city": "新北市",
+      "_type": "road",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "neighbourhood": "城中里",
+      "postcode": "22184",
+      "road": "大同路二段",
+      "road_type": "primary",
+      "suburb": "汐止區"
+    },
+    "source": "opencage"
+  },
+  "新北市三峽區復興路399號": {
+    "lat": 24.9383855,
+    "lng": 121.3630081,
+    "confidence": 10,
+    "formatted": "臺灣, 23702, 新北市 三峽區 復興路 399號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "399號",
+      "neighbourhood": "鳶山里",
+      "postcode": "23702",
+      "road": "復興路",
+      "suburb": "三峽區",
+      "village": "北大特區"
+    },
+    "source": "opencage"
+  },
+  "新北市淡水區民生路45號": {
+    "lat": 25.1395349,
+    "lng": 121.4604988,
+    "confidence": 10,
+    "formatted": "臺灣, 25167, 新北市 淡水區 民生路 45號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "45號",
+      "neighbourhood": "民生里",
+      "postcode": "25167",
+      "road": "民生路",
+      "suburb": "淡水區",
+      "village": "竹圍"
+    },
+    "source": "opencage"
+  },
+  "新北市新北市泰山區貴子路69號": {
+    "lat": 25.0396757,
+    "lng": 121.4307994,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 泰山區 貴子路 69號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "69號",
+      "neighbourhood": "貴賢里",
+      "road": "貴子路",
+      "suburb": "泰山區",
+      "village": "貴子坑"
+    },
+    "source": "opencage"
+  },
+  "新北市新店區安忠路57巷5號": {
+    "lat": 24.9588032,
+    "lng": 121.5142737,
+    "confidence": 9,
+    "formatted": "臺灣, 23154, 新北市 新店區 安忠路57巷 5號, 宏濟神經精神科醫院",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "health",
+      "_normalized_city": "新北市",
+      "_type": "hospital",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "hospital": "宏濟神經精神科醫院",
+      "house_number": "5號",
+      "neighbourhood": "公崙里",
+      "postcode": "23154",
+      "road": "安忠路57巷",
+      "suburb": "新店區"
+    },
+    "source": "opencage"
+  },
+  "新北市新莊區中正路510號": {
+    "lat": 25.0377133,
+    "lng": 121.4576472,
+    "confidence": 9,
+    "formatted": "臺灣, 24243, 新北市 新莊區 中正路 80-1, 新濠食府會館",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "新北市",
+      "_type": "restaurant",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "80-1",
+      "neighbourhood": "恆安里",
+      "postcode": "24243",
+      "restaurant": "新濠食府會館",
+      "road": "中正路",
+      "suburb": "新莊區",
+      "village": "中港厝"
+    },
+    "source": "opencage"
+  },
+  "新北市板橋區華江一路608號": {
+    "lat": 25.0327565,
+    "lng": 121.4651763,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 板橋區 華江一路 608號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "608號",
+      "neighbourhood": "溪頭里",
+      "road": "華江一路",
+      "suburb": "板橋區"
+    },
+    "source": "opencage"
+  },
+  "新北市新店區二十張路33巷2弄3號": {
+    "lat": 24.9811658,
+    "lng": 121.5385617,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 新店區 二十張路33巷2弄 3號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "3號",
+      "neighbourhood": "大豐里",
+      "road": "二十張路33巷2弄",
+      "suburb": "新店區",
+      "village": "大坪林"
+    },
+    "source": "opencage"
+  },
+  "新北市新北市中和區區南山路51號": {
+    "lat": 24.9905248,
+    "lng": 121.5175313,
+    "confidence": 10,
+    "formatted": "臺灣, 23510, 新北市 中和區 景平路111巷9弄 51號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "51號",
+      "neighbourhood": "秀士里",
+      "postcode": "23510",
+      "road": "景平路111巷9弄",
+      "suburb": "中和區",
+      "village": "潭漧"
+    },
+    "source": "opencage"
+  },
+  "新北市板橋區三民路二段38號": {
+    "lat": 25.0178512,
+    "lng": 121.4790556,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 板橋區 三民路二段 38號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "38號",
+      "neighbourhood": "九如里",
+      "road": "三民路二段",
+      "suburb": "板橋區",
+      "village": "埔墘"
+    },
+    "source": "opencage"
+  },
+  "新北市板橋區文化路一段145號": {
+    "lat": 25.0156655,
+    "lng": 121.4623323,
+    "confidence": 10,
+    "formatted": "臺灣, 22050, 新北市 板橋區 文化路一段 145號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "145號",
+      "neighbourhood": "漢生里",
+      "postcode": "22050",
+      "road": "文化路一段",
+      "suburb": "板橋區",
+      "village": "新板特區"
+    },
+    "source": "opencage"
+  },
+  "新北市板橋區文化路二段182巷3弄33號": {
+    "lat": 25.0287033,
+    "lng": 121.4723615,
+    "confidence": 10,
+    "formatted": "臺灣, 22044, 新北市 板橋區 文化路二段182巷3弄 33號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "33號",
+      "neighbourhood": "忠翠里",
+      "postcode": "22044",
+      "road": "文化路二段182巷3弄",
+      "suburb": "板橋區",
+      "village": "埔墘"
+    },
+    "source": "opencage"
+  },
+  "新北市板橋區館前東路22號": {
+    "lat": 25.007089,
+    "lng": 121.4601676,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 板橋區 館前東路 22號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "22號",
+      "neighbourhood": "景星里",
+      "road": "館前東路",
+      "suburb": "板橋區",
+      "village": "枋橋"
+    },
+    "source": "opencage"
+  },
+  "新北市新北市板橋區縣民大道1段104號": {
+    "lat": 25.0254273,
+    "lng": 121.4555623,
+    "confidence": 10,
+    "formatted": "臺灣, 22052, 新北市 板橋區 龍泉街108巷 104號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "104號",
+      "neighbourhood": "德翠里",
+      "postcode": "22052",
+      "road": "龍泉街108巷",
+      "suburb": "板橋區",
+      "village": "社後"
+    },
+    "source": "opencage"
+  },
+  "新北市板橋區文化路二段182巷1弄15號": {
+    "lat": 25.0279136,
+    "lng": 121.4712993,
+    "confidence": 10,
+    "formatted": "臺灣, 22044, 新北市 板橋區 文化路二段182巷1弄 15號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "15號",
+      "neighbourhood": "忠翠里",
+      "postcode": "22044",
+      "road": "文化路二段182巷1弄",
+      "suburb": "板橋區",
+      "village": "埔墘"
+    },
+    "source": "opencage"
+  },
+  "新北市新北市新莊區中平路43號": {
+    "lat": 25.0441385,
+    "lng": 121.4446822,
+    "confidence": 10,
+    "formatted": "臺灣, 24217, 新北市 新莊區 中平路 43號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "43號",
+      "neighbourhood": "立志里",
+      "postcode": "24217",
+      "road": "中平路",
+      "suburb": "新莊區",
+      "village": "中港厝"
+    },
+    "source": "opencage"
+  },
+  "新北市新北市新店區北新路2段177-3號": {
+    "lat": 24.9096302,
+    "lng": 121.5754403,
+    "confidence": 9,
+    "formatted": "臺灣, 23160, 新北市 新店區 三號橋",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "road",
+      "_normalized_city": "新北市",
+      "_type": "road",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "neighbourhood": "粗坑里",
+      "postcode": "23160",
+      "road": "三號橋",
+      "road_type": "service",
+      "suburb": "新店區"
+    },
+    "source": "opencage"
+  },
+  "新北市三重區三光街30巷10號": {
+    "lat": 25.0605494,
+    "lng": 121.4842889,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 三重區 三光街30巷 10號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "10號",
+      "neighbourhood": "光田里",
+      "road": "三光街30巷",
+      "suburb": "三重區"
+    },
+    "source": "opencage"
+  },
+  "新北市新北市永和區區博愛街10號": {
+    "lat": 24.9749198,
+    "lng": 121.5488846,
+    "confidence": 10,
+    "formatted": "臺灣, 23145, 新北市 新店區 寶橋路140巷 10號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "10號",
+      "neighbourhood": "寶福里",
+      "postcode": "23145",
+      "road": "寶橋路140巷",
+      "suburb": "新店區",
+      "village": "大坪林"
+    },
+    "source": "opencage"
+  },
+  "新北市三峽區大義路19號": {
+    "lat": 24.9438558,
+    "lng": 121.3786063,
+    "confidence": 10,
+    "formatted": "臺灣, 23854, 新北市 三峽區 大義路 19號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "19號",
+      "neighbourhood": "龍學里",
+      "postcode": "23854",
+      "road": "大義路",
+      "suburb": "三峽區",
+      "village": "北大特區"
+    },
+    "source": "opencage"
+  },
+  "新北市板橋區文化路一段46巷38號": {
+    "lat": 25.011223,
+    "lng": 121.460512,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 板橋區 文化路一段46巷 38號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "38號",
+      "neighbourhood": "挹秀里",
+      "road": "文化路一段46巷",
+      "suburb": "板橋區",
+      "village": "枋橋"
+    },
+    "source": "opencage"
+  },
+  "新北市板橋區莒光路39巷10號": {
+    "lat": 25.0249995,
+    "lng": 121.4708678,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 板橋區 莒光路39巷 10號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "10號",
+      "neighbourhood": "莒光里",
+      "road": "莒光路39巷",
+      "suburb": "板橋區",
+      "village": "埔墘"
+    },
+    "source": "opencage"
+  },
+  "新北市板橋區介壽街84巷3號": {
+    "lat": 25.018532,
+    "lng": 121.4700317,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 板橋區 介壽街84巷 3號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "3號",
+      "neighbourhood": "介壽里",
+      "road": "介壽街84巷",
+      "suburb": "板橋區",
+      "village": "新板特區"
+    },
+    "source": "opencage"
+  },
+  "新北市板橋區新民街27號": {
+    "lat": 25.0102674,
+    "lng": 121.4640746,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 板橋區 新民街 27號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "27號",
+      "neighbourhood": "福丘里",
+      "road": "新民街",
+      "suburb": "板橋區",
+      "village": "新板特區"
+    },
+    "source": "opencage"
+  },
+  "新北市新店區永新街30號": {
+    "lat": 24.9751874,
+    "lng": 121.5441406,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 新店區 永新街 30號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "30號",
+      "neighbourhood": "新安里",
+      "road": "永新街",
+      "suburb": "新店區",
+      "village": "大坪林"
+    },
+    "source": "opencage"
+  },
+  "新北市新店區民權路41號": {
+    "lat": 24.9827699,
+    "lng": 121.5404451,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 新店區 民權路 41號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "41號",
+      "neighbourhood": "大同里",
+      "road": "民權路",
+      "suburb": "新店區",
+      "village": "大坪林"
+    },
+    "source": "opencage"
+  },
+  "新北市三重區仁美街25號": {
+    "lat": 25.0785897,
+    "lng": 121.4864523,
+    "confidence": 9,
+    "formatted": "臺灣, 24152, 新北市 三重區 仁美街",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "road",
+      "_normalized_city": "新北市",
+      "_type": "road",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "neighbourhood": "福樂里",
+      "postcode": "24152",
+      "road": "仁美街",
+      "road_type": "residential",
+      "suburb": "三重區"
+    },
+    "source": "opencage"
+  },
+  "新北市三重區重陽路一段89號": {
+    "lat": 25.0591797,
+    "lng": 121.48688,
+    "confidence": 10,
+    "formatted": "臺灣, 24161, 新北市 三重區 重陽路一段 89號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "89號",
+      "neighbourhood": "過田里",
+      "postcode": "24161",
+      "road": "重陽路一段",
+      "suburb": "三重區"
+    },
+    "source": "opencage"
+  },
+  "新北市林口區公園路129號": {
+    "lat": 25.0689231,
+    "lng": 121.3676175,
+    "confidence": 9,
+    "formatted": "臺灣, 新北市 林口區 公園路 59, 家樂福超市",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "新北市",
+      "_type": "shop",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "59",
+      "neighbourhood": "麗林里",
+      "road": "公園路",
+      "shop": "家樂福超市",
+      "suburb": "林口區"
+    },
+    "source": "opencage"
+  },
+  "新北市中和區區中安街178巷18弄25號": {
+    "lat": 24.9995866,
+    "lng": 121.5101287,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 中和區 中安街178巷18弄 25號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "25號",
+      "neighbourhood": "安平里",
+      "road": "中安街178巷18弄",
+      "suburb": "中和區",
+      "village": "潭漧"
+    },
+    "source": "opencage"
+  },
+  "新北市三峽區大義路189號": {
+    "lat": 24.9452466,
+    "lng": 121.3778874,
+    "confidence": 10,
+    "formatted": "臺灣, 23854, 新北市 三峽區 大義路 189號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "189號",
+      "neighbourhood": "龍學里",
+      "postcode": "23854",
+      "road": "大義路",
+      "suburb": "三峽區",
+      "village": "北大特區"
+    },
+    "source": "opencage"
+  },
+  "新北市新北市永和區區竹林路21號": {
+    "lat": 25.0167624,
+    "lng": 121.5151568,
+    "confidence": 10,
+    "formatted": "臺灣, 23442, 新北市 永和區 忠孝街26巷 21號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "21號",
+      "neighbourhood": "頂溪里",
+      "postcode": "23442",
+      "road": "忠孝街26巷",
+      "suburb": "永和區",
+      "village": "溪洲"
+    },
+    "source": "opencage"
+  },
+  "新北市板橋區文化路一段275號": {
+    "lat": 25.018564,
+    "lng": 121.4646991,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 板橋區 文化路一段 275號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "275號",
+      "neighbourhood": "公舘里",
+      "road": "文化路一段",
+      "suburb": "板橋區",
+      "village": "新板特區"
+    },
+    "source": "opencage"
+  },
+  "新北市板橋區實踐路83號": {
+    "lat": 25.0056569,
+    "lng": 121.464042,
+    "confidence": 10,
+    "formatted": "臺灣, 22064, 新北市 板橋區 實踐路 83號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "83號",
+      "neighbourhood": "後埔里",
+      "postcode": "22064",
+      "road": "實踐路",
+      "suburb": "板橋區",
+      "village": "新板特區"
+    },
+    "source": "opencage"
+  },
+  "新北市新北市新莊區幸福東路135號": {
+    "lat": 25.0493413,
+    "lng": 121.4608896,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 新莊區 幸福東路 135號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "135號",
+      "neighbourhood": "頭前里",
+      "road": "幸福東路",
+      "suburb": "新莊區",
+      "village": "頭前"
+    },
+    "source": "opencage"
+  },
+  "新北市新莊區新泰路177號": {
+    "lat": 25.0405846,
+    "lng": 121.44563,
+    "confidence": 9,
+    "formatted": "臺灣, 新北市 新莊區 新泰路, 富翔號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "新北市",
+      "_type": "restaurant",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "neighbourhood": "立言里",
+      "restaurant": "富翔號",
+      "road": "新泰路",
+      "suburb": "新莊區",
+      "village": "中港厝"
+    },
+    "source": "opencage"
+  },
+  "新北市新店區民族路29號": {
+    "lat": 24.9786397,
+    "lng": 121.5410024,
+    "confidence": 10,
+    "formatted": "臺灣, 23143, 新北市 新店區 民族路 29號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "29號",
+      "neighbourhood": "明德里",
+      "postcode": "23143",
+      "road": "民族路",
+      "suburb": "新店區",
+      "village": "大坪林"
+    },
+    "source": "opencage"
+  },
+  "新北市三重區正義北路210號": {
+    "lat": 25.067527,
+    "lng": 121.4962037,
+    "confidence": 10,
+    "formatted": "臺灣, 24149, 新北市 三重區 正義北路 210號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "210號",
+      "neighbourhood": "三安里",
+      "postcode": "24149",
+      "road": "正義北路",
+      "suburb": "三重區"
+    },
+    "source": "opencage"
+  },
+  "新北市新北市中和區區連城路4號": {
+    "lat": 25.001146,
+    "lng": 121.5132169,
+    "confidence": 9,
+    "formatted": "八二三紀念公園(4號公園), 中和區, 新北市, 臺灣",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "outdoors/recreation",
+      "_normalized_city": "新北市",
+      "_type": "park",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "park": "八二三紀念公園(4號公園)",
+      "suburb": "中和區",
+      "village": "潭漧"
+    },
+    "source": "opencage"
+  },
+  "新北市中和區區安樂路25號": {
+    "lat": 24.9972885,
+    "lng": 121.5112354,
+    "confidence": 9,
+    "formatted": "臺灣, 新北市 中和區 宜安路, 金正好吃大腸麵線/宜安店",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "新北市",
+      "_type": "restaurant",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "neighbourhood": "安樂里",
+      "restaurant": "金正好吃大腸麵線/宜安店",
+      "road": "宜安路",
+      "suburb": "中和區",
+      "village": "潭漧"
+    },
+    "source": "opencage"
+  },
+  "新北市永和區區中正路558號": {
+    "lat": 25.0057971,
+    "lng": 121.5172399,
+    "confidence": 10,
+    "formatted": "臺灣, 23455, 新北市 永和區 中正路 558號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "558號",
+      "neighbourhood": "福和里",
+      "postcode": "23455",
+      "road": "中正路",
+      "suburb": "永和區",
+      "village": "秀朗"
+    },
+    "source": "opencage"
+  },
+  "新北市蘆洲區復興路200號": {
+    "lat": 25.0889487,
+    "lng": 121.4784034,
+    "confidence": 10,
+    "formatted": "臺灣, 24754, 新北市 蘆洲區 復興路 200號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "200號",
+      "neighbourhood": "信義里",
+      "postcode": "24754",
+      "road": "復興路",
+      "suburb": "蘆洲區"
+    },
+    "source": "opencage"
+  },
+  "新北市土城區學府路一段158號": {
+    "lat": 24.9868567,
+    "lng": 121.454328,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 土城區 學府路一段 158號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "158號",
+      "neighbourhood": "廣福里",
+      "road": "學府路一段",
+      "suburb": "土城區",
+      "village": "清水"
+    },
+    "source": "opencage"
+  },
+  "新北市土城區青雲路6號": {
+    "lat": 24.9895463,
+    "lng": 121.4601521,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 土城區 青雲路 6號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "6號",
+      "neighbourhood": "清溪里",
+      "road": "青雲路",
+      "suburb": "土城區",
+      "village": "清水"
+    },
+    "source": "opencage"
+  },
+  "新北市新北市蘆洲區長樂路148號": {
+    "lat": 25.0905524,
+    "lng": 121.4624329,
+    "confidence": 10,
+    "formatted": "臺灣, 24767, 新北市 蘆洲區 長樂路 148號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "148號",
+      "neighbourhood": "正義里",
+      "postcode": "24767",
+      "road": "長樂路",
+      "suburb": "蘆洲區"
+    },
+    "source": "opencage"
+  },
+  "新北市新莊區思源路127號": {
+    "lat": 25.0377133,
+    "lng": 121.4576472,
+    "confidence": 9,
+    "formatted": "臺灣, 24243, 新北市 新莊區 中正路 80-1, 新濠食府會館",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "新北市",
+      "_type": "restaurant",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "80-1",
+      "neighbourhood": "恆安里",
+      "postcode": "24243",
+      "restaurant": "新濠食府會館",
+      "road": "中正路",
+      "suburb": "新莊區",
+      "village": "中港厝"
+    },
+    "source": "opencage"
+  },
+  "新北市中和區區中正路291號": {
+    "lat": 24.9937458,
+    "lng": 121.4940818,
+    "confidence": 10,
+    "formatted": "臺灣, 235, 新北市 中和區 中正路 291號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "291號",
+      "neighbourhood": "力行里",
+      "postcode": "235",
+      "road": "中正路",
+      "suburb": "中和區",
+      "village": "中坑"
+    },
+    "source": "opencage"
+  },
+  "新北市板橋區英士路198號": {
+    "lat": 25.0236838,
+    "lng": 121.4577085,
+    "confidence": 10,
+    "formatted": "臺灣, 22051, 新北市 板橋區 英士路 198號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "198號",
+      "neighbourhood": "幸福里",
+      "postcode": "22051",
+      "road": "英士路",
+      "suburb": "板橋區",
+      "village": "社後"
+    },
+    "source": "opencage"
+  },
+  "新北市淡水區新民街76巷16號": {
+    "lat": 25.1768036,
+    "lng": 121.4389935,
+    "confidence": 10,
+    "formatted": "臺灣, 25164, 新北市 淡水區 新民街76巷 16號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "16號",
+      "neighbourhood": "新民里",
+      "postcode": "25164",
+      "road": "新民街76巷",
+      "suburb": "淡水區"
+    },
+    "source": "opencage"
+  },
+  "新北市汐止區大同路512號": {
+    "lat": 25.0559231,
+    "lng": 121.6356667,
+    "confidence": 9,
+    "formatted": "臺灣, 22161, 新北市 汐止區 往大同路",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "road",
+      "_normalized_city": "新北市",
+      "_type": "road",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "neighbourhood": "樟樹里",
+      "postcode": "22161",
+      "quarter": "樟樹灣",
+      "road": "往大同路",
+      "road_type": "service",
+      "suburb": "汐止區"
+    },
+    "source": "opencage"
+  },
+  "新北市三重區正義北路227號": {
+    "lat": 25.0690079,
+    "lng": 121.496015,
+    "confidence": 10,
+    "formatted": "臺灣, 24149, 新北市 三重區 正義北路 227號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "227號",
+      "neighbourhood": "三安里",
+      "postcode": "24149",
+      "road": "正義北路",
+      "suburb": "三重區"
+    },
+    "source": "opencage"
+  },
+  "新北市板橋區板新路85號": {
+    "lat": 25.0137812,
+    "lng": 121.4732721,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 板橋區 板新路 85號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "85號",
+      "neighbourhood": "長安里",
+      "road": "板新路",
+      "suburb": "板橋區",
+      "village": "深丘"
+    },
+    "source": "opencage"
+  },
+  "新北市板橋區文化路一段147號": {
+    "lat": 25.0159073,
+    "lng": 121.4621602,
+    "confidence": 10,
+    "formatted": "臺灣, 22050, 新北市 板橋區 文化路一段 147號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "147號",
+      "neighbourhood": "漢生里",
+      "postcode": "22050",
+      "road": "文化路一段",
+      "suburb": "板橋區",
+      "village": "新板特區"
+    },
+    "source": "opencage"
+  },
+  "新北市新店區民權路77號": {
+    "lat": 24.9828244,
+    "lng": 121.538466,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 新店區 民權路 77號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "77號",
+      "neighbourhood": "江陵里",
+      "road": "民權路",
+      "suburb": "新店區",
+      "village": "大坪林"
+    },
+    "source": "opencage"
+  },
+  "新北市新北市中和區區連勝街28號": {
+    "lat": 24.9916531,
+    "lng": 121.5103144,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 中和區 興南路一段56巷 28號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "28號",
+      "neighbourhood": "景新里",
+      "road": "興南路一段56巷",
+      "suburb": "中和區",
+      "village": "潭漧"
+    },
+    "source": "opencage"
+  },
+  "新北市新店區建國路12-2號": {
+    "lat": 24.9593884,
+    "lng": 121.5126912,
+    "confidence": 10,
+    "formatted": "臺灣, 23154, 新北市 新店區 安忠路56巷 2號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "2號",
+      "neighbourhood": "公崙里",
+      "postcode": "23154",
+      "road": "安忠路56巷",
+      "suburb": "新店區"
+    },
+    "source": "opencage"
+  },
+  "新北市三重區光復路一段70號": {
+    "lat": 25.0494357,
+    "lng": 121.4719029,
+    "confidence": 10,
+    "formatted": "臺灣, 24158, 新北市 三重區 光復路一段 70號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "70號",
+      "industrial": "頂崁工業區",
+      "postcode": "24158",
+      "road": "光復路一段",
+      "suburb": "三重區",
+      "village": "頭前"
+    },
+    "source": "opencage"
+  },
+  "新北市樹林區中山路一段10號": {
+    "lat": 24.9928875,
+    "lng": 121.4241425,
+    "confidence": 10,
+    "formatted": "臺灣, 23845, 新北市 樹林區 中山路一段 10號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "10號",
+      "neighbourhood": "樹福里",
+      "postcode": "23845",
+      "road": "中山路一段",
+      "suburb": "樹林區"
+    },
+    "source": "opencage"
+  },
+  "新北市新莊區中環路一段28號": {
+    "lat": 25.026737,
+    "lng": 121.4427247,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 新莊區 中環路一段 28號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "28號",
+      "neighbourhood": "瓊林里",
+      "road": "中環路一段",
+      "suburb": "新莊區",
+      "village": "瓊林"
+    },
+    "source": "opencage"
+  },
+  "新北市林口區文化三路一段205號": {
+    "lat": 25.0704756,
+    "lng": 121.3624134,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 林口區 文化三路一段 205號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "205號",
+      "neighbourhood": "南勢里",
+      "road": "文化三路一段",
+      "suburb": "林口區"
+    },
+    "source": "opencage"
+  },
+  "新北市新北市蘆洲區集賢路222號": {
+    "lat": 25.0870519,
+    "lng": 121.4828519,
+    "confidence": 10,
+    "formatted": "臺灣, 24747, 新北市 蘆洲區 集賢路 222號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "222號",
+      "neighbourhood": "樓厝里",
+      "postcode": "24747",
+      "road": "集賢路",
+      "suburb": "蘆洲區"
+    },
+    "source": "opencage"
+  },
+  "新北市三重區集仁街158號": {
+    "lat": 25.0865249,
+    "lng": 121.4846619,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 三重區 集仁街 158號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "158號",
+      "neighbourhood": "碧華里",
+      "road": "集仁街",
+      "suburb": "三重區"
+    },
+    "source": "opencage"
+  },
+  "新北市板橋區四川路一段23號": {
+    "lat": 25.0068739,
+    "lng": 121.4595342,
+    "confidence": 10,
+    "formatted": "臺灣, 22063, 新北市 板橋區 四川路一段 23號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "23號",
+      "neighbourhood": "景星里",
+      "postcode": "22063",
+      "road": "四川路一段",
+      "suburb": "板橋區",
+      "village": "枋橋"
+    },
+    "source": "opencage"
+  },
+  "新北市板橋區文化路一段188巷18號": {
+    "lat": 25.0194526,
+    "lng": 121.4661799,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 板橋區 文化路一段188巷 18號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "18號",
+      "neighbourhood": "新民里",
+      "road": "文化路一段188巷",
+      "suburb": "板橋區",
+      "village": "新板特區"
+    },
+    "source": "opencage"
+  },
+  "新北市新店區中央七街67號": {
+    "lat": 24.9764691,
+    "lng": 121.5277751,
+    "confidence": 10,
+    "formatted": "臺灣, 23150, 新北市 新店區 中央七街 67號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "67號",
+      "neighbourhood": "中央里",
+      "postcode": "23150",
+      "road": "中央七街",
+      "suburb": "新店區",
+      "village": "大坪林"
+    },
+    "source": "opencage"
+  },
+  "新北市新莊區新知一路69號": {
+    "lat": 25.0626433,
+    "lng": 121.4638296,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 新莊區 新知一路 69號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "69號",
+      "neighbourhood": "福基里",
+      "road": "新知一路",
+      "suburb": "新莊區",
+      "village": "頭前"
+    },
+    "source": "opencage"
+  },
+  "新北市板橋區文化路一段135號": {
+    "lat": 25.0152482,
+    "lng": 121.4620011,
+    "confidence": 10,
+    "formatted": "臺灣, 22050, 新北市 板橋區 文化路一段 135號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "135號",
+      "neighbourhood": "漢生里",
+      "postcode": "22050",
+      "road": "文化路一段",
+      "suburb": "板橋區",
+      "village": "新板特區"
+    },
+    "source": "opencage"
+  },
+  "新北市板橋區中山路二段141號": {
+    "lat": 25.0166481,
+    "lng": 121.4752686,
+    "confidence": 10,
+    "formatted": "臺灣, 新北市 板橋區 中山路二段 141號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NWT"
+      ],
+      "_category": "building",
+      "_normalized_city": "新北市",
+      "_type": "building",
+      "city": "新北市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "141號",
+      "neighbourhood": "西安里",
+      "road": "中山路二段",
+      "suburb": "板橋區",
+      "village": "埔墘"
+    },
+    "source": "opencage"
+  },
+  "桃園市中壢區中北路二段119號": {
+    "lat": 24.955633,
+    "lng": 121.2643185,
+    "confidence": 9,
+    "formatted": "臺灣, 32080, 桃園市 仁德里 新中北路二段 219, 曾好吃鹹酥雞",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "桃園市",
+      "_type": "restaurant",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "219",
+      "postcode": "32080",
+      "restaurant": "曾好吃鹹酥雞",
+      "road": "新中北路二段",
+      "suburb": "仁德里",
+      "town": "中壢區"
+    },
+    "source": "opencage"
+  },
+  "桃園市中壢區忠孝路62號": {
+    "lat": 24.9697671,
+    "lng": 121.1995502,
+    "confidence": 9,
+    "formatted": "臺灣, 桃園市 五權里 中大路150巷 125, 福祿貝爾崇皓幼兒園中大分校",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "education",
+      "_normalized_city": "桃園市",
+      "_type": "kindergarten",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "hamlet": "頂三塊厝",
+      "house_number": "125",
+      "kindergarten": "福祿貝爾崇皓幼兒園中大分校",
+      "road": "中大路150巷",
+      "suburb": "五權里",
+      "town": "中壢區"
+    },
+    "source": "opencage"
+  },
+  "桃園市桃園區中山路703號": {
+    "lat": 25.0129113,
+    "lng": 121.3134485,
+    "confidence": 10,
+    "formatted": "臺灣, 330, 桃園市 寶山里 雙峰路, 凱悅豪門",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "building",
+      "_normalized_city": "桃園市",
+      "_type": "building",
+      "building": "凱悅豪門",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "postcode": "330",
+      "road": "雙峰路",
+      "suburb": "寶山里",
+      "town": "桃園區"
+    },
+    "source": "opencage"
+  },
+  "桃園市桃園區同德2街160號": {
+    "lat": 24.9538733,
+    "lng": 121.2391477,
+    "confidence": 9,
+    "formatted": "臺灣, 桃園市 普仁里 協同街, DAVID DINER 大衛好食",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "桃園市",
+      "_type": "restaurant",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "restaurant": "DAVID DINER 大衛好食",
+      "road": "協同街",
+      "suburb": "普仁里",
+      "town": "中壢區"
+    },
+    "source": "opencage"
+  },
+  "桃園市桃園區中正路1048號": {
+    "lat": 24.9991957,
+    "lng": 121.289451,
+    "confidence": 9,
+    "formatted": "臺灣, 330, 桃園市 文中里 正光一街 268, 日好牙醫診所",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "health",
+      "_normalized_city": "桃園市",
+      "_type": "dentist",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "dentist": "日好牙醫診所",
+      "house_number": "268",
+      "postcode": "330",
+      "residential": "中路計畫區",
+      "road": "正光一街",
+      "suburb": "文中里",
+      "town": "桃園區"
+    },
+    "source": "opencage"
+  },
+  "桃園市中壢區中山東路二段37號": {
+    "lat": 24.9697705,
+    "lng": 121.1357743,
+    "confidence": 9,
+    "formatted": "臺灣, 桃園市 九斗里 中山東路二段, 豪軒",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "transportation",
+      "_normalized_city": "桃園市",
+      "_type": "bus_stop",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "hamlet": "北勢",
+      "highway": "豪軒",
+      "road": "中山東路二段",
+      "suburb": "九斗里",
+      "town": "新屋區"
+    },
+    "source": "opencage"
+  },
+  "桃園市桃園區經國路168號": {
+    "lat": 25.0321871,
+    "lng": 121.3006657,
+    "confidence": 9,
+    "formatted": "臺灣, 330, 桃園市 汴洲里 經國路, 好記香港燒臘傳奇",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "桃園市",
+      "_type": "restaurant",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "hamlet": "經國特區",
+      "postcode": "330",
+      "restaurant": "好記香港燒臘傳奇",
+      "road": "經國路",
+      "suburb": "汴洲里",
+      "town": "桃園區"
+    },
+    "source": "opencage"
+  },
+  "桃園市桃園區中埔一街107號": {
+    "lat": 25.0134197,
+    "lng": 121.2957334,
+    "confidence": 10,
+    "formatted": "臺灣, 330, 桃園市 寶慶里 中埔一街 107號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "building",
+      "_normalized_city": "桃園市",
+      "_type": "building",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "107號",
+      "postcode": "330",
+      "road": "中埔一街",
+      "suburb": "寶慶里",
+      "town": "桃園區"
+    },
+    "source": "opencage"
+  },
+  "桃園市桃園區中正路1195號": {
+    "lat": 24.9991957,
+    "lng": 121.289451,
+    "confidence": 9,
+    "formatted": "臺灣, 330, 桃園市 文中里 正光一街 268, 日好牙醫診所",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "health",
+      "_normalized_city": "桃園市",
+      "_type": "dentist",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "dentist": "日好牙醫診所",
+      "house_number": "268",
+      "postcode": "330",
+      "residential": "中路計畫區",
+      "road": "正光一街",
+      "suburb": "文中里",
+      "town": "桃園區"
+    },
+    "source": "opencage"
+  },
+  "桃園市桃園市楊梅區環東路476號": {
+    "lat": 24.9104165,
+    "lng": 121.1568302,
+    "confidence": 10,
+    "formatted": "臺灣, 桃園市 中山里 環東路 476號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "building",
+      "_normalized_city": "桃園市",
+      "_type": "building",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "476號",
+      "road": "環東路",
+      "suburb": "中山里",
+      "town": "楊梅區"
+    },
+    "source": "opencage"
+  },
+  "平鎮區桃園市平鎮區上海路221號": {
+    "lat": 24.9156065,
+    "lng": 121.2061069,
+    "confidence": 10,
+    "formatted": "臺灣, 桃園市 金星里 上海路 221號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "building",
+      "_normalized_city": "桃園市",
+      "_type": "building",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "hamlet": "山仔腳",
+      "house_number": "221號",
+      "road": "上海路",
+      "suburb": "金星里",
+      "town": "平鎮區"
+    },
+    "source": "opencage"
+  },
+  "桃園市中壢區中北路200號": {
+    "lat": 24.9565609,
+    "lng": 121.2259256,
+    "confidence": 9,
+    "formatted": "臺灣, 桃園市 中央里 建國北路, 泰好運",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "桃園市",
+      "_type": "restaurant",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "restaurant": "泰好運",
+      "road": "建國北路",
+      "suburb": "中央里",
+      "town": "中壢區"
+    },
+    "source": "opencage"
+  },
+  "桃園市大園區大觀路910號": {
+    "lat": 25.0337884,
+    "lng": 121.0618223,
+    "confidence": 10,
+    "formatted": "臺灣, 桃園市 大潭里 大潭南路, 好市多觀音物流中心",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "building",
+      "_normalized_city": "桃園市",
+      "_type": "building",
+      "building": "好市多觀音物流中心",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "industrial": "桃園環保科技園區",
+      "road": "大潭南路",
+      "suburb": "大潭里",
+      "town": "觀音區"
+    },
+    "source": "opencage"
+  },
+  "桃園市蘆竹區南平街35號": {
+    "lat": 25.0453664,
+    "lng": 121.2912665,
+    "confidence": 10,
+    "formatted": "臺灣, 338, 桃園市 興榮里 南平街 35號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "building",
+      "_normalized_city": "桃園市",
+      "_type": "building",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "35號",
+      "postcode": "338",
+      "road": "南平街",
+      "suburb": "興榮里",
+      "town": "蘆竹區"
+    },
+    "source": "opencage"
+  },
+  "桃園市桃園區中正路1322號": {
+    "lat": 24.9991957,
+    "lng": 121.289451,
+    "confidence": 9,
+    "formatted": "臺灣, 330, 桃園市 文中里 正光一街 268, 日好牙醫診所",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "health",
+      "_normalized_city": "桃園市",
+      "_type": "dentist",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "dentist": "日好牙醫診所",
+      "house_number": "268",
+      "postcode": "330",
+      "residential": "中路計畫區",
+      "road": "正光一街",
+      "suburb": "文中里",
+      "town": "桃園區"
+    },
+    "source": "opencage"
+  },
+  "桃園市中壢區福壽9街16號": {
+    "lat": 24.969057,
+    "lng": 121.3011506,
+    "confidence": 9,
+    "formatted": "臺灣, 33442, 桃園市 大正里 介壽路一段 466, 好狗運貓狗福利中心",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "桃園市",
+      "_type": "shop",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "466",
+      "postcode": "33442",
+      "road": "介壽路一段",
+      "shop": "好狗運貓狗福利中心",
+      "suburb": "大正里",
+      "town": "桃園區"
+    },
+    "source": "opencage"
+  },
+  "桃園區桃園市桃園區國際路2段18號": {
+    "lat": 24.9907602,
+    "lng": 121.2886064,
+    "confidence": 10,
+    "formatted": "臺灣, 330, 桃園市 中路里 國際路二段 18號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "building",
+      "_normalized_city": "桃園市",
+      "_type": "building",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "hamlet": "忠國員仔",
+      "house_number": "18號",
+      "postcode": "330",
+      "road": "國際路二段",
+      "suburb": "中路里",
+      "town": "桃園區"
+    },
+    "source": "opencage"
+  },
+  "桃園市平鎮區文化街66之1號": {
+    "lat": 24.9547462,
+    "lng": 121.2028832,
+    "confidence": 10,
+    "formatted": "臺灣, 32450, 桃園市 復旦里 文化街 66之1號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "building",
+      "_normalized_city": "桃園市",
+      "_type": "building",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "hamlet": "後行",
+      "house_number": "66之1號",
+      "postcode": "32450",
+      "road": "文化街",
+      "suburb": "復旦里",
+      "town": "平鎮區"
+    },
+    "source": "opencage"
+  },
+  "桃園市桃園區經國路196號": {
+    "lat": 25.0321871,
+    "lng": 121.3006657,
+    "confidence": 9,
+    "formatted": "臺灣, 330, 桃園市 汴洲里 經國路, 好記香港燒臘傳奇",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "桃園市",
+      "_type": "restaurant",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "hamlet": "經國特區",
+      "postcode": "330",
+      "restaurant": "好記香港燒臘傳奇",
+      "road": "經國路",
+      "suburb": "汴洲里",
+      "town": "桃園區"
+    },
+    "source": "opencage"
+  },
+  "桃園市桃園區大有路632號": {
+    "lat": 24.9697671,
+    "lng": 121.1995502,
+    "confidence": 9,
+    "formatted": "臺灣, 桃園市 五權里 中大路150巷 125, 福祿貝爾崇皓幼兒園中大分校",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "education",
+      "_normalized_city": "桃園市",
+      "_type": "kindergarten",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "hamlet": "頂三塊厝",
+      "house_number": "125",
+      "kindergarten": "福祿貝爾崇皓幼兒園中大分校",
+      "road": "中大路150巷",
+      "suburb": "五權里",
+      "town": "中壢區"
+    },
+    "source": "opencage"
+  },
+  "桃園市桃園區復興路123號": {
+    "lat": 25.0399369,
+    "lng": 121.2902315,
+    "confidence": 9,
+    "formatted": "臺灣, 338, 桃園市 福昌里 南順六街, 參拾貳號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "桃園市",
+      "_type": "cafe",
+      "cafe": "參拾貳號",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "hamlet": "頂河底",
+      "postcode": "338",
+      "road": "南順六街",
+      "suburb": "福昌里",
+      "town": "蘆竹區"
+    },
+    "source": "opencage"
+  },
+  "桃園區桃園市桃園區忠一路15號": {
+    "lat": 24.9957827,
+    "lng": 121.3022144,
+    "confidence": 10,
+    "formatted": "臺灣, 330, 桃園市 光興里 忠一路 15號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "building",
+      "_normalized_city": "桃園市",
+      "_type": "building",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "15號",
+      "postcode": "330",
+      "residential": "中路計畫區",
+      "road": "忠一路",
+      "suburb": "光興里",
+      "town": "桃園區"
+    },
+    "source": "opencage"
+  },
+  "中壢區桃園市中壢區中美路2段97號": {
+    "lat": 24.9597899,
+    "lng": 121.2216163,
+    "confidence": 10,
+    "formatted": "臺灣, 桃園市 興國里 中美路二段 97號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "building",
+      "_normalized_city": "桃園市",
+      "_type": "building",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "hamlet": "竹圍仔",
+      "house_number": "97號",
+      "road": "中美路二段",
+      "suburb": "興國里",
+      "town": "中壢區"
+    },
+    "source": "opencage"
+  },
+  "桃園市龜山區萬壽路二段1199巷76號": {
+    "lat": 24.9922928,
+    "lng": 121.3303964,
+    "confidence": 10,
+    "formatted": "臺灣, 333, 桃園市 新興里 萬壽路二段1199巷 76號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "building",
+      "_normalized_city": "桃園市",
+      "_type": "building",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "hamlet": "拔仔埔",
+      "house_number": "76號",
+      "postcode": "333",
+      "road": "萬壽路二段1199巷",
+      "suburb": "新興里",
+      "town": "龜山區"
+    },
+    "source": "opencage"
+  },
+  "桃園市楊梅區楊新北路162號": {
+    "lat": 24.9124288,
+    "lng": 121.1527957,
+    "confidence": 10,
+    "formatted": "臺灣, 桃園市 大同里 楊新北路 162號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "building",
+      "_normalized_city": "桃園市",
+      "_type": "building",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "hamlet": "月眉山下",
+      "house_number": "162號",
+      "road": "楊新北路",
+      "suburb": "大同里",
+      "town": "楊梅區"
+    },
+    "source": "opencage"
+  },
+  "桃園市桃園區建新街123號": {
+    "lat": 24.982115,
+    "lng": 121.3125068,
+    "confidence": 10,
+    "formatted": "臺灣, 330, 桃園市 福安里 建新街 123號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "building",
+      "_normalized_city": "桃園市",
+      "_type": "building",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "123號",
+      "postcode": "330",
+      "road": "建新街",
+      "suburb": "福安里",
+      "town": "桃園區"
+    },
+    "source": "opencage"
+  },
+  "桃園區桃園市桃園區水岸二街96號": {
+    "lat": 25.0273993,
+    "lng": 121.2987868,
+    "confidence": 10,
+    "formatted": "臺灣, 330, 桃園市 汴洲里 水岸二街 96號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "building",
+      "_normalized_city": "桃園市",
+      "_type": "building",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "hamlet": "經國特區",
+      "house_number": "96號",
+      "postcode": "330",
+      "road": "水岸二街",
+      "suburb": "汴洲里",
+      "town": "桃園區"
+    },
+    "source": "opencage"
+  },
+  "桃園市八德區介壽路二段788號": {
+    "lat": 24.936431,
+    "lng": 121.2971455,
+    "confidence": 10,
+    "formatted": "臺灣, 33446, 桃園市 瑞泰里 介壽路二段 788號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "building",
+      "_normalized_city": "桃園市",
+      "_type": "building",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "788號",
+      "postcode": "33446",
+      "road": "介壽路二段",
+      "suburb": "瑞泰里",
+      "town": "八德區"
+    },
+    "source": "opencage"
+  },
+  "桃園市中壢區強國路14號": {
+    "lat": 24.9675377,
+    "lng": 121.2600956,
+    "confidence": 10,
+    "formatted": "臺灣, 32073, 桃園市 自強里 強國路 14號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "building",
+      "_normalized_city": "桃園市",
+      "_type": "building",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "14號",
+      "postcode": "32073",
+      "road": "強國路",
+      "suburb": "自強里",
+      "town": "中壢區"
+    },
+    "source": "opencage"
+  },
+  "桃園市桃園市大園區致祥三街53號": {
+    "lat": 25.0084816,
+    "lng": 121.2113866,
+    "confidence": 10,
+    "formatted": "臺灣, 32056, 桃園市 青山里 致祥三街 53號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "building",
+      "_normalized_city": "桃園市",
+      "_type": "building",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "hamlet": "頂赤牛稠",
+      "house_number": "53號",
+      "postcode": "32056",
+      "road": "致祥三街",
+      "suburb": "青山里",
+      "town": "大園區"
+    },
+    "source": "opencage"
+  },
+  "桃園市桃園區大有路360號": {
+    "lat": 24.9697671,
+    "lng": 121.1995502,
+    "confidence": 9,
+    "formatted": "臺灣, 桃園市 五權里 中大路150巷 125, 福祿貝爾崇皓幼兒園中大分校",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "education",
+      "_normalized_city": "桃園市",
+      "_type": "kindergarten",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "hamlet": "頂三塊厝",
+      "house_number": "125",
+      "kindergarten": "福祿貝爾崇皓幼兒園中大分校",
+      "road": "中大路150巷",
+      "suburb": "五權里",
+      "town": "中壢區"
+    },
+    "source": "opencage"
+  },
+  "桃園市桃園區大業路一段436號": {
+    "lat": 25.013864,
+    "lng": 121.3117966,
+    "confidence": 9,
+    "formatted": "臺灣, 330, 桃園市 大興里 大業路一段 391, 好鞋子批發價連鎖專賣店",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "桃園市",
+      "_type": "shop",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "house_number": "391",
+      "postcode": "330",
+      "road": "大業路一段",
+      "shop": "好鞋子批發價連鎖專賣店",
+      "suburb": "大興里",
+      "town": "桃園區"
+    },
+    "source": "opencage"
+  },
+  "桃園市桃園市蘆竹區中正路138號": {
+    "lat": 25.0273589,
+    "lng": 121.2862054,
+    "confidence": 9,
+    "formatted": "臺灣, 330, 桃園市 西埔里, 桃園大圳第一支線",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "unknown",
+      "_normalized_city": "桃園市",
+      "_type": "ditch",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "ditch": "桃園大圳第一支線",
+      "hamlet": "西埔子",
+      "postcode": "330",
+      "suburb": "西埔里",
+      "town": "桃園區"
+    },
+    "source": "opencage"
+  },
+  "桃園市中壢區元化路113號": {
+    "lat": 24.877412,
+    "lng": 121.291769,
+    "confidence": 10,
+    "formatted": "臺灣, 桃園市 一心里 中華路, 日新豪門",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "building",
+      "_normalized_city": "桃園市",
+      "_type": "building",
+      "building": "日新豪門",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "hamlet": "三板橋",
+      "road": "中華路",
+      "suburb": "一心里",
+      "town": "大溪區"
+    },
+    "source": "opencage"
+  },
+  "桃園市桃園區復興路207號": {
+    "lat": 25.0399369,
+    "lng": 121.2902315,
+    "confidence": 9,
+    "formatted": "臺灣, 338, 桃園市 福昌里 南順六街, 參拾貳號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "桃園市",
+      "_type": "cafe",
+      "cafe": "參拾貳號",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "hamlet": "頂河底",
+      "postcode": "338",
+      "road": "南順六街",
+      "suburb": "福昌里",
+      "town": "蘆竹區"
+    },
+    "source": "opencage"
+  },
+  "桃園市桃園區大有路508號": {
+    "lat": 24.9697671,
+    "lng": 121.1995502,
+    "confidence": 9,
+    "formatted": "臺灣, 桃園市 五權里 中大路150巷 125, 福祿貝爾崇皓幼兒園中大分校",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "education",
+      "_normalized_city": "桃園市",
+      "_type": "kindergarten",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "hamlet": "頂三塊厝",
+      "house_number": "125",
+      "kindergarten": "福祿貝爾崇皓幼兒園中大分校",
+      "road": "中大路150巷",
+      "suburb": "五權里",
+      "town": "中壢區"
+    },
+    "source": "opencage"
+  },
+  "桃園市中壢區民權路245之1號": {
+    "lat": 24.9612864,
+    "lng": 121.2173533,
+    "confidence": 10,
+    "formatted": "臺灣, 32046, 桃園市 光明里 民權路 245之1號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TAO"
+      ],
+      "_category": "building",
+      "_normalized_city": "桃園市",
+      "_type": "building",
+      "city": "桃園市",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "hamlet": "柑園",
+      "house_number": "245之1號",
+      "postcode": "32046",
+      "road": "民權路",
+      "suburb": "光明里",
+      "town": "中壢區"
+    },
+    "source": "opencage"
+  },
+  "新竹縣寶山鄉雙豐二街75號": {
+    "lat": 24.7680612,
+    "lng": 120.9905832,
+    "confidence": 10,
+    "formatted": "臺灣, 30841, 寶山鄉 雙豐二街 75號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HSQ"
+      ],
+      "_category": "building",
+      "_normalized_city": "寶山鄉",
+      "_type": "building",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "新竹縣",
+      "hamlet": "雙溪",
+      "house_number": "75號",
+      "postcode": "30841",
+      "road": "雙豐二街",
+      "town": "寶山鄉",
+      "village": "雙溪村"
+    },
+    "source": "opencage"
+  },
+  "新竹縣竹北市莊敬北路78號": {
+    "lat": 24.8249373,
+    "lng": 121.0243214,
+    "confidence": 10,
+    "formatted": "臺灣, 竹北市 莊敬北路 78號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HSQ"
+      ],
+      "_category": "building",
+      "_normalized_city": "竹北市",
+      "_type": "building",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "新竹縣",
+      "house_number": "78號",
+      "road": "莊敬北路",
+      "town": "竹北市",
+      "village": "十興里"
+    },
+    "source": "opencage"
+  },
+  "新竹縣竹北市勝利八街二段111號": {
+    "lat": 24.8224811,
+    "lng": 121.0348065,
+    "confidence": 10,
+    "formatted": "臺灣, 竹北市 勝利八街二段 111號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HSQ"
+      ],
+      "_category": "building",
+      "_normalized_city": "竹北市",
+      "_type": "building",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "新竹縣",
+      "hamlet": "安溪寮",
+      "house_number": "111號",
+      "road": "勝利八街二段",
+      "town": "竹北市",
+      "village": "東興里"
+    },
+    "source": "opencage"
+  },
+  "新竹縣竹北市中正東路213號": {
+    "lat": 24.8350186,
+    "lng": 121.0148657,
+    "confidence": 10,
+    "formatted": "臺灣, 竹北市 竹北市竹仁生活圈 中正東路 213號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HSQ"
+      ],
+      "_category": "building",
+      "_normalized_city": "竹北市",
+      "_type": "building",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "新竹縣",
+      "hamlet": "豆子埔",
+      "house_number": "213號",
+      "residential": "竹北市竹仁生活圈",
+      "road": "中正東路",
+      "town": "竹北市",
+      "village": "竹仁里"
+    },
+    "source": "opencage"
+  },
+  "新竹縣竹北市文信路376號": {
+    "lat": 24.8324006,
+    "lng": 121.0111014,
+    "confidence": 10,
+    "formatted": "臺灣, 30259, 竹北市 竹北市竹仁生活圈 文信路 376號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HSQ"
+      ],
+      "_category": "building",
+      "_normalized_city": "竹北市",
+      "_type": "building",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "新竹縣",
+      "house_number": "376號",
+      "postcode": "30259",
+      "residential": "竹北市竹仁生活圈",
+      "road": "文信路",
+      "town": "竹北市",
+      "village": "文化里"
+    },
+    "source": "opencage"
+  },
+  "新竹縣竹北市光明六路東二段48號": {
+    "lat": 24.8182442,
+    "lng": 121.0297711,
+    "confidence": 10,
+    "formatted": "臺灣, 30264, 竹北市 光明六路東二段 48號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HSQ"
+      ],
+      "_category": "building",
+      "_normalized_city": "竹北市",
+      "_type": "building",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "新竹縣",
+      "hamlet": "芒頭埔",
+      "house_number": "48號",
+      "postcode": "30264",
+      "road": "光明六路東二段",
+      "town": "竹北市",
+      "village": "中興里"
+    },
+    "source": "opencage"
+  },
+  "新竹縣寶山鄉雙豐二街25巷6號": {
+    "lat": 24.7680063,
+    "lng": 120.9893903,
+    "confidence": 10,
+    "formatted": "臺灣, 30841, 寶山鄉 雙豐二街25巷 6號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HSQ"
+      ],
+      "_category": "building",
+      "_normalized_city": "寶山鄉",
+      "_type": "building",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "新竹縣",
+      "hamlet": "雙溪",
+      "house_number": "6號",
+      "postcode": "30841",
+      "road": "雙豐二街25巷",
+      "town": "寶山鄉",
+      "village": "雙溪村"
+    },
+    "source": "opencage"
+  },
+  "新竹縣竹北市科大二街49號": {
+    "lat": 24.8212665,
+    "lng": 121.0078587,
+    "confidence": 10,
+    "formatted": "臺灣, 30211, 竹北市 科大二街 49號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HSQ"
+      ],
+      "_category": "building",
+      "_normalized_city": "竹北市",
+      "_type": "building",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "新竹縣",
+      "hamlet": "頂斗崙",
+      "house_number": "49號",
+      "postcode": "30211",
+      "road": "科大二街",
+      "town": "竹北市",
+      "village": "中崙里"
+    },
+    "source": "opencage"
+  },
+  "新竹縣竹北市光明六路東二段268號": {
+    "lat": 24.8135357,
+    "lng": 121.0334337,
+    "confidence": 10,
+    "formatted": "臺灣, 30273, 竹北市 光明六路東二段 268號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HSQ"
+      ],
+      "_category": "building",
+      "_normalized_city": "竹北市",
+      "_type": "building",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "新竹縣",
+      "hamlet": "麻園",
+      "house_number": "268號",
+      "postcode": "30273",
+      "road": "光明六路東二段",
+      "town": "竹北市",
+      "village": "中興里"
+    },
+    "source": "opencage"
+  },
+  "新竹縣竹北市文信路23號": {
+    "lat": 24.8303314,
+    "lng": 121.0197209,
+    "confidence": 10,
+    "formatted": "臺灣, 30259, 竹北市 竹北市竹仁生活圈 文信路 23號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HSQ"
+      ],
+      "_category": "building",
+      "_normalized_city": "竹北市",
+      "_type": "building",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "新竹縣",
+      "house_number": "23號",
+      "postcode": "30259",
+      "residential": "竹北市竹仁生活圈",
+      "road": "文信路",
+      "town": "竹北市",
+      "village": "興安里"
+    },
+    "source": "opencage"
+  },
+  "新竹縣竹北市嘉豐二街一段48號": {
+    "lat": 24.8165398,
+    "lng": 121.0296032,
+    "confidence": 10,
+    "formatted": "臺灣, 竹北市 嘉豐二街一段 48號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HSQ"
+      ],
+      "_category": "building",
+      "_normalized_city": "竹北市",
+      "_type": "building",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "新竹縣",
+      "hamlet": "芒頭埔",
+      "house_number": "48號",
+      "road": "嘉豐二街一段",
+      "town": "竹北市",
+      "village": "中興里"
+    },
+    "source": "opencage"
+  },
+  "新竹縣竹北市興隆路一段199號": {
+    "lat": 24.8240374,
+    "lng": 121.0019888,
+    "confidence": 10,
+    "formatted": "臺灣, 30213, 竹北市 興隆路一段 199號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HSQ"
+      ],
+      "_category": "building",
+      "_normalized_city": "竹北市",
+      "_type": "building",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "新竹縣",
+      "hamlet": "斗崙",
+      "house_number": "199號",
+      "postcode": "30213",
+      "road": "興隆路一段",
+      "town": "竹北市",
+      "village": "中崙里"
+    },
+    "source": "opencage"
+  },
+  "宜蘭縣羅東鎮康莊路42號": {
+    "lat": 24.6704706,
+    "lng": 121.7770127,
+    "confidence": 9,
+    "formatted": "臺灣, 265, 羅東鎮 羅莊里 康莊路",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-ILA"
+      ],
+      "_category": "road",
+      "_normalized_city": "羅東鎮",
+      "_type": "road",
+      "city_district": "羅莊里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "宜蘭縣",
+      "postcode": "265",
+      "road": "康莊路",
+      "town": "羅東鎮"
+    },
+    "source": "opencage"
+  },
+  "宜蘭縣員山鄉內城村榮光路386號": {
+    "lat": 24.7181163,
+    "lng": 121.6920705,
+    "confidence": 9,
+    "formatted": "臺灣, 264, 員山鄉 內城村 榮光路",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-ILA"
+      ],
+      "_category": "road",
+      "_normalized_city": "員山鄉",
+      "_type": "road",
+      "city_district": "內城村",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "宜蘭縣",
+      "postcode": "264",
+      "road": "榮光路",
+      "road_type": "tertiary",
+      "town": "員山鄉"
+    },
+    "source": "opencage"
+  },
+  "宜蘭市中山路一段660號": {
+    "lat": 24.7262427,
+    "lng": 121.767641,
+    "confidence": 9,
+    "formatted": "臺灣, 26060, 宜蘭市 凱旋里 中山路一段, 好管家五金百貨",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-ILA"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "宜蘭市",
+      "_type": "shop",
+      "city": "宜蘭市",
+      "city_district": "凱旋里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "宜蘭縣",
+      "hamlet": "橋頭",
+      "postcode": "26060",
+      "road": "中山路一段",
+      "shop": "好管家五金百貨"
+    },
+    "source": "opencage"
+  },
+  "宜蘭縣羅東鎮林森路154之1號": {
+    "lat": 24.6798389,
+    "lng": 121.7684294,
+    "confidence": 9,
+    "formatted": "臺灣, 265, 羅東鎮 公正里 林森路",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-ILA"
+      ],
+      "_category": "road",
+      "_normalized_city": "羅東鎮",
+      "_type": "road",
+      "city_district": "公正里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "宜蘭縣",
+      "postcode": "265",
+      "road": "林森路",
+      "road_type": "residential",
+      "town": "羅東鎮"
+    },
+    "source": "opencage"
+  },
+  "宜蘭縣壯圍鄉古亭路23之9號": {
+    "lat": 24.7736769,
+    "lng": 121.8021431,
+    "confidence": 9,
+    "formatted": "臺灣, 263, 壯圍鄉 古亭村 古亭路",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-ILA"
+      ],
+      "_category": "road",
+      "_normalized_city": "壯圍鄉",
+      "_type": "road",
+      "city_district": "古亭村",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "宜蘭縣",
+      "postcode": "263",
+      "road": "古亭路",
+      "road_type": "tertiary",
+      "town": "壯圍鄉"
+    },
+    "source": "opencage"
+  },
+  "苗栗縣苗栗市為公路747號": {
+    "lat": 24.5756551,
+    "lng": 120.8404048,
+    "confidence": 10,
+    "formatted": "臺灣, 36016, 苗栗市 嘉盛里 為公路 747號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-MIA"
+      ],
+      "_category": "building",
+      "_normalized_city": "苗栗市",
+      "_type": "building",
+      "city_district": "嘉盛里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "苗栗縣",
+      "hamlet": "嘉盛",
+      "house_number": "747號",
+      "postcode": "36016",
+      "road": "為公路",
+      "town": "苗栗市"
+    },
+    "source": "opencage"
+  },
+  "苗栗縣頭份市信義路128號": {
+    "lat": 24.6870965,
+    "lng": 120.9073454,
+    "confidence": 10,
+    "formatted": "臺灣, 頭份市 東庄里 信義路 128號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-MIA"
+      ],
+      "_category": "building",
+      "_normalized_city": "頭份市",
+      "_type": "building",
+      "city_district": "東庄里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "苗栗縣",
+      "house_number": "128號",
+      "road": "信義路",
+      "town": "頭份市"
+    },
+    "source": "opencage"
+  },
+  "苗栗縣頭份市長安街45之1號": {
+    "lat": 24.6924006,
+    "lng": 120.910208,
+    "confidence": 10,
+    "formatted": "臺灣, 頭份市 忠孝里 長安街 45之1號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-MIA"
+      ],
+      "_category": "building",
+      "_normalized_city": "頭份市",
+      "_type": "building",
+      "city_district": "忠孝里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "苗栗縣",
+      "house_number": "45之1號",
+      "road": "長安街",
+      "town": "頭份市"
+    },
+    "source": "opencage"
+  },
+  "苗栗縣竹南鎮苗栗縣竹環市路3段580號": {
+    "lat": 24.6936317,
+    "lng": 120.8830384,
+    "confidence": 10,
+    "formatted": "臺灣, 350, 竹南鎮 佳興里 環市路三段 580號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-MIA"
+      ],
+      "_category": "building",
+      "_normalized_city": "竹南鎮",
+      "_type": "building",
+      "city_district": "佳興里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "苗栗縣",
+      "hamlet": "崁頭",
+      "house_number": "580號",
+      "postcode": "350",
+      "road": "環市路三段",
+      "town": "竹南鎮"
+    },
+    "source": "opencage"
+  },
+  "苗栗縣苗栗市中山路398號": {
+    "lat": 24.5609973,
+    "lng": 120.8216792,
+    "confidence": 10,
+    "formatted": "臺灣, 苗栗市 中苗里 中山路 398號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-MIA"
+      ],
+      "_category": "building",
+      "_normalized_city": "苗栗市",
+      "_type": "building",
+      "city_district": "中苗里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "苗栗縣",
+      "hamlet": "中苗",
+      "house_number": "398號",
+      "road": "中山路",
+      "town": "苗栗市"
+    },
+    "source": "opencage"
+  },
+  "彰化縣員林市員水路1段99號": {
+    "lat": 23.9489221,
+    "lng": 120.6024155,
+    "confidence": 10,
+    "formatted": "臺灣, 員林市 出水里 員水路一段 99號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-CHA"
+      ],
+      "_category": "building",
+      "_normalized_city": "員林市",
+      "_type": "building",
+      "city_district": "出水里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "彰化縣",
+      "hamlet": "番子崙",
+      "house_number": "99號",
+      "road": "員水路一段",
+      "town": "員林市"
+    },
+    "source": "opencage"
+  },
+  "彰化市博愛街64號": {
+    "lat": 24.071556,
+    "lng": 120.5450043,
+    "confidence": 9,
+    "formatted": "臺灣, 50051, 彰化市 光南里 博愛街, 好香屋烘培名店",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-CHA"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "彰化市",
+      "_type": "shop",
+      "city_district": "光南里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "彰化縣",
+      "hamlet": "南郭",
+      "postcode": "50051",
+      "road": "博愛街",
+      "shop": "好香屋烘培名店",
+      "town": "彰化市"
+    },
+    "source": "opencage"
+  },
+  "彰化縣彰南郭路一段361-1號": {
+    "lat": 24.0732024,
+    "lng": 120.5486604,
+    "confidence": 10,
+    "formatted": "臺灣, 50051, 彰化市 華陽里 南郭路一段 226號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-CHA"
+      ],
+      "_category": "building",
+      "_normalized_city": "彰化市",
+      "_type": "building",
+      "city_district": "華陽里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "彰化縣",
+      "house_number": "226號",
+      "postcode": "50051",
+      "road": "南郭路一段",
+      "town": "彰化市"
+    },
+    "source": "opencage"
+  },
+  "彰化縣彰化市南校街135號": {
+    "lat": 24.07149,
+    "lng": 120.5444612,
+    "confidence": 10,
+    "formatted": "臺灣, 50094, 彰化市 光南里 南校街 135號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-CHA"
+      ],
+      "_category": "building",
+      "_normalized_city": "彰化市",
+      "_type": "building",
+      "city_district": "光南里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "彰化縣",
+      "house_number": "135號",
+      "postcode": "50094",
+      "road": "南校街",
+      "town": "彰化市"
+    },
+    "source": "opencage"
+  },
+  "彰化市中山路一段403號": {
+    "lat": 23.9588269,
+    "lng": 120.5707874,
+    "confidence": 10,
+    "formatted": "臺灣, 510, 員林市 中山里 中山路一段 836, 好樂迪KTV 員林店",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-CHA"
+      ],
+      "_category": "building",
+      "_normalized_city": "員林市",
+      "_type": "building",
+      "building": "好樂迪KTV 員林店",
+      "city_district": "中山里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "彰化縣",
+      "house_number": "836",
+      "postcode": "510",
+      "road": "中山路一段",
+      "town": "員林市"
+    },
+    "source": "opencage"
+  },
+  "彰化縣彰化市中山路一段542號": {
+    "lat": 24.0647862,
+    "lng": 120.5375081,
+    "confidence": 10,
+    "formatted": "臺灣, 50049, 彰化市 南瑶里 中山路一段 542號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-CHA"
+      ],
+      "_category": "building",
+      "_normalized_city": "彰化市",
+      "_type": "building",
+      "city_district": "南瑶里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "彰化縣",
+      "hamlet": "南興莊",
+      "house_number": "542號",
+      "postcode": "50049",
+      "road": "中山路一段",
+      "town": "彰化市"
+    },
+    "source": "opencage"
+  },
+  "彰化縣員林市浮圳路二段470號": {
+    "lat": 23.9652138,
+    "lng": 120.5755201,
+    "confidence": 10,
+    "formatted": "臺灣, 員林市 三信里 浮圳路二段 470號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-CHA"
+      ],
+      "_category": "building",
+      "_normalized_city": "員林市",
+      "_type": "building",
+      "city_district": "三信里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "彰化縣",
+      "hamlet": "黃厝",
+      "house_number": "470號",
+      "road": "浮圳路二段",
+      "town": "員林市"
+    },
+    "source": "opencage"
+  },
+  "彰化市進德路1號": {
+    "lat": 24.0956298,
+    "lng": 120.5657238,
+    "confidence": 9,
+    "formatted": "臺灣, 50068, 彰化市 古夷里 金馬陸橋, 大肚溪南號誌站",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-CHA"
+      ],
+      "_category": "transportation",
+      "_normalized_city": "彰化市",
+      "_type": "railway",
+      "city_district": "古夷里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "彰化縣",
+      "hamlet": "苦苓腳",
+      "postcode": "50068",
+      "railway": "大肚溪南號誌站",
+      "road": "金馬陸橋",
+      "town": "彰化市"
+    },
+    "source": "opencage"
+  },
+  "彰化縣鹿自由路301號": {
+    "lat": 24.0607014,
+    "lng": 120.4373029,
+    "confidence": 10,
+    "formatted": "臺灣, 50544, 鹿港鎮 埔崙里 自由路 129號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-CHA"
+      ],
+      "_category": "building",
+      "_normalized_city": "鹿港鎮",
+      "_type": "building",
+      "city_district": "埔崙里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "彰化縣",
+      "hamlet": "埔脚",
+      "house_number": "129號",
+      "postcode": "50544",
+      "road": "自由路",
+      "town": "鹿港鎮"
+    },
+    "source": "opencage"
+  },
+  "南投縣草屯鎮玉屏路161號": {
+    "lat": 23.9874329,
+    "lng": 120.7002003,
+    "confidence": 8,
+    "formatted": "臺灣, 草屯鎮 御史里 玉屏路",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NAN"
+      ],
+      "_category": "road",
+      "_normalized_city": "草屯鎮",
+      "_type": "road",
+      "city_district": "御史里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "南投縣",
+      "hamlet": "雙叉港",
+      "road": "玉屏路",
+      "road_type": "tertiary",
+      "town": "草屯鎮"
+    },
+    "source": "opencage"
+  },
+  "南投縣草屯鎮仁愛街270號": {
+    "lat": 23.9838114,
+    "lng": 120.6780536,
+    "confidence": 9,
+    "formatted": "臺灣, 54257, 草屯鎮 敦和里 仁愛街",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NAN"
+      ],
+      "_category": "road",
+      "_normalized_city": "草屯鎮",
+      "_type": "road",
+      "city_district": "敦和里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "南投縣",
+      "hamlet": "崎子頭",
+      "postcode": "54257",
+      "road": "仁愛街",
+      "town": "草屯鎮"
+    },
+    "source": "opencage"
+  },
+  "南投縣南投市復興路478號": {
+    "lat": 23.9063274,
+    "lng": 120.6873361,
+    "confidence": 9,
+    "formatted": "臺灣, 南投市 崇文里 復興路",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-NAN"
+      ],
+      "_category": "road",
+      "_normalized_city": "南投市",
+      "_type": "road",
+      "city_district": "崇文里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "南投縣",
+      "road": "復興路",
+      "road_type": "tertiary",
+      "town": "南投市"
+    },
+    "source": "opencage"
+  },
+  "雲林縣斗六市大同路183號": {
+    "lat": 23.7095946,
+    "lng": 120.5527678,
+    "confidence": 9,
+    "formatted": "臺灣, 斗六市 文化里 大同路",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-YUN"
+      ],
+      "_category": "road",
+      "_normalized_city": "斗六市",
+      "_type": "road",
+      "city_district": "文化里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "雲林縣",
+      "hamlet": "黑瓦磘",
+      "road": "大同路",
+      "road_type": "residential",
+      "town": "斗六市"
+    },
+    "source": "opencage"
+  },
+  "雲林縣虎尾鎮光復路315巷7號": {
+    "lat": 23.7094446,
+    "lng": 120.4399958,
+    "confidence": 9,
+    "formatted": "臺灣, 虎尾鎮 新興里 光復路315巷",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-YUN"
+      ],
+      "_category": "road",
+      "_normalized_city": "虎尾鎮",
+      "_type": "road",
+      "city_district": "新興里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "雲林縣",
+      "road": "光復路315巷",
+      "road_type": "service",
+      "town": "虎尾鎮"
+    },
+    "source": "opencage"
+  },
+  "雲林縣斗六市瓦厝路159號": {
+    "lat": 23.6689181,
+    "lng": 120.5144,
+    "confidence": 9,
+    "formatted": "臺灣, 斗六市 江厝里 瓦厝路",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-YUN"
+      ],
+      "_category": "road",
+      "_normalized_city": "斗六市",
+      "_type": "road",
+      "city_district": "江厝里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "雲林縣",
+      "hamlet": "瓦厝子",
+      "road": "瓦厝路",
+      "road_type": "tertiary",
+      "town": "斗六市"
+    },
+    "source": "opencage"
+  },
+  "雲林縣虎尾鎮新生路74號": {
+    "lat": 23.7082331,
+    "lng": 120.4381452,
+    "confidence": 9,
+    "formatted": "臺灣, 虎尾鎮 新興里 新生路",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-YUN"
+      ],
+      "_category": "road",
+      "_normalized_city": "虎尾鎮",
+      "_type": "road",
+      "city_district": "新興里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "雲林縣",
+      "road": "新生路",
+      "road_type": "residential",
+      "town": "虎尾鎮"
+    },
+    "source": "opencage"
+  },
+  "雲林縣虎尾鎮東明路182號": {
+    "lat": 23.7136636,
+    "lng": 120.4416436,
+    "confidence": 9,
+    "formatted": "臺灣, 虎尾鎮 東仁里 東明路",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-YUN"
+      ],
+      "_category": "road",
+      "_normalized_city": "虎尾鎮",
+      "_type": "road",
+      "city_district": "東仁里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "雲林縣",
+      "road": "東明路",
+      "road_type": "residential",
+      "town": "虎尾鎮"
+    },
+    "source": "opencage"
+  },
+  "雲林縣虎尾鎮林森路一段416巷15號": {
+    "lat": 23.7112885,
+    "lng": 120.434664,
+    "confidence": 9,
+    "formatted": "臺灣, 虎尾鎮 公安里 林森路一段416巷",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-YUN"
+      ],
+      "_category": "road",
+      "_normalized_city": "虎尾鎮",
+      "_type": "road",
+      "city_district": "公安里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "雲林縣",
+      "road": "林森路一段416巷",
+      "road_type": "residential",
+      "town": "虎尾鎮"
+    },
+    "source": "opencage"
+  },
+  "雲林縣斗六市建成路59巷11號": {
+    "lat": 23.7041467,
+    "lng": 120.5350514,
+    "confidence": 9,
+    "formatted": "臺灣, 斗六市 鎮西里 建成路59巷",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-YUN"
+      ],
+      "_category": "road",
+      "_normalized_city": "斗六市",
+      "_type": "road",
+      "city_district": "鎮西里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "雲林縣",
+      "road": "建成路59巷",
+      "road_type": "service",
+      "town": "斗六市"
+    },
+    "source": "opencage"
+  },
+  "雲林縣斗六市明德北路一段177號": {
+    "lat": 23.7184303,
+    "lng": 120.5478919,
+    "confidence": 9,
+    "formatted": "臺灣, 64050, 斗六市 明德里 明德北路一段",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-YUN"
+      ],
+      "_category": "road",
+      "_normalized_city": "斗六市",
+      "_type": "road",
+      "city_district": "明德里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "雲林縣",
+      "hamlet": "朱丹灣",
+      "postcode": "64050",
+      "road": "明德北路一段",
+      "road_type": "tertiary",
+      "town": "斗六市"
+    },
+    "source": "opencage"
+  },
+  "屏東縣屏東市中山路277號": {
+    "lat": 22.6862342,
+    "lng": 120.484103,
+    "confidence": 10,
+    "formatted": "臺灣, 900, 屏東市 崇蘭 中山路 277號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-PIF"
+      ],
+      "_category": "building",
+      "_normalized_city": "屏東市",
+      "_type": "building",
+      "city": "屏東市",
+      "city_district": "崇蘭里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "屏東縣",
+      "house_number": "277號",
+      "postcode": "900",
+      "road": "中山路",
+      "suburb": "崇蘭"
+    },
+    "source": "opencage"
+  },
+  "屏東市自由路270號": {
+    "lat": 22.6795604,
+    "lng": 120.4969032,
+    "confidence": 10,
+    "formatted": "臺灣, 900, 屏東市 溝美里 自由路, 蔡豪、宋麗華真情服務處",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-PIF"
+      ],
+      "_category": "building",
+      "_normalized_city": "屏東市",
+      "_type": "building",
+      "building": "蔡豪、宋麗華真情服務處",
+      "city": "屏東市",
+      "city_district": "溝美里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "屏東縣",
+      "hamlet": "自由新村",
+      "postcode": "900",
+      "road": "自由路"
+    },
+    "source": "opencage"
+  },
+  "屏東市仁愛路79-2號": {
+    "lat": 22.6795604,
+    "lng": 120.4969032,
+    "confidence": 10,
+    "formatted": "臺灣, 900, 屏東市 溝美里 自由路, 蔡豪、宋麗華真情服務處",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-PIF"
+      ],
+      "_category": "building",
+      "_normalized_city": "屏東市",
+      "_type": "building",
+      "building": "蔡豪、宋麗華真情服務處",
+      "city": "屏東市",
+      "city_district": "溝美里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "屏東縣",
+      "hamlet": "自由新村",
+      "postcode": "900",
+      "road": "自由路"
+    },
+    "source": "opencage"
+  },
+  "屏東縣屏東市瑞光路二段250號": {
+    "lat": 22.6789352,
+    "lng": 120.5075089,
+    "confidence": 10,
+    "formatted": "臺灣, 900, 屏東市 大連里 瑞光路二段 250號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-PIF"
+      ],
+      "_category": "building",
+      "_normalized_city": "屏東市",
+      "_type": "building",
+      "city": "屏東市",
+      "city_district": "大連里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "屏東縣",
+      "house_number": "250號",
+      "postcode": "900",
+      "road": "瑞光路二段"
+    },
+    "source": "opencage"
+  },
+  "屏東縣屏東市大湖路58巷22號": {
+    "lat": 22.6335034,
+    "lng": 120.4875742,
+    "confidence": 10,
+    "formatted": "臺灣, 900, 屏東市 龍華里 大湖路58巷 22號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-PIF"
+      ],
+      "_category": "building",
+      "_normalized_city": "屏東市",
+      "_type": "building",
+      "city": "屏東市",
+      "city_district": "龍華里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "屏東縣",
+      "hamlet": "龍華",
+      "house_number": "22號",
+      "postcode": "900",
+      "road": "大湖路58巷"
+    },
+    "source": "opencage"
+  },
+  "屏東縣林邊鄉光林村信義路14之3號": {
+    "lat": 22.4301613,
+    "lng": 120.5162009,
+    "confidence": 10,
+    "formatted": "臺灣, 927, 林邊鄉 光林村 信義路 14之3號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-PIF"
+      ],
+      "_category": "building",
+      "_normalized_city": "林邊鄉",
+      "_type": "building",
+      "city_district": "光林村",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "屏東縣",
+      "house_number": "14之3號",
+      "postcode": "927",
+      "road": "信義路",
+      "town": "林邊鄉"
+    },
+    "source": "opencage"
+  },
+  "屏東市中正路177號": {
+    "lat": 22.6847119,
+    "lng": 120.4972276,
+    "confidence": 9,
+    "formatted": "臺灣, 900, 屏東市 中正里 廣東路 648之2號, 五桐號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-PIF"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "屏東市",
+      "_type": "cafe",
+      "cafe": "五桐號",
+      "city": "屏東市",
+      "city_district": "中正里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "屏東縣",
+      "house_number": "648之2號",
+      "postcode": "900",
+      "road": "廣東路"
+    },
+    "source": "opencage"
+  },
+  "屏東縣長治鄉信義路129號": {
+    "lat": 22.6599777,
+    "lng": 120.5590099,
+    "confidence": 10,
+    "formatted": "臺灣, 912, 內埔鄉 建興村 信義路, 好客市集",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-PIF"
+      ],
+      "_category": "building",
+      "_normalized_city": "內埔鄉",
+      "_type": "building",
+      "building": "好客市集",
+      "city_district": "建興村",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "屏東縣",
+      "postcode": "912",
+      "road": "信義路",
+      "town": "內埔鄉"
+    },
+    "source": "opencage"
+  },
+  "屏東縣新埤鄉箕湖村進化路12-200號": {
+    "lat": 22.4531781,
+    "lng": 120.6124489,
+    "confidence": 10,
+    "formatted": "臺灣, 922, 新埤鄉 箕湖村 進化路 12之24號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-PIF"
+      ],
+      "_category": "building",
+      "_normalized_city": "新埤鄉",
+      "_type": "building",
+      "city_district": "箕湖村",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "屏東縣",
+      "hamlet": "高見",
+      "house_number": "12之24號",
+      "postcode": "922",
+      "road": "進化路",
+      "town": "新埤鄉"
+    },
+    "source": "opencage"
+  },
+  "澎湖縣馬公市中正路10號": {
+    "lat": 23.5645527,
+    "lng": 119.5654227,
+    "confidence": 10,
+    "formatted": "臺灣, 88041, 馬公市 啟明里 中正路 10號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-PEN"
+      ],
+      "_category": "building",
+      "_normalized_city": "馬公市",
+      "_type": "building",
+      "city": "馬公市",
+      "city_district": "啟明里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "澎湖縣",
+      "house_number": "10號",
+      "postcode": "88041",
+      "road": "中正路"
+    },
+    "source": "opencage"
+  },
+  "澎湖縣馬公市新村路22號": {
+    "lat": 23.5695713,
+    "lng": 119.5705121,
+    "confidence": 10,
+    "formatted": "臺灣, 馬公市 光復里 新村路 22號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-PEN"
+      ],
+      "_category": "building",
+      "_normalized_city": "馬公市",
+      "_type": "building",
+      "city": "馬公市",
+      "city_district": "光復里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "澎湖縣",
+      "house_number": "22號",
+      "road": "新村路"
+    },
+    "source": "opencage"
+  },
+  "花蓮縣花蓮市花蓮縣花蓮市中央路3段707號": {
+    "lat": 23.9916504,
+    "lng": 121.5906449,
+    "confidence": 9,
+    "formatted": "臺灣, 970, 花蓮市 國慶里 中央路三段",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HUA"
+      ],
+      "_category": "road",
+      "_normalized_city": "花蓮市",
+      "_type": "road",
+      "city": "花蓮市",
+      "city_district": "國慶里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "花蓮縣",
+      "postcode": "970",
+      "road": "中央路三段",
+      "road_type": "tertiary"
+    },
+    "source": "opencage"
+  },
+  "花蓮縣玉里鎮鎮中華路448號": {
+    "lat": 23.3393748,
+    "lng": 121.3156684,
+    "confidence": 9,
+    "formatted": "臺灣, 981, 玉里鎮 永昌里 中華路, 好漾民宿",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HUA"
+      ],
+      "_category": "travel/tourism",
+      "_normalized_city": "玉里鎮",
+      "_type": "hostel",
+      "city_district": "永昌里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "花蓮縣",
+      "hamlet": "璞石閣 Posko",
+      "hostel": "好漾民宿",
+      "postcode": "981",
+      "road": "中華路",
+      "town": "玉里鎮"
+    },
+    "source": "opencage"
+  },
+  "花蓮市中正路600號": {
+    "lat": 23.9936837,
+    "lng": 121.6269438,
+    "confidence": 9,
+    "formatted": "臺灣, 970, 花蓮市 民政里 中美路 117-1, 好樹涼堂",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HUA"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "花蓮市",
+      "_type": "shop",
+      "city": "花蓮市",
+      "city_district": "民政里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "花蓮縣",
+      "house_number": "117-1",
+      "postcode": "970",
+      "road": "中美路",
+      "shop": "好樹涼堂"
+    },
+    "source": "opencage"
+  },
+  "花蓮市林森路246-1號": {
+    "lat": 23.9827101,
+    "lng": 121.6073556,
+    "confidence": 9,
+    "formatted": "臺灣, 970, 花蓮市 國安里 林森路",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HUA"
+      ],
+      "_category": "road",
+      "_normalized_city": "花蓮市",
+      "_type": "road",
+      "city": "花蓮市",
+      "city_district": "國安里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "花蓮縣",
+      "postcode": "970",
+      "road": "林森路",
+      "road_type": "tertiary"
+    },
+    "source": "opencage"
+  },
+  "花蓮縣花蓮市花蓮縣花蓮市中美一街31號": {
+    "lat": 23.9937891,
+    "lng": 121.6298518,
+    "confidence": 9,
+    "formatted": "臺灣, 970, 花蓮市 民運里 中美一街",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HUA"
+      ],
+      "_category": "road",
+      "_normalized_city": "花蓮市",
+      "_type": "road",
+      "city": "花蓮市",
+      "city_district": "民運里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "花蓮縣",
+      "hamlet": "磯固",
+      "postcode": "970",
+      "road": "中美一街",
+      "road_type": "residential"
+    },
+    "source": "opencage"
+  },
+  "花蓮縣花福建街266號": {
+    "lat": 23.9734043,
+    "lng": 121.6075419,
+    "confidence": 9,
+    "formatted": "臺灣, 970, 花蓮市 主計里 福建街",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HUA"
+      ],
+      "_category": "road",
+      "_normalized_city": "花蓮市",
+      "_type": "road",
+      "city": "花蓮市",
+      "city_district": "主計里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "花蓮縣",
+      "postcode": "970",
+      "road": "福建街",
+      "road_type": "residential"
+    },
+    "source": "opencage"
+  },
+  "花蓮縣路163號": {
+    "lat": 23.8132062,
+    "lng": 121.574579,
+    "confidence": 9,
+    "formatted": "臺灣, 974, 壽豐鄉 鹽寮村 跳浪I號隧道",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HUA"
+      ],
+      "_category": "road",
+      "_normalized_city": "壽豐鄉",
+      "_type": "road",
+      "city_district": "鹽寮村",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "花蓮縣",
+      "postcode": "974",
+      "road": "跳浪I號隧道",
+      "road_type": "primary",
+      "town": "壽豐鄉"
+    },
+    "source": "opencage"
+  },
+  "花蓮縣吉安鄉永安村明仁二街176巷1號": {
+    "lat": 23.9899711,
+    "lng": 121.5756942,
+    "confidence": 9,
+    "formatted": "臺灣, 973, 吉安鄉 永安村 明仁二街176巷",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HUA"
+      ],
+      "_category": "road",
+      "_normalized_city": "吉安鄉",
+      "_type": "road",
+      "city_district": "永安村",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "花蓮縣",
+      "hamlet": "柑園",
+      "postcode": "973",
+      "road": "明仁二街176巷",
+      "road_type": "service",
+      "town": "吉安鄉"
+    },
+    "source": "opencage"
+  },
+  "花蓮縣五街146號": {
+    "lat": 23.8132062,
+    "lng": 121.574579,
+    "confidence": 9,
+    "formatted": "臺灣, 974, 壽豐鄉 鹽寮村 跳浪I號隧道",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HUA"
+      ],
+      "_category": "road",
+      "_normalized_city": "壽豐鄉",
+      "_type": "road",
+      "city_district": "鹽寮村",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "花蓮縣",
+      "postcode": "974",
+      "road": "跳浪I號隧道",
+      "road_type": "primary",
+      "town": "壽豐鄉"
+    },
+    "source": "opencage"
+  },
+  "花蓮市街182號": {
+    "lat": 23.9937546,
+    "lng": 121.6036756,
+    "confidence": 9,
+    "formatted": "臺灣, 970, 花蓮市 國聯里 國聯一路, 豪杰車體美研",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-HUA"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "花蓮市",
+      "_type": "car_wash",
+      "car_wash": "豪杰車體美研",
+      "city": "花蓮市",
+      "city_district": "國聯里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "花蓮縣",
+      "postcode": "970",
+      "road": "國聯一路"
+    },
+    "source": "opencage"
+  },
+  "臺東市傳廣路445號": {
+    "lat": 22.7631609,
+    "lng": 121.1440261,
+    "confidence": 9,
+    "formatted": "臺灣, 950, 臺東市 民生里 傳廣路, 聯豪理髮廳",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TTT"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "臺東市",
+      "_type": "shop",
+      "city_district": "民生里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "臺東縣",
+      "postcode": "950",
+      "road": "傳廣路",
+      "shop": "聯豪理髮廳",
+      "town": "臺東市"
+    },
+    "source": "opencage"
+  },
+  "臺東縣成功鎮中山東路32號": {
+    "lat": 23.0992948,
+    "lng": 121.3778224,
+    "confidence": 10,
+    "formatted": "臺灣, 成功鎮 忠仁里 中山東路 32號",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TTT"
+      ],
+      "_category": "building",
+      "_normalized_city": "成功鎮",
+      "_type": "building",
+      "city_district": "忠仁里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "臺東縣",
+      "house_number": "32號",
+      "road": "中山東路",
+      "town": "成功鎮"
+    },
+    "source": "opencage"
+  },
+  "臺東市勝利街72號": {
+    "lat": 22.7636822,
+    "lng": 121.1477586,
+    "confidence": 9,
+    "formatted": "臺灣, 950, 臺東市 新生里 開封街, 真好味拿手菜",
+    "components": {
+      "ISO_3166-1_alpha-2": "TW",
+      "ISO_3166-1_alpha-3": "TWN",
+      "ISO_3166-2": [
+        "TW-TTT"
+      ],
+      "_category": "commerce",
+      "_normalized_city": "臺東市",
+      "_type": "restaurant",
+      "city_district": "新生里",
+      "continent": "Asia",
+      "country": "臺灣",
+      "country_code": "tw",
+      "county": "臺東縣",
+      "postcode": "950",
+      "restaurant": "真好味拿手菜",
+      "road": "開封街",
+      "town": "臺東市"
+    },
+    "source": "opencage"
   }
 }
