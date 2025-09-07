@@ -18,7 +18,7 @@ county,org_name,org_url,phone,address,map_url,pay_detail,this_week,next_week,nex
 新北市,回家心理諮商所,https://mindhome.com.tw,0912-608-017,新北市板橋區華江一路608號7樓,https://www.google.com.tw/maps/place/新北市板橋區華江一路608號7樓,自付行政費 : 200元/次,5,0,0,0,5,2025/08/27,true,true
 新北市,沐樂心理諮商所,https://www.move-wellbeing.com/,(02)2915-0060,新北市新店區二十張路33巷2弄3號1樓,https://www.google.com.tw/maps/place/新北市新店區二十張路33巷2弄3號1樓,無,0,0,3,0,3,2025/09/06,true,true
 新北市,青禾心理諮商所,https://www.resiliencebq.com/,0966-197-367,新北市板橋區三民路二段38號3樓之1,https://www.google.com.tw/maps/place/新北市板橋區三民路二段38號3樓之1,行政費400元,1,0,0,0,1,2025/09/06,false,true
-新北市,星嶼心理治療所,https://xingyuxinliyuyanzhinenglianhezhiliaosuo.webnode.tw/,(02)2969-9307,新北市板橋區文化路一段145號6樓之5,https://www.google.com.tw/maps/place/新北市板橋區文化路一段145號6樓之5,行政作業費尖峰時段：400元（周末全日、周間夜間六點半後） 離峰時段：200元（周間下午）,0,0,0,0,0,2025/08/31,false,false
+新北市,星嶼心理治療所,https://xingyuxinliyuyanzhinenglianhezhiliaosuo.webnode.tw/,(02)2969-9307,新北市板橋區文化路一段145號6樓之5,https://www.google.com.tw/maps/place/新北市板橋區文化路一段145號6樓之5,行政作業費尖峰時段：400元（周末全日、周間夜間六點半後） 離峰時段：200元（周間下午）,0,0,0,0,0,2025/09/07,false,false
 新北市,馨動心理治療所,https://www.heartwarmingclinic.tw/,line ID：@125pptme,新北市板橋區文化路二段182巷3弄33號5樓,https://www.google.com.tw/maps/place/新北市板橋區文化路二段182巷3弄33號5樓,行政費200元,0,0,0,0,0,2025/08/31,false,false
 新北市,知芯心理治療所,https://withyoupsy.com/,(02)2952-8180,新北市板橋區館前東路22號六樓,https://www.google.com.tw/maps/place/新北市板橋區館前東路22號六樓,行政費400元,0,0,0,0,0,2025/08/20,true,false
 新北市,拾心心理治療所,https://sites.google.com/view/aroundupsy,0909-617-628,新北市板橋區縣民大道一段104號2樓,https://www.google.com.tw/maps/place/新北市板橋區縣民大道一段104號2樓,行政處理費(平日18:00前)：600元行政處理費(平日18:00後、周六)：1000元,0,0,0,0,0,2025/09/02,true,false
@@ -40,7 +40,7 @@ county,org_name,org_url,phone,address,map_url,pay_detail,this_week,next_week,nex
 新北市,予諾心理諮商所,https://www.inner-promise.com/,(02)2608-2500,新北市林口區公園路129號2樓,https://www.google.com.tw/maps/place/新北市林口區公園路129號2樓,場地行政規費600元,0,0,0,0,0,2025/08/30,false,false
 新北市,蛹之生生不息心理諮商所,https://www.morph.com.tw/,0968-070-620,新北市中和區中安街178巷18弄25號1樓,https://www.google.com.tw/maps/place/新北市中和區中安街178巷18弄25號1樓,無,0,0,0,0,0,2025/09/04,true,false
 新北市,轉化心理諮商所,https://zhuanhuaxinlizishangsuo.webnode.tw/,0908-078-921,新北市三峽區大義路189號4樓之2,https://www.google.com.tw/maps/place/新北市三峽區大義路189號4樓之2,無,0,0,0,0,0,尚未更新,false,false
-新北市,頂溪心理諮商所,https://www.dingxicounselingcenter.com/,(02)8927-3456,新北市永和區竹林路21號3樓,https://www.google.com.tw/maps/place/新北市永和區竹林路21號3樓,無,0,0,0,0,0,2025/08/31,true,false
+新北市,頂溪心理諮商所,https://www.dingxicounselingcenter.com/,(02)8927-3456,新北市永和區竹林路21號3樓,https://www.google.com.tw/maps/place/新北市永和區竹林路21號3樓,無,0,0,0,0,0,2025/09/07,true,false
 新北市,楊孟達身心精神科診所,http://www.bodymind.com.tw/about.asp,(02)2255-5222,新北市板橋區文化路一段275號1樓,https://www.google.com.tw/maps/place/新北市板橋區文化路一段275號1樓,無,0,0,0,0,0,尚未更新,false,false
 新北市,幸福身心精神科診所,http://www.lovemind.com.tw/,(02)2957-8000,新北市板橋區實踐路83號,https://www.google.com.tw/maps/place/新北市板橋區實踐路83號,無,0,0,0,0,0,2025/08/29,false,false
 新北市,恆友精神科診所,https://www.afriend.com.tw/index-hp.php,(02)2990-7909,新北市新莊區幸福東路135號1樓,https://www.google.com.tw/maps/place/新北市新莊區幸福東路135號1樓,掛號費250元,0,0,0,0,0,尚未更新,false,false
