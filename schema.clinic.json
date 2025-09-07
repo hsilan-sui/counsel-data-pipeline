@@ -1,0 +1,54 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Taiwan Counseling Clinics Dataset",
+    "type": "object",
+    "required": ["county", "total", "rows"],
+    "properties": {
+      "county": { "type": "string" },
+      "total": { "type": "integer", "minimum": 0 },
+      "generated_at": { "type": ["string", "null"] },
+      "rows": {
+        "type": "array",
+        "items": { "$ref": "#/definitions/Clinic" }
+      }
+    },
+    "additionalProperties": false,
+    "definitions": {
+      "Clinic": {
+        "type": "object",
+        "required": ["county", "org_name", "address", "in_4_weeks", "has_quota"],
+        "properties": {
+          "county": { "type": "string" },
+          "org_name": { "type": ["string", "null"] },
+          "org_url": { "type": ["string", "null"] },
+          "phone": { "type": ["string", "null"] },
+          "address": { "type": ["string", "null"] },
+          "map_url": { "type": ["string", "null"] },
+          "pay_detail": { "type": ["string", "null"] },
+  
+          "this_week":   { "type": "integer", "minimum": 0 },
+          "next_week":   { "type": "integer", "minimum": 0 },
+          "next_2_week": { "type": "integer", "minimum": 0 },
+          "next_3_week": { "type": "integer", "minimum": 0 },
+          "in_4_weeks":  { "type": "integer", "minimum": 0 },
+  
+          "edit_date": { "type": ["string", "null"] },
+          "teleconsultation": { "type": "boolean" },
+          "has_quota": { "type": "boolean" },
+  
+          "lat": { "type": ["number", "null"] },
+          "lng": { "type": ["number", "null"] },
+          "confidence": { "type": ["number", "null"] },
+          "formatted": { "type": ["string", "null"] },
+          "components": { "type": ["object", "null"] },
+          "source": { "type": ["string", "null"] },
+          "approx": { "type": ["string", "null"] },
+  
+          "usedQuery": { "type": ["string", "null"] },
+          "note": { "type": ["string", "null"] }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+  

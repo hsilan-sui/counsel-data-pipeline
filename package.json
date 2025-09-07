@@ -1,8 +1,10 @@
 {
   "scripts": {
-    "record": "npx playwright codegen https://sps.mohw.gov.tw/mhs --target=javascript"
+    "record": "npx playwright codegen https://sps.mohw.gov.tw/mhs --target=javascript",
+    "validate": "node -e \"const Ajv=require('ajv');const fs=require('fs');const ajv=new Ajv({allErrors:true});const schema=JSON.parse(fs.readFileSync('schema.clinic.json'));const data=JSON.parse(fs.readFileSync('public/clinics.json'));if(!ajv.validate(schema,data)){console.error(ajv.errors);process.exit(1)}console.log('schema ok')\""
   },
   "devDependencies": {
+    "ajv": "^8.17.1",
     "playwright": "^1.54.2"
   },
   "dependencies": {
