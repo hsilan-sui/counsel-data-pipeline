@@ -1,5 +1,6 @@
 .env
-./node_mudules
+
+node_modules/
 ./geocoding
 index copy 2.js
 index copy 3.js
