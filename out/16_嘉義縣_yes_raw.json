@@ -14,8 +14,8 @@
       "next2WeekRange": null,
       "next2WeekCount": 6,
       "next3WeekRange": null,
-      "next3WeekCount": 6,
-      "in4WeekTotleCount": 24,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 18,
       "editDate": "2025/09/01",
       "strTeleconsultation": "否"
     },
@@ -26,15 +26,15 @@
       "address": "<a href='https://www.google.com.tw/maps/place/嘉義縣民雄鄉中樂村保生街81巷25號' target='_blank'>嘉義縣民雄鄉中樂村保生街81巷25號</a>",
       "payDetail": "行政費100元",
       "thisWeekRange": null,
-      "thisWeekCount": 5,
+      "thisWeekCount": 3,
       "nextWeekRange": null,
       "nextWeekCount": 6,
       "next2WeekRange": null,
       "next2WeekCount": 8,
       "next3WeekRange": null,
       "next3WeekCount": 0,
-      "in4WeekTotleCount": 19,
-      "editDate": "2025/08/28",
+      "in4WeekTotleCount": 17,
+      "editDate": "2025/09/05",
       "strTeleconsultation": "否"
     },
     {
@@ -50,8 +50,8 @@
       "next2WeekRange": null,
       "next2WeekCount": 12,
       "next3WeekRange": null,
-      "next3WeekCount": 12,
-      "in4WeekTotleCount": 48,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 36,
       "editDate": "2025/09/03",
       "strTeleconsultation": "否"
     }

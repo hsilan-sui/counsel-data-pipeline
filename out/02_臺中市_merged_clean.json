@@ -10,19 +10,14 @@
       "address": "台中市大里區國光路二段337號",
       "map_url": "https://www.google.com.tw/maps/place/台中市大里區國光路二段337號",
       "pay_detail": "無",
-      "this_week": 0,
+      "this_week": 5,
       "next_week": 5,
       "next_2_week": 5,
-      "next_3_week": 5,
+      "next_3_week": 0,
       "in_4_weeks": 15,
       "edit_date": "2025/09/02",
       "teleconsultation": false,
-      "has_quota": true,
-      "lat": 24.1078644,
-      "lng": 120.680035,
-      "confidence": 10,
-      "formatted": "臺灣, 臺中市 大里區 國光路二段 337號",
-      "source": "opencage"
+      "has_quota": true
     },
     {
       "county": "臺中市",
@@ -32,19 +27,14 @@
       "address": "台中市西區南屯路一段158號",
       "map_url": "https://www.google.com.tw/maps/place/台中市西區南屯路一段158號",
       "pay_detail": "無",
-      "this_week": 10,
-      "next_week": 5,
+      "this_week": 5,
+      "next_week": 10,
       "next_2_week": 10,
-      "next_3_week": 10,
-      "in_4_weeks": 35,
+      "next_3_week": 0,
+      "in_4_weeks": 25,
       "edit_date": "2025/09/01",
       "teleconsultation": false,
-      "has_quota": true,
-      "lat": 24.133717,
-      "lng": 120.6594145,
-      "confidence": 10,
-      "formatted": "臺灣, 403, 臺中市 西區 南屯路一段 158號",
-      "source": "opencage"
+      "has_quota": true
     },
     {
       "county": "臺中市",
@@ -59,14 +49,9 @@
       "next_2_week": 8,
       "next_3_week": 0,
       "in_4_weeks": 24,
-      "edit_date": "2025/08/29",
+      "edit_date": "2025/09/03",
       "teleconsultation": true,
-      "has_quota": true,
-      "lat": 24.245832,
-      "lng": 120.53974,
-      "confidence": 9,
-      "formatted": "臺灣, 臺中市 梧棲區 中央路一段 784, 梧棲浩天宮",
-      "source": "opencage"
+      "has_quota": true
     },
     {
       "county": "臺中市",
@@ -76,19 +61,14 @@
       "address": "台中市西區三民路一段170號4樓之2",
       "map_url": "https://www.google.com.tw/maps/place/台中市西區三民路一段170號4樓之2",
       "pay_detail": "無",
-      "this_week": 2,
-      "next_week": 8,
-      "next_2_week": 12,
-      "next_3_week": 12,
-      "in_4_weeks": 34,
-      "edit_date": "2025/09/01",
+      "this_week": 6,
+      "next_week": 6,
+      "next_2_week": 6,
+      "next_3_week": 0,
+      "in_4_weeks": 18,
+      "edit_date": "2025/09/04",
       "teleconsultation": true,
-      "has_quota": true,
-      "lat": 24.1376474,
-      "lng": 120.6748003,
-      "confidence": 10,
-      "formatted": "臺灣, 403, 臺中市 西區 三民路一段 170號",
-      "source": "opencage"
+      "has_quota": true
     },
     {
       "county": "臺中市",
@@ -98,19 +78,14 @@
       "address": "台中市中區柳川東路三段5號5樓",
       "map_url": "https://www.google.com.tw/maps/place/台中市中區柳川東路三段5號5樓",
       "pay_detail": "無",
-      "this_week": 6,
-      "next_week": 8,
-      "next_2_week": 10,
+      "this_week": 8,
+      "next_week": 10,
+      "next_2_week": 0,
       "next_3_week": 0,
-      "in_4_weeks": 24,
+      "in_4_weeks": 18,
       "edit_date": "2025/09/01",
       "teleconsultation": true,
-      "has_quota": true,
-      "lat": 24.1415185,
-      "lng": 120.6767142,
-      "confidence": 10,
-      "formatted": "臺灣, 40341, 臺中市 中區 柳川東路三段 5號",
-      "source": "opencage"
+      "has_quota": true
     },
     {
       "county": "臺中市",
@@ -121,18 +96,13 @@
       "map_url": "https://www.google.com.tw/maps/place/台中市北屯區軍福十三路327號",
       "pay_detail": "無",
       "this_week": 12,
-      "next_week": 12,
+      "next_week": 10,
       "next_2_week": 10,
-      "next_3_week": 10,
-      "in_4_weeks": 44,
+      "next_3_week": 0,
+      "in_4_weeks": 32,
       "edit_date": "2025/09/01",
       "teleconsultation": true,
-      "has_quota": true,
-      "lat": 24.1724385,
-      "lng": 120.7217972,
-      "confidence": 10,
-      "formatted": "臺灣, 406, 臺中市 北屯區 軍福十三路 327號",
-      "source": "opencage"
+      "has_quota": true
     },
     {
       "county": "臺中市",
@@ -145,16 +115,11 @@
       "this_week": 2,
       "next_week": 2,
       "next_2_week": 2,
-      "next_3_week": 2,
-      "in_4_weeks": 8,
+      "next_3_week": 0,
+      "in_4_weeks": 6,
       "edit_date": "2025/09/02",
       "teleconsultation": true,
-      "has_quota": true,
-      "lat": 24.2053015,
-      "lng": 120.5684456,
-      "confidence": 10,
-      "formatted": "臺灣, 43347, 臺中市 沙鹿區 正德路72巷 50號",
-      "source": "opencage"
+      "has_quota": true
     },
     {
       "county": "臺中市",
@@ -167,16 +132,11 @@
       "this_week": 12,
       "next_week": 12,
       "next_2_week": 12,
-      "next_3_week": 12,
-      "in_4_weeks": 48,
+      "next_3_week": 0,
+      "in_4_weeks": 36,
       "edit_date": "2025/09/01",
       "teleconsultation": true,
-      "has_quota": true,
-      "lat": 24.1363936,
-      "lng": 120.6606668,
-      "confidence": 10,
-      "formatted": "臺灣, 403, 臺中市 西區 五權五街 101號",
-      "source": "opencage"
+      "has_quota": true
     },
     {
       "county": "臺中市",
@@ -187,18 +147,13 @@
       "map_url": "https://www.google.com.tw/maps/place/臺中市南屯區豐富路160巷9號",
       "pay_detail": "無",
       "this_week": 10,
-      "next_week": 0,
-      "next_2_week": 0,
+      "next_week": 10,
+      "next_2_week": 10,
       "next_3_week": 0,
-      "in_4_weeks": 10,
-      "edit_date": "2025/08/14",
+      "in_4_weeks": 30,
+      "edit_date": "2025/09/03",
       "teleconsultation": true,
-      "has_quota": true,
-      "lat": 24.1765322,
-      "lng": 120.6454257,
-      "confidence": 10,
-      "formatted": "臺灣, 臺中市 西屯區 文華路永新巷北二弄, 頂好財星廣場",
-      "source": "opencage"
+      "has_quota": true
     },
     {
       "county": "臺中市",
@@ -210,17 +165,12 @@
       "pay_detail": "無",
       "this_week": 12,
       "next_week": 12,
-      "next_2_week": 0,
+      "next_2_week": 12,
       "next_3_week": 0,
-      "in_4_weeks": 24,
-      "edit_date": "2025/08/23",
+      "in_4_weeks": 36,
+      "edit_date": "2025/09/06",
       "teleconsultation": true,
-      "has_quota": true,
-      "lat": 24.12068,
-      "lng": 120.6543079,
-      "confidence": 10,
-      "formatted": "臺灣, 402, 臺中市 南區 德祥街15巷 16號",
-      "source": "opencage"
+      "has_quota": true
     },
     {
       "county": "臺中市",
@@ -230,19 +180,14 @@
       "address": "台中市烏日區公園路75號",
       "map_url": "https://www.google.com.tw/maps/place/台中市烏日區公園路75號",
       "pay_detail": "掛號費150元",
-      "this_week": 10,
-      "next_week": 2,
-      "next_2_week": 5,
+      "this_week": 2,
+      "next_week": 5,
+      "next_2_week": 0,
       "next_3_week": 0,
-      "in_4_weeks": 17,
+      "in_4_weeks": 7,
       "edit_date": "2025/08/25",
       "teleconsultation": false,
-      "has_quota": true,
-      "lat": 24.1017428,
-      "lng": 120.6266236,
-      "confidence": 10,
-      "formatted": "臺灣, 414, 臺中市 烏日區 公園路 75號",
-      "source": "opencage"
+      "has_quota": true
     },
     {
       "county": "臺中市",
@@ -254,17 +199,12 @@
       "pay_detail": "掛號費150元",
       "this_week": 6,
       "next_week": 6,
-      "next_2_week": 6,
+      "next_2_week": 0,
       "next_3_week": 0,
-      "in_4_weeks": 18,
+      "in_4_weeks": 12,
       "edit_date": "2025/08/26",
       "teleconsultation": false,
-      "has_quota": true,
-      "lat": 24.1261318,
-      "lng": 120.7137741,
-      "confidence": 10,
-      "formatted": "臺灣, 411, 臺中市 太平區 中興路 158號",
-      "source": "opencage"
+      "has_quota": true
     },
     {
       "county": "臺中市",
@@ -274,39 +214,31 @@
       "address": "臺中市西區福人街96號",
       "map_url": "https://www.google.com.tw/maps/place/臺中市西區福人街96號",
       "pay_detail": "無",
-      "this_week": 5,
-      "next_week": 8,
-      "next_2_week": 6,
+      "this_week": 8,
+      "next_week": 6,
+      "next_2_week": 8,
       "next_3_week": 0,
-      "in_4_weeks": 19,
-      "edit_date": "2025/08/29",
+      "in_4_weeks": 22,
+      "edit_date": "2025/09/04",
       "teleconsultation": false,
-      "has_quota": true,
-      "lat": 24.1430573,
-      "lng": 120.659046,
-      "confidence": 10,
-      "formatted": "臺灣, 403, 臺中市 西區 福人街 96號",
-      "source": "opencage"
+      "has_quota": true
     },
     {
       "county": "臺中市",
       "org_name": "心喜心理治療所",
       "org_url": "https://www.xinxi2024.com/",
       "phone": "04-22734567 或加入LINEID: ＠450hnjfs",
-      "address": "411台中市太平區市民大道一段251號",
+      "address": "台中市太平區市民大道一段251號",
       "map_url": "https://www.google.com.tw/maps/place/台中市太平區市民大道一段251號",
       "pay_detail": "無",
       "this_week": 7,
       "next_week": 7,
-      "next_2_week": 7,
+      "next_2_week": 0,
       "next_3_week": 0,
-      "in_4_weeks": 21,
+      "in_4_weeks": 14,
       "edit_date": "2025/08/29",
       "teleconsultation": true,
-      "has_quota": true,
-      "lat": null,
-      "lng": null,
-      "note": "No result"
+      "has_quota": true
     },
     {
       "county": "臺中市",
@@ -317,18 +249,13 @@
       "map_url": "https://www.google.com.tw/maps/place/臺中市西屯區安和路182號1-2樓",
       "pay_detail": "掛號費350元",
       "this_week": 8,
-      "next_week": 10,
+      "next_week": 9,
       "next_2_week": 0,
       "next_3_week": 0,
-      "in_4_weeks": 18,
-      "edit_date": "2025/08/30",
+      "in_4_weeks": 17,
+      "edit_date": "2025/09/06",
       "teleconsultation": false,
-      "has_quota": true,
-      "lat": 24.1821324,
-      "lng": 120.6462432,
-      "confidence": 9,
-      "formatted": "臺灣, 407, 臺中市 西屯區 文華路, 好學生滷味",
-      "source": "opencage"
+      "has_quota": true
     },
     {
       "county": "臺中市",
@@ -340,61 +267,12 @@
       "pay_detail": "掛號費200元",
       "this_week": 12,
       "next_week": 12,
-      "next_2_week": 12,
-      "next_3_week": 0,
-      "in_4_weeks": 36,
-      "edit_date": "2025/08/25",
-      "teleconsultation": false,
-      "has_quota": true,
-      "lat": 24.2228666,
-      "lng": 120.6537063,
-      "confidence": 10,
-      "formatted": "臺灣, 臺中市 大雅區 雅環路一段 288號",
-      "source": "opencage"
-    },
-    {
-      "county": "臺中市",
-      "org_name": "清海醫院",
-      "org_url": "https://chinghaih.org/",
-      "phone": "04-25721694#132",
-      "address": "臺中市石岡區石岡街下坑巷41-2號",
-      "map_url": "https://www.google.com.tw/maps/place/臺中市石岡區石岡街下坑巷41-2號",
-      "pay_detail": "初診掛號費150元、複診掛號費100元",
-      "this_week": 3,
-      "next_week": 0,
       "next_2_week": 0,
       "next_3_week": 0,
-      "in_4_weeks": 3,
-      "edit_date": "2025/08/15",
+      "in_4_weeks": 24,
+      "edit_date": "2025/08/25",
       "teleconsultation": false,
-      "has_quota": true,
-      "lat": 22.9977915,
-      "lng": 120.211428,
-      "confidence": 10,
-      "formatted": "臺灣, 704, 臺南市 中西區 成功路 2號",
-      "source": "opencage"
-    },
-    {
-      "county": "臺中市",
-      "org_name": "與橋心理諮商所",
-      "org_url": "https://synergy0960.com/",
-      "phone": "0960908585",
-      "address": "臺中市大里區益民路一段78巷40號",
-      "map_url": "https://www.google.com.tw/maps/place/臺中市大里區益民路一段78巷40號",
-      "pay_detail": "無",
-      "this_week": 4,
-      "next_week": 4,
-      "next_2_week": 4,
-      "next_3_week": 0,
-      "in_4_weeks": 12,
-      "edit_date": "2025/08/27",
-      "teleconsultation": true,
-      "has_quota": true,
-      "lat": 24.1098598,
-      "lng": 120.69259,
-      "confidence": 10,
-      "formatted": "臺灣, 臺中市 大里區 益民路一段78巷 40號",
-      "source": "opencage"
+      "has_quota": true
     },
     {
       "county": "臺中市",
@@ -411,12 +289,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": false,
-      "has_quota": false,
-      "lat": 24.1826251,
-      "lng": 120.6946911,
-      "confidence": 10,
-      "formatted": "臺灣, 406, 臺中市 北屯區 興安路二段 7號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -433,12 +306,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.155807,
-      "lng": 120.6897995,
-      "confidence": 10,
-      "formatted": "臺灣, 404, 臺中市 北區 雙十路二段 101號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -453,14 +321,9 @@
       "next_2_week": 0,
       "next_3_week": 0,
       "in_4_weeks": 0,
-      "edit_date": "尚未更新",
+      "edit_date": "2025/09/04",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.1116571,
-      "lng": 120.6944207,
-      "confidence": 10,
-      "formatted": "臺灣, 臺中市 大里區 新仁路二段 96號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -477,12 +340,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": false,
-      "has_quota": false,
-      "lat": 24.2831235,
-      "lng": 120.5488843,
-      "confidence": 10,
-      "formatted": "臺灣, 43647, 臺中市 清水區 港埠路四段 195號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -499,12 +357,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.1578703,
-      "lng": 120.6525137,
-      "confidence": 10,
-      "formatted": "臺灣, 40758, 臺中市 西屯區 大墩十九街 151號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -521,12 +374,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": false,
-      "has_quota": false,
-      "lat": 24.1699093,
-      "lng": 120.7028133,
-      "confidence": 9,
-      "formatted": "臺灣, 406, 臺中市 北屯區 東山路一段, 春發號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -541,14 +389,9 @@
       "next_2_week": 0,
       "next_3_week": 0,
       "in_4_weeks": 0,
-      "edit_date": "2025/08/11",
+      "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.1847577,
-      "lng": 120.6207392,
-      "confidence": 10,
-      "formatted": "臺灣, 臺中市 西屯區 福雅路128巷 58號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -563,14 +406,9 @@
       "next_2_week": 0,
       "next_3_week": 0,
       "in_4_weeks": 0,
-      "edit_date": "2025/08/11",
+      "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.1654376,
-      "lng": 120.6412841,
-      "confidence": 10,
-      "formatted": "臺灣, 臺中市 西屯區 市政北七路 186號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -587,12 +425,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.1853547,
-      "lng": 120.6120614,
-      "confidence": 10,
-      "formatted": "臺灣, 臺中市 西屯區 臺灣大道四段1230巷 20之6號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -609,12 +442,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.2439549,
-      "lng": 120.5704378,
-      "confidence": 10,
-      "formatted": "臺灣, 43341, 臺中市 沙鹿區 光華路 499號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -631,12 +459,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.1416822,
-      "lng": 120.638237,
-      "confidence": 10,
-      "formatted": "臺灣, 臺中市 南屯區 黎明路一段 1144號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -653,12 +476,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.1563709,
-      "lng": 120.6652997,
-      "confidence": 10,
-      "formatted": "臺灣, 404, 臺中市 西區 博館路 115號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -675,12 +493,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": false,
-      "has_quota": false,
-      "lat": 24.2537333,
-      "lng": 120.5357547,
-      "confidence": 10,
-      "formatted": "臺灣, 435, 臺中市 梧棲區 仁美街33巷 50號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -697,12 +510,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.1706592,
-      "lng": 120.6486234,
-      "confidence": 10,
-      "formatted": "臺灣, 臺中市 西屯區 弘孝路 207號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -719,12 +527,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.1757378,
-      "lng": 120.687805,
-      "confidence": 10,
-      "formatted": "臺灣, 406, 臺中市 北屯區 大連路二段 213號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -741,12 +544,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.1658836,
-      "lng": 120.6725927,
-      "confidence": 10,
-      "formatted": "臺灣, 404, 臺中市 北區 太原八街 110號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -763,12 +561,7 @@
       "in_4_weeks": 0,
       "edit_date": "2025/08/30",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.3416208,
-      "lng": 120.6276895,
-      "confidence": 10,
-      "formatted": "臺灣, 43742, 臺中市 大甲區 水源路 215號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -785,12 +578,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.1503358,
-      "lng": 120.6363668,
-      "confidence": 10,
-      "formatted": "臺灣, 臺中市 南屯區 黎明東街 429號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -807,12 +595,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": false,
-      "has_quota": false,
-      "lat": 24.2353215,
-      "lng": 120.5588323,
-      "confidence": 10,
-      "formatted": "臺灣, 43353, 臺中市 沙鹿區 沙田路 117號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -827,14 +610,9 @@
       "next_2_week": 0,
       "next_3_week": 0,
       "in_4_weeks": 0,
-      "edit_date": "2025/08/11",
+      "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.1305547,
-      "lng": 120.6411782,
-      "confidence": 10,
-      "formatted": "臺灣, 臺中市 南屯區 永春東一路 573號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -851,12 +629,7 @@
       "in_4_weeks": 0,
       "edit_date": "2025/08/18",
       "teleconsultation": false,
-      "has_quota": false,
-      "lat": 24.1447807,
-      "lng": 120.638986,
-      "confidence": 10,
-      "formatted": "臺灣, 臺中市 南屯區 河南路四段 700號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -873,12 +646,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": false,
-      "has_quota": false,
-      "lat": 24.1356233,
-      "lng": 120.657687,
-      "confidence": 10,
-      "formatted": "臺灣, 403, 臺中市 西區 忠明南路 499號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -895,12 +663,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.1361882,
-      "lng": 120.7044725,
-      "confidence": 10,
-      "formatted": "臺灣, 401, 臺中市 東區 東英五街 88號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -917,12 +680,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.1542809,
-      "lng": 120.6765802,
-      "confidence": 10,
-      "formatted": "臺灣, 404, 臺中市 北區 文武街 6號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -939,12 +697,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.2621226,
-      "lng": 120.7152683,
-      "confidence": 10,
-      "formatted": "臺灣, 42086, 臺中市 豐原區 葫蘆墩三街 199號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -961,12 +714,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.1568223,
-      "lng": 120.6719315,
-      "confidence": 10,
-      "formatted": "臺灣, 404, 臺中市 北區 華中街 25號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -983,12 +731,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.1406733,
-      "lng": 120.643463,
-      "confidence": 10,
-      "formatted": "臺灣, 408, 臺中市 南屯區 五權西路二段 478之1號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -1005,12 +748,7 @@
       "in_4_weeks": 0,
       "edit_date": "2025/08/27",
       "teleconsultation": false,
-      "has_quota": false,
-      "lat": 24.1253819,
-      "lng": 120.6684443,
-      "confidence": 10,
-      "formatted": "臺灣, 402, 臺中市 南區 南平路 314號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -1027,12 +765,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": false,
-      "has_quota": false,
-      "lat": 24.133954,
-      "lng": 120.6502026,
-      "confidence": 10,
-      "formatted": "臺灣, 臺中市 南屯區 大墩南路 412號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -1049,12 +782,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": false,
-      "has_quota": false,
-      "lat": 24.1851036,
-      "lng": 120.6036853,
-      "confidence": 9,
-      "formatted": "臺灣, 40705, 臺中市 西屯區 臺灣大道四段 1650號, 7-Eleven",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -1071,12 +799,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.1277669,
-      "lng": 120.7199315,
-      "confidence": 10,
-      "formatted": "臺灣, 411, 臺中市 太平區 成功東路55巷 2號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -1093,12 +816,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": false,
-      "has_quota": false,
-      "lat": 24.1421873,
-      "lng": 120.6598704,
-      "confidence": 10,
-      "formatted": "臺灣, 403, 臺中市 西區 中美街41巷 3號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -1115,12 +833,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": false,
-      "has_quota": false,
-      "lat": 24.1583836,
-      "lng": 120.6616411,
-      "confidence": 10,
-      "formatted": "臺灣, 403, 臺中市 西區 華美西街一段 160號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -1137,12 +850,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.1386797,
-      "lng": 120.6467617,
-      "confidence": 9,
-      "formatted": "臺灣, 臺中市 南屯區 文心路一段",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -1159,12 +867,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.15695,
-      "lng": 120.6747887,
-      "confidence": 10,
-      "formatted": "臺灣, 404, 臺中市 北區 育德路 2號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -1181,12 +884,7 @@
       "in_4_weeks": 0,
       "edit_date": "2025/09/01",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.2299259,
-      "lng": 120.5706015,
-      "confidence": 10,
-      "formatted": "臺灣, 43342, 臺中市 沙鹿區 北勢東路 748號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -1203,12 +901,7 @@
       "in_4_weeks": 0,
       "edit_date": "2025/08/28",
       "teleconsultation": false,
-      "has_quota": false,
-      "lat": 24.1822765,
-      "lng": 120.6178098,
-      "confidence": 10,
-      "formatted": "臺灣, 臺中市 西屯區 臺灣大道四段 936號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -1225,12 +918,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": false,
-      "has_quota": false,
-      "lat": 24.1892485,
-      "lng": 120.6801646,
-      "confidence": 10,
-      "formatted": "臺灣, 406, 臺中市 北屯區 四平路 369號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -1247,12 +935,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.1640414,
-      "lng": 120.6894161,
-      "confidence": 10,
-      "formatted": "臺灣, 406, 臺中市 北屯區 太原路三段150巷8弄 15號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -1269,12 +952,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": true,
-      "has_quota": false,
-      "lat": 24.1699269,
-      "lng": 120.693121,
-      "confidence": 10,
-      "formatted": "臺灣, 406, 臺中市 北屯區 天津路四段 294號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -1291,12 +969,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": false,
-      "has_quota": false,
-      "lat": 24.2137989,
-      "lng": 120.7055849,
-      "confidence": 10,
-      "formatted": "臺灣, 臺中市 潭子區 中山路二段 374號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -1313,12 +986,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": false,
-      "has_quota": false,
-      "lat": 24.2257879,
-      "lng": 120.6449375,
-      "confidence": 10,
-      "formatted": "臺灣, 42880, 臺中市 大雅區 中清路四段 15號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -1335,12 +1003,7 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": false,
-      "has_quota": false,
-      "lat": 24.1366374,
-      "lng": 120.6467628,
-      "confidence": 10,
-      "formatted": "臺灣, 40855, 臺中市 南屯區 文心南路 30號",
-      "source": "opencage"
+      "has_quota": false
     },
     {
       "county": "臺中市",
@@ -1357,12 +1020,41 @@
       "in_4_weeks": 0,
       "edit_date": "尚未更新",
       "teleconsultation": false,
-      "has_quota": false,
-      "lat": 24.1007023,
-      "lng": 120.6766236,
-      "confidence": 10,
-      "formatted": "臺灣, 41261, 臺中市 大里區 新興路 101號",
-      "source": "opencage"
+      "has_quota": false
+    },
+    {
+      "county": "臺中市",
+      "org_name": "清海醫院",
+      "org_url": "https://chinghaih.org/",
+      "phone": "04-25721694#132",
+      "address": "臺中市石岡區石岡街下坑巷41-2號",
+      "map_url": "https://www.google.com.tw/maps/place/臺中市石岡區石岡街下坑巷41-2號",
+      "pay_detail": "初診掛號費150元、複診掛號費100元",
+      "this_week": 0,
+      "next_week": 0,
+      "next_2_week": 0,
+      "next_3_week": 0,
+      "in_4_weeks": 0,
+      "edit_date": "尚未更新",
+      "teleconsultation": false,
+      "has_quota": false
+    },
+    {
+      "county": "臺中市",
+      "org_name": "與橋心理諮商所",
+      "org_url": "https://synergy0960.com/",
+      "phone": "0960908585",
+      "address": "臺中市大里區益民路一段78巷40號",
+      "map_url": "https://www.google.com.tw/maps/place/臺中市大里區益民路一段78巷40號",
+      "pay_detail": "無",
+      "this_week": 0,
+      "next_week": 0,
+      "next_2_week": 0,
+      "next_3_week": 0,
+      "in_4_weeks": 0,
+      "edit_date": "2025/09/04",
+      "teleconsultation": true,
+      "has_quota": false
     }
   ]
 }

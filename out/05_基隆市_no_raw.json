@@ -1,6 +1,24 @@
 {
-  "total": 2,
+  "total": 3,
   "rows": [
+    {
+      "countyName": "基隆市",
+      "orgName": "<a href='http://www.vitahosp.com.tw/' target='_blank'>維德醫療社團法人基隆維德醫院</a>",
+      "phone": "(02)2469-6688",
+      "address": "<a href='https://www.google.com.tw/maps/place/基隆市中正區調和街210號' target='_blank'>基隆市中正區調和街210號</a>",
+      "payDetail": "掛號費150元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "否"
+    },
     {
       "countyName": "基隆市",
       "orgName": "<a href='https://www.kenhaoclinic.com/' target='_blank'>胡耿豪身心精神科診所</a>",
@@ -34,7 +52,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/07/29",
+      "editDate": "尚未更新",
       "strTeleconsultation": "否"
     }
   ],

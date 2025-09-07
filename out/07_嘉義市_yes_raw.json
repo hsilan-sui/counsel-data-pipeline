@@ -14,8 +14,8 @@
       "next2WeekRange": null,
       "next2WeekCount": 3,
       "next3WeekRange": null,
-      "next3WeekCount": 3,
-      "in4WeekTotleCount": 12,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 9,
       "editDate": "2025/09/01",
       "strTeleconsultation": "否"
     },
@@ -32,8 +32,8 @@
       "next2WeekRange": null,
       "next2WeekCount": 5,
       "next3WeekRange": null,
-      "next3WeekCount": 5,
-      "in4WeekTotleCount": 20,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 15,
       "editDate": "2025/09/02",
       "strTeleconsultation": "否"
     },
@@ -52,7 +52,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 6,
-      "editDate": "2025/08/25",
+      "editDate": "2025/09/04",
       "strTeleconsultation": "否"
     },
     {
@@ -70,7 +70,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 6,
       "in4WeekTotleCount": 24,
-      "editDate": "2025/08/31",
+      "editDate": "2025/09/07",
       "strTeleconsultation": "否"
     },
     {
@@ -84,11 +84,11 @@
       "nextWeekRange": null,
       "nextWeekCount": 0,
       "next2WeekRange": null,
-      "next2WeekCount": 2,
+      "next2WeekCount": 0,
       "next3WeekRange": null,
       "next3WeekCount": 2,
-      "in4WeekTotleCount": 4,
-      "editDate": "2025/09/03",
+      "in4WeekTotleCount": 2,
+      "editDate": "2025/09/07",
       "strTeleconsultation": "否"
     },
     {
@@ -98,14 +98,14 @@
       "address": "<a href='https://www.google.com.tw/maps/place/嘉義市東區小雅路353號1樓' target='_blank'>嘉義市東區小雅路353號1樓</a>",
       "payDetail": "無",
       "thisWeekRange": null,
-      "thisWeekCount": 9,
+      "thisWeekCount": 6,
       "nextWeekRange": null,
       "nextWeekCount": 6,
       "next2WeekRange": null,
-      "next2WeekCount": 6,
+      "next2WeekCount": 7,
       "next3WeekRange": null,
-      "next3WeekCount": 7,
-      "in4WeekTotleCount": 28,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 19,
       "editDate": "2025/09/02",
       "strTeleconsultation": "是"
     }

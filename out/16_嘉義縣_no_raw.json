@@ -1,5 +1,24 @@
 {
-  "total": 0,
-  "rows": [],
+  "total": 1,
+  "rows": [
+    {
+      "countyName": "嘉義縣",
+      "orgName": "<a href='https://www.vhwc.gov.tw/' target='_blank'>臺中榮民總醫院灣橋分院</a>",
+      "phone": "05-2791072#7378",
+      "address": "<a href='https://www.google.com.tw/maps/place/嘉義縣竹崎鄉灣橋村石麻園38號' target='_blank'>嘉義縣竹崎鄉灣橋村石麻園38號</a>",
+      "payDetail": "第一次至本院建立病歷以利後續繼續治療，掛號費50元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "否"
+    }
+  ],
   "totalPages": 1
 }

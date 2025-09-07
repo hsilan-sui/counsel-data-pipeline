@@ -1,5 +1,5 @@
 {
-  "total": 62,
+  "total": 64,
   "rows": [
     {
       "countyName": "新北市",
@@ -124,7 +124,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/11",
+      "editDate": "尚未更新",
       "strTeleconsultation": "否"
     },
     {
@@ -178,7 +178,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/11",
+      "editDate": "尚未更新",
       "strTeleconsultation": "是"
     },
     {
@@ -273,24 +273,6 @@
     },
     {
       "countyName": "新北市",
-      "orgName": "<a href='https://thesouth.com.tw/' target='_blank'>南方心理諮商所</a>",
-      "phone": "(02)2916-0135",
-      "address": "<a href='https://www.google.com.tw/maps/place/新北市新店區永新街30號3樓' target='_blank'>新北市新店區永新街30號3樓</a>",
-      "payDetail": "無",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "2025/09/02",
-      "strTeleconsultation": "是"
-    },
-    {
-      "countyName": "新北市",
       "orgName": "<a href='https://greatmountain0603.com/' target='_blank'>大山心理諮商所</a>",
       "phone": "0981-418-723",
       "address": "<a href='https://www.google.com.tw/maps/place/新北市新店區民權路41號5樓' target='_blank'>新北市新店區民權路41號5樓</a>",
@@ -323,6 +305,24 @@
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
       "editDate": "尚未更新",
+      "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "新北市",
+      "orgName": "<a href='https://totellheart.mystrikingly.com/' target='_blank'>點心語心理諮商所</a>",
+      "phone": "0979-772-735",
+      "address": "<a href='https://www.google.com.tw/maps/place/新北市三重區重新路四段53號11樓' target='_blank'>新北市三重區重新路四段53號11樓</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/09/01",
       "strTeleconsultation": "是"
     },
     {
@@ -376,8 +376,8 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
-      "strTeleconsultation": "否"
+      "editDate": "2025/09/04",
+      "strTeleconsultation": "是"
     },
     {
       "countyName": "新北市",
@@ -502,7 +502,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/21",
+      "editDate": "2025/08/18",
       "strTeleconsultation": "否"
     },
     {
@@ -754,7 +754,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/09/06",
       "strTeleconsultation": "否"
     },
     {
@@ -773,6 +773,24 @@
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
       "editDate": "尚未更新",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "新北市",
+      "orgName": "<a href='https://www.fjuclinic.com/' target='_blank'>輔大診所</a>",
+      "phone": "(02)2905-2526",
+      "address": "<a href='https://www.google.com.tw/maps/place/新北市新莊區中正路510號醫學大樓一樓' target='_blank'>新北市新莊區中正路510號醫學大樓一樓</a>",
+      "payDetail": "掛號費150元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/08/20",
       "strTeleconsultation": "否"
     },
     {
@@ -903,6 +921,24 @@
     },
     {
       "countyName": "新北市",
+      "orgName": "<a href='' target='_blank'>悅安身心診所</a>",
+      "phone": "(02)2245-0067",
+      "address": "<a href='https://www.google.com.tw/maps/place/新北市中和區南山路51號1樓' target='_blank'>新北市中和區南山路51號1樓</a>",
+      "payDetail": "行政處理費400元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/08/28",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "新北市",
       "orgName": "<a href='https://spirits.tw/Shulin/' target='_blank'>喜悅診所</a>",
       "phone": "(02)2682-0039",
       "address": "<a href='https://www.google.com.tw/maps/place/新北市樹林區中山路一段10號1樓' target='_blank'>新北市樹林區中山路一段10號1樓</a>",
@@ -952,7 +988,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/25",
+      "editDate": "2025/09/04",
       "strTeleconsultation": "否"
     },
     {
@@ -988,7 +1024,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/14",
+      "editDate": "尚未更新",
       "strTeleconsultation": "是"
     },
     {

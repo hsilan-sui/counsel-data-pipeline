@@ -12,11 +12,11 @@
       "nextWeekRange": null,
       "nextWeekCount": 3,
       "next2WeekRange": null,
-      "next2WeekCount": 3,
+      "next2WeekCount": 6,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 9,
-      "editDate": "2025/08/24",
+      "next3WeekCount": 6,
+      "in4WeekTotleCount": 18,
+      "editDate": "2025/09/07",
       "strTeleconsultation": "是"
     },
     {
@@ -32,8 +32,8 @@
       "next2WeekRange": null,
       "next2WeekCount": 3,
       "next3WeekRange": null,
-      "next3WeekCount": 3,
-      "in4WeekTotleCount": 12,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 9,
       "editDate": "2025/09/02",
       "strTeleconsultation": "否"
     },
@@ -48,10 +48,10 @@
       "nextWeekRange": null,
       "nextWeekCount": 6,
       "next2WeekRange": null,
-      "next2WeekCount": 6,
+      "next2WeekCount": 0,
       "next3WeekRange": null,
       "next3WeekCount": 0,
-      "in4WeekTotleCount": 18,
+      "in4WeekTotleCount": 12,
       "editDate": "2025/08/29",
       "strTeleconsultation": "否"
     }

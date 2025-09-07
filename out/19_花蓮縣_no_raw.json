@@ -1,5 +1,5 @@
 {
-  "total": 9,
+  "total": 11,
   "rows": [
     {
       "countyName": "花蓮縣",
@@ -18,6 +18,24 @@
       "in4WeekTotleCount": 0,
       "editDate": "2025/08/28",
       "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "花蓮縣",
+      "orgName": "<a href='https://www.ttyl.mohw.gov.tw/' target='_blank'>衛生福利部玉里醫院</a>",
+      "phone": "03-8886141",
+      "address": "<a href='https://www.google.com.tw/maps/place/花蓮縣玉里鎮中華路448號' target='_blank'>花蓮縣玉里鎮中華路448號</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "是"
     },
     {
       "countyName": "花蓮縣",
@@ -54,6 +72,24 @@
       "in4WeekTotleCount": 0,
       "editDate": "尚未更新",
       "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "花蓮縣",
+      "orgName": "<a href='https://sites.google.com/view/williamxie' target='_blank'>睿翔心理治療所</a>",
+      "phone": "03-8246020",
+      "address": "<a href='https://www.google.com.tw/maps/place/花蓮縣花蓮市中美一街31號3樓之2' target='_blank'>花蓮縣花蓮市中美一街31號3樓之2</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/09/05",
+      "strTeleconsultation": "否"
     },
     {
       "countyName": "花蓮縣",
@@ -164,5 +200,5 @@
       "strTeleconsultation": "否"
     }
   ],
-  "totalPages": 1
+  "totalPages": 2
 }

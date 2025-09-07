@@ -13,8 +13,8 @@
       "this_week": 3,
       "next_week": 3,
       "next_2_week": 3,
-      "next_3_week": 3,
-      "in_4_weeks": 12,
+      "next_3_week": 0,
+      "in_4_weeks": 9,
       "edit_date": "2025/09/01",
       "teleconsultation": false,
       "has_quota": true
@@ -30,8 +30,8 @@
       "this_week": 5,
       "next_week": 5,
       "next_2_week": 5,
-      "next_3_week": 5,
-      "in_4_weeks": 20,
+      "next_3_week": 0,
+      "in_4_weeks": 15,
       "edit_date": "2025/09/02",
       "teleconsultation": false,
       "has_quota": true
@@ -49,7 +49,7 @@
       "next_2_week": 2,
       "next_3_week": 0,
       "in_4_weeks": 6,
-      "edit_date": "2025/08/25",
+      "edit_date": "2025/09/04",
       "teleconsultation": false,
       "has_quota": true
     },
@@ -66,7 +66,7 @@
       "next_2_week": 6,
       "next_3_week": 6,
       "in_4_weeks": 24,
-      "edit_date": "2025/08/31",
+      "edit_date": "2025/09/07",
       "teleconsultation": false,
       "has_quota": true
     },
@@ -80,10 +80,10 @@
       "pay_detail": "無",
       "this_week": 0,
       "next_week": 0,
-      "next_2_week": 2,
+      "next_2_week": 0,
       "next_3_week": 2,
-      "in_4_weeks": 4,
-      "edit_date": "2025/09/03",
+      "in_4_weeks": 2,
+      "edit_date": "2025/09/07",
       "teleconsultation": false,
       "has_quota": true
     },
@@ -95,11 +95,11 @@
       "address": "嘉義市東區小雅路353號1樓",
       "map_url": "https://www.google.com.tw/maps/place/嘉義市東區小雅路353號1樓",
       "pay_detail": "無",
-      "this_week": 9,
+      "this_week": 6,
       "next_week": 6,
-      "next_2_week": 6,
-      "next_3_week": 7,
-      "in_4_weeks": 28,
+      "next_2_week": 7,
+      "next_3_week": 0,
+      "in_4_weeks": 19,
       "edit_date": "2025/09/02",
       "teleconsultation": true,
       "has_quota": true
@@ -117,7 +117,7 @@
       "next_2_week": 0,
       "next_3_week": 0,
       "in_4_weeks": 0,
-      "edit_date": "2025/08/27",
+      "edit_date": "2025/09/03",
       "teleconsultation": true,
       "has_quota": false
     },
@@ -151,7 +151,7 @@
       "next_2_week": 0,
       "next_3_week": 0,
       "in_4_weeks": 0,
-      "edit_date": "2025/08/27",
+      "edit_date": "2025/09/03",
       "teleconsultation": true,
       "has_quota": false
     }
