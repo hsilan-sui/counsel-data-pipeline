@@ -18533,7 +18533,7 @@
         "org_name": "曾杏榕診所",
         "org_url": null,
         "phone": "082-335666",
-        "address": "金湖鎮市港二路170號1樓",
+        "address": "891金門縣金湖鎮市港二路170號1樓",
         "map_url": "https://www.google.com.tw/maps/place/金湖鎮市港二路170號1樓",
         "pay_detail": "無",
         "this_week": 0,
@@ -18544,32 +18544,14 @@
         "edit_date": "尚未更新",
         "teleconsultation": false,
         "has_quota": false,
-        "lat": 23.7084764,
-        "lng": 120.4326549,
-        "confidence": 9,
-        "formatted": "臺灣, 63243, 虎尾鎮 中山里 林森路一段513巷, 虎尾鎮 第三公有零售市場",
-        "components": {
-          "ISO_3166-1_alpha-2": "TW",
-          "ISO_3166-1_alpha-3": "TWN",
-          "ISO_3166-2": [
-            "TW-YUN"
-          ],
-          "_category": "commerce",
-          "_normalized_city": "虎尾鎮",
-          "_type": "marketplace",
-          "city_district": "中山里",
-          "continent": "Asia",
-          "country": "臺灣",
-          "country_code": "tw",
-          "county": "雲林縣",
-          "marketplace": "虎尾鎮 第三公有零售市場",
-          "postcode": "63243",
-          "road": "林森路一段513巷",
-          "town": "虎尾鎮"
-        },
-        "source": "opencage",
-        "approx": "admin",
-        "usedQuery": "金湖鎮市"
+        "lat": 24.449,
+        "lng": 118.37,
+        "confidence": null,
+        "formatted": "county-centroid",
+        "components": {},
+        "source": "centroid",
+        "approx": "county_table",
+        "usedQuery": "county_table"
       }
     ]
 }
