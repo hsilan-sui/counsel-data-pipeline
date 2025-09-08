@@ -12,25 +12,31 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 60         # ★ 整個 job 的上限，避免卡死
+    timeout-minutes: 60
+
+    # ★ 全局設置台北時區（Runner 內可用）
+    env:
+      TZ: Asia/Taipei
 
     permissions:
       contents: write
 
     steps:
-      # 1) 取代碼
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      # 2) 安裝 jq + curl（推播/探測）
+      - name: Print current time (for sanity check)
+        run: |
+          echo "Runner TZ=$TZ"
+          date -u +"UTC : %Y-%m-%d %H:%M:%S"
+          date    +"Local: %Y-%m-%d %H:%M:%S %Z"
+
       - name: Install jq and curl
         run: sudo apt-get update && sudo apt-get install -y jq curl
 
-      # 3) 啟用 Buildx
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
 
-      # 4) Build image（Playwright 瀏覽器在 Dockerfile 內處理）
       - name: Build image with cache
         uses: docker/build-push-action@v6
         with:
@@ -43,7 +49,6 @@ jobs:
           cache-from: type=gha
           cache-to: type=gha,mode=max
 
-      # 4.5) 入口 reachability 探測（避免一開始白等）
       - name: Probe target reachability
         env:
           TARGET: https://sps.mohw.gov.tw/mhs
@@ -52,10 +57,8 @@ jobs:
           echo "Probing $TARGET ..."
           code=$(curl -sS -o /dev/null -w '%{http_code}' --max-time 30 "$TARGET" || true)
           echo "HTTP: $code"
-          # 不強制失敗，只紀錄；真正的重試在 docker run 外層
 
-      # 5) 在容器內跑流程（只掛需要寫入/讀取的資料夾）＋ 外層重試 + DNS
-      - name: Run crawler in container (with retries & DNS)
+      - name: Run crawler in container (with retries & DNS, TZ=Asia/Taipei)
         env:
           OPENCAGE_API_KEY: ${{ secrets.OPENCAGE_API_KEY }}
           NOMINATIM_USER_AGENT: suihsilan-crawler/1.0
@@ -66,7 +69,7 @@ jobs:
             echo "❌ OPENCAGE_API_KEY 未設定（請到 Settings > Secrets and variables > Actions 新增）"
             exit 1
           fi
-          
+
           mkdir -p public data out
 
           attempt=1
@@ -81,6 +84,7 @@ jobs:
               --ipc=host \
               --dns 1.1.1.1 \
               --dns 8.8.8.8 \
+              -e TZ=Asia/Taipei \                       # ★ 容器內同樣台北時區
               -e OPENCAGE_API_KEY \
               -e NOMINATIM_USER_AGENT \
               -e CI=1 \
@@ -90,8 +94,10 @@ jobs:
               local/clinics-crawler:latest \
               bash -lc '
                 set -euo pipefail
+                echo "Container TZ=$TZ"
+                date +"Container Local: %Y-%m-%d %H:%M:%S %Z"
 
-                # 1) 爬蟲產出 clean（index.js：只進站一次、重試、挑戰偵測、截圖）
+                # 1) 爬蟲（index.js：只進站一次、重試、挑戰偵測、截圖）
                 node src/index.js --out ./out/taiwan_merged_clean.json || {
                   echo "[WARN] index.js 失敗，嘗試列出 out 目錄以利除錯"
                   ls -al out || true
@@ -132,7 +138,6 @@ jobs:
             exit $status
           fi
 
-      # 6) 只有變更才 commit/push 回 Repo A
       - name: Commit and push if changed
         id: commit_a
         run: |
@@ -152,7 +157,6 @@ jobs:
             echo "changed=0" >> $GITHUB_OUTPUT
           fi
 
-      # 7) 產出 artifacts（含失敗證據檔）— 無論成功失敗都上傳
       - name: Upload artifacts
         if: always()
         uses: actions/upload-artifact@v4
@@ -167,7 +171,6 @@ jobs:
             out/*.html
             out/fatal.txt
 
-      # 8) 同步到 Repo B（只有有變更才執行）
       - name: Sync to Repo B main (src/data/clinics.json)
         id: sync_to_repo_b
         if: steps.commit_a.outputs.changed == '1'
@@ -206,7 +209,6 @@ jobs:
           git push origin "HEAD:${BRANCH}"
           echo "changed_b=1" >> $GITHUB_OUTPUT
 
-      # 9) LINE 推播（Repo A 與 Repo B 都有實際變更才發）
       - name: LINE push message
         if: steps.commit_a.outputs.changed == '1' && steps.sync_to_repo_b.outputs.changed_b == '1'
         env:
@@ -216,11 +218,6 @@ jobs:
           REPO_B_NAME:  ${{ secrets.REPO_B_NAME }}
         run: |
           set -euo pipefail
-          if [ -z "${LINE_CHANNEL_ACCESS_TOKEN:-}" ] || [ -z "${LINE_TO_ID:-}" ]; then
-            echo "❌ 缺少 LINE_CHANNEL_ACCESS_TOKEN 或 LINE_TO_ID"
-            exit 1
-          fi
-
           SHORT_SHA=${GITHUB_SHA::7}
           MSG=$'資料同步完成\nRepoA: '"${GITHUB_REPOSITORY}"$'\nCommit: '"${SHORT_SHA}"$'\n同步到 RepoB: '"${REPO_B_OWNER}/${REPO_B_NAME}"$'\n檔案: src/data/clinics.json\n部署：請查看兩邊的部署平台記錄'
 
@@ -240,6 +237,5 @@ jobs:
             cat /tmp/resp.txt || true
             exit 1
           fi
-
           echo "✅ 已推播 LINE（HTTP ${HTTP_CODE}）"
           cat /tmp/resp.txt || true
