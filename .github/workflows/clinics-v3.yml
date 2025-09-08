@@ -54,29 +54,29 @@ jobs:
             echo "❌ OPENCAGE_API_KEY 未設定（請到 Settings > Secrets and variables > Actions 新增）"
             exit 1
           fi
-
-          mkdir -p public data out   # ★ 先把三個資料夾都建立
-
+          
+          mkdir -p public data out  # 先把三個資料夾都建立（避免找不到）
+          
           docker run --rm --platform=linux/amd64 \
-            --shm-size=1g --ipc=host \   # ★ 讓 Chromium 在 CI 穩定
+            --shm-size=1g \
+            --ipc=host \
             -e OPENCAGE_API_KEY \
             -e NOMINATIM_USER_AGENT \
             -e CI=1 \
-            -v "$PWD/public":/app/public \
-            -v "$PWD/data":/app/data \
-            -v "$PWD/out":/app/out \
+            -v "$PWD/public:/app/public" \
+            -v "$PWD/data:/app/data" \
+            -v "$PWD/out:/app/out" \
             local/clinics-crawler:latest \
             bash -lc '
               set -euo pipefail
-
+          
               # 1) 爬蟲產出 clean（新版 index.js 已內建逐縣市與合併）
               node src/index.js --out ./out/taiwan_merged_clean.json || {
-                # 失敗時把畫面與 HTML 存起來（index.js 也會存）
                 echo "[WARN] index.js 失敗，嘗試列出 out 目錄以利除錯"
                 ls -al out || true
                 exit 1
               }
-
+          
               # 2) 合併 + geocode + diff
               node src/geocode-diff-merge.js \
                 --clean ./out/taiwan_merged_clean.json \
@@ -84,12 +84,11 @@ jobs:
                 --cache ./data/geocode-cache.json \
                 --out   ./public/clinics.json \
                 --diff  ./out/new_clinics.json
-
+          
               # 3) 驗證
               npm run validate
               node scripts/check-total.js public/clinics.json
             '
-
       # 6) 只有變更才 commit/push 回 Repo A
       - name: Commit and push if changed
         id: commit_a
