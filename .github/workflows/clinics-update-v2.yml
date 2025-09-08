@@ -4,8 +4,8 @@
 name: Update Clinics JSON
 
 on:
-  schedule: # 每天 UTC 02:15 自動跑一次（換算台北時間 10:15）
-    - cron: "15 2 * * *"
+  schedule: 
+    - cron: "15 2 */3 * *"   # 每 3 天的 UTC 02:15
   workflow_dispatch: # 允許在 GitHub 頁面上手動點「Run workflow」來觸發
 
 # 避免前一次還在跑就有下一次排程進來（重疊）
