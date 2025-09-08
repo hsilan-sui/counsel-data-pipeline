@@ -1,0 +1,203 @@
+name: Update Clinics JSON
+
+on:
+  schedule:
+    - cron: "15 2 */3 * *"   # 每 3 天的 UTC 02:15（台北 10:15）
+  workflow_dispatch:
+
+concurrency:
+  group: update-clinics-json
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      # 1) 取代碼
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # 2) 安裝 jq（供推播步驟產 JSON）
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      # 3) 啟用 Buildx
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      # 4) Build image（Playwright 瀏覽器在 Dockerfile 內處理）
+      - name: Build image with cache
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: ./Dockerfile
+          push: false
+          load: true
+          platforms: linux/amd64
+          tags: local/clinics-crawler:latest
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+      # 5) 在容器內跑流程（只掛需要寫入/讀取的資料夾）
+      - name: Run crawler in container
+        env:
+          OPENCAGE_API_KEY: ${{ secrets.OPENCAGE_API_KEY }}
+          NOMINATIM_USER_AGENT: suihsilan-crawler/1.0
+        run: |
+          set -euo pipefail
+
+          if [ -z "${OPENCAGE_API_KEY:-}" ]; then
+            echo "❌ OPENCAGE_API_KEY 未設定（請到 Settings > Secrets and variables > Actions 新增）"
+            exit 1
+          fi
+          
+          mkdir -p public data out  # 先把三個資料夾都建立（避免找不到）
+          
+          docker run --rm --platform=linux/amd64 \
+            --shm-size=1g \
+            --ipc=host \
+            -e OPENCAGE_API_KEY \
+            -e NOMINATIM_USER_AGENT \
+            -e CI=1 \
+            -v "$PWD/public:/app/public" \
+            -v "$PWD/data:/app/data" \
+            -v "$PWD/out:/app/out" \
+            local/clinics-crawler:latest \
+            bash -lc '
+              set -euo pipefail
+          
+              # 1) 爬蟲產出 clean（新版 index.js 已內建逐縣市與合併）
+              node src/index.js --out ./out/taiwan_merged_clean.json || {
+                echo "[WARN] index.js 失敗，嘗試列出 out 目錄以利除錯"
+                ls -al out || true
+                exit 1
+              }
+          
+              # 2) 合併 + geocode + diff
+              node src/geocode-diff-merge.js \
+                --clean ./out/taiwan_merged_clean.json \
+                --prev  ./public/clinics.json \
+                --cache ./data/geocode-cache.json \
+                --out   ./public/clinics.json \
+                --diff  ./out/new_clinics.json
+          
+              # 3) 驗證
+              npm run validate
+              node scripts/check-total.js public/clinics.json
+            '
+      # 6) 只有變更才 commit/push 回 Repo A
+      - name: Commit and push if changed
+        id: commit_a
+        run: |
+          set -e
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"  # ★ 避免 ownership 警告
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add public/clinics.json data/geocode-cache.json out/new_clinics.json out/taiwan_merged_clean.json || true
+
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update clinics.json [skip ci]"
+            git push
+            echo "changed=1" >> $GITHUB_OUTPUT
+          else
+            echo "ℹ️ 沒有差異，不需要提交。"
+            echo "changed=0" >> $GITHUB_OUTPUT
+          fi
+
+      # 7) 產出 artifacts 方便下載檢視（加上失敗證據檔）
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: clinics-artifacts
+          retention-days: 14
+          path: |
+            public/clinics.json
+            out/new_clinics.json
+            out/taiwan_merged_clean.json
+            out/*.png            # ★ 若有失敗截圖
+            out/*.html           # ★ 若有失敗 HTML
+            out/fatal.txt        # ★ 若主程式捕捉到致命錯誤
+
+      # 8) 同步到 Repo B（只有有變更才執行）
+      - name: Sync to Repo B main (src/data/clinics.json)
+        id: sync_to_repo_b
+        if: steps.commit_a.outputs.changed == '1'
+        env:
+          REPO_B_TOKEN: ${{ secrets.REPO_B_TOKEN }}
+          REPO_B_OWNER: ${{ secrets.REPO_B_OWNER }}
+          REPO_B_NAME:  ${{ secrets.REPO_B_NAME }}
+        run: |
+          set -e
+          TMP=$(mktemp -d)
+          echo "Cloning Repo B..."
+          git clone --depth=5 "https://x-access-token:${REPO_B_TOKEN}@github.com/${REPO_B_OWNER}/${REPO_B_NAME}.git" "$TMP"
+
+          mkdir -p "$TMP/src/data"
+          cp -f public/clinics.json "$TMP/src/data/clinics.json"
+
+          cd "$TMP"
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/clinics.json
+
+          if git diff --cached --quiet; then
+            echo "No change for Repo B."
+            echo "changed_b=0" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          # 盡力偵測預設分支；抓不到就用 main
+          DEFAULT_BRANCH="$(git symbolic-ref --quiet --short refs/remotes/origin/HEAD 2>/dev/null | cut -d'/' -f2 || true)"
+          if [ -z "$DEFAULT_BRANCH" ]; then
+            DEFAULT_BRANCH="$(git remote show origin | awk '/HEAD branch/ {print $NF}' || true)"
+          fi
+          BRANCH="${DEFAULT_BRANCH:-main}"
+
+          echo "Pushing to ${BRANCH}..."
+          git commit -m "chore: sync clinics.json from Repo A"
+          git push origin "HEAD:${BRANCH}"
+          echo "changed_b=1" >> $GITHUB_OUTPUT
+
+      # 9) LINE 推播（Repo A 與 Repo B 都有實際變更才發）
+      - name: LINE push message
+        if: steps.commit_a.outputs.changed == '1' && steps.sync_to_repo_b.outputs.changed_b == '1'
+        env:
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          LINE_TO_ID: ${{ secrets.LINE_TO_ID }}
+          REPO_B_OWNER: ${{ secrets.REPO_B_OWNER }}
+          REPO_B_NAME:  ${{ secrets.REPO_B_NAME }}
+        run: |
+          set -euo pipefail
+
+          if [ -z "${LINE_CHANNEL_ACCESS_TOKEN:-}" ] || [ -z "${LINE_TO_ID:-}" ]; then
+            echo "❌ 缺少 LINE_CHANNEL_ACCESS_TOKEN 或 LINE_TO_ID"
+            exit 1
+          fi
+
+          SHORT_SHA=${GITHUB_SHA::7}
+          MSG=$'資料同步完成\nRepoA: '"${GITHUB_REPOSITORY}"$'\nCommit: '"${SHORT_SHA}"$'\n同步到 RepoB: '"${REPO_B_OWNER}/${REPO_B_NAME}"$'\n檔案: src/data/clinics.json\n部署：請查看兩邊的部署平台記錄'
+
+          jq -n \
+            --arg to   "$LINE_TO_ID" \
+            --arg text "$MSG" \
+            '{to:$to, messages:[{type:"text", text:$text}]}' > payload.json
+
+          HTTP_CODE=$(curl -sS -o /tmp/resp.txt -w "%{http_code}" \
+            -X POST "https://api.line.me/v2/bot/message/push" \
+            -H "Authorization: Bearer ${LINE_CHANNEL_ACCESS_TOKEN}" \
+            -H "Content-Type: application/json" \
+            --data @payload.json)
+
+          if [ "$HTTP_CODE" -lt 200 ] || [ "$HTTP_CODE" -ge 300 ]; then
+            echo "❌ 呼叫 LINE API 失敗（HTTP ${HTTP_CODE}）"
+            cat /tmp/resp.txt || true
+            exit 1
+          fi
+
+          echo "✅ 已推播 LINE（HTTP ${HTTP_CODE}）"
+          cat /tmp/resp.txt || true
