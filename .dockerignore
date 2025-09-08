@@ -1,5 +1,6 @@
 node_modules
-npm-debug.log
-.git
-.gitignore
 out
+.git
+.github
+.DS_Store
+npm-debug.log
