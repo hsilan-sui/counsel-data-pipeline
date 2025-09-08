@@ -1,482 +1,392 @@
-// index.js — 逐縣市：有名額→關閉→回首頁→無名額→合併；輸出縣市與全台 JSON/CSV
-// ------------------------------------------------------------
-const { chromium } = require('playwright');
-const fs   = require('fs');
+// src/index.js
+/* eslint-disable no-console */
+require('dotenv').config();
+const fs = require('fs');
 const path = require('path');
+const { chromium } = require('playwright');
+const { format } = require('@fast-csv/format');
 
-/* ===================== 常數與輸出目錄 ===================== */
-const BASE = 'https://sps.mohw.gov.tw/mhs';
-const FORM = `${BASE}/Home/QueryServiceOrg`;
-const OUT  = path.resolve('./out');
-if (!fs.existsSync(OUT)) fs.mkdirSync(OUT, { recursive: true });
+// ========== 可調整區：目標站與選擇器 ==========
+const START_URL = 'https://sps.mohw.gov.tw/mhs';
 
-// 可用環境變數調整（CI 也有傳入）
-const NAV_TIMEOUT   = Number(process.env.GOTO_TIMEOUT_MS  || 120000);
-const SEL_TIMEOUT   = Number(process.env.SEL_TIMEOUT_MS   || 120000);
-const GOTO_TRIES    = Number(process.env.GOTO_TRIES       || 4);
-const BACKOFF_START = Number(process.env.GOTO_BACKOFF_MS  || 3000);
+const SELECTORS = {
+  countySelect: '#county, select#ctl00_ContentPlaceHolder1_ddlCounty, select#countySelect',
+  // 「有名額 / 無名額」切換（盡量以文字命中；若站上是 radio/按鈕都可）
+  hasQuotaBtn: 'text=有名額, text="有名額", [data-filter="yes"]',
+  noQuotaBtn: 'text=無名額, text="無名額", [data-filter="no"]',
 
-/* ===================== 小工具 ===================== */
-const sleep  = (ms)=>new Promise(r=>setTimeout(r, ms));
-const jitter = (ms, j=500)=> ms + Math.floor(Math.random()*j);
-const toInt  = x => (Number.isFinite(Number(x)) ? Number(x) : 0);
-const pad2   = v => String(v).padStart(2, '0');
+  // 查詢/送出按鈕
+  submitBtn: 'button:has-text("查詢"), button:has-text("搜尋"), input[type="submit"][value*="查詢"]',
 
-const unesc = s => typeof s === 'string'
-  ? s.replace(/\\u003c/g,'<').replace(/\\u003e/g,'>').replace(/\\u0026/g,'&').replace(/&amp;/g,'&')
-  : s;
+  // 分頁
+  totalPagesText: '.total-pages, .pagination-total, span.total-pages',
+  nextPageBtn: 'button:has-text("下一頁"), a:has-text("下一頁"), .pagination .next',
 
-function parseAnchor(html) {
-  if (!html) return { text: null, href: null };
-  const s = unesc(String(html));
-  const m = s.match(/<a[^>]*href=['"]([^'"]+)['"][^>]*>(.*?)<\/a>/i);
-  if (m) return { href: unesc(m[1]) || null, text: unesc(m[2].replace(/<[^>]*>/g,'')) };
-  return { text: unesc(s.replace(/<[^>]*>/g,'')), href: null };
+  // 表格資料（tbody > tr）
+  tableRows: 'table tbody tr',
+
+  // 每列欄位（盡量寬鬆，會 fallback 成用 td 的文字）
+  colClinic: 'td:nth-child(1), [data-col="clinic"], .col-clinic',
+  colAddress: 'td:nth-child(2), [data-col="address"], .col-address',
+  colPhone: 'td:nth-child(3), [data-col="phone"], .col-phone',
+  colWebsite: 'td:nth-child(4) a, [data-col="website"] a, .col-website a',
+  colWeeks: 'td:nth-child(5), [data-col="weeks"], .col-weeks', // 站上常有「未來四週名額」欄
+};
+
+// ========== 輔助：寫檔 ==========
+function ensureDir(dir) { fs.mkdirSync(dir, { recursive: true }); }
+
+function saveJSON(p, data) {
+  ensureDir(path.dirname(p));
+  fs.writeFileSync(p, JSON.stringify(data, null, 2));
+  console.log('📝 JSON saved:', p);
 }
 
-function toCSV(rows, headers) {
-  const esc = v => (v === null || v === undefined) ? '' : /[,"\n]/.test(String(v)) ? `"${String(v).replace(/"/g,'""')}"` : String(v);
-  return [headers.join(','), ...rows.map(r=>headers.map(h=>esc(r[h])).join(','))].join('\n');
-}
-
-/* ===================== 清洗 / 合併 / 去重 ===================== */
-function cleanRows(rows) {
-  return (rows || []).map(r => {
-    const org  = parseAnchor(r.orgName);
-    const addr = parseAnchor(r.address);
-    const o = {
-      county: r.countyName ?? null,
-      org_name: org.text,
-      org_url: (org.href && org.href !== '無') ? org.href : null,
-      phone: r.phone ?? null,
-      address: addr.text,
-      map_url: (addr.href && addr.href !== '無') ? addr.href : null,
-      pay_detail: r.payDetail ?? null,
-      this_week: toInt(r.thisWeekCount),
-      next_week: toInt(r.nextWeekCount),
-      next_2_week: toInt(r.next2WeekCount),
-      next_3_week: toInt(r.next3WeekCount),
-      in_4_weeks: toInt(r.in4WeekTotleCount),
-      edit_date: r.editDate ?? null,
-      teleconsultation: r.strTeleconsultation === '是'
-    };
-    o.has_quota = o.in_4_weeks > 0;
-    return o;
+function saveCSV(p, rows) {
+  ensureDir(path.dirname(p));
+  return new Promise((resolve, reject) => {
+    const stream = format({ headers: true });
+    const ws = fs.createWriteStream(p);
+    stream.pipe(ws).on('finish', () => {
+      console.log('📝 CSV saved:', p);
+      resolve();
+    }).on('error', reject);
+    rows.forEach((r) => stream.write(r));
+    stream.end();
   });
 }
 
-function mergeYesNo(yesRows, noRows) {
-  const key = r => `${r.county}||${r.org_name}||${r.address}`.trim();
+// ========== 輔助：清洗 ==========
+function normalizeText(s) {
+  return (s || '')
+    .replace(/\s+/g, ' ')
+    .replace(/\u00A0/g, ' ')
+    .trim();
+}
+
+function mergeYesNoToClean(yesList, noList, countyCode, countyName) {
+  // 基本策略：以「機構名 + 地址」當 key 去重
   const map = new Map();
-  [...yesRows, ...noRows].forEach(r => {
-    const k = key(r);
-    if (!map.has(k)) map.set(k, r);
-    else {
-      const p = map.get(k);
-      map.set(k, {
-        ...p,
-        this_week:   Math.max(p.this_week,   r.this_week),
-        next_week:   Math.max(p.next_week,   r.next_week),
-        next_2_week: Math.max(p.next_2_week, r.next_2_week),
-        next_3_week: Math.max(p.next_3_week, r.next_3_week),
-        in_4_weeks:  Math.max(p.in_4_weeks,  r.in_4_weeks),
-        teleconsultation: p.teleconsultation || r.teleconsultation,
-        has_quota: (Math.max(p.in_4_weeks, r.in_4_weeks) > 0)
-      });
+  function put(arr, hasQuota) {
+    for (const it of arr) {
+      const key = `${normalizeText(it.clinic)}|${normalizeText(it.address)}`;
+      const existed = map.get(key);
+      if (!existed) {
+        map.set(key, {
+          countyCode,
+          countyName,
+          clinic: normalizeText(it.clinic),
+          address: normalizeText(it.address),
+          phone: normalizeText(it.phone),
+          website: normalizeText(it.website),
+          weeks: normalizeText(it.weeks),
+          hasQuota: !!hasQuota,
+        });
+      } else {
+        // 若 yes/no 兩邊都有，以 yes 為主
+        existed.hasQuota = existed.hasQuota || !!hasQuota;
+        existed.phone = existed.phone || normalizeText(it.phone);
+        existed.website = existed.website || normalizeText(it.website);
+        existed.weeks = existed.weeks || normalizeText(it.weeks);
+      }
     }
-  });
-  return [...map.values()].sort((a,b)=>Number(b.has_quota)-Number(a.has_quota));
-}
-
-// 以「縣市 + 名稱文字 + 地址文字」去重（避免同頁重複）
-function uniqByKey(rows) {
-  const m = new Map();
-  for (const r of (rows || [])) {
-    const org  = parseAnchor(r.orgName);
-    const addr = parseAnchor(r.address);
-    const k = `${r.countyName || ''}||${org.text || ''}||${addr.text || ''}`.trim();
-    if (!m.has(k)) m.set(k, r);
   }
-  return [...m.values()];
+  put(noList, false);
+  put(yesList, true);
+  return Array.from(map.values());
 }
 
-/* ===================== 人類化操作 / 防偵測 ===================== */
-const rand = (min, max) => min + Math.floor(Math.random() * (max - min + 1));
-
-async function humanPause(kind = 'short') {
-  const table = {
-    short:  [120, 450],
-    medium: [300, 900],
-    long:   [900, 1800],
-    county: [2000, 6000],
-  };
-  const [a, b] = table[kind] || table.short;
-  await sleep(rand(a, b));
+// ========== Playwright 進站強化 ==========
+async function looksLikeChallenge(page) {
+  const html = (await page.content()).toLowerCase();
+  return (
+    html.includes('checking your browser') ||
+    html.includes('確認你的瀏覽器') ||
+    html.includes('cloudflare') ||
+    html.includes('just a moment') ||
+    html.includes('captcha') ||
+    html.includes('ddos')
+  );
 }
 
-function pickViewport() {
-  const VIEWPORTS = [
-    { width: 1366, height: 768 },
-    { width: 1440, height: 900 },
-    { width: 1536, height: 864 },
-    { width: 1920, height: 1080 },
-  ];
-  return VIEWPORTS[rand(0, VIEWPORTS.length - 1)];
-}
-
-// 偏移點擊 + 滑鼠軌跡
-async function humanClickEl(el, page) {
-  await el.scrollIntoViewIfNeeded().catch(()=>{});
-  await humanPause('short');
-  const box = await el.boundingBox().catch(()=>null);
-  if (!box) { await el.click().catch(()=>{}); return; }
-  const x = box.x + rand(Math.floor(box.width * 0.2),  Math.ceil(box.width * 0.8));
-  const y = box.y + rand(Math.floor(box.height * 0.2), Math.ceil(box.height * 0.8));
-  await page.mouse.move(x - rand(40, 90), y - rand(20, 60), { steps: rand(5, 15) }).catch(()=>{});
-  await humanPause('short');
-  await page.mouse.move(x, y, { steps: rand(2, 6) }).catch(()=>{});
-  await humanPause('short');
-  await page.mouse.down().catch(()=>{});
-  await humanPause('short');
-  await page.mouse.up().catch(()=>{});
-}
-
-/* ===================== 穩定導航（CI 友善） ===================== */
 async function gotoStable(page, url, {
-  selector   = 'body',
-  attempts   = GOTO_TRIES,
-  navTimeout = NAV_TIMEOUT,
-  selTimeout = SEL_TIMEOUT,
-  backoffMs  = BACKOFF_START
+  waitUntil = 'domcontentloaded',
+  timeout = 180000,
+  tries = 4,
+  label = 'goto_fail',
 } = {}) {
-  let lastErr;
-  for (let i = 1; i <= attempts; i++) {
+  let lastErr = null;
+  for (let i = 1; i <= tries; i += 1) {
     try {
-      await page.goto(url, { waitUntil: 'domcontentloaded', timeout: navTimeout });
-      await page.waitForSelector(selector, { timeout: selTimeout });
-      await page.waitForLoadState('networkidle', { timeout: 30000 }).catch(()=>{});
+      await page.goto(url, { waitUntil, timeout });
+
+      if (await looksLikeChallenge(page)) {
+        console.warn(`[gotoStable] challenge detected; waiting... (${i}/${tries})`);
+        await page.waitForTimeout(6000);
+        if (await looksLikeChallenge(page)) {
+          throw new Error('Challenge page still present');
+        }
+      }
       return;
     } catch (err) {
       lastErr = err;
-      console.warn(`[gotoStable] attempt ${i}/${attempts} failed:`, err?.message || err);
-      try { await page.screenshot({ path: path.join(OUT, `goto_fail_try${i}.png`), fullPage: true }); } catch {}
-      try { const html = await page.content(); fs.writeFileSync(path.join(OUT, `goto_fail_try${i}.html`), html || ''); } catch {}
-      await sleep(backoffMs * (2 ** (i - 1)));
+      console.warn(`[gotoStable] attempt ${i}/${tries} failed: ${err.message}`);
+      try {
+        const stamp = `try${i}`;
+        await page.screenshot({ path: path.join('out', `${label}_${stamp}.png`), fullPage: true });
+        const html = await page.content();
+        fs.writeFileSync(path.join('out', `${label}_${stamp}.html`), html);
+      } catch { /* ignore */ }
+
+      if (i < tries) {
+        await page.waitForTimeout(3000 * i); // 3s,6s,9s...
+        try { await page.reload({ waitUntil: 'domcontentloaded', timeout: 60000 }); } catch { /* ignore */ }
+      }
     }
   }
+  const msg = `Fatal: ${lastErr?.name || 'Error'}: ${lastErr?.message || lastErr}`;
+  console.error(msg);
+  fs.writeFileSync(path.join('out', 'fatal.txt'), msg);
   throw lastErr;
 }
 
-/* ===================== Grid 載入 / Query 流程 ===================== */
-function waitForAnyGrid(page) {
-  return page.waitForResponse(res =>
-    res.url().includes('/mhs/Home/QueryServiceOrgJsonList') &&
-    res.request().method() === 'POST'
-  , { timeout: 60000 });
+// ========== 抓取核心：逐頁讀表格 ==========
+async function readResultTable(page) {
+  const rows = await page.$$(SELECTORS.tableRows);
+  const data = [];
+
+  for (const r of rows) {
+    // 嘗試多種欄位抓法，若 selector 失敗則 fallback 讀所有 td
+    const clinic = normalizeText(await r.locator(SELECTORS.colClinic).first().innerText().catch(() => ''));
+    const address = normalizeText(await r.locator(SELECTORS.colAddress).first().innerText().catch(() => ''));
+    const phone = normalizeText(await r.locator(SELECTORS.colPhone).first().innerText().catch(() => ''));
+    const website = normalizeText(await r.locator(SELECTORS.colWebsite).first().getAttribute('href').catch(() => ''));
+    const weeks = normalizeText(await r.locator(SELECTORS.colWeeks).first().innerText().catch(() => ''));
+
+    if (clinic || address || phone || website || weeks) {
+      data.push({ clinic, address, phone, website, weeks });
+      continue;
+    }
+
+    // fallback：讀所有 td 文字，盡量猜測欄位順序
+    const tds = await r.$$eval('td', (els) => els.map((el) => el.textContent || ''));
+    if (tds.length) {
+      data.push({
+        clinic: normalizeText(tds[0] || ''),
+        address: normalizeText(tds[1] || ''),
+        phone: normalizeText(tds[2] || ''),
+        website: '',
+        weeks: normalizeText(tds[4] || tds[3] || ''),
+      });
+    }
+  }
+  return data;
 }
 
-async function ensureFormLoaded(page) {
-  if (await page.locator('#QueryOrgServiceCaseForm').count()) return;
+async function getTotalPages(page) {
+  // 常見寫法：頁面有「共 N 頁」；若沒有，就用下一頁按鈕是否存在推測
+  const textHandle = await page.$(SELECTORS.totalPagesText);
+  if (textHandle) {
+    const text = await textHandle.innerText().catch(() => '');
+    const m = text.match(/(\d+)\s*頁/);
+    if (m) return parseInt(m[1], 10);
+  }
+  // fallback：看是否有下一頁，若沒有就 1 頁
+  const nextExists = await page.$(SELECTORS.nextPageBtn);
+  return nextExists ? 2 : 1; // 2 代表至少還有下一頁（之後會 while 檢查）
+}
 
-  // 首頁上點「查詢服務機構」
-  const imgLink = page.locator('a.queryServiceOrg');
-  if (await imgLink.count()) {
-    await imgLink.first().scrollIntoViewIfNeeded().catch(()=>{});
+async function clickIfExists(page, selector, timeout = 5000) {
+  const el = await page.$(selector);
+  if (el) {
     await Promise.all([
-      page.waitForSelector('#QueryOrgServiceCaseForm', { timeout: 15000 }).catch(() => {}),
-      (async () => { await humanClickEl(imgLink.first(), page); })()
+      page.waitForLoadState('domcontentloaded', { timeout }).catch(() => {}),
+      el.click().catch(() => {}),
     ]);
-    if (await page.locator('#QueryOrgServiceCaseForm').count()) return;
-
-    // 備援：直接觸發 click
-    await page.evaluate(() => document.querySelector('a.queryServiceOrg')?.click());
-    await page.waitForLoadState('networkidle').catch(() => {});
-    if (await page.locator('#QueryOrgServiceCaseForm').count()) return;
+    await page.waitForTimeout(300); // 稍微等一下動態變更
+    return true;
   }
-
-  // 再備援：直接進表單頁
-  await gotoStable(page, FORM, { selector: '#QueryOrgServiceCaseForm' });
+  return false;
 }
 
-async function triggerSearch(page) {
-  const ok = await page.evaluate(() => {
-    if (typeof CSSM_SearchDataGrid === 'function') {
-      CSSM_SearchDataGrid('QueryOrgServiceCaseDg');
-      return true;
-    }
-    return false;
-  }).catch(()=>false);
-  if (ok) return;
-  await humanPause('short');
-  await humanClickEl(page.locator('button.btn.btn-success[onclick*="CSSM_SearchDataGrid"]').first(), page);
+async function paginateAndCollect(page) {
+  const all = [];
+  // 先讀當前頁
+  all.push(...(await readResultTable(page)));
+
+  // 嘗試讀「共 N 頁」；若無，改以「能不能點下一頁」的方式跑
+  let total = await getTotalPages(page);
+  if (total <= 1) return all;
+
+  // 若有總頁數，以「下一頁」按 N-1 次
+  for (let i = 2; i <= total; i += 1) {
+    const ok = await clickIfExists(page, SELECTORS.nextPageBtn, 15000);
+    if (!ok) break;
+    await page.waitForLoadState('domcontentloaded', { timeout: 15000 }).catch(() => {});
+    all.push(...(await readResultTable(page)));
+  }
+  return all;
 }
 
-async function readTotalPages(page) {
-  return await page.evaluate(() => {
-    const grabText = (sel) =>
-      Array.from(document.querySelectorAll(sel))
-        .map(n => (n.textContent || '').trim())
-        .filter(Boolean);
-    for (const t of grabText('span, div')) {
-      const m = t.match(/共\s*(\d+)\s*頁/);
-      if (m) return Math.max(0, parseInt(m[1], 10));
-    }
-    const info = document.querySelector('.ui-paging-info, .pagination-info');
-    if (info) {
-      const m2 = (info.textContent || '').match(/共\s*(\d+)\s*記錄/);
-      if (m2) {
-        const total = parseInt(m2[1], 10);
-        return Math.max(0, Math.ceil(total / 10));
-      }
-    }
-    return 1;
+async function runOneFilter(page, isYes) {
+  const btn = isYes ? SELECTORS.hasQuotaBtn : SELECTORS.noQuotaBtn;
+  // 先切換「有名額/無名額」
+  await clickIfExists(page, btn, 15000);
+  // 按查詢/送出
+  await clickIfExists(page, SELECTORS.submitBtn, 20000);
+  // 收集
+  return paginateAndCollect(page);
+}
+
+async function crawlOneCounty(page, countyCode, countyName, outDir) {
+  console.log(`\n==> 爬取縣市：${countyCode}_${countyName}`);
+
+  // 選縣市
+  const select = await page.$(SELECTORS.countySelect);
+  if (!select) throw new Error('找不到縣市下拉選單，請調整 SELECTORS.countySelect');
+  await select.selectOption({ label: countyName }).catch(async () => {
+    // 如果以 label 失敗，試 value（可能是兩位數代碼）
+    await select.selectOption({ value: countyCode.padStart(2, '0') });
   });
-}
 
-function nextBtn(page) {
-  // easyUI Pagination 的下一頁按鈕
-  return page.locator('a.l-btn.l-btn-plain', { has: page.locator('.pagination-next') }).first();
-}
-
-async function clickNextAndGetRows(page) {
-  const btn = nextBtn(page);
-  const [resp] = await Promise.all([
-    waitForAnyGrid(page),
-    (async () => { await humanPause('medium'); await humanClickEl(btn, page); })()
-  ]);
-  try {
-    const js = await resp.json();
-    return Array.isArray(js.rows) ? js.rows : [];
-  } catch {
-    return [];
-  }
-}
-
-async function closeGridDialog(page) {
-  const ok = await page.evaluate(() => {
-    if (typeof CSSM_CloseDialog === 'function') {
-      CSSM_CloseDialog(false, 'QueryServiceOrgDialog') || CSSM_CloseDialog(false, 'QueryOrgServiceDialog');
-      return true;
-    }
-    return false;
-  }).catch(()=>false);
-  if (ok) {
-    await page.waitForSelector('#QueryOrgServiceCaseForm', { state: 'detached', timeout: 5000 }).catch(()=>{});
-    return;
-  }
-  const btn = page.locator('button.btn.btn-danger[onclick*="CSSM_CloseDialog"]');
-  if (await btn.count()) {
-    await humanClickEl(btn.first(), page);
-    await page.waitForSelector('#QueryOrgServiceCaseForm', { state: 'detached', timeout: 5000 }).catch(()=>{});
-  }
-}
-
-async function reopenFormFromHome(page) {
-  await gotoStable(page, BASE, { selector: 'a.queryServiceOrg' });
-  await ensureFormLoaded(page);
-  await humanPause('long');
-}
-
-/* ===================== 讀取縣市 select options（動態） ===================== */
-async function readCountyOptions(page) {
-  const opts = await page.$$eval('#county option', list =>
-    list.map(o => ({ value: (o.value || '').trim(), text: (o.textContent || '').trim() }))
-  );
-  return opts.filter(o => o.value && o.value !== '0' && !/請選/.test(o.text));
-}
-
-/* ===================== 依條件抓取一個縣市的所有頁 ===================== */
-async function collectByCondition(page, countyValue, haveFlag /* 1:有, 0:無 */) {
-  await page.selectOption('#county', countyValue);
-  await humanPause('short');
-  if (haveFlag) {
-    await page.check('#isYes');
-  } else {
-    await page.check('#isNo');
-  }
-  await humanPause('short');
-
-  const [respP1] = await Promise.all([
-    waitForAnyGrid(page),
-    triggerSearch(page)
-  ]);
-  const p1 = await respP1.json().catch(()=>({ rows: [] }));
-  const rows = [...(p1.rows || [])];
-
-  await humanPause('medium');
-
-  const totalPages = await readTotalPages(page);
-  const clicks = Math.max(0, totalPages - 1);
-  for (let i = 0; i < clicks; i++) {
-    const r = await clickNextAndGetRows(page);
-    console.log(`[${haveFlag ? '有' : '無'}名額] 第 ${i+2}/${totalPages} 頁抓到 ${r.length} 筆`);
-    if (r?.length) rows.push(...r);
-    if (i % 2 === 0) { try { await page.mouse.wheel(0, rand(200, 1200)); } catch {} }
-    await humanPause('medium');
-  }
-
-  const uniq = uniqByKey(rows);
-  return { total: uniq.length, rows: uniq, totalPages };
-}
-
-/* ===================== 處理單一縣市：有→關→回首頁→無→合併輸出 ===================== */
-async function processOneCounty(page, county) {
-  const code = pad2(county.value);
-  const name = county.text.replace(/\s+/g, '');
-
-  console.log(`\n=== ${name}（代碼 ${code}）開始 ===`);
   // 有名額
-  const yes = await collectByCondition(page, county.value, 1);
-  fs.writeFileSync(path.join(OUT, `${code}_${name}_yes_raw.json`), JSON.stringify(yes, null, 2), 'utf8');
-  console.log(`${name} → 有名額：唯一 ${yes.total}；UI 頁數：${yes.totalPages}`);
+  const yesList = await runOneFilter(page, true);
+  const yesPath = path.join(outDir, `${countyCode}_${countyName}_yes_raw.json`);
+  saveJSON(yesPath, yesList);
 
-  // 關閉→回首頁→重開（避免頁碼殘留）
-  await closeGridDialog(page).catch(()=>{});
-  await reopenFormFromHome(page);
+  // 回首頁/或重設（保守作法：回到起始頁再選一次）
+  await gotoStable(page, START_URL, { label: `revisit_${countyCode}` });
+  const select2 = await page.$(SELECTORS.countySelect);
+  if (!select2) throw new Error('回首頁後找不到縣市下拉選單');
+  await select2.selectOption({ label: countyName }).catch(async () => {
+    await select2.selectOption({ value: countyCode.padStart(2, '0') });
+  });
 
   // 無名額
-  const no = await collectByCondition(page, county.value, 0);
-  fs.writeFileSync(path.join(OUT, `${code}_${name}_no_raw.json`), JSON.stringify(no, null, 2), 'utf8');
-  console.log(`${name} → 無名額：唯一 ${no.total}；UI 頁數：${no.totalPages}`);
+  const noList = await runOneFilter(page, false);
+  const noPath = path.join(outDir, `${countyCode}_${countyName}_no_raw.json`);
+  saveJSON(noPath, noList);
 
-  // 清洗 + 合併 → 輸出
-  const cleanedYes = cleanRows(yes.rows);
-  const cleanedNo  = cleanRows(no.rows);
-  const merged     = mergeYesNo(cleanedYes, cleanedNo);
+  // 合併清洗
+  const merged = mergeYesNoToClean(yesList, noList, countyCode, countyName);
+  const jsonPath = path.join(outDir, `${countyCode}_${countyName}_merged_clean.json`);
+  const csvPath = path.join(outDir, `${countyCode}_${countyName}_merged_clean.csv`);
+  saveJSON(jsonPath, merged);
+  await saveCSV(csvPath, merged);
 
-  const mergedJsonPath = path.join(OUT, `${code}_${name}_merged_clean.json`);
-  const mergedCsvPath  = path.join(OUT, `${code}_${name}_merged_clean.csv`);
-  fs.writeFileSync(mergedJsonPath, JSON.stringify({ county: name, total: merged.length, rows: merged }, null, 2), 'utf8');
-
-  const headersCsv = [
-    'county','org_name','org_url','phone','address','map_url','pay_detail',
-    'this_week','next_week','next_2_week','next_3_week','in_4_weeks',
-    'edit_date','teleconsultation','has_quota'
-  ];
-  fs.writeFileSync(mergedCsvPath, toCSV(merged, headersCsv), 'utf8');
-
-  console.log(`✅ ${name} 完成：${path.basename(mergedJsonPath)} / ${path.basename(mergedCsvPath)}`);
-  return { merged };
+  return { merged, yes: yesList.length, no: noList.length };
 }
 
-/* ===================== 主程式 ===================== */
+async function getCountyOptions(page) {
+  await page.waitForSelector(SELECTORS.countySelect, { timeout: 20000 });
+  const options = await page.$$eval(
+    `${SELECTORS.countySelect} option`,
+    (els) => els
+      .map((o) => ({ value: (o.value || '').trim(), label: (o.textContent || '').trim() }))
+      .filter((o) => o.value && o.label && !/^(請選擇|全部)$/i.test(o.label))
+  );
+  // 將 value 補零到兩位（如 1 -> 01）
+  return options.map((o) => ({
+    code: String(o.value).padStart(2, '0'),
+    name: o.label.replace(/\s+/g, ''),
+  }));
+}
+
+// ========== 主流程 ==========
 (async () => {
+  const OUT_ARG_IDX = process.argv.indexOf('--out');
+  const OUTPUT_TAIWAN = OUT_ARG_IDX > -1 ? process.argv[OUT_ARG_IDX + 1] : './out/taiwan_merged_clean.json';
+  const OUTPUT_DIR = path.dirname(OUTPUT_TAIWAN);
+
+  ensureDir('out');
+  ensureDir('data');
+  ensureDir('public');
+  ensureDir(OUTPUT_DIR);
+
   const browser = await chromium.launch({
     headless: true,
-    slowMo: 50 + rand(0, 40),
-    args: ['--disable-dev-shm-usage'] // CI 上 /dev/shm 偏小，減少崩潰機率
+    args: [
+      '--no-sandbox',
+      '--disable-setuid-sandbox',
+      '--disable-dev-shm-usage',
+      '--disable-gpu',
+      '--no-first-run',
+      '--no-default-browser-check',
+    ],
   });
 
-  // 固定 UA（避免預設 Playwright UA）
-  const FIXED_UA = process.env.NOMINATIM_USER_AGENT ||
-    'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0 Safari/537.36 suihsilan-crawler/1.0';
-
-  // 先用一個 context 讀 options（之後每縣市都 fresh context）
-  const bootCtx = await browser.newContext({
-    userAgent: FIXED_UA,
-    ignoreHTTPSErrors: true,
-    viewport: pickViewport(),
-    deviceScaleFactor: [1, 2][rand(0, 1)],
+  const NOMINATIM_UA = process.env.NOMINATIM_USER_AGENT || 'suihsilan-crawler/1.0';
+  const context = await browser.newContext({
     locale: 'zh-TW',
     timezoneId: 'Asia/Taipei',
-    colorScheme: ['light', 'dark'][rand(0, 1)],
+    userAgent: `Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0 Safari/537.36 ${NOMINATIM_UA}`,
+    extraHTTPHeaders: {
+      'Accept-Language': 'zh-TW,zh;q=0.9,en;q=0.8',
+      'Sec-CH-UA-Platform': '"Linux"',
+      'Sec-CH-UA-Mobile': '?0',
+    },
   });
-  await bootCtx.addInitScript(() => {
-    Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+
+  const page = await context.newPage();
+
+  // 阻擋圖片/字型/追蹤，提升載入速率
+  await page.route('**/*', (route) => {
+    const req = route.request();
+    const type = req.resourceType();
+    const url = req.url();
+    if (
+      type === 'image' ||
+      type === 'font' ||
+      url.includes('google-analytics') ||
+      url.includes('gtag') ||
+      url.includes('doubleclick') ||
+      url.includes('googletagmanager')
+    ) return route.abort();
+    return route.continue();
   });
-  const bootPage = await bootCtx.newPage();
-  bootPage.setDefaultTimeout(NAV_TIMEOUT);
-  bootPage.setDefaultNavigationTimeout(NAV_TIMEOUT);
 
-  // 進站與開表單
-  await gotoStable(bootPage, BASE, { selector: 'a.queryServiceOrg' });
-  await ensureFormLoaded(bootPage);
-  await humanPause('long');
+  page.setDefaultTimeout(120000);
+  page.setDefaultNavigationTimeout(180000);
 
-  // 讀取所有縣市 option
-  const counties = await readCountyOptions(bootPage);
-  await bootCtx.close();
+  console.log('➡️  打開入口頁面：', START_URL);
+  await gotoStable(page, START_URL, { label: 'goto_fail' });
 
-  // 可用 COUNTIES=9,1,2 指定只跑某些縣市（值用 option value）
-  const pick = (process.env.COUNTIES || '')
-    .split(',')
-    .map(s => s.trim())
-    .filter(Boolean);
-  const targets = pick.length ? counties.filter(c => pick.includes(c.value)) : counties;
+  // 抓縣市列表
+  const counties = await getCountyOptions(page);
 
-  console.log(`將處理縣市（共 ${targets.length} 個）：`, targets.map(c => `${pad2(c.value)}_${c.text}`).join(', '));
+  // 若你只想跑固定的 22 個（與你 log 一致），可在此排序/過濾
+  // 這裡僅印出開頭
+  console.log('將處理縣市（共 %d 個）： %s', counties.length,
+    counties.map((c) => `${c.code}_${c.name}`).join(', '));
 
-  const allMerged = [];
-  const failures  = [];
-
-  // ★★★ 每縣市都用 fresh context/page，避免 session 汙染 ★★★
-  for (const county of targets) {
-    let ctx, page;
+  const taiwanAll = [];
+  for (const c of counties) {
     try {
-      ctx = await browser.newContext({
-        userAgent: FIXED_UA,
-        ignoreHTTPSErrors: true,
-        viewport: pickViewport(),
-        deviceScaleFactor: [1, 2][rand(0, 1)],
-        locale: 'zh-TW',
-        timezoneId: 'Asia/Taipei',
-        colorScheme: ['light', 'dark'][rand(0, 1)],
-      });
-      await ctx.addInitScript(() => {
-        Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
-      });
-      page = await ctx.newPage();
-      page.setDefaultTimeout(NAV_TIMEOUT);
-      page.setDefaultNavigationTimeout(NAV_TIMEOUT);
-
-      // 每輪都重新走首頁→表單，最乾淨
-      await gotoStable(page, BASE, { selector: 'a.queryServiceOrg' });
-      await ensureFormLoaded(page);
-      await humanPause('long');
-
-      const { merged } = await processOneCounty(page, county);
-      allMerged.push(...merged);
-
-      await ctx.close().catch(()=>{});
-      await humanPause('county');
-    } catch (e) {
-      console.error(`❌ ${county.text} 失敗：`, e?.message || e);
-      try {
-        if (page) {
-          await page.screenshot({ path: path.join(OUT, `fail_${pad2(county.value)}_${county.text}.png`), fullPage: true }).catch(()=>{});
-          const html = await page.content().catch(()=>null);
-          if (html) fs.writeFileSync(path.join(OUT, `fail_${pad2(county.value)}_${county.text}.html`), html);
-        }
-      } catch {}
-      failures.push({ county: county.text, error: String(e?.message || e) });
-      try { await ctx?.close(); } catch {}
-      await humanPause('county');
+      const { merged } = await crawlOneCounty(page, c.code, c.name, OUTPUT_DIR);
+      taiwanAll.push(...merged);
+    } catch (err) {
+      console.warn(`縣市 ${c.code}_${c.name} 失敗：${err.message}`);
+      // 保留不中斷，繼續下個縣市
     }
   }
 
-  // 全台合併（僅清洗後合併過的 merged）
-  const allJsonPath = path.join(OUT, 'taiwan_merged_clean.json');
-  const allCsvPath  = path.join(OUT, 'taiwan_merged_clean.csv');
-  fs.writeFileSync(allJsonPath, JSON.stringify({ county: '全台灣', total: allMerged.length, rows: allMerged }, null, 2), 'utf8');
-
-  const headersCsv = [
-    'county','org_name','org_url','phone','address','map_url','pay_detail',
-    'this_week','next_week','next_2_week','next_3_week','in_4_weeks',
-    'edit_date','teleconsultation','has_quota'
-  ];
-  fs.writeFileSync(allCsvPath, toCSV(allMerged, headersCsv), 'utf8');
-
-  console.log(`\n=== 全台完成 ===`);
-  console.log(`合併輸出：${path.basename(allJsonPath)} / ${path.basename(allCsvPath)}`);
-  if (failures.length) {
-    console.log('以下縣市未成功：', failures);
-  }
+  // 全台彙總
+  saveJSON(OUTPUT_TAIWAN, taiwanAll);
+  const TAIWAN_CSV = path.join(OUTPUT_DIR, 'taiwan_merged_clean.csv');
+  await saveCSV(TAIWAN_CSV, taiwanAll);
 
   await browser.close();
-})().catch(e => {
-  console.error('❌ Fatal:', e);
+  console.log('✅ 全部完成');
+})().catch((err) => {
+  console.error(err);
+  // 儘量列出 out 目錄，便於 CI 上除錯（與你現有做法一致）
   try {
-    fs.writeFileSync(path.join(OUT, 'fatal.txt'), String(e?.stack || e?.message || e || 'unknown'));
-  } catch {}
+    console.warn('[WARN] index.js 失敗，嘗試列出 out 目錄以利除錯');
+    const files = fs.readdirSync('out');
+    for (const f of files) {
+      const stat = fs.statSync(path.join('out', f));
+      console.log(stat.size.toString().padStart(10, ' '), f);
+    }
+  } catch { /* ignore */ }
   process.exit(1);
 });

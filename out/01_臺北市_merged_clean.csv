@@ -11,12 +11,12 @@ county,org_name,org_url,phone,address,map_url,pay_detail,this_week,next_week,nex
 臺北市,天母康健身心診所,https://www.facebook.com/HappyDr/?locale=zh_TW,02-28378787,臺北市士林區福華路157巷3號1樓,https://www.google.com.tw/maps/place/臺北市士林區福華路157巷3號1樓,掛號費250元,6,6,6,0,18,2025/09/04,false,true
 臺北市,自由想心理診所,https://www.talkfreelyandthink.com/,02-28314837,臺北市士林區福華路122號2樓,https://www.google.com.tw/maps/place/臺北市士林區福華路122號2樓,無,1,2,2,0,5,2025/09/03,false,true
 臺北市,石牌鄭身心醫學診所,http://www.shipaicheng.com.tw/index.php,02-28227660,臺北市北投區石牌路一段69號,https://www.google.com.tw/maps/place/臺北市北投區石牌路一段69號,掛號費：健保250元；自費850元,3,3,3,3,12,2025/09/08,true,true
-臺北市,夏一新身心精神科診所,https://www.softmind.com.tw,02-87928214,臺北市內湖區成功路三段143號4樓,https://www.google.com.tw/maps/place/臺北市內湖區成功路三段143號4樓,掛號費300元,6,6,6,0,18,2025/09/01,false,true
+臺北市,夏一新身心精神科診所,https://www.softmind.com.tw,02-87928214,臺北市內湖區成功路三段143號4樓,https://www.google.com.tw/maps/place/臺北市內湖區成功路三段143號4樓,掛號費300元,6,6,6,6,24,2025/09/08,false,true
 臺北市,怡心診所,https://ihsinpsy.wixsite.com/home,02-27070112,臺北市大安區大安路一段169巷7號,https://www.google.com.tw/maps/place/臺北市大安區大安路一段169巷7號,掛號費200元,8,9,10,0,27,2025/09/01,false,true
 臺北市,暖心全人諮商中心心理諮商所,https://humanitarian-love.com/,02-23661099,臺北市中正區羅斯福路二段198號6樓之5,https://www.google.com.tw/maps/place/臺北市中正區羅斯福路二段198號6樓之5,無,4,4,4,4,16,2025/09/07,true,true
 臺北市,暖心泉恩心理諮商所,https://humanitarian-love.com/,02-23651099,臺北市中正區南昌路二段192號8樓之2,https://www.google.com.tw/maps/place/臺北市中正區南昌路二段192號8樓之2,無,3,3,3,3,12,2025/09/07,false,true
 臺北市,好窩心理諮商所,https://www.psysweethome.com/home,02-23568846,臺北市中正區和平西路一段17號3樓,https://www.google.com.tw/maps/place/臺北市中正區和平西路一段17號3樓,無,4,0,0,0,4,2025/09/03,true,true
-臺北市,璞願心理諮商所,https://pure-wish.com/,02-23897535、0958-994073,臺北市中正區忠孝西路一段41號10樓之17,https://www.google.com.tw/maps/place/臺北市中正區忠孝西路一段41號10樓之17,無,1,2,4,4,11,2025/09/08,false,true
+臺北市,璞願心理諮商所,https://pure-wish.com/,02-23897535、0958-994073,臺北市中正區忠孝西路一段41號10樓之17,https://www.google.com.tw/maps/place/臺北市中正區忠孝西路一段41號10樓之17,無,1,2,3,4,10,2025/09/08,false,true
 臺北市,擁抱心理博愛館心理諮商所,https://mental-hug.com.tw/,02-23715808,臺北市中正區博愛路76號10樓之2,https://www.google.com.tw/maps/place/臺北市中正區博愛路76號10樓之2,無,6,3,3,0,12,2025/08/31,true,true
 臺北市,一二心理諮商所,https://ercounseling.org/,0932-151618 ，Line ID@fawntaiwan,臺北市中山區南京東路二段176號11樓,https://www.google.com.tw/maps/place/臺北市中山區南京東路二段176號11樓,無,8,8,0,0,16,2025/09/08,true,true
 臺北市,立翎心理諮商所,https://lilincounseling.com,02-2779-0757,臺北市大安區忠孝東路四段183號3樓之6,https://www.google.com.tw/maps/place/臺北市大安區忠孝東路四段183號3樓之6,無,0,0,1,0,1,2025/09/03,false,true
@@ -58,7 +58,7 @@ county,org_name,org_url,phone,address,map_url,pay_detail,this_week,next_week,nex
 臺北市,宇寧身心診所,http://www.yuning.tw/,02-27080706,臺北市大安區復興南路二段6號3樓,https://www.google.com.tw/maps/place/臺北市大安區復興南路二段6號3樓,掛號費400元,0,0,0,0,0,尚未更新,false,false
 臺北市,萬華身心精神科診所,http://www.wellmind.com.tw/index.asp,02-23088878,臺北市萬華區和平西路三段142號1樓,https://www.google.com.tw/maps/place/臺北市萬華區和平西路三段142號1樓,無,0,0,0,0,0,尚未更新,false,false
 臺北市,松德精神科診所,http://www.hwc.com.tw,02-87894477,臺北市信義區松德路108號,https://www.google.com.tw/maps/place/臺北市信義區松德路108號,無,0,0,0,0,0,尚未更新,false,false
-臺北市,誠心身心醫學診所,https://www.drccareyou.com.tw/,02-86631380,臺北市文山區羅斯福路六段138號1樓,https://www.google.com.tw/maps/place/臺北市文山區羅斯福路六段138號1樓,掛號費200元,0,0,0,0,0,2025/09/01,false,false
+臺北市,誠心身心醫學診所,https://www.drccareyou.com.tw/,02-86631380,臺北市文山區羅斯福路六段138號1樓,https://www.google.com.tw/maps/place/臺北市文山區羅斯福路六段138號1樓,掛號費200元,0,0,0,0,0,2025/09/08,false,false
 臺北市,心築身心診所,https://www.mindconstruction.com.tw/,02-28856572,臺北市士林區劍潭路28、30號1樓,https://www.google.com.tw/maps/place/臺北市士林區劍潭路28、30號1樓,掛號費200元,0,0,0,0,0,尚未更新,false,false
 臺北市,士林身心醫學診所,https://www.facebook.com/p/%E5%A3%AB%E6%9E%97%E8%BA%AB%E5%BF%83%E9%86%AB%E5%AD%B8%E8%A8%BA%E6%89%80-100082999257381/?locale=zh_TW,02-28812205,臺北市士林區文林路410號,https://www.google.com.tw/maps/place/臺北市士林區文林路410號,無,0,0,0,0,0,尚未更新,false,false
 臺北市,得心身醫學台北總診所,https://www.devenir-psy.com/,02-27510089,臺北市中山區復興北路60號3樓之2,https://www.google.com.tw/maps/place/臺北市中山區復興北路60號3樓之2,掛號費300元,0,0,0,0,0,2025/09/02,false,false
@@ -70,7 +70,7 @@ county,org_name,org_url,phone,address,map_url,pay_detail,this_week,next_week,nex
 臺北市,沐昂心理諮商所,https://moveon4u.mystrikingly.com/,02-23708442,臺北市中山區松江路297巷4號2樓,https://www.google.com.tw/maps/place/臺北市中山區松江路297巷4號2樓,無,0,0,0,0,0,2025/09/04,false,false
 臺北市,點晴心理諮商所,https://2022sunlight.mystrikingly.com/,0976-710756,臺北市中正區寧波西街87號7樓之2,https://www.google.com.tw/maps/place/臺北市中正區寧波西街87號7樓之2,無,0,0,0,0,0,尚未更新,true,false
 臺北市,蘊寬心理諮商所,https://www.rekosmos.com/,0919-915355,臺北市中山區松江路206號9樓之1,https://www.google.com.tw/maps/place/臺北市中山區松江路206號9樓之1,無,0,0,0,0,0,2025/09/01,true,false
-臺北市,舒心心理諮商所,https://suxinweb.com/,02-25113206,臺北市中山區民生東路一段42號11樓之2,https://www.google.com.tw/maps/place/臺北市中山區民生東路一段42號11樓之2,無,0,0,0,0,0,2025/08/25,false,false
+臺北市,舒心心理諮商所,https://suxinweb.com/,02-25113206,臺北市中山區民生東路一段42號11樓之2,https://www.google.com.tw/maps/place/臺北市中山區民生東路一段42號11樓之2,無,0,0,0,0,0,2025/09/08,false,false
 臺北市,向日葵心理諮商所,https://www.sunflower-psy.com.tw/,02-25921411,臺北市中山區中山北路三段30號3樓之2,https://www.google.com.tw/maps/place/臺北市中山區中山北路三段30號3樓之2,無,0,0,0,0,0,尚未更新,false,false
 臺北市,點亮心燈諮商中心心理諮商所,https://tolightheartweb.mystrikingly.com/,02-27849528、0968-138838,臺北市中山區松江路289之910號9樓,https://www.google.com.tw/maps/place/臺北市中山區松江路289之910號9樓,無,0,0,0,0,0,2025/09/01,true,false
 臺北市,天光心理諮商所,https://www.thinnkng.com.tw/,02-25117403、0972-882137,臺北市中山區天祥路22號2樓,https://www.google.com.tw/maps/place/臺北市中山區天祥路22號2樓,無,0,0,0,0,0,尚未更新,false,false

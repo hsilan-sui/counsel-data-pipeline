@@ -1,8 +1,8 @@
 county,org_name,org_url,phone,address,map_url,pay_detail,this_week,next_week,next_2_week,next_3_week,in_4_weeks,edit_date,teleconsultation,has_quota
 高雄市,小魚兒心理治療所,https://www.childpsycho365.com,(07)398-0118,高雄市三民區澄清路620號2樓,https://www.google.com.tw/maps/place/高雄市三民區澄清路620號2樓,行政處理費500元,2,2,0,0,4,2025/09/01,true,true
-高雄市,小魚兒心理成長空間心理治療所,https://linktr.ee/childpsycho365,(07)398-0118,高雄市三民區澄和路25號,https://www.google.com.tw/maps/place/高雄市三民區澄和路25號,行政處理費500元,2,2,2,0,6,2025/09/04,true,true
+高雄市,小魚兒心理成長空間心理治療所,https://linktr.ee/childpsycho365,(07)398-0118,高雄市三民區澄和路25號,https://www.google.com.tw/maps/place/高雄市三民區澄和路25號,行政處理費500元,2,2,2,2,8,2025/09/08,true,true
 高雄市,盼望心理治療所,https://www.livinghopetw.com/,(07)550-6592,高雄市左營區至聖路3號,https://www.google.com.tw/maps/place/高雄市左營區至聖路3號,行政處理費200元,0,0,2,0,2,2025/09/01,true,true
-高雄市,微風心理治療所,https://www.breeze-psychology.com/,0911-901-899,高雄市鼓山區美術東三路23號,https://www.google.com.tw/maps/place/高雄市鼓山區美術東三路23號,行政處理費400元,12,12,12,0,36,2025/09/04,true,true
+高雄市,微風心理治療所,https://www.breeze-psychology.com/,0911-901-899,高雄市鼓山區美術東三路23號,https://www.google.com.tw/maps/place/高雄市鼓山區美術東三路23號,行政處理費400元,12,12,12,12,48,2025/09/08,true,true
 高雄市,心之森心理治療所,https://www.forestofmind.com/,(07)380-9380,高雄市三民區民族巷1-7號,https://www.google.com.tw/maps/place/高雄市三民區民族巷1-7號,行政處理費200元,2,2,2,0,6,2025/09/04,true,true
 高雄市,溫島心理治療所,https://www.facebook.com/wondermind515,(07)963-8515,高雄市前鎮區瑞和街6號,https://www.google.com.tw/maps/place/高雄市前鎮區瑞和街6號,掛號費100元,4,6,6,0,16,2025/09/03,false,true
 高雄市,心托邦心理治療所,https://www.mindtopia.com.tw/,0983-769-055,高雄市苓雅區中正二路131號,https://www.google.com.tw/maps/place/高雄市苓雅區中正二路131號,行政處理費200元,0,0,4,0,4,2025/09/01,true,true
@@ -18,14 +18,15 @@ county,org_name,org_url,phone,address,map_url,pay_detail,this_week,next_week,nex
 高雄市,靠港心理諮商所,https://www.facebook.com/profile.php?id=61556501167864,0972-779-011,高雄市小港區維安街48巷29弄2-6號5樓,https://www.google.com.tw/maps/place/高雄市小港區維安街48巷29弄2-6號5樓,無,5,4,6,0,15,2025/09/02,false,true
 高雄市,心靈角落心理諮商所,https://www.facebook.com/PsychoasisStudio,從網站FB申請預約,高雄市左營區自由二路142巷28號,https://www.google.com.tw/maps/place/高雄市左營區自由二路142巷28號,無,3,3,3,0,9,2025/08/31,false,true
 高雄市,心蘊心理諮商所,https://www.mellowcounseling.com/,Line ID：@mc2020,高雄市苓雅區成功一路232號13樓之9,https://www.google.com.tw/maps/place/高雄市苓雅區成功一路232號13樓之9,無,12,12,12,12,48,2025/09/08,true,true
-高雄市,港灣藝術心理諮商所,https://harborarttherapy.com/,Line ID：@harborart,高雄市三民區察哈爾二街10巷45號,https://www.google.com.tw/maps/place/高雄市三民區察哈爾二街10巷45號,行政處理費300元,4,4,4,0,12,2025/09/03,false,true
+高雄市,神木心理諮商所,https://www.facebook.com/profile.php?id=61556593215868&mibextid=LQQJ4d,0901-245-230,高雄市前鎮區二聖路230號,https://www.google.com.tw/maps/place/高雄市前鎮區二聖路230號,無,2,2,0,0,4,2025/09/08,false,true
+高雄市,港灣藝術心理諮商所,https://harborarttherapy.com/,Line ID：@harborart,高雄市三民區察哈爾二街10巷45號,https://www.google.com.tw/maps/place/高雄市三民區察哈爾二街10巷45號,行政處理費300元,4,4,4,4,16,2025/09/08,false,true
 高雄市,浪心人心理諮商所,https://www.outhearter.org,0921-311-675,高雄市鳳山區青年路一段262巷39號1樓,https://www.google.com.tw/maps/place/高雄市鳳山區青年路一段262巷39號1樓,行政處理費200元,1,1,1,0,3,2025/09/06,true,true
 高雄市,欣語心理諮商所,https://www.heartrich2017.com/,0968-991-520,高雄市三民區天津街148號1-2樓,https://www.google.com.tw/maps/place/高雄市三民區天津街148號1-2樓,無,2,2,3,0,7,2025/09/01,false,true
 高雄市,冬勝診所,https://www.facebook.com/dongshengclinic,(07)727-8392,高雄市苓雅區中正一路472號,https://www.google.com.tw/maps/place/高雄市苓雅區中正一路472號,行政處理費400元,6,6,6,0,18,2025/08/31,false,true
 高雄市,澄清文鳳診所,http://www.phoenixclinic.com.tw/,(07)398-6611,高雄市三民區澄清路651號1-2樓,https://www.google.com.tw/maps/place/高雄市三民區澄清路651號1-2樓,掛號費150元,3,3,5,0,11,2025/09/01,false,true
-高雄市,維佳身心診所,https://www.facebook.com/profile.php?id=100090506332137,(07)364-6776,高雄市楠梓區加仁路153號,https://www.google.com.tw/maps/place/高雄市楠梓區加仁路153號,掛號費150元,2,3,3,4,12,2025/09/08,false,true
-高雄市,心欣診所,https://www.facebook.com/JoycePsychiatricClinic/,(07)364-0490,高雄市楠梓區德民路822號,https://www.google.com.tw/maps/place/高雄市楠梓區德民路822號,掛號費100元,4,3,4,0,11,2025/09/01,false,true
-高雄市,茂德診所,,(07)312-2238,高雄市三民區自由一路14號,https://www.google.com.tw/maps/place/高雄市三民區自由一路14號,無,6,8,10,0,24,2025/09/06,false,true
+高雄市,維佳身心診所,https://www.facebook.com/profile.php?id=100090506332137,(07)364-6776,高雄市楠梓區加仁路153號,https://www.google.com.tw/maps/place/高雄市楠梓區加仁路153號,掛號費150元,1,3,3,4,11,2025/09/08,false,true
+高雄市,心欣診所,https://www.facebook.com/JoycePsychiatricClinic/,(07)364-0490,高雄市楠梓區德民路822號,https://www.google.com.tw/maps/place/高雄市楠梓區德民路822號,掛號費100元,2,3,4,4,13,2025/09/08,false,true
+高雄市,茂德診所,,(07)312-2238,高雄市三民區自由一路14號,https://www.google.com.tw/maps/place/高雄市三民區自由一路14號,無,4,8,10,10,32,2025/09/08,false,true
 高雄市,楊明仁診所,,(07)223-2223,高雄市苓雅區憲政路258-1號,https://www.google.com.tw/maps/place/高雄市苓雅區憲政路258-1號,掛號費230元,4,4,5,0,13,2025/09/02,false,true
 高雄市,仁武深忻診所,https://renwu-heartconsult.tw/,(07)374-6583,高雄市仁武區仁雄路67-5號,https://www.google.com.tw/maps/place/高雄市仁武區仁雄路67-5號,行政處理費400元,2,2,2,0,6,2025/09/01,false,true
 高雄市,耕心療癒診所,https://www.healing.tw/,(07)359-2011,高雄市左營區曾子路332號,https://www.google.com.tw/maps/place/高雄市左營區曾子路332號,無,10,10,10,0,30,2025/09/04,false,true
@@ -61,7 +62,6 @@ county,org_name,org_url,phone,address,map_url,pay_detail,this_week,next_week,nex
 高雄市,藍秀宏心理諮商所,,0988-271-987,高雄市鼓山區博愛二路343號5樓之2,https://www.google.com.tw/maps/place/高雄市鼓山區博愛二路343號5樓之2,無,0,0,0,0,0,2025/09/03,false,false
 高雄市,好加在心理諮商所,https://haojazai.com/,0975-733-510,高雄市苓雅區苓雅一路15號三樓,https://www.google.com.tw/maps/place/高雄市苓雅區苓雅一路15號三樓,行政處理費400元,0,0,0,0,0,2025/09/04,false,false
 高雄市,慢慢心理諮商所,https://maman5361050.com/,(07)536-1050,高雄市前鎮區一心二路21號5樓之3,https://www.google.com.tw/maps/place/高雄市前鎮區一心二路21號5樓之3,無,0,0,0,0,0,2025/09/07,false,false
-高雄市,神木心理諮商所,https://www.facebook.com/profile.php?id=61556593215868&mibextid=LQQJ4d,0901-245-230,高雄市前鎮區二聖路230號,https://www.google.com.tw/maps/place/高雄市前鎮區二聖路230號,無,0,0,0,0,0,尚未更新,false,false
 高雄市,高安診所,https://sites.google.com/view/kao-an/,0905-414-363,高雄市新興區中山一路59號,https://www.google.com.tw/maps/place/高雄市新興區中山一路59號,無,0,0,0,0,0,尚未更新,false,false
 高雄市,心悅診所,https://www.facebook.com/profile.php?id=100064048774868,(07)380-5562,高雄市三民區建工路587號,https://www.google.com.tw/maps/place/高雄市三民區建工路587號,掛號費200元,0,0,0,0,0,2025/09/08,true,false
 高雄市,和成診所,https://clinic3.ark-medicine.com/doctorterm,(07)796-1900,高雄市鳳山區和成路71號,https://www.google.com.tw/maps/place/高雄市鳳山區和成路71號,掛號費100元,0,0,0,0,0,尚未更新,false,false

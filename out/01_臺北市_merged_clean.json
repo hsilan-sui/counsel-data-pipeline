@@ -217,9 +217,9 @@
       "this_week": 6,
       "next_week": 6,
       "next_2_week": 6,
-      "next_3_week": 0,
-      "in_4_weeks": 18,
-      "edit_date": "2025/09/01",
+      "next_3_week": 6,
+      "in_4_weeks": 24,
+      "edit_date": "2025/09/08",
       "teleconsultation": false,
       "has_quota": true
     },
@@ -301,9 +301,9 @@
       "pay_detail": "無",
       "this_week": 1,
       "next_week": 2,
-      "next_2_week": 4,
+      "next_2_week": 3,
       "next_3_week": 4,
-      "in_4_weeks": 11,
+      "in_4_weeks": 10,
       "edit_date": "2025/09/08",
       "teleconsultation": false,
       "has_quota": true
@@ -1018,7 +1018,7 @@
       "next_2_week": 0,
       "next_3_week": 0,
       "in_4_weeks": 0,
-      "edit_date": "2025/09/01",
+      "edit_date": "2025/09/08",
       "teleconsultation": false,
       "has_quota": false
     },
@@ -1222,7 +1222,7 @@
       "next_2_week": 0,
       "next_3_week": 0,
       "in_4_weeks": 0,
-      "edit_date": "2025/08/25",
+      "edit_date": "2025/09/08",
       "teleconsultation": false,
       "has_quota": false
     },
