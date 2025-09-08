@@ -55,9 +55,10 @@ jobs:
             exit 1
           fi
 
-          mkdir -p out
+          mkdir -p public data out   # ★ 先把三個資料夾都建立
 
           docker run --rm --platform=linux/amd64 \
+            --shm-size=1g --ipc=host \   # ★ 讓 Chromium 在 CI 穩定
             -e OPENCAGE_API_KEY \
             -e NOMINATIM_USER_AGENT \
             -e CI=1 \
@@ -68,8 +69,13 @@ jobs:
             bash -lc '
               set -euo pipefail
 
-              # 1) 爬蟲產出 clean
-              node src/index.js --out ./out/taiwan_merged_clean.json
+              # 1) 爬蟲產出 clean（新版 index.js 已內建逐縣市與合併）
+              node src/index.js --out ./out/taiwan_merged_clean.json || {
+                # 失敗時把畫面與 HTML 存起來（index.js 也會存）
+                echo "[WARN] index.js 失敗，嘗試列出 out 目錄以利除錯"
+                ls -al out || true
+                exit 1
+              }
 
               # 2) 合併 + geocode + diff
               node src/geocode-diff-merge.js \
@@ -89,6 +95,7 @@ jobs:
         id: commit_a
         run: |
           set -e
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"  # ★ 避免 ownership 警告
           git config --global user.name  "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
@@ -103,7 +110,7 @@ jobs:
             echo "changed=0" >> $GITHUB_OUTPUT
           fi
 
-      # 7) 產出 artifacts 方便下載檢視
+      # 7) 產出 artifacts 方便下載檢視（加上失敗證據檔）
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
@@ -113,6 +120,9 @@ jobs:
             public/clinics.json
             out/new_clinics.json
             out/taiwan_merged_clean.json
+            out/*.png            # ★ 若有失敗截圖
+            out/*.html           # ★ 若有失敗 HTML
+            out/fatal.txt        # ★ 若主程式捕捉到致命錯誤
 
       # 8) 同步到 Repo B（只有有變更才執行）
       - name: Sync to Repo B main (src/data/clinics.json)
@@ -145,7 +155,6 @@ jobs:
           # 盡力偵測預設分支；抓不到就用 main
           DEFAULT_BRANCH="$(git symbolic-ref --quiet --short refs/remotes/origin/HEAD 2>/dev/null | cut -d'/' -f2 || true)"
           if [ -z "$DEFAULT_BRANCH" ]; then
-            # 退而求其次：看 remote 顯示；再不行就 main
             DEFAULT_BRANCH="$(git remote show origin | awk '/HEAD branch/ {print $NF}' || true)"
           fi
           BRANCH="${DEFAULT_BRANCH:-main}"
