@@ -1,29 +1,15 @@
-# Dockerfile
-FROM mcr.microsoft.com/playwright:v1.46.0-jammy
-
-# 系統層：時區與常用工具
+# 放在 FROM 後、任何 apt 指令之前
+ENV DEBIAN_FRONTEND=noninteractive
 ENV TZ=Asia/Taipei
-RUN apt-get update && apt-get install -y --no-install-recommends \
-    tzdata curl ca-certificates jq \
- && rm -rf /var/lib/apt/lists/*
 
-# Node 環境
-WORKDIR /app
-COPY package*.json ./
-RUN npm ci --omit=dev
+# 安裝 tzdata / curl / ca-certificates / jq（非互動）
+RUN set -eux; \
+    ln -fs /usr/share/zoneinfo/${TZ} /etc/localtime; \
+    apt-get update; \
+    apt-get install -y --no-install-recommends tzdata curl ca-certificates jq; \
+    dpkg-reconfigure -f noninteractive tzdata; \
+    rm -rf /var/lib/apt/lists/*
 
-# 程式碼
-COPY src ./src
-COPY scripts ./scripts
-COPY data ./data
-COPY public ./public
-
-# 預設環境
-ENV NODE_ENV=production
-ENV PLAYWRIGHT_BROWSERS_PATH=/ms-playwright
-
-# 以非 root 身份執行較安全
-USER pwuser
 
 # 預設不啟動；由外部 docker run 指令決定要跑什麼
 
