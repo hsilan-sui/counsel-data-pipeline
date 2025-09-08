@@ -39,7 +39,7 @@ run-crawler:
 		$(IMAGE_NAME) \
 		bash -lc '\
 			mkdir -p out && \
-			node src/crawl.js --out ./out/taiwan_merged_clean.json && \
+			node src/index.js --out ./out/taiwan_merged_clean.json && \
 			node src/geocode-diff-merge.js \
 				--clean ./out/taiwan_merged_clean.json \
 				--prev  ./public/clinics.json \

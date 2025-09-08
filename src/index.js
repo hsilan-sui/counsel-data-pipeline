@@ -342,7 +342,7 @@ async function processOneCounty(page, county) {
 /* ============================== 主程式 ============================== */
 (async () => {
   const browser = await chromium.launch({
-    headless: false,
+    headless: true,
     slowMo: 50 + rand(0, 40) // 讓每步驟稍有差異
   });
   const vp = pickViewport();
