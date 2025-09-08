@@ -67,11 +67,17 @@ jobs:
           docker run --rm --platform=linux/amd64 \
             -e OPENCAGE_API_KEY \
             -e NOMINATIM_USER_AGENT \
+            -e CI=1 \
             -v "$PWD":/app \
             -w /app \
             local/clinics-crawler:latest \
             bash -lc '
               set -euo pipefail
+          
+              # ⭐ 先安裝依賴與瀏覽器（因為 bind mount 蓋掉了 image 內的 node_modules）
+              npm ci
+              npx playwright install --with-deps chromium
+              
               mkdir -p out &&
 
               # 1) 爬蟲：輸出 clean 檔
