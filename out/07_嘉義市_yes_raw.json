@@ -1,5 +1,5 @@
 {
-  "total": 6,
+  "total": 7,
   "rows": [
     {
       "countyName": "嘉義市",
@@ -14,9 +14,9 @@
       "next2WeekRange": null,
       "next2WeekCount": 3,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 9,
-      "editDate": "2025/09/01",
+      "next3WeekCount": 3,
+      "in4WeekTotleCount": 12,
+      "editDate": "2025/09/08",
       "strTeleconsultation": "否"
     },
     {
@@ -50,10 +50,28 @@
       "next2WeekRange": null,
       "next2WeekCount": 2,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 6,
-      "editDate": "2025/09/04",
+      "next3WeekCount": 2,
+      "in4WeekTotleCount": 8,
+      "editDate": "2025/09/08",
       "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "嘉義市",
+      "orgName": "<a href='https://www.xin-ming.org/' target='_blank'>欣明心理治療所</a>",
+      "phone": "05-2787282",
+      "address": "<a href='https://www.google.com.tw/maps/place/嘉義市東區安和街234號' target='_blank'>嘉義市東區安和街234號</a>",
+      "payDetail": "自114年4月1日起增收掛號費150元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 3,
+      "in4WeekTotleCount": 3,
+      "editDate": "2025/09/08",
+      "strTeleconsultation": "是"
     },
     {
       "countyName": "嘉義市",
@@ -106,7 +124,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 19,
-      "editDate": "2025/09/02",
+      "editDate": "2025/09/08",
       "strTeleconsultation": "是"
     }
   ],

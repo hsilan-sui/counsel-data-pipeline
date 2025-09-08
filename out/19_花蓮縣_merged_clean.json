@@ -64,9 +64,9 @@
       "this_week": 3,
       "next_week": 3,
       "next_2_week": 3,
-      "next_3_week": 0,
-      "in_4_weeks": 9,
-      "edit_date": "2025/09/04",
+      "next_3_week": 3,
+      "in_4_weeks": 12,
+      "edit_date": "2025/09/08",
       "teleconsultation": false,
       "has_quota": true
     },

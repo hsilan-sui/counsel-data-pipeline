@@ -98,15 +98,15 @@
       "address": "<a href='https://www.google.com.tw/maps/place/新北市林口區仁愛二路77號1樓' target='_blank'>新北市林口區仁愛二路77號1樓</a>",
       "payDetail": "行政費用400元",
       "thisWeekRange": null,
-      "thisWeekCount": 10,
+      "thisWeekCount": 6,
       "nextWeekRange": null,
       "nextWeekCount": 10,
       "next2WeekRange": null,
       "next2WeekCount": 10,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 30,
-      "editDate": "2025/09/01",
+      "next3WeekCount": 10,
+      "in4WeekTotleCount": 36,
+      "editDate": "2025/09/07",
       "strTeleconsultation": "是"
     },
     {
@@ -140,9 +140,9 @@
       "next2WeekRange": null,
       "next2WeekCount": 8,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 24,
-      "editDate": "2025/09/01",
+      "next3WeekCount": 8,
+      "in4WeekTotleCount": 32,
+      "editDate": "2025/09/08",
       "strTeleconsultation": "是"
     },
     {
@@ -154,13 +154,13 @@
       "thisWeekRange": null,
       "thisWeekCount": 5,
       "nextWeekRange": null,
-      "nextWeekCount": 0,
+      "nextWeekCount": 5,
       "next2WeekRange": null,
-      "next2WeekCount": 0,
+      "next2WeekCount": 5,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 5,
-      "editDate": "2025/08/18",
+      "next3WeekCount": 5,
+      "in4WeekTotleCount": 20,
+      "editDate": "2025/09/08",
       "strTeleconsultation": "是"
     },
     {
@@ -210,11 +210,11 @@
       "nextWeekRange": null,
       "nextWeekCount": 2,
       "next2WeekRange": null,
-      "next2WeekCount": 0,
+      "next2WeekCount": 2,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 4,
-      "editDate": "2025/08/25",
+      "next3WeekCount": 2,
+      "in4WeekTotleCount": 8,
+      "editDate": "2025/09/08",
       "strTeleconsultation": "否"
     },
     {
@@ -340,7 +340,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 1,
-      "editDate": "2025/09/06",
+      "editDate": "2025/09/08",
       "strTeleconsultation": "否"
     }
   ],

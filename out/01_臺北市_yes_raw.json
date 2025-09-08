@@ -1,5 +1,5 @@
 {
-  "total": 43,
+  "total": 44,
   "rows": [
     {
       "countyName": "臺北市",
@@ -50,9 +50,9 @@
       "next2WeekRange": null,
       "next2WeekCount": 1,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 3,
-      "editDate": "2025/09/01",
+      "next3WeekCount": 1,
+      "in4WeekTotleCount": 4,
+      "editDate": "2025/09/08",
       "strTeleconsultation": "否"
     },
     {
@@ -62,15 +62,15 @@
       "address": "<a href='https://www.google.com.tw/maps/place/臺北市萬華區西園路二段270號' target='_blank'>臺北市萬華區西園路二段270號</a>",
       "payDetail": "無",
       "thisWeekRange": null,
-      "thisWeekCount": 6,
+      "thisWeekCount": 5,
       "nextWeekRange": null,
       "nextWeekCount": 6,
       "next2WeekRange": null,
       "next2WeekCount": 6,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 18,
-      "editDate": "2025/09/02",
+      "next3WeekCount": 6,
+      "in4WeekTotleCount": 23,
+      "editDate": "2025/09/08",
       "strTeleconsultation": "否"
     },
     {
@@ -98,15 +98,15 @@
       "address": "<a href='https://www.google.com.tw/maps/place/臺北市松山區三民路84號.健康路345號及民生東路5段192號2樓之3' target='_blank'>臺北市松山區三民路84號.健康路345號及民生東路5段192號2樓之3</a>",
       "payDetail": "掛號費600元",
       "thisWeekRange": null,
-      "thisWeekCount": 1,
+      "thisWeekCount": 0,
       "nextWeekRange": null,
-      "nextWeekCount": 1,
+      "nextWeekCount": 0,
       "next2WeekRange": null,
-      "next2WeekCount": 4,
+      "next2WeekCount": 3,
       "next3WeekRange": null,
       "next3WeekCount": 0,
-      "in4WeekTotleCount": 6,
-      "editDate": "2025/09/01",
+      "in4WeekTotleCount": 3,
+      "editDate": "2025/09/08",
       "strTeleconsultation": "是"
     },
     {
@@ -212,9 +212,9 @@
       "next2WeekRange": null,
       "next2WeekCount": 3,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 9,
-      "editDate": "2025/09/01",
+      "next3WeekCount": 3,
+      "in4WeekTotleCount": 12,
+      "editDate": "2025/09/08",
       "strTeleconsultation": "是"
     },
     {
@@ -318,11 +318,11 @@
       "nextWeekRange": null,
       "nextWeekCount": 2,
       "next2WeekRange": null,
-      "next2WeekCount": 5,
+      "next2WeekCount": 4,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 8,
-      "editDate": "2025/09/06",
+      "next3WeekCount": 4,
+      "in4WeekTotleCount": 11,
+      "editDate": "2025/09/08",
       "strTeleconsultation": "否"
     },
     {
@@ -358,7 +358,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 16,
-      "editDate": "2025/09/06",
+      "editDate": "2025/09/08",
       "strTeleconsultation": "是"
     },
     {
@@ -422,15 +422,15 @@
       "address": "<a href='https://www.google.com.tw/maps/place/臺北市士林區中山北路七段141巷5號4樓' target='_blank'>臺北市士林區中山北路七段141巷5號4樓</a>",
       "payDetail": "無",
       "thisWeekRange": null,
-      "thisWeekCount": 6,
+      "thisWeekCount": 5,
       "nextWeekRange": null,
-      "nextWeekCount": 6,
+      "nextWeekCount": 4,
       "next2WeekRange": null,
       "next2WeekCount": 6,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 18,
-      "editDate": "2025/09/03",
+      "next3WeekCount": 5,
+      "in4WeekTotleCount": 20,
+      "editDate": "2025/09/08",
       "strTeleconsultation": "是"
     },
     {
@@ -449,6 +449,24 @@
       "next3WeekCount": 0,
       "in4WeekTotleCount": 30,
       "editDate": "2025/09/02",
+      "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "臺北市",
+      "orgName": "<a href='https://psyclinic.dingup.cc/' target='_blank'>賦能心理治療所</a>",
+      "phone": "02-27680668",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺北市松山區民生東路五段202之3號1樓' target='_blank'>臺北市松山區民生東路五段202之3號1樓</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 3,
+      "in4WeekTotleCount": 3,
+      "editDate": "2025/09/08",
       "strTeleconsultation": "是"
     },
     {
@@ -482,9 +500,9 @@
       "next2WeekRange": null,
       "next2WeekCount": 3,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 9,
-      "editDate": "2025/09/01",
+      "next3WeekCount": 3,
+      "in4WeekTotleCount": 12,
+      "editDate": "2025/09/08",
       "strTeleconsultation": "是"
     },
     {
@@ -552,11 +570,11 @@
       "nextWeekRange": null,
       "nextWeekCount": 8,
       "next2WeekRange": null,
-      "next2WeekCount": 0,
+      "next2WeekCount": 8,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 16,
-      "editDate": "2025/08/24",
+      "next3WeekCount": 8,
+      "in4WeekTotleCount": 32,
+      "editDate": "2025/09/08",
       "strTeleconsultation": "否"
     },
     {

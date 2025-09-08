@@ -1,5 +1,5 @@
 {
-  "total": 13,
+  "total": 11,
   "rows": [
     {
       "countyName": "桃園市",
@@ -32,9 +32,9 @@
       "next2WeekRange": null,
       "next2WeekCount": 5,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 15,
-      "editDate": "2025/09/01",
+      "next3WeekCount": 5,
+      "in4WeekTotleCount": 20,
+      "editDate": "2025/09/08",
       "strTeleconsultation": "否"
     },
     {
@@ -158,27 +158,9 @@
       "next2WeekRange": null,
       "next2WeekCount": 5,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 15,
-      "editDate": "2025/09/01",
-      "strTeleconsultation": "否"
-    },
-    {
-      "countyName": "桃園市",
-      "orgName": "<a href='https://hsuanann-psy.carrd.co/' target='_blank'>宣恩心理諮商所</a>",
-      "phone": "0905-498-990",
-      "address": "<a href='https://www.google.com.tw/maps/place/桃園市中壢區寶慶街17號一樓' target='_blank'>桃園市中壢區寶慶街17號一樓</a>",
-      "payDetail": "無",
-      "thisWeekRange": null,
-      "thisWeekCount": 1,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 1,
-      "editDate": "2025/09/04",
+      "next3WeekCount": 5,
+      "in4WeekTotleCount": 20,
+      "editDate": "2025/09/08",
       "strTeleconsultation": "否"
     },
     {
@@ -215,24 +197,6 @@
       "next3WeekCount": 0,
       "in4WeekTotleCount": 45,
       "editDate": "2025/09/05",
-      "strTeleconsultation": "否"
-    },
-    {
-      "countyName": "桃園市",
-      "orgName": "<a href='https://www.beingwithshalom.com/' target='_blank'>有伴心理諮商所</a>",
-      "phone": "0975665345(周一至周四上午9:00~12:00)",
-      "address": "<a href='https://www.google.com.tw/maps/place/桃園市中壢區民權路245-1號(2樓)' target='_blank'>桃園市中壢區民權路245-1號(2樓)</a>",
-      "payDetail": "100",
-      "thisWeekRange": null,
-      "thisWeekCount": 1,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 1,
-      "editDate": "2025/09/06",
       "strTeleconsultation": "否"
     }
   ],

@@ -1,7 +1,7 @@
 county,org_name,org_url,phone,address,map_url,pay_detail,this_week,next_week,next_2_week,next_3_week,in_4_weeks,edit_date,teleconsultation,has_quota
 臺中市,好時光心理治療所,https://gtpsy.com/,0910957527 或加入LINEID: @xfb1049s,台中市大里區國光路二段337號,https://www.google.com.tw/maps/place/台中市大里區國光路二段337號,無,5,5,5,0,15,2025/09/02,false,true
-臺中市,財團法人台灣省私立台中仁愛之家附設靜和醫院,http://www.cott.org.tw/,04-23711129#1124,台中市西區南屯路一段158號,https://www.google.com.tw/maps/place/台中市西區南屯路一段158號,無,5,10,10,0,25,2025/09/01,false,true
-臺中市,寶貝心理諮商所,https://babycounselingtw.weebly.com/,0966299469 或加入Line ID : @330mnqrw,台中市梧棲區民和路一段200號二樓,https://www.google.com.tw/maps/place/台中市梧棲區民和路一段200號二樓,無,8,8,8,0,24,2025/09/03,true,true
+臺中市,財團法人台灣省私立台中仁愛之家附設靜和醫院,http://www.cott.org.tw/,04-23711129#1124,台中市西區南屯路一段158號,https://www.google.com.tw/maps/place/台中市西區南屯路一段158號,無,5,10,10,5,30,2025/09/08,false,true
+臺中市,寶貝心理諮商所,https://babycounselingtw.weebly.com/,0966299469 或加入Line ID : @330mnqrw,台中市梧棲區民和路一段200號二樓,https://www.google.com.tw/maps/place/台中市梧棲區民和路一段200號二樓,無,8,8,8,8,32,2025/09/08,true,true
 臺中市,怡然心理治療所,http://yiranmind.com,0905467481,台中市西區三民路一段170號4樓之2,https://www.google.com.tw/maps/place/台中市西區三民路一段170號4樓之2,無,6,6,6,0,18,2025/09/04,true,true
 臺中市,如穎心理成長中心心理治療所,http://blog.ru-yin.org,04-22282220,台中市中區柳川東路三段5號5樓,https://www.google.com.tw/maps/place/台中市中區柳川東路三段5號5樓,無,8,10,0,0,18,2025/09/01,true,true
 臺中市,心嶼心理治療所,https://www.heartisland.com.tw/,0903645359,台中市北屯區軍福十三路327號,https://www.google.com.tw/maps/place/台中市北屯區軍福十三路327號,無,12,10,10,0,32,2025/09/01,true,true
@@ -42,7 +42,7 @@ county,org_name,org_url,phone,address,map_url,pay_detail,this_week,next_week,nex
 臺中市,拾月拾日豐原心理治療所,https://1010psy.com.tw,0919591010 或 LINEID:@1010psy,台中市豐原區葫蘆墩三街199號,https://www.google.com.tw/maps/place/台中市豐原區葫蘆墩三街199號,無,0,0,0,0,0,尚未更新,true,false
 臺中市,一心心理諮商所,https://www.onecc.com.tw/,04-22075313,台中市北區華中街25號,https://www.google.com.tw/maps/place/台中市北區華中街25號,無,0,0,0,0,0,尚未更新,true,false
 臺中市,蛹之生成長心理諮商所,https://www.morph.com.tw/,0968-070-620,台中市南屯區五權西路二段478-1號,https://www.google.com.tw/maps/place/台中市南屯區五權西路二段478-1號,無,0,0,0,0,0,尚未更新,true,false
-臺中市,德仁診所,,04-22652718,台中市南區南平路314號,https://www.google.com.tw/maps/place/台中市南區南平路314號,掛號費200元,0,0,0,0,0,2025/08/27,false,false
+臺中市,德仁診所,,04-22652718,台中市南區南平路314號,https://www.google.com.tw/maps/place/台中市南區南平路314號,掛號費200元,0,0,0,0,0,2025/09/07,false,false
 臺中市,耕心心理諮商所,https://www.innerfield.com.tw/,0912622798 或加入LINEID:@156frpfu,台中市南屯區大墩南路412號,https://www.google.com.tw/maps/place/台中市南屯區大墩南路412號,無,0,0,0,0,0,尚未更新,false,false
 臺中市,臺中榮民總醫院,,04-23592525#3402,臺中市西屯區臺灣大道4段1650號,https://www.google.com.tw/maps/place/臺中市西屯區臺灣大道4段1650號,需先掛號精神科收掛號費570元，後續不需自付費用,0,0,0,0,0,尚未更新,false,false
 臺中市,竹見好轉心理諮商所,https://ugetbetter.com/,04-22788855 或加入LINEID: @getbetter,台中市太平區成功東路 55 巷 2 號,https://www.google.com.tw/maps/place/台中市太平區成功東路 55 巷 2 號,無,0,0,0,0,0,尚未更新,true,false

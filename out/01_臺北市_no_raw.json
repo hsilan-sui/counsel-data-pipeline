@@ -1,5 +1,5 @@
 {
-  "total": 93,
+  "total": 92,
   "rows": [
     {
       "countyName": "臺北市",
@@ -214,7 +214,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/09/01",
+      "editDate": "2025/09/08",
       "strTeleconsultation": "否"
     },
     {
@@ -376,7 +376,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/09/04",
+      "editDate": "2025/09/08",
       "strTeleconsultation": "否"
     },
     {
@@ -412,7 +412,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/09/04",
+      "editDate": "2025/09/08",
       "strTeleconsultation": "否"
     },
     {
@@ -574,7 +574,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/09/04",
+      "editDate": "2025/09/08",
       "strTeleconsultation": "是"
     },
     {
@@ -610,7 +610,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/09/02",
+      "editDate": "2025/09/08",
       "strTeleconsultation": "否"
     },
     {
@@ -736,7 +736,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/09/05",
+      "editDate": "2025/09/08",
       "strTeleconsultation": "是"
     },
     {
@@ -1007,24 +1007,6 @@
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
       "editDate": "尚未更新",
-      "strTeleconsultation": "是"
-    },
-    {
-      "countyName": "臺北市",
-      "orgName": "<a href='https://psyclinic.dingup.cc/' target='_blank'>賦能心理治療所</a>",
-      "phone": "02-27680668",
-      "address": "<a href='https://www.google.com.tw/maps/place/臺北市松山區民生東路五段202之3號1樓' target='_blank'>臺北市松山區民生東路五段202之3號1樓</a>",
-      "payDetail": "無",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "2025/09/04",
       "strTeleconsultation": "是"
     },
     {
@@ -1330,7 +1312,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/09/04",
+      "editDate": "2025/09/08",
       "strTeleconsultation": "否"
     },
     {

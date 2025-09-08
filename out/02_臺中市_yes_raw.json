@@ -32,9 +32,9 @@
       "next2WeekRange": null,
       "next2WeekCount": 10,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 25,
-      "editDate": "2025/09/01",
+      "next3WeekCount": 5,
+      "in4WeekTotleCount": 30,
+      "editDate": "2025/09/08",
       "strTeleconsultation": "否"
     },
     {
@@ -50,9 +50,9 @@
       "next2WeekRange": null,
       "next2WeekCount": 8,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 24,
-      "editDate": "2025/09/03",
+      "next3WeekCount": 8,
+      "in4WeekTotleCount": 32,
+      "editDate": "2025/09/08",
       "strTeleconsultation": "是"
     },
     {
