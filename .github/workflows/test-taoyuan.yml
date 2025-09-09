@@ -38,7 +38,9 @@ jobs:
           echo "=== Node & Playwright versions in container ==="
           docker run --rm local/clinics-crawler:latest node -v
           docker run --rm local/clinics-crawler:latest npx playwright --version
+          docker run --rm local/clinics-crawler:latest node -e "console.log('resolve:', require.resolve('playwright'))"
           echo "============================================="
+
 
       - name: Prepare folders
         run: mkdir -p out data public
