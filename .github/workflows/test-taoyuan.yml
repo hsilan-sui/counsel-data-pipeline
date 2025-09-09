@@ -1,0 +1,62 @@
+name: Try Taoyuan Once
+
+on:
+  workflow_dispatch: {}
+  # 你要測排程再打開
+  # schedule:
+  #   - cron: "15 2 */3 * *"   # 每 3 天的 02:15 UTC（台北 10:15）
+
+concurrency:
+  group: try-taoyuan
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  build-and-run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Build image (Playwright base)
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: ./Dockerfile
+          tags: local/clinics-crawler:latest
+          load: true
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+      - name: Prepare folders
+        run: mkdir -p out data public
+
+      - name: Run crawler (Taoyuan only)
+        env:
+          CI: "1"
+          TZ: "Asia/Taipei"
+          COUNTY_VALUE: "9"                    # 桃園（你可改）
+          OPENCAGE_API_KEY: ${{ secrets.OPENCAGE_API_KEY }} # 需要就放，沒用到可拿掉
+          NOMINATIM_USER_AGENT: "counseling-map-bot/1.0 (CI)"
+        run: |
+          set -euo pipefail
+          docker run --rm --platform=linux/amd64 \
+            --shm-size=1g --ipc=host \
+            -e CI -e TZ -e COUNTY_VALUE \
+            -e OPENCAGE_API_KEY -e NOMINATIM_USER_AGENT \
+            -v "$PWD/public":/app/public \
+            -v "$PWD/data":/app/data \
+            -v "$PWD/out":/app/out \
+            local/clinics-crawler:latest \
+            bash -lc 'node src/index.js'
+
+      - name: Upload artifact (out folder)
+        uses: actions/upload-artifact@v4
+        with:
+          name: taoyuan-output
+          path: out/
