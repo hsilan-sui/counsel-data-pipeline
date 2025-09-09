@@ -1,56 +1,32 @@
-# # 放在 FROM 後、任何 apt 指令之前
-# ENV DEBIAN_FRONTEND=noninteractive
-# ENV TZ=Asia/Taipei
+# 輕量 + 穩定（你也可用 node:20-bullseye）
+FROM node:20-slim
 
-# # 安裝 tzdata / curl / ca-certificates / jq（非互動）
-# RUN set -eux; \
-#     ln -fs /usr/share/zoneinfo/${TZ} /etc/localtime; \
-#     apt-get update; \
-#     apt-get install -y --no-install-recommends tzdata curl ca-certificates jq; \
-#     dpkg-reconfigure -f noninteractive tzdata; \
-#     rm -rf /var/lib/apt/lists/*
+# 非互動、prod 環境
+ENV DEBIAN_FRONTEND=noninteractive NODE_ENV=production
 
-
-# # 預設不啟動；由外部 docker run 指令決定要跑什麼
-
-
-# # # 對齊 Playwright 版本（若 v1.54.2 tag 取不到，可用 v1.54.0-jammy 或 v1.54-jammy）
-# # FROM mcr.microsoft.com/playwright:v1.54.2-jammy
-
-        # WORKDIR /app
-
-        # # 先拷貝 lock 檔，讓層快取有效
-        # COPY package.json package-lock.json ./
-        # RUN npm ci
-
-        # # 再拷貝程式碼
-        # COPY . .
-
-    # 可選：若你的程式只用 Chromium，程式碼中 launch 時加 { channel: 'chromium' } 即可
-    # 基底 image 已帶好瀏覽器與依賴，通常不必再 install
-    # RUN npx playwright install chromium
-
-    # 可選：若你要讓容器直接執行主程式，可加 CMD
-    # 但你的 workflow 會用 docker run 覆蓋命令，所以不強制加
-    # CMD ["node", "src/index.js"]
-
-
-    # 使用含瀏覽器與依賴的 Playwright 官方基底，版本可跟你本地一致
-FROM mcr.microsoft.com/playwright:v1.46.0-jammy
-
-ENV DEBIAN_FRONTEND=noninteractive \
-    NODE_ENV=production \
+# 建議先裝必要系統套件，確保 playwright 安裝依賴順利
+# --no-install-recommends 可保持映像小
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    ca-certificates curl gnupg \
+    # 字型（避免中文亂碼/方塊字），可視需求增減
+    fonts-noto fonts-noto-cjk \
+    # 常見瀏覽器依賴（npx playwright install --with-deps 也會處理大多數）
+    libglib2.0-0 libnss3 libatk1.0-0 libatk-bridge2.0-0 libdrm2 \
+    libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 \
+    libcups2 libxshmfence1 libgbm1 libpango-1.0-0 libasound2 \
+    && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
 
-# 先複製 lock 檔讓快取生效
+# 先複製 lock 檔，讓快取生效
 COPY package.json package-lock.json ./
 RUN npm ci
 
-#（穩健做法）確保瀏覽器/依賴在 CI 可用；基底通常已備好，這行可保險
-RUN npx playwright install --with-deps chromium
+# 依你 package.json 版本（^1.54.2）安裝對應瀏覽器與系統依賴
+# --with-deps 會自動處理 OS 依賴，能補齊上面沒裝齊的套件
+RUN npx playwright install --with-deps
 
 # 再拷貝程式碼
 COPY . .
 
-# 預設執行可保持空白，由 CI 指定 command
+# 預設由 CI 指定要跑什麼指令（不設 CMD/ENTRYPOINT）
