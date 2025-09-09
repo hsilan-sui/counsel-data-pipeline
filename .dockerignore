@@ -4,3 +4,7 @@ out
 .github
 .DS_Store
 npm-debug.log
+
+out
+data
+
