@@ -37,8 +37,8 @@ jobs:
         run: |
           echo "=== Node & Playwright versions in container ==="
           docker run --rm local/clinics-crawler:latest node -v
-          docker run --rm local/clinics-crawler:latest npx playwright --version
           docker run --rm local/clinics-crawler:latest node -e "console.log('resolve:', require.resolve('playwright'))"
+          docker run --rm local/clinics-crawler:latest npx --no-install playwright --version
           echo "============================================="
 
 
@@ -62,6 +62,7 @@ jobs:
             local/clinics-crawler:latest \
             bash -lc 'node src/index.js'
           echo "✅ Crawler finished successfully. Output saved in ./out/"
+
 
       - name: Upload artifact (out folder)
         uses: actions/upload-artifact@v4
