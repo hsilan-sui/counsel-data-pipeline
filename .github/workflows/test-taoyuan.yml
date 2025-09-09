@@ -45,23 +45,22 @@ jobs:
       - name: Prepare folders
         run: mkdir -p out data public
 
-      - name: Run crawler (Taoyuan only)
+      - name: Run HTTP crawler (no browser)
         env:
           CI: "1"
           COUNTY_VALUE: "9"
-          NOMINATIM_USER_AGENT: "counseling-map-bot/1.0 (CI)"
         run: |
           set -euo pipefail
-          echo "🚀 Starting crawler for Taoyuan..."
+          echo "🚀 Starting HTTP crawler for Taoyuan..."
           docker run --rm --platform=linux/amd64 \
             --shm-size=1g --ipc=host \
-            -e CI -e COUNTY_VALUE -e NOMINATIM_USER_AGENT \
+            -e CI -e COUNTY_VALUE \
             -v "$PWD/public":/app/public \
             -v "$PWD/data":/app/data \
             -v "$PWD/out":/app/out \
             local/clinics-crawler:latest \
-            bash -lc 'node src/index.js'
-          echo "✅ Crawler finished successfully. Output saved in ./out/"
+            bash -lc 'node src/http_crawl.js'
+          echo "✅ HTTP crawler finished. Output saved in ./out/"
 
 
       - name: Upload artifact (out folder)
