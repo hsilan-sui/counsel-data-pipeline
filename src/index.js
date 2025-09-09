@@ -1,20 +1,19 @@
 // index.js — 桃園市「有名額」+「無名額」：查第1頁 → 讀UI共N頁 → 逐次點「下一頁」 → 去重/清洗/合併/輸出
 
-//功能3 由於到時候我的諮商地圖 我要區分  全台灣有名額的諮商診所json資料 和無名額的諮商診所json資料   這到時候我想在諮商諮圖家上 顯示分類 類似像口罩地圖那樣 有庫存 無庫存等  ｜｜｜｜功能4由於這份資料 有名額 無名額會變 所以今天寫的這整個爬蟲會需要做cronb定時去刷這個網站   
 const { chromium } = require('playwright');
 const fs = require('fs');
 const path = require('path');
 
-const BASE   = 'https://sps.mohw.gov.tw/mhs';
-const FORM   = `${BASE}/Home/QueryServiceOrg`;
-const OUT    = path.resolve('./out');
+const BASE = 'https://sps.mohw.gov.tw/mhs';
+const FORM = `${BASE}/Home/QueryServiceOrg`;
+const OUT  = path.resolve('./out');
 if (!fs.existsSync(OUT)) fs.mkdirSync(OUT, { recursive: true });
 
 /* ---------- 小工具 ---------- */
-const sleep = (ms)=>new Promise(r=>setTimeout(r, ms));
-const jitter = (ms, j=500)=> ms + Math.floor(Math.random()*j);
-const toInt = x => (Number.isFinite(Number(x)) ? Number(x) : 0);
-const unesc = s => typeof s === 'string'
+const sleep  = (ms) => new Promise(r => setTimeout(r, ms));
+const jitter = (ms, j = 500) => ms + Math.floor(Math.random() * j);
+const toInt  = x => (Number.isFinite(Number(x)) ? Number(x) : 0);
+const unesc  = s => typeof s === 'string'
   ? s.replace(/\\u003c/g,'<').replace(/\\u003e/g,'>').replace(/\\u0026/g,'&').replace(/&amp;/g,'&')
   : s;
 
@@ -27,13 +26,13 @@ function parseAnchor(html) {
 }
 function toCSV(rows, headers) {
   const esc = v => (v === null || v === undefined) ? '' : /[,"\n]/.test(String(v)) ? `"${String(v).replace(/"/g,'""')}"` : String(v);
-  return [headers.join(','), ...rows.map(r=>headers.map(h=>esc(r[h])).join(','))].join('\n');
+  return [headers.join(','), ...rows.map(r => headers.map(h => esc(r[h])).join(','))].join('\n');
 }
 
 /* ---------- 清洗 / 合併 / 去重 ---------- */
 function cleanRows(rows) {
   return (rows || []).map(r => {
-    const org = parseAnchor(r.orgName);
+    const org  = parseAnchor(r.orgName);
     const addr = parseAnchor(r.address);
     const o = {
       county: r.countyName ?? null,
@@ -84,7 +83,7 @@ function mergeYesNo(yesRows, noRows) {
 function uniqByKey(rows) {
   const m = new Map();
   for (const r of (rows || [])) {
-    const org = parseAnchor(r.orgName);
+    const org  = parseAnchor(r.orgName);
     const addr = parseAnchor(r.address);
     const k = `${r.countyName || ''}||${org.text || ''}||${addr.text || ''}`.trim();
     if (!m.has(k)) m.set(k, r);
@@ -92,30 +91,32 @@ function uniqByKey(rows) {
   return [...m.values()];
 }
 
-/* ---------- 網格 XHR 等待（放寬條件） ---------- */
+/* ---------- 網格 XHR 等待（放寬/加長） ---------- */
 function waitForAnyGrid(page) {
-  return page.waitForResponse(res =>
-    res.url().includes('/mhs/Home/QueryServiceOrgJsonList') &&
-    res.request().method() === 'POST'
-  , { timeout: 60000 });
+  return page.waitForResponse(
+    res => res.url().includes('/mhs/Home/QueryServiceOrgJsonList') && res.request().method() === 'POST',
+    { timeout: 120000 } // 由 60s 提到 120s
+  );
 }
 
-/* ---------- 表單載入 ---------- */
+/* ---------- 表單載入（更寬鬆 & 重試） ---------- */
 async function ensureFormLoaded(page) {
+  // 已有表單就不再處理
   if (await page.locator('#QueryOrgServiceCaseForm').count()) return;
+
+  // 有圖片入口按鈕的情況（首頁），嘗試點開
   const imgLink = page.locator('a.queryServiceOrg');
   if (await imgLink.count()) {
     await imgLink.first().scrollIntoViewIfNeeded();
-    await Promise.all([
-      page.waitForSelector('#QueryOrgServiceCaseForm', { timeout: 8000 }).catch(() => {}),
+    await Promise.allSettled([
+      page.waitForSelector('#QueryOrgServiceCaseForm', { timeout: 8000 }),
       imgLink.first().click({ timeout: 5000 })
     ]);
     if (await page.locator('#QueryOrgServiceCaseForm').count()) return;
-    await page.evaluate(() => document.querySelector('a.queryServiceOrg')?.click());
-    await page.waitForLoadState('networkidle').catch(() => {});
-    if (await page.locator('#QueryOrgServiceCaseForm').count()) return;
   }
-  await page.goto(FORM, { waitUntil: 'load', timeout: 60000 });
+
+  // 直接打表單頁面（更穩）
+  await gotoStable(page, FORM);
   await page.waitForSelector('#QueryOrgServiceCaseForm', { timeout: 30000 });
 }
 
@@ -147,7 +148,7 @@ async function readTotalPages(page) {
       if (m) return Math.max(1, parseInt(m[1], 10));
     }
 
-    // 2) 從「顯示1到10,共X記錄」估算（預設每頁10筆）
+    // 2) 由「共X記錄」估算（預設每頁10筆）
     const info = document.querySelector('.ui-paging-info, .pagination-info');
     if (info) {
       const m2 = (info.textContent || '').match(/共\s*(\d+)\s*記錄/);
@@ -200,24 +201,67 @@ async function closeGridDialog(page) {
   }
 }
 async function reopenFormFromHome(page) {
-  await page.goto(BASE, { waitUntil: 'load', timeout: 60000 });
+  await gotoStable(page, FORM);
   await ensureFormLoaded(page);
 }
 
-/* ============================== 主程式 ============================== */
-(async () => {
-  const browser = await chromium.launch({ headless: true,  args: ['--disable-dev-shm-usage']});
-  const context = await browser.newContext({ ignoreHTTPSErrors: true });
-  const page = await context.newPage();
+/* ---------- 穩定版導航：先 DOM，再 networkidle，最後 load（含重試） ---------- */
+async function gotoStable(page, url) {
+  const plans = [
+    { waitUntil: 'domcontentloaded', timeout: 120000 },
+    { waitUntil: 'networkidle',      timeout: 150000 },
+    { waitUntil: 'load',             timeout: 150000 },
+  ];
+  for (let i = 0; i < plans.length; i++) {
+    try {
+      await page.goto(url, plans[i]);
+      return;
+    } catch (e) {
+      console.warn(`goto ${url} 第${i + 1}次方案失敗：${plans[i].waitUntil} → ${e.name}`);
+      if (i === plans.length - 1) throw e;
+      await page.waitForTimeout(2000 * (i + 1));
+    }
+  }
+}
 
-  // 進站並確保表單載入
-  await page.goto(BASE, { waitUntil: 'load', timeout: 60000 });
+/* ============================== 主程式 ============================== */
+let page; // 讓 catch 可以截圖
+(async () => {
+  const browser = await chromium.launch({
+    headless: true,
+    args: [
+      '--no-sandbox',
+      '--disable-setuid-sandbox',
+      '--disable-dev-shm-usage',
+      '--disable-gpu'
+    ]
+  });
+
+  const context = await browser.newContext({
+    ignoreHTTPSErrors: true,
+    locale: 'zh-TW',
+    timezoneId: 'Asia/Taipei',
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+  });
+
+  page = await context.newPage();
+  page.setDefaultTimeout(90000);
+  page.setDefaultNavigationTimeout(180000);
+
+  // （可選）降低資源：擋掉影像與媒體，讓 CI 更穩更快
+  await page.route('**/*', (route) => {
+    const type = route.request().resourceType();
+    if (type === 'image' || type === 'media' || type === 'font') return route.abort();
+    return route.continue();
+  });
+
+  // 進站並確保表單載入（直接從 FORM 開始，較穩）
+  await gotoStable(page, FORM);
   await ensureFormLoaded(page);
 
   /* ====== 桃園→有名額 ====== */
-  // await page.selectOption('#county', '9'); // 桃園
-  const COUNTY_VALUE = process.env.COUNTY_VALUE || '9';
-  await page.selectOption('#county', COUNTY_VALUE); // 桃園
+  const COUNTY_VALUE = process.env.COUNTY_VALUE || '9'; // 桃園
+  await page.selectOption('#county', COUNTY_VALUE);
   await page.check('#isYes');
 
   const [respYesP1] = await Promise.all([
@@ -247,8 +291,7 @@ async function reopenFormFromHome(page) {
   await reopenFormFromHome(page);
 
   /* ====== 桃園→無名額 ====== */
-  // await page.selectOption('#county', '9'); // 桃園
-  await page.selectOption('#county', COUNTY_VALUE); // 桃園
+  await page.selectOption('#county', COUNTY_VALUE);
   await page.check('#isNo');
 
   const [respNoP1] = await Promise.all([
@@ -278,8 +321,11 @@ async function reopenFormFromHome(page) {
   const cleanedNo  = cleanRows(noAll.rows);
   const merged     = mergeYesNo(cleanedYes, cleanedNo);
 
-  fs.writeFileSync(path.join(OUT, 'taoyuan_merged_clean.json'),
-    JSON.stringify({ county: '桃園市', total: merged.length, rows: merged }, null, 2), 'utf8');
+  fs.writeFileSync(
+    path.join(OUT, 'taoyuan_merged_clean.json'),
+    JSON.stringify({ county: '桃園市', total: merged.length, rows: merged }, null, 2),
+    'utf8'
+  );
 
   const headersCsv = [
     'county','org_name','org_url','phone','address','map_url','pay_detail',
