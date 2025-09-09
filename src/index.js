@@ -1,5 +1,5 @@
 // index.js — 桃園市「有名額」+「無名額」：查第1頁 → 讀UI共N頁 → 逐次點「下一頁」 → 去重/清洗/合併/輸出
-
+const { gotoWithRetries } = require('./utils/nav.js'); // ★ 使用 CommonJS 版 retry 導覽
 const { chromium } = require('playwright');
 const fs = require('fs');
 const path = require('path');
@@ -50,7 +50,7 @@ function cleanRows(rows) {
       edit_date: r.editDate ?? null,
       teleconsultation: r.strTeleconsultation === '是'
     };
-    // 若想改為「任一週 > 0」可換：o.has_quota = (o.this_week + o.next_week + o.next_2_week + o.next_3週) > 0;
+    // 若想改為「任一週 > 0」可換：o.has_quota = (o.this_week + o.next_week + o.next_2_week + o.next_3_week) > 0;
     o.has_quota = o.in_4_weeks > 0;
     return o;
   });
@@ -115,8 +115,8 @@ async function ensureFormLoaded(page) {
     if (await page.locator('#QueryOrgServiceCaseForm').count()) return;
   }
 
-  // 直接打表單頁面（更穩）
-  await gotoStable(page, FORM);
+  // 直接打表單頁面（更穩）→ 使用 retry 導覽
+  await gotoWithRetries(page, FORM, { tries: 4, baseTimeoutMs: 60_000 });
   await page.waitForSelector('#QueryOrgServiceCaseForm', { timeout: 30000 });
 }
 
@@ -201,27 +201,8 @@ async function closeGridDialog(page) {
   }
 }
 async function reopenFormFromHome(page) {
-  await gotoStable(page, FORM);
+  await gotoWithRetries(page, FORM, { tries: 4, baseTimeoutMs: 60_000 }); // ★ 換成 retry 導覽
   await ensureFormLoaded(page);
-}
-
-/* ---------- 穩定版導航：先 DOM，再 networkidle，最後 load（含重試） ---------- */
-async function gotoStable(page, url) {
-  const plans = [
-    { waitUntil: 'domcontentloaded', timeout: 120000 },
-    { waitUntil: 'networkidle',      timeout: 150000 },
-    { waitUntil: 'load',             timeout: 150000 },
-  ];
-  for (let i = 0; i < plans.length; i++) {
-    try {
-      await page.goto(url, plans[i]);
-      return;
-    } catch (e) {
-      console.warn(`goto ${url} 第${i + 1}次方案失敗：${plans[i].waitUntil} → ${e.name}`);
-      if (i === plans.length - 1) throw e;
-      await page.waitForTimeout(2000 * (i + 1));
-    }
-  }
 }
 
 /* ============================== 主程式 ============================== */
@@ -233,7 +214,8 @@ let page; // 讓 catch 可以截圖
       '--no-sandbox',
       '--disable-setuid-sandbox',
       '--disable-dev-shm-usage',
-      '--disable-gpu'
+      '--disable-gpu',
+      '--lang=zh-TW,zh'
     ]
   });
 
@@ -244,19 +226,23 @@ let page; // 讓 catch 可以截圖
     userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
   });
 
-  page = await context.newPage();
-  page.setDefaultTimeout(90000);
-  page.setDefaultNavigationTimeout(180000);
-
-  // （可選）降低資源：擋掉影像與媒體，讓 CI 更穩更快
-  await page.route('**/*', (route) => {
-    const type = route.request().resourceType();
-    if (type === 'image' || type === 'media' || type === 'font') return route.abort();
+  // （可選）降低資源：擋掉影像/媒體/字型，讓 CI 更穩更快
+  await context.route('**/*', route => {
+    const req = route.request();
+    const type = req.resourceType();
+    if (['image','media','font'].includes(type)) return route.abort();
+    // 可再加：analytics 類網域
+    const url = req.url();
+    if (url.includes('googletagmanager') || url.includes('google-analytics')) return route.abort();
     return route.continue();
   });
 
-  // 進站並確保表單載入（直接從 FORM 開始，較穩）
-  await gotoStable(page, FORM);
+  page = await context.newPage();
+  page.setDefaultTimeout(90_000);
+  page.setDefaultNavigationTimeout(180_000);
+
+  // 進站並確保表單載入（直接從 FORM 開始，較穩）→ 使用 retry 導覽
+  await gotoWithRetries(page, FORM, { tries: 4, baseTimeoutMs: 60_000 });
   await ensureFormLoaded(page);
 
   /* ====== 桃園→有名額 ====== */
