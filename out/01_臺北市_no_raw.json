@@ -448,7 +448,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/09/04",
+      "editDate": "2025/09/09",
       "strTeleconsultation": "否"
     },
     {
@@ -772,7 +772,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/22",
+      "editDate": "2025/09/09",
       "strTeleconsultation": "是"
     },
     {
@@ -827,24 +827,6 @@
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
       "editDate": "尚未更新",
-      "strTeleconsultation": "是"
-    },
-    {
-      "countyName": "臺北市",
-      "orgName": "<a href='https://www.mindsopen.com.tw/' target='_blank'>啟宗心理諮商所</a>",
-      "phone": "02-23254066",
-      "address": "<a href='https://www.google.com.tw/maps/place/臺北市大安區東豐街7號5樓之2' target='_blank'>臺北市大安區東豐街7號5樓之2</a>",
-      "payDetail": "無",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "2025/09/05",
       "strTeleconsultation": "是"
     },
     {
@@ -1132,7 +1114,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/26",
+      "editDate": "2025/09/09",
       "strTeleconsultation": "是"
     },
     {
@@ -1188,6 +1170,24 @@
       "in4WeekTotleCount": 0,
       "editDate": "尚未更新",
       "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "臺北市",
+      "orgName": "<a href='https://www.facebook.com/profile.php?id=100093279246751&mibextid=LQQJ4d' target='_blank'>辰光心理治療所</a>",
+      "phone": "0978-946396",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺北市北投區立農路2段202巷2弄1號1樓;地下1樓' target='_blank'>臺北市北投區立農路2段202巷2弄1號1樓;地下1樓</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/09/09",
+      "strTeleconsultation": "否"
     },
     {
       "countyName": "臺北市",

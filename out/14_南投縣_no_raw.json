@@ -1,5 +1,5 @@
 {
-  "total": 5,
+  "total": 4,
   "rows": [
     {
       "countyName": "南投縣",
@@ -25,24 +25,6 @@
       "phone": "049-2912151#5650",
       "address": "<a href='https://www.google.com.tw/maps/place/南投縣埔里鎮鐵山路1號' target='_blank'>南投縣埔里鎮鐵山路1號</a>",
       "payDetail": "無",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
-      "strTeleconsultation": "否"
-    },
-    {
-      "countyName": "南投縣",
-      "orgName": "<a href='https://www.pulivh.gov.tw/' target='_blank'>臺中榮民總醫院埔里分院</a>",
-      "phone": "049-2990833分機7107",
-      "address": "<a href='https://www.google.com.tw/maps/place/南投縣埔里鎮榮光路一號' target='_blank'>南投縣埔里鎮榮光路一號</a>",
-      "payDetail": "掛號費180元",
       "thisWeekRange": null,
       "thisWeekCount": 0,
       "nextWeekRange": null,

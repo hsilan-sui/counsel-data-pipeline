@@ -6,7 +6,7 @@ county,org_name,org_url,phone,address,map_url,pay_detail,this_week,next_week,nex
 臺南市,繪日藝術心理諮商所,,（06）3565588,臺南市安南區怡安路一段98號,https://www.google.com.tw/maps/place/臺南市安南區怡安路一段98號,自付場地費400元。如進行藝術治療媒材費200元另計。,8,8,0,0,16,2025/08/26,true,true
 臺南市,看見愛心理諮商所,,06-2977769,臺南市安平區永華二街183號1樓,https://www.google.com.tw/maps/place/臺南市安平區永華二街183號1樓,無,0,3,3,0,6,2025/09/02,true,true
 臺南市,樂行診所,https://www.cjclinic.com.tw/,06-2705633,台南市仁德區中正路二段1116號,https://www.google.com.tw/maps/place/台南市仁德區中正路二段1116號,首次需先讓醫師評估確認需求才會分派治療，故會有首次看診費用，排入方案治療後，三次治療不額外收取費用看診費用,2,2,2,0,6,2025/09/02,false,true
-臺南市,安平心寬診所,https://www.facebook.com/AnpingMindSPA/,06-2973757,台南市安平區華平路537號,https://www.google.com.tw/maps/place/台南市安平區華平路537號,本院所轉介心理諮商需先醫師看診評估，依初診或複診收取掛號費,10,11,12,0,33,2025/09/01,false,true
+臺南市,安平心寬診所,https://www.facebook.com/AnpingMindSPA/,06-2973757,台南市安平區華平路537號,https://www.google.com.tw/maps/place/台南市安平區華平路537號,本院所轉介心理諮商需先醫師看診評估，依初診或複診收取掛號費,10,11,12,0,33,2025/09/09,false,true
 臺南市,禾心心理諮商所,https://www.sandplayworld-holdingself.com.tw/team2.html,06-3587725,臺南市北區中華北路二段80巷65號,https://www.google.com.tw/maps/place/臺南市北區中華北路二段80巷65號,自付場地費400元,12,6,10,0,28,2025/09/03,true,true
 臺南市,深藏心理治療所,,0963689820,臺南市東區崇明路399號2樓,https://www.google.com.tw/maps/place/臺南市東區崇明路399號2樓,行政處理費250元（單次）,12,12,12,12,48,2025/09/08,true,true
 臺南市,上善心理治療所,,06-237-5555,臺南市北區林森路三段77號2樓,https://www.google.com.tw/maps/place/臺南市北區林森路三段77號2樓,無,3,3,3,0,9,2025/09/08,true,true
@@ -26,7 +26,7 @@ county,org_name,org_url,phone,address,map_url,pay_detail,this_week,next_week,nex
 臺南市,財團法人台灣省私立台南仁愛之家附設仁馨醫院,,06─5902336＃28,臺南市新化區中山路20號,https://www.google.com.tw/maps/place/臺南市新化區中山路20號,無,0,0,0,0,0,尚未更新,true,false
 臺南市,心寬診所,https://www.mindspa.com.tw/outpatient.html,06-3131212,臺南市永康區中華路245號,https://www.google.com.tw/maps/place/臺南市永康區中華路245號,掛號費150元,0,0,0,0,0,2025/08/25,false,false
 臺南市,明如身心診所,,06-7225656,臺南市佳里區進學路163-1號,https://www.google.com.tw/maps/place/臺南市佳里區進學路163-1號,初診病人需看診(掛號費200元/部分負擔50元/藥品部分負擔0-200元),0,0,0,0,0,2025/08/26,false,false
-臺南市,樂驛心理諮商所,https://leyi.tw/,06-2095055,臺南市東區育樂街166-4號4樓,https://www.google.com.tw/maps/place/臺南市東區育樂街166-4號4樓,無,0,0,0,0,0,尚未更新,true,false
+臺南市,樂驛心理諮商所,https://leyi.tw/,06-2095055,臺南市東區育樂街166-4號4樓,https://www.google.com.tw/maps/place/臺南市東區育樂街166-4號4樓,無,0,0,0,0,0,2025/09/09,true,false
 臺南市,衛生福利部新營醫院,https://www.syh.mohw.gov.tw/,(06)6351131轉2346,臺南市新營區信義街73號,https://www.google.com.tw/maps/place/臺南市新營區信義街73號,掛號費100元,0,0,0,0,0,尚未更新,false,false
 臺南市,東寧身心診所,,06-2091090,臺南市東區東寧路24-3號,https://www.google.com.tw/maps/place/臺南市東區東寧路24-3號,掛號費200,0,0,0,0,0,尚未更新,false,false
 臺南市,伴行心理治療所,,0975124951,臺南市善化區文昌路42-1號,https://www.google.com.tw/maps/place/臺南市善化區文昌路42-1號,行政費400元,0,0,0,0,0,尚未更新,true,false

@@ -1,5 +1,5 @@
 {
-  "total": 3,
+  "total": 4,
   "rows": [
     {
       "countyName": "南投縣",
@@ -18,6 +18,24 @@
       "in4WeekTotleCount": 18,
       "editDate": "2025/09/07",
       "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "南投縣",
+      "orgName": "<a href='https://www.pulivh.gov.tw/' target='_blank'>臺中榮民總醫院埔里分院</a>",
+      "phone": "049-2990833分機7107",
+      "address": "<a href='https://www.google.com.tw/maps/place/南投縣埔里鎮榮光路一號' target='_blank'>南投縣埔里鎮榮光路一號</a>",
+      "payDetail": "掛號費180元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 2,
+      "next2WeekRange": null,
+      "next2WeekCount": 2,
+      "next3WeekRange": null,
+      "next3WeekCount": 2,
+      "in4WeekTotleCount": 6,
+      "editDate": "2025/09/09",
+      "strTeleconsultation": "否"
     },
     {
       "countyName": "南投縣",

@@ -80,15 +80,15 @@
       "address": "<a href='https://www.google.com.tw/maps/place/臺北市中山區南京西路5-1號12樓之1' target='_blank'>臺北市中山區南京西路5-1號12樓之1</a>",
       "payDetail": "無",
       "thisWeekRange": null,
-      "thisWeekCount": 2,
+      "thisWeekCount": 1,
       "nextWeekRange": null,
       "nextWeekCount": 3,
       "next2WeekRange": null,
       "next2WeekCount": 4,
       "next3WeekRange": null,
       "next3WeekCount": 4,
-      "in4WeekTotleCount": 13,
-      "editDate": "2025/09/07",
+      "in4WeekTotleCount": 12,
+      "editDate": "2025/09/09",
       "strTeleconsultation": "是"
     },
     {
@@ -248,9 +248,9 @@
       "next2WeekRange": null,
       "next2WeekCount": 10,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 27,
-      "editDate": "2025/09/01",
+      "next3WeekCount": 9,
+      "in4WeekTotleCount": 36,
+      "editDate": "2025/09/09",
       "strTeleconsultation": "否"
     },
     {
@@ -399,6 +399,24 @@
     },
     {
       "countyName": "臺北市",
+      "orgName": "<a href='https://www.mindsopen.com.tw/' target='_blank'>啟宗心理諮商所</a>",
+      "phone": "02-23254066",
+      "address": "<a href='https://www.google.com.tw/maps/place/臺北市大安區東豐街7號5樓之2' target='_blank'>臺北市大安區東豐街7號5樓之2</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 1,
+      "nextWeekRange": null,
+      "nextWeekCount": 1,
+      "next2WeekRange": null,
+      "next2WeekCount": 1,
+      "next3WeekRange": null,
+      "next3WeekCount": 1,
+      "in4WeekTotleCount": 4,
+      "editDate": "2025/09/09",
+      "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "臺北市",
       "orgName": "<a href='https://counseling.heart-miss.com/' target='_blank'>哈米思心理諮商所</a>",
       "phone": "02-23820667",
       "address": "<a href='https://www.google.com.tw/maps/place/臺北市萬華區柳州街6號4樓' target='_blank'>臺北市萬華區柳州街6號4樓</a>",
@@ -446,9 +464,9 @@
       "next2WeekRange": null,
       "next2WeekCount": 10,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 30,
-      "editDate": "2025/09/02",
+      "next3WeekCount": 10,
+      "in4WeekTotleCount": 40,
+      "editDate": "2025/09/09",
       "strTeleconsultation": "是"
     },
     {
@@ -521,24 +539,6 @@
       "next3WeekCount": 0,
       "in4WeekTotleCount": 9,
       "editDate": "2025/09/06",
-      "strTeleconsultation": "否"
-    },
-    {
-      "countyName": "臺北市",
-      "orgName": "<a href='https://www.facebook.com/profile.php?id=100093279246751&mibextid=LQQJ4d' target='_blank'>辰光心理治療所</a>",
-      "phone": "0978-946396",
-      "address": "<a href='https://www.google.com.tw/maps/place/臺北市北投區立農路2段202巷2弄1號1樓;地下1樓' target='_blank'>臺北市北投區立農路2段202巷2弄1號1樓;地下1樓</a>",
-      "payDetail": "無",
-      "thisWeekRange": null,
-      "thisWeekCount": 6,
-      "nextWeekRange": null,
-      "nextWeekCount": 6,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 12,
-      "editDate": "2025/08/27",
       "strTeleconsultation": "否"
     },
     {
@@ -716,9 +716,9 @@
       "next2WeekRange": null,
       "next2WeekCount": 3,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 9,
-      "editDate": "2025/09/04",
+      "next3WeekCount": 3,
+      "in4WeekTotleCount": 12,
+      "editDate": "2025/09/09",
       "strTeleconsultation": "否"
     },
     {

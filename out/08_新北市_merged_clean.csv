@@ -1,9 +1,9 @@
 county,org_name,org_url,phone,address,map_url,pay_detail,this_week,next_week,next_2_week,next_3_week,in_4_weeks,edit_date,teleconsultation,has_quota
+新北市,悅現心理治療所,https://meant2bejoy.com/,(02)2255-6580,新北市板橋區文化路二段182巷1弄15號2樓,https://www.google.com.tw/maps/place/新北市板橋區文化路二段182巷1弄15號2樓,掛號費500元(僅需第一次前來時繳納),2,2,2,0,6,2025/09/09,true,true
 新北市,漱心坊心理治療所,https://www.okmood.com/,(02)8991-4930,新北市新莊區明中街38號8樓,https://www.google.com.tw/maps/place/新北市新莊區明中街38號8樓,掛號費150元（具重大傷病、身心障礙、中低收入等掛號費100元）,6,6,8,0,20,2025/09/05,true,true
 新北市,嘉誼心理治療所,https://www.facebook.com/profile.php?id=61554562233343&locale=zh_TW,0962-035-930,新北市三峽區復興路59號2樓,https://www.google.com.tw/maps/place/新北市三峽區復興路59號2樓,行政處理費300元,5,5,5,0,15,2025/09/02,false,true
-新北市,南方心理諮商所,https://thesouth.com.tw/,(02)2916-0135,新北市新店區永新街30號3樓,https://www.google.com.tw/maps/place/新北市新店區永新街30號3樓,無,0,2,2,0,4,2025/09/05,true,true
 新北市,小漁村心理諮商所,https://www.littlefishingvillage.com/,(02)8914-7484,新北市新店區三民路65號2樓,https://www.google.com.tw/maps/place/新北市新店區三民路65號2樓,行政費用300元,4,4,0,0,8,2025/09/04,true,true
-新北市,喜樂心理諮商所,https://www.heart-hug-counseling.org/,(02)2981-0715,新北市三重區重陽路四段42號2樓,https://www.google.com.tw/maps/place/新北市三重區重陽路四段42號2樓,掛號費200元,5,5,5,0,15,2025/09/01,true,true
+新北市,喜樂心理諮商所,https://www.heart-hug-counseling.org/,(02)2981-0715,新北市三重區重陽路四段42號2樓,https://www.google.com.tw/maps/place/新北市三重區重陽路四段42號2樓,掛號費200元,5,5,5,5,20,2025/09/09,true,true
 新北市,覓心理諮商所,https://miiclinics.com,0965-833-520,新北市林口區仁愛二路77號1樓,https://www.google.com.tw/maps/place/新北市林口區仁愛二路77號1樓,行政費用400元,6,10,10,10,36,2025/09/07,true,true
 新北市,家好心理諮商所,https://www.good.org.tw/,0972-706-289(02)2601-2992,新北市林口區仁愛路二段502號2樓之3,https://www.google.com.tw/maps/place/新北市林口區仁愛路二段502號2樓之3,行政費500元,11,12,12,0,35,2025/09/04,true,true
 新北市,理馨心理諮商所,https://lixincounseling.wordpress.com,0968-989-195,新北市土城區永安街103號5樓,https://www.google.com.tw/maps/place/新北市土城區永安街103號5樓,行政費300元,8,8,8,8,32,2025/09/08,true,true
@@ -17,13 +17,12 @@ county,org_name,org_url,phone,address,map_url,pay_detail,this_week,next_week,nex
 新北市,怡濟慈園醫療社團法人宏濟神經精神科醫院,https://newhongchi.com/,(02)2211-8899轉705,新北市新店區安忠路57巷5號,https://www.google.com.tw/maps/place/新北市新店區安忠路57巷5號,無,2,0,0,0,2,2025/08/18,false,true
 新北市,回家心理諮商所,https://mindhome.com.tw,0912-608-017,新北市板橋區華江一路608號7樓,https://www.google.com.tw/maps/place/新北市板橋區華江一路608號7樓,自付行政費 : 200元/次,5,0,0,0,5,2025/08/27,true,true
 新北市,沐樂心理諮商所,https://www.move-wellbeing.com/,(02)2915-0060,新北市新店區二十張路33巷2弄3號1樓,https://www.google.com.tw/maps/place/新北市新店區二十張路33巷2弄3號1樓,無,0,0,3,0,3,2025/09/06,true,true
-新北市,青禾心理諮商所,https://www.resiliencebq.com/,0966-197-367,新北市板橋區三民路二段38號3樓之1,https://www.google.com.tw/maps/place/新北市板橋區三民路二段38號3樓之1,行政費400元,1,0,0,0,1,2025/09/08,false,true
+新北市,青禾心理諮商所,https://www.resiliencebq.com/,0966-197-367,新北市板橋區三民路二段38號3樓之1,https://www.google.com.tw/maps/place/新北市板橋區三民路二段38號3樓之1,行政費400元,1,3,3,2,9,2025/09/09,false,true
 新北市,星嶼心理治療所,https://xingyuxinliyuyanzhinenglianhezhiliaosuo.webnode.tw/,(02)2969-9307,新北市板橋區文化路一段145號6樓之5,https://www.google.com.tw/maps/place/新北市板橋區文化路一段145號6樓之5,行政作業費尖峰時段：400元（周末全日、周間夜間六點半後） 離峰時段：200元（周間下午）,0,0,0,0,0,2025/09/07,false,false
 新北市,馨動心理治療所,https://www.heartwarmingclinic.tw/,line ID：@125pptme,新北市板橋區文化路二段182巷3弄33號5樓,https://www.google.com.tw/maps/place/新北市板橋區文化路二段182巷3弄33號5樓,行政費200元,0,0,0,0,0,2025/08/31,false,false
 新北市,知芯心理治療所,https://withyoupsy.com/,(02)2952-8180,新北市板橋區館前東路22號六樓,https://www.google.com.tw/maps/place/新北市板橋區館前東路22號六樓,行政費400元,0,0,0,0,0,2025/08/20,true,false
 新北市,拾心心理治療所,https://sites.google.com/view/aroundupsy,0909-617-628,新北市板橋區縣民大道一段104號2樓,https://www.google.com.tw/maps/place/新北市板橋區縣民大道一段104號2樓,行政處理費(平日18:00前)：600元行政處理費(平日18:00後、周六)：1000元,0,0,0,0,0,2025/09/02,true,false
-新北市,悅現心理治療所,https://meant2bejoy.com/,(02)2255-6580,新北市板橋區文化路二段182巷1弄15號2樓,https://www.google.com.tw/maps/place/新北市板橋區文化路二段182巷1弄15號2樓,掛號費500元(僅需第一次前來時繳納),0,0,0,0,0,2025/09/08,true,false
-新北市,好安心心理治療所,https://goodcare.vip/,(02)8521-9843,新北市新莊區中平路377巷43號1樓,https://www.google.com.tw/maps/place/新北市新莊區中平路377巷43號1樓,掛號費200元,0,0,0,0,0,2025/08/18,true,false
+新北市,好安心心理治療所,https://goodcare.vip/,(02)8521-9843,新北市新莊區中平路377巷43號1樓,https://www.google.com.tw/maps/place/新北市新莊區中平路377巷43號1樓,掛號費200元,0,0,0,0,0,2025/09/09,true,false
 新北市,五守心理治療所,https://containfive.com/,0905-344-459,新北市新莊區中港路五守新村35巷2號3樓,https://www.google.com.tw/maps/place/新北市新莊區中港路五守新村35巷2號3樓,行政費300元,0,0,0,0,0,尚未更新,false,false
 新北市,知芯新店心理治療所,https://withyoupsy.com/,(02)8914-5945,新北市新店區北新路二段177-3號4樓,https://www.google.com.tw/maps/place/新北市新店區北新路二段177-3號4樓,行政費400元,0,0,0,0,0,2025/08/29,true,false
 新北市,沐昕心理治療所,https://mushinclinic.wixsite.com/mysite,(02)29800479/0909-270-237,新北市三重區三光街30巷10號,https://www.google.com.tw/maps/place/新北市三重區三光街30巷10號,行政手續費500元,0,0,0,0,0,2025/08/19,true,false
@@ -33,6 +32,7 @@ county,org_name,org_url,phone,address,map_url,pay_detail,this_week,next_week,nex
 新北市,心語心理諮商所,https://www.innervoice-counseling.com.tw/,(02)2250-0002,新北市板橋區莒光路39巷10號4樓,https://www.google.com.tw/maps/place/新北市板橋區莒光路39巷10號4樓,行政費300元,0,0,0,0,0,尚未更新,true,false
 新北市,板橋小宅心理諮商所,https://www.iamkhhouse.com/,0906-843-319,新北市板橋區介壽街84巷3號2樓,https://www.google.com.tw/maps/place/新北市板橋區介壽街84巷3號2樓,行政費600元,0,0,0,0,0,尚未更新,true,false
 新北市,同在心理諮商所,https://beingcounselingcenter.com/,0905-168-815,新北市板橋區新民街27號7樓,https://www.google.com.tw/maps/place/新北市板橋區新民街27號7樓,臨時失約需支付1000元行政管理費,0,0,0,0,0,尚未更新,true,false
+新北市,南方心理諮商所,https://thesouth.com.tw/,(02)2916-0135,新北市新店區永新街30號3樓,https://www.google.com.tw/maps/place/新北市新店區永新街30號3樓,無,0,0,0,0,0,2025/09/09,true,false
 新北市,大山心理諮商所,https://greatmountain0603.com/,0981-418-723,新北市新店區民權路41號5樓,https://www.google.com.tw/maps/place/新北市新店區民權路41號5樓,無,0,0,0,0,0,2025/09/08,true,false
 新北市,雨止晴拾心理諮商所,https://www.facebook.com/profile.php?id=100086565971182,(02)7751-8779,新北市三重區仁美街108巷25號1樓,https://www.google.com.tw/maps/place/新北市三重區仁美街108巷25號1樓,無,0,0,0,0,0,尚未更新,true,false
 新北市,點心語心理諮商所,https://totellheart.mystrikingly.com/,0979-772-735,新北市三重區重新路四段53號11樓,https://www.google.com.tw/maps/place/新北市三重區重新路四段53號11樓,無,0,0,0,0,0,2025/09/01,true,false

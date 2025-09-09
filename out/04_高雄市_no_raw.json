@@ -1,5 +1,5 @@
 {
-  "total": 38,
+  "total": 37,
   "rows": [
     {
       "countyName": "高雄市",
@@ -647,24 +647,6 @@
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
       "editDate": "2025/09/02",
-      "strTeleconsultation": "是"
-    },
-    {
-      "countyName": "高雄市",
-      "orgName": "<a href='https://www.facebook.com/profile.php?id=61551094383247' target='_blank'>大海心理諮商所</a>",
-      "phone": "0910-538-598",
-      "address": "<a href='https://www.google.com.tw/maps/place/高雄市新興區中正二路192號6樓之1' target='_blank'>高雄市新興區中正二路192號6樓之1</a>",
-      "payDetail": "行政費用200元整",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
       "strTeleconsultation": "是"
     },
     {
