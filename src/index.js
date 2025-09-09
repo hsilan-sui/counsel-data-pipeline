@@ -215,7 +215,9 @@ async function reopenFormFromHome(page) {
   await ensureFormLoaded(page);
 
   /* ====== 桃園→有名額 ====== */
-  await page.selectOption('#county', '9'); // 桃園
+  // await page.selectOption('#county', '9'); // 桃園
+  const COUNTY_VALUE = process.env.COUNTY_VALUE || '9';
+  await page.selectOption('#county', COUNTY_VALUE); // 桃園
   await page.check('#isYes');
 
   const [respYesP1] = await Promise.all([
@@ -245,7 +247,8 @@ async function reopenFormFromHome(page) {
   await reopenFormFromHome(page);
 
   /* ====== 桃園→無名額 ====== */
-  await page.selectOption('#county', '9'); // 桃園
+  // await page.selectOption('#county', '9'); // 桃園
+  await page.selectOption('#county', COUNTY_VALUE); // 桃園
   await page.check('#isNo');
 
   const [respNoP1] = await Promise.all([
