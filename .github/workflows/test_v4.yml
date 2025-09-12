@@ -1,0 +1,45 @@
+name: Crawl Clinics JSON (daily)
+on:
+  schedule:
+    - cron: "15 2 * * *"   # UTC 02:15 = 台北 10:15
+  workflow_dispatch:
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Playwright (+ browsers)
+        run: |
+          npm ci
+          npx playwright install --with-deps
+
+      - name: Run crawler
+        env:
+          OPENCAGE_API_KEY: ${{ secrets.OPENCAGE_API_KEY }}
+          TZ: Asia/Taipei
+        run: node src/index.js
+
+      - name: Prepare file to push
+        run: |
+          mkdir -p pushdir
+          cp -f out/taiwan_merged_clean.json pushdir/clinics.json
+
+      - name: Push to Repo B
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git config --global user.name "crawler-bot"
+          git config --global user.email "crawler-bot@users.noreply.github.com"
+          git clone https://oauth2:${GH_PAT}@github.com/hsilan-sui/counseling-map.git repoB
+          cp -f pushdir/clinics.json repoB/src/data/clinics.json
+          cd repoB
+          git add src/data/clinics.json
+          git commit -m "chore(data): update clinics.json ($(date -u +'%F %T UTC'))" || echo "No changes"
+          git push origin main
