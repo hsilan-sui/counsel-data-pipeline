@@ -1,0 +1,58 @@
+name: Receive Clinics Update
+on:
+  repository_dispatch:
+    types: [clinics_update]
+  workflow_dispatch: {}
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      id-token: write
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: ${{ secrets.GCP_WIP }}
+          service_account: ${{ secrets.GCP_SA }}
+      - uses: google-github-actions/setup-gcloud@v2
+      - name: Download clinics.json from GCS
+        run: |
+          set -e
+          mkdir -p public
+          GCS_URI="${{ github.event.client_payload.gcs_uri }}"
+          [ -z "$GCS_URI" ] && { echo "❌ 無 gcs_uri"; exit 1; }
+          gsutil cp "$GCS_URI" public/clinics.json
+      - name: Commit to Repo A if changed
+        id: commit_a
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/clinics.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: receive clinics.json from Cloud Run [skip ci]"
+            git push
+            echo "changed=1" >> $GITHUB_OUTPUT
+          else
+            echo "changed=0" >> $GITHUB_OUTPUT
+      - name: Sync to Repo B
+        if: steps.commit_a.outputs.changed == '1'
+        env:
+          REPO_B_TOKEN: ${{ secrets.REPO_B_TOKEN }}
+          REPO_B_OWNER: ${{ secrets.REPO_B_OWNER }}
+          REPO_B_NAME:  ${{ secrets.REPO_B_NAME }}
+        run: |
+          set -e
+          TMP=$(mktemp -d)
+          git clone --depth=5 "https://x-access-token:${REPO_B_TOKEN}@github.com/${REPO_B_OWNER}/${REPO_B_NAME}.git" "$TMP"
+          mkdir -p "$TMP/src/data"
+          cp -f public/clinics.json "$TMP/src/data/clinics.json"
+          cd "$TMP"
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/clinics.json
+          if git diff --cached --quiet; then exit 0; fi
+          DEFAULT_BRANCH="$(git remote show origin | awk '/HEAD branch/ {print $NF}' || true)"
+          git commit -m "chore: sync clinics.json from Repo A"
+          git push origin "HEAD:${DEFAULT_BRANCH:-main}"
