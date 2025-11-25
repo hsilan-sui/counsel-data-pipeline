@@ -1,0 +1,60 @@
+{
+  "total": 3,
+  "rows": [
+    {
+      "countyName": "雲林縣",
+      "orgName": "<a href='https://www.facebook.com/profile.php?id=100063481676749' target='_blank'>晴明身心診所</a>",
+      "phone": "05-5330567",
+      "address": "<a href='https://www.google.com.tw/maps/place/雲林縣斗六市大同路183號' target='_blank'>雲林縣斗六市大同路183號</a>",
+      "payDetail": "掛號費200元",
+      "thisWeekRange": null,
+      "thisWeekCount": 4,
+      "nextWeekRange": null,
+      "nextWeekCount": 3,
+      "next2WeekRange": null,
+      "next2WeekCount": 3,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 10,
+      "editDate": "2025/11/25",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "雲林縣",
+      "orgName": "<a href='' target='_blank'>綠水心理諮商所</a>",
+      "phone": "0958137607",
+      "address": "<a href='https://www.google.com.tw/maps/place/雲林縣虎尾鎮林森路一段416巷15號2樓' target='_blank'>雲林縣虎尾鎮林森路一段416巷15號2樓</a>",
+      "payDetail": "行政處理費200元",
+      "thisWeekRange": null,
+      "thisWeekCount": 20,
+      "nextWeekRange": null,
+      "nextWeekCount": 20,
+      "next2WeekRange": null,
+      "next2WeekCount": 10,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 50,
+      "editDate": "2025/11/25",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "雲林縣",
+      "orgName": "<a href='https://www.facebook.com/profile.php?id=100071396570518' target='_blank'>穗訸心理治療所</a>",
+      "phone": "0936762822",
+      "address": "<a href='https://www.google.com.tw/maps/place/雲林縣斗六市建成路59巷11號1樓' target='_blank'>雲林縣斗六市建成路59巷11號1樓</a>",
+      "payDetail": "行政費500元",
+      "thisWeekRange": null,
+      "thisWeekCount": 10,
+      "nextWeekRange": null,
+      "nextWeekCount": 10,
+      "next2WeekRange": null,
+      "next2WeekCount": 10,
+      "next3WeekRange": null,
+      "next3WeekCount": 10,
+      "in4WeekTotleCount": 40,
+      "editDate": "2025/11/24",
+      "strTeleconsultation": "否"
+    }
+  ],
+  "totalPages": 1
+}

@@ -1,4 +1,5 @@
 // src/http_crawl.js — 直接打 JSON API，不開瀏覽器（含 Session/Token）
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 const fs = require('fs');
 const path = require('path');
 const { URLSearchParams } = require('url');
@@ -9,7 +10,7 @@ const API  = `${BASE}/Home/QueryServiceOrgJsonList`;
 const OUT  = path.resolve('./out');
 if (!fs.existsSync(OUT)) fs.mkdirSync(OUT, { recursive: true });
 
-const COUNTY_VALUE = process.env.COUNTY_VALUE || '9'; // 桃園
+const COUNTY_VALUE = process.env.COUNTY_VALUE || '1'; // 桃園
 
 // ------ 先 GET 表單頁，取得 Session cookie / 防偽 token ------
 async function getSession() {

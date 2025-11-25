@@ -1,0 +1,60 @@
+{
+  "total": 3,
+  "rows": [
+    {
+      "countyName": "苗栗縣",
+      "orgName": "<a href='https://www.mil.mohw.gov.tw/' target='_blank'>衛生福利部苗栗醫院</a>",
+      "phone": "037-261920#1265",
+      "address": "<a href='https://www.google.com.tw/maps/place/苗栗縣苗栗市為公路747號' target='_blank'>苗栗縣苗栗市為公路747號</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 1,
+      "nextWeekRange": null,
+      "nextWeekCount": 1,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 2,
+      "editDate": "2025/11/25",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "苗栗縣",
+      "orgName": "<a href='https://www.facebook.com/profile.php?id=61558298624935&paipv=0&eav=AfYaRFe0LdFCfgFqhMNkU_SQcnp7qAizuIpZUOPELIkGnz2dBH9kv04wymvntSsgnZM' target='_blank'>謐境心理治療所</a>",
+      "phone": "037-377567",
+      "address": "<a href='https://www.google.com.tw/maps/place/苗栗縣苗栗市中山路398號1樓' target='_blank'>苗栗縣苗栗市中山路398號1樓</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 3,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 3,
+      "editDate": "2025/11/18",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "苗栗縣",
+      "orgName": "<a href='https://www.weigong.org.tw/' target='_blank'>為恭醫療財團法人為恭紀念醫院</a>",
+      "phone": "037-676811#53370",
+      "address": "<a href='https://www.google.com.tw/maps/place/苗栗縣頭份市信義路128號' target='_blank'>苗栗縣頭份市信義路128號</a>",
+      "payDetail": "掛號費(依院方規定)",
+      "thisWeekRange": null,
+      "thisWeekCount": 3,
+      "nextWeekRange": null,
+      "nextWeekCount": 3,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 6,
+      "editDate": "2025/11/21",
+      "strTeleconsultation": "否"
+    }
+  ],
+  "totalPages": 1
+}

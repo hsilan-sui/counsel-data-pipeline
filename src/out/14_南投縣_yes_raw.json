@@ -1,0 +1,60 @@
+{
+  "total": 3,
+  "rows": [
+    {
+      "countyName": "南投縣",
+      "orgName": "<a href='https://www.ttpc.mohw.gov.tw/' target='_blank'>衛生福利部草屯療養院</a>",
+      "phone": "049-2550800",
+      "address": "<a href='https://www.google.com.tw/maps/place/南投縣草屯鎮玉屏路161號' target='_blank'>南投縣草屯鎮玉屏路161號</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 3,
+      "nextWeekRange": null,
+      "nextWeekCount": 3,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 6,
+      "editDate": "2025/11/18",
+      "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "南投縣",
+      "orgName": "<a href='https://www.willingtotherapy.com/' target='_blank'>唯聆心理治療所</a>",
+      "phone": "0958797012",
+      "address": "<a href='https://www.google.com.tw/maps/place/南投縣草屯鎮仁愛街270號' target='_blank'>南投縣草屯鎮仁愛街270號</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 3,
+      "nextWeekRange": null,
+      "nextWeekCount": 3,
+      "next2WeekRange": null,
+      "next2WeekCount": 3,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 9,
+      "editDate": "2025/11/19",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "南投縣",
+      "orgName": "<a href='' target='_blank'>微聲想想心理治療所</a>",
+      "phone": "0912169868",
+      "address": "<a href='https://www.google.com.tw/maps/place/南投縣埔里鎮西康路52號' target='_blank'>南投縣埔里鎮西康路52號</a>",
+      "payDetail": null,
+      "thisWeekRange": null,
+      "thisWeekCount": 6,
+      "nextWeekRange": null,
+      "nextWeekCount": 6,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 12,
+      "editDate": "2025/11/17",
+      "strTeleconsultation": "否"
+    }
+  ],
+  "totalPages": 1
+}

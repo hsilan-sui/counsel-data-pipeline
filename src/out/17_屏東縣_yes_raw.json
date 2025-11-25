@@ -1,0 +1,42 @@
+{
+  "total": 2,
+  "rows": [
+    {
+      "countyName": "屏東縣",
+      "orgName": "<a href='http://www.pingan.url.tw/pinane/h/h1/h1.html' target='_blank'>瑞興診所</a>",
+      "phone": "08-7378888",
+      "address": "<a href='https://www.google.com.tw/maps/place/屏東縣屏東市瑞光路二段250號2樓' target='_blank'>屏東縣屏東市瑞光路二段250號2樓</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 3,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 3,
+      "editDate": "2025/11/19",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "屏東縣",
+      "orgName": "<a href='https://802.mnd.gov.tw/815/' target='_blank'>國軍高雄總醫院屏東分院附設民眾診療服務處</a>",
+      "phone": "08-7560756",
+      "address": "<a href='https://www.google.com.tw/maps/place/屏東縣屏東市大湖路58巷22號' target='_blank'>屏東縣屏東市大湖路58巷22號</a>",
+      "payDetail": "掛號費50元",
+      "thisWeekRange": null,
+      "thisWeekCount": 1,
+      "nextWeekRange": null,
+      "nextWeekCount": 1,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 2,
+      "editDate": "2025/11/21",
+      "strTeleconsultation": "否"
+    }
+  ],
+  "totalPages": 1
+}
