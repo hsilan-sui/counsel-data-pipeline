@@ -3,10 +3,10 @@
   "rows": [
     {
       "countyName": "嘉義縣",
-      "orgName": "<a href='https://www.vhwc.gov.tw/' target='_blank'>臺中榮民總醫院灣橋分院</a>",
-      "phone": "05-2791072#7378",
-      "address": "<a href='https://www.google.com.tw/maps/place/嘉義縣竹崎鄉灣橋村石麻園38號' target='_blank'>嘉義縣竹崎鄉灣橋村石麻園38號</a>",
-      "payDetail": "第一次至本院建立病歷以利後續繼續治療，掛號費50元",
+      "orgName": "<a href='https://sites.google.com/view/neshama1125' target='_blank'>款待心理諮商所</a>",
+      "phone": "0971-822301",
+      "address": "<a href='https://www.google.com.tw/maps/place/嘉義縣民雄鄉中樂村保生街81巷25號' target='_blank'>嘉義縣民雄鄉中樂村保生街81巷25號</a>",
+      "payDetail": "行政費100元",
       "thisWeekRange": null,
       "thisWeekCount": 0,
       "nextWeekRange": null,
@@ -16,7 +16,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/09/26",
       "strTeleconsultation": "否"
     }
   ],

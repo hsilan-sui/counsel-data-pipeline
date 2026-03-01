@@ -10,14 +10,14 @@
       "address": "金湖鎮市港二路170號1樓",
       "map_url": "https://www.google.com.tw/maps/place/金湖鎮市港二路170號1樓",
       "pay_detail": "無",
-      "this_week": 0,
-      "next_week": 0,
-      "next_2_week": 0,
+      "this_week": 15,
+      "next_week": 15,
+      "next_2_week": 15,
       "next_3_week": 0,
-      "in_4_weeks": 0,
-      "edit_date": "2025/11/24",
+      "in_4_weeks": 45,
+      "edit_date": "2026/01/06",
       "teleconsultation": false,
-      "has_quota": false
+      "has_quota": true
     }
   ]
 }

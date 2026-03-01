@@ -3,9 +3,9 @@
   "rows": [
     {
       "countyName": "嘉義市",
-      "orgName": "<a href='https://openwish.mystrikingly.com/' target='_blank'>心言心理諮商所</a>",
-      "phone": "0982-569979",
-      "address": "<a href='https://www.google.com.tw/maps/place/嘉義市西區玉康路130號' target='_blank'>嘉義市西區玉康路130號</a>",
+      "orgName": "<a href='https://littlestepspsy.wixsite.com/index/' target='_blank'>小足跡心理治療所</a>",
+      "phone": "05-2330031",
+      "address": "<a href='https://www.google.com.tw/maps/place/嘉義市西區德安路31號' target='_blank'>嘉義市西區德安路31號</a>",
       "payDetail": "無",
       "thisWeekRange": null,
       "thisWeekCount": 0,
@@ -16,8 +16,8 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/11/16",
-      "strTeleconsultation": "否"
+      "editDate": "2026/01/05",
+      "strTeleconsultation": "是"
     }
   ],
   "totalPages": 1

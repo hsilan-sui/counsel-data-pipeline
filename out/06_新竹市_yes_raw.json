@@ -1,5 +1,5 @@
 {
-  "total": 2,
+  "total": 1,
   "rows": [
     {
       "countyName": "新竹市",
@@ -8,33 +8,15 @@
       "address": "<a href='https://www.google.com.tw/maps/place/新竹市食品路177巷23號' target='_blank'>新竹市食品路177巷23號</a>",
       "payDetail": "無",
       "thisWeekRange": null,
-      "thisWeekCount": 6,
-      "nextWeekRange": null,
-      "nextWeekCount": 6,
-      "next2WeekRange": null,
-      "next2WeekCount": 6,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 18,
-      "editDate": "2025/08/31",
-      "strTeleconsultation": "是"
-    },
-    {
-      "countyName": "新竹市",
-      "orgName": "<a href='https://www.dowdslove.url.tw/' target='_blank'>杜華心苑心理諮商所</a>",
-      "phone": "03-5736178",
-      "address": "<a href='https://www.google.com.tw/maps/place/新竹市東區新光路83號' target='_blank'>新竹市東區新光路83號</a>",
-      "payDetail": "掛號費平日200元  假日400元",
-      "thisWeekRange": null,
       "thisWeekCount": 0,
       "nextWeekRange": null,
-      "nextWeekCount": 3,
+      "nextWeekCount": 0,
       "next2WeekRange": null,
-      "next2WeekCount": 3,
+      "next2WeekCount": 0,
       "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 6,
-      "editDate": "2025/09/03",
+      "next3WeekCount": 1,
+      "in4WeekTotleCount": 1,
+      "editDate": "2025/09/30",
       "strTeleconsultation": "是"
     }
   ],

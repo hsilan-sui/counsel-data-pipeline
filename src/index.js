@@ -5,9 +5,10 @@ const fs = require('fs');
 const path = require('path');
 
 /* ===================== 常數與輸出目錄 ===================== */
-const BASE = 'https://sps.mohw.gov.tw/mhs';
-const FORM = `${BASE}/Home/QueryServiceOrg`;
-const OUT  = path.resolve('./out');
+
+const BASE = 'https://sps.mohw.gov.tw/mhs'; //2026 衛福部心理諮商平台 首頁
+const FORM = `${BASE}/Home/QueryServiceOrg`; //查詢表單頁
+const OUT  = path.resolve('./out'); //所有輸出檔的資料夾
 if (!fs.existsSync(OUT)) fs.mkdirSync(OUT, { recursive: true });
 
 /* ===================== 小工具 ===================== */
@@ -60,7 +61,8 @@ function cleanRows(rows) {
   });
 }
 
-function mergeYesNo(yesRows, noRows) {
+//合併「有名額 / 無名額」
+function mergeYesNo(yesRows, noRows) { 
   const key = r => `${r.county}||${r.org_name}||${r.address}`.trim();
   const map = new Map();
   [...yesRows, ...noRows].forEach(r => {

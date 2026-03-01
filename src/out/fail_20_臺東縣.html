@@ -1,0 +1,116 @@
+<html><head><style>
+</style>
+
+
+</head><body><form id="QueryOrgServiceCaseForm" class="h100">
+    <div class="row col-xs-12">
+        <div class="form-horizontal">
+            <div class="form-group">
+                <input name="__RequestVerificationToken" type="hidden" value="zB193WEUVWJ49P0KYWFGZkZjfRbKaoaON5fcuAiastivMAaHXAydZdN2TNNE4MvXLxKvOtggPNf8_x4MGcmh6mtO5tNJbf334y1QztwZ9lw1" style="">
+                <label class="col-sm-2 control-label">縣市別</label>
+                <div class="col-sm-3">
+                    <select class="form-control" id="county" name="county"><option value="">請選擇</option>
+<option value="1">臺北市</option>
+<option value="2">臺中市</option>
+<option value="3">臺南市</option>
+<option value="4">高雄市</option>
+<option value="5">基隆市</option>
+<option value="6">新竹市</option>
+<option value="7">嘉義市</option>
+<option value="8">新北市</option>
+<option value="9">桃園市</option>
+<option value="10">新竹縣</option>
+<option value="11">宜蘭縣</option>
+<option value="12">苗栗縣</option>
+<option value="13">彰化縣</option>
+<option value="14">南投縣</option>
+<option value="15">雲林縣</option>
+<option value="16">嘉義縣</option>
+<option value="17">屏東縣</option>
+<option value="18">澎湖縣</option>
+<option value="19">花蓮縣</option>
+<option value="20">臺東縣</option>
+<option value="21">金門縣</option>
+<option value="22">連江縣</option>
+</select>
+                </div>
+                <label class="col-sm-2 control-label">機構名稱</label>
+                <div class="col-sm-3">
+                    <input class="form-control" id="orgName" name="orgName" placeholder="機構名稱" type="text" value="" style="">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-2 control-label">尚有名額</label>
+                <div class="col-sm-4 " style="text-align: left; padding-top: 5px; ">
+                    <input type="radio" id="isYes" name="haveServiceCount" value="1" style="">
+                    <label for="isYes">是</label>
+                    <input type="radio" id="isNo" name="haveServiceCount" value="0" style="">
+                    <label for="isNo">否</label>
+                </div>
+            </div>
+            <div class="form-group text-center">
+                <button type="button" class="btn btn-success" onclick="CSSM_SearchDataGrid('QueryOrgServiceCaseDg')">查詢</button>
+                <p style="color:red;font-size:16px">＊未來四周名額為預估，詳細資訊請聯繫合作機構實際狀況為準。</p>
+            </div>
+
+        </div>
+    </div>
+    <div class="CSSMDataGridContainer datagrid-box col-sm-12 box-position-relative" style="height:calc(95% - 150px)">
+        <table class="CSSMDataGrid" id="QueryOrgServiceCaseDg" style="height:auto; width:auto" data-options="rownumbers:true,singleSelect:true,fit:true"></table>
+        <div><div class="CSSMSearchNoData"><div class="ResultText"><i class="fa fa-file"></i><div>Data Not Found<br>找不到符合條件的資料</div></div></div></div>
+        <div>
+            <div class="CSSMSearchError"><div class="ResultText"><i class="fa fa-times-circle"></i><div>Get Data Fail<br>資料取得失敗</div></div></div>
+        </div>
+    </div>
+        <div class="row col-xs-12">
+            瀏覽人次：115594
+        </div>
+
+</form>
+<script>
+    var HospInfoItmeComplete;
+
+    $(document).ready(function () {
+        var form = $('#QueryOrgServiceCaseForm');
+
+        CSSMInputAutoOff();
+
+        form.find("#QueryOrgServiceCaseDg").datagrid({
+            defaultSearchForm: "QueryOrgServiceCaseForm",
+            FirstSearchQuery: true,
+            url: '/mhs/Home/QueryServiceOrgJsonList',
+            pagination: true,
+            striped: true,
+            onLoadSuccess: function (data) {
+                var datagrid = this.id;
+                if (data == null || data.rows == null || data.rows.length == 0)
+                    $('#' + datagrid).parents('.datagrid-wrap').find('.CSSMSearchNoData').show();
+                else if (data != null && data.rows != null && data.rows.length > 0) {
+                    $('#' + datagrid).parents('.datagrid-wrap').find('.CSSMSearchNoData').hide();
+                    console.log(data.rows[0]);
+                }
+            },
+            columns: [[
+                { field: 'countyName', title: '縣市別', halign: 'center', align: 'center', width: '50' },
+                { field: 'orgName', title: '機構名稱', halign: 'center', align: 'center', width: '200' },
+                { field: 'address', title: '地址', halign: 'center', align: 'center', width: '200' },
+                { field: 'phone', title: '聯絡電話', halign: 'center', align: 'center', width: '160' },
+                { field: 'payDetail', title: '自付費用', halign: 'center', align: 'center', width: '160' },
+                { field: 'strTeleconsultation', title: '提供<br />通訊服務', halign: 'center', align: 'center', width: '75' },
+                { field: 'thisWeekCount', title: '2026/01/04<br/>~<br/>2026/01/10', halign: 'center', align: 'left', width: '85' },
+                { field: 'nextWeekCount', title: '2026/01/11<br/>~<br/>2026/01/17', halign: 'center', align: 'left', width: '85' },
+                { field: 'next2WeekCount', title: '2026/01/18<br/>~<br/>2026/01/24', halign: 'center', align: 'left', width: '85' },
+                { field: 'next3WeekCount', title: '2026/01/25<br/>~<br/>2026/01/31', halign: 'center', align: 'left', width: '85' },
+                { field: 'editDate', title: '資料<br />更新時間', halign: 'center', align: 'center', width: '90' },
+            ]]
+        });
+    });
+    $(window).resize(function () {
+        $('#QueryOrgServiceCaseDg').datagrid('resize');
+    });
+
+</script>
+
+
+
+</body></html>

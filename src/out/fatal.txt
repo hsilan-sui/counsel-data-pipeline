@@ -1,3 +1,11 @@
-page.waitForTimeout: Target page, context or browser has been closed
-    at gotoStable (/Users/suihsilan/Desktop/counsel_data_pipeline/src/index.js:158:18)
-    at async /Users/suihsilan/Desktop/counsel_data_pipeline/src/index.js:384:3
+browserType.launch: Executable doesn't exist at /Users/suihsilan/Library/Caches/ms-playwright/chromium_headless_shell-1181/chrome-mac/headless_shell
+╔═════════════════════════════════════════════════════════════════════════╗
+║ Looks like Playwright Test or Playwright was just installed or updated. ║
+║ Please run the following command to download new browsers:              ║
+║                                                                         ║
+║     npx playwright install                                              ║
+║                                                                         ║
+║ <3 Playwright Team                                                      ║
+╚═════════════════════════════════════════════════════════════════════════╝
+    at /Users/suihsilan/Desktop/counsel_data_pipeline/src/index.js:358:34
+    at Object.<anonymous> (/Users/suihsilan/Desktop/counsel_data_pipeline/src/index.js:443:3)

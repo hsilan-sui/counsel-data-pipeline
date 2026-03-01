@@ -83,6 +83,8 @@ const cache = fs.existsSync(CACHE_JSON)
   ? JSON.parse(fs.readFileSync(CACHE_JSON, 'utf8'))
   : {}; // { "<normalizedQuery>": { lat, lng, confidence, formatted, source, components, approx? } }
 
+fs.mkdirSync(path.dirname(CACHE_JSON), { recursive: true });
+
 // 支援兩種輸入：A) { county,total,rows:[...] }  B) [ ... ]
 let wrapper, rows;
 if (Array.isArray(raw)) {
@@ -537,7 +539,14 @@ async function main() {
         miss++;
         console.warn(`[MISS ${i + 1}/${rows.length}] ${r.org_name || ''} | ${r.address || ''}`);
       }
-      fs.writeFileSync(CACHE_JSON, JSON.stringify(cache, null, 2), 'utf8'); // 每筆即時落盤
+
+      // ✅ 改
+      try {
+        fs.writeFileSync(CACHE_JSON, JSON.stringify(cache, null, 2), 'utf8');
+      } catch (e) {
+        console.warn('[CACHE WRITE FAIL]', e.message);
+      }
+
     } catch (e) {
       error++;
       const msg = e.response?.data || e.message;

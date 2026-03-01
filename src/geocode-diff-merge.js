@@ -121,7 +121,7 @@ const env = { ...process.env, GEOCODE_DEBUG: DEBUG ? 'true' : 'false' };
 
 console.log('🚀 執行 geocode.js（僅新診所）...');
 const proc = spawnSync(process.execPath, [
-  path.resolve('src/geocode.js'),
+  path.resolve(__dirname, 'geocode.js'),
   '--in', tmpIn,
   '--out', tmpOut,
   '--cache', CACHE_JSON,

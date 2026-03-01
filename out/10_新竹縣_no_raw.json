@@ -1,5 +1,5 @@
 {
-  "total": 13,
+  "total": 12,
   "rows": [
     {
       "countyName": "新竹縣",
@@ -17,24 +17,6 @@
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
       "editDate": "尚未更新",
-      "strTeleconsultation": "否"
-    },
-    {
-      "countyName": "新竹縣",
-      "orgName": "<a href='https://www.mind-garden.org/doctor_1.aspx' target='_blank'>心園心理治療所</a>",
-      "phone": "03-5506375",
-      "address": "<a href='https://www.google.com.tw/maps/place/新竹縣竹北市勝利八街二段111號' target='_blank'>新竹縣竹北市勝利八街二段111號</a>",
-      "payDetail": "400掛號費",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "2025/09/02",
       "strTeleconsultation": "否"
     },
     {
@@ -124,7 +106,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/20",
+      "editDate": "尚未更新",
       "strTeleconsultation": "否"
     },
     {
@@ -142,7 +124,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/22",
+      "editDate": "尚未更新",
       "strTeleconsultation": "否"
     },
     {

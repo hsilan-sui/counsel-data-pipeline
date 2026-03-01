@@ -1,5 +1,5 @@
 {
-  "total": 46,
+  "total": 48,
   "rows": [
     {
       "countyName": "臺中市",
@@ -52,7 +52,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/09/04",
+      "editDate": "尚未更新",
       "strTeleconsultation": "是"
     },
     {
@@ -111,24 +111,6 @@
     },
     {
       "countyName": "臺中市",
-      "orgName": "<a href='http://theharmonymind.com/' target='_blank'>心煦心理治療所</a>",
-      "phone": "0970002995",
-      "address": "<a href='https://www.google.com.tw/maps/place/台中市西屯區福雅路128巷58號' target='_blank'>台中市西屯區福雅路128巷58號</a>",
-      "payDetail": "無",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
-      "strTeleconsultation": "是"
-    },
-    {
-      "countyName": "臺中市",
       "orgName": "<a href='https://sulisten.com/' target='_blank'>訴心理諮商所</a>",
       "phone": "0908512345 或加入Line ID：@sulisten",
       "address": "<a href='https://www.google.com.tw/maps/place/台中市西屯區市政北七路186號13樓之8' target='_blank'>台中市西屯區市政北七路186號13樓之8</a>",
@@ -165,6 +147,24 @@
     },
     {
       "countyName": "臺中市",
+      "orgName": "<a href='http://blog.ru-yin.org' target='_blank'>如穎心理成長中心心理治療所</a>",
+      "phone": "04-22282220",
+      "address": "<a href='https://www.google.com.tw/maps/place/台中市中區柳川東路三段5號5樓' target='_blank'>台中市中區柳川東路三段5號5樓</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "臺中市",
       "orgName": "<a href='https://www.thesunden.tw/' target='_blank'>昕晴空間心理諮商所</a>",
       "phone": "04-26628880",
       "address": "<a href='https://www.google.com.tw/maps/place/台中市沙鹿區光華路499號' target='_blank'>台中市沙鹿區光華路499號</a>",
@@ -178,7 +178,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/09/18",
       "strTeleconsultation": "是"
     },
     {
@@ -291,6 +291,24 @@
     },
     {
       "countyName": "臺中市",
+      "orgName": "<a href='https://www.heartwarming101.com/' target='_blank'>陽晴心理治療所</a>",
+      "phone": "0908432988",
+      "address": "<a href='https://www.google.com.tw/maps/place/台中市西區五權五街101號' target='_blank'>台中市西區五權五街101號</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/09/30",
+      "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "臺中市",
       "orgName": "<a href='https://www.facebook.com/eternalbelongingofmind?mibextid=ZbWKwL' target='_blank'>擁恆心理諮商所</a>",
       "phone": "0936185235",
       "address": "<a href='https://www.google.com.tw/maps/place/台中市大甲區水源路215號1、2樓' target='_blank'>台中市大甲區水源路215號1、2樓</a>",
@@ -304,7 +322,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/30",
+      "editDate": "尚未更新",
       "strTeleconsultation": "是"
     },
     {
@@ -312,7 +330,7 @@
       "orgName": "<a href='https://www.sunlight520.tw/' target='_blank'>晴朗心理諮商所</a>",
       "phone": "0908038706",
       "address": "<a href='https://www.google.com.tw/maps/place/臺中市南屯區黎明東街429號' target='_blank'>臺中市南屯區黎明東街429號</a>",
-      "payDetail": "0",
+      "payDetail": "無",
       "thisWeekRange": null,
       "thisWeekCount": 0,
       "nextWeekRange": null,
@@ -322,7 +340,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/09/26",
       "strTeleconsultation": "是"
     },
     {
@@ -376,7 +394,25 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/18",
+      "editDate": "2025/09/22",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "臺中市",
+      "orgName": "<a href='https://dryi0.wordpress.com/' target='_blank'>宗益身心醫學診所</a>",
+      "phone": "(04)2338-0503",
+      "address": "<a href='https://www.google.com.tw/maps/place/台中市烏日區公園路75號' target='_blank'>台中市烏日區公園路75號</a>",
+      "payDetail": "掛號費150元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/09/30",
       "strTeleconsultation": "否"
     },
     {
@@ -502,7 +538,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/09/07",
+      "editDate": "2025/09/30",
       "strTeleconsultation": "否"
     },
     {
@@ -633,6 +669,24 @@
     },
     {
       "countyName": "臺中市",
+      "orgName": "<a href='https://www.xinxi2024.com/' target='_blank'>心喜心理治療所</a>",
+      "phone": "04-22734567 或加入LINEID: ＠450hnjfs",
+      "address": "<a href='https://www.google.com.tw/maps/place/台中市太平區市民大道一段251號' target='_blank'>台中市太平區市民大道一段251號</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
+      "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "臺中市",
       "orgName": "<a href='https://freeandeasypsy.com' target='_blank'>自在心理治療所</a>",
       "phone": "0958265826 或加入LINEID:@freeandeasy",
       "address": "<a href='https://www.google.com.tw/maps/place/台中市沙鹿區北勢東路748號1樓' target='_blank'>台中市沙鹿區北勢東路748號1樓</a>",
@@ -646,7 +700,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/09/07",
+      "editDate": "2025/09/24",
       "strTeleconsultation": "是"
     },
     {
@@ -664,25 +718,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/28",
-      "strTeleconsultation": "否"
-    },
-    {
-      "countyName": "臺中市",
-      "orgName": "<a href='https://cheer-clinic.com/' target='_blank'>佳樂身心診所</a>",
-      "phone": "0424211693",
-      "address": "<a href='https://www.google.com.tw/maps/place/台中市北屯區四平路369號' target='_blank'>台中市北屯區四平路369號</a>",
-      "payDetail": "掛號費200元",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/09/30",
       "strTeleconsultation": "否"
     },
     {
@@ -826,7 +862,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/09/04",
+      "editDate": "尚未更新",
       "strTeleconsultation": "是"
     }
   ],

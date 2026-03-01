@@ -1,5 +1,5 @@
 {
-  "total": 4,
+  "total": 5,
   "rows": [
     {
       "countyName": "南投縣",
@@ -8,16 +8,34 @@
       "address": "<a href='https://www.google.com.tw/maps/place/南投縣草屯鎮玉屏路161號' target='_blank'>南投縣草屯鎮玉屏路161號</a>",
       "payDetail": "無",
       "thisWeekRange": null,
-      "thisWeekCount": 3,
+      "thisWeekCount": 6,
       "nextWeekRange": null,
       "nextWeekCount": 3,
       "next2WeekRange": null,
-      "next2WeekCount": 6,
+      "next2WeekCount": 3,
       "next3WeekRange": null,
-      "next3WeekCount": 6,
-      "in4WeekTotleCount": 18,
-      "editDate": "2025/09/07",
+      "next3WeekCount": 3,
+      "in4WeekTotleCount": 15,
+      "editDate": "2025/09/28",
       "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "南投縣",
+      "orgName": "<a href='https://www.pch.org.tw/department.php?depid=136#depblk287' target='_blank'>埔基醫療財團法人埔里基督教醫院</a>",
+      "phone": "049-2912151#5650",
+      "address": "<a href='https://www.google.com.tw/maps/place/南投縣埔里鎮鐵山路1號' target='_blank'>南投縣埔里鎮鐵山路1號</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 2,
+      "nextWeekRange": null,
+      "nextWeekCount": 2,
+      "next2WeekRange": null,
+      "next2WeekCount": 2,
+      "next3WeekRange": null,
+      "next3WeekCount": 2,
+      "in4WeekTotleCount": 8,
+      "editDate": "2025/09/30",
+      "strTeleconsultation": "否"
     },
     {
       "countyName": "南投縣",
@@ -26,15 +44,15 @@
       "address": "<a href='https://www.google.com.tw/maps/place/南投縣埔里鎮榮光路一號' target='_blank'>南投縣埔里鎮榮光路一號</a>",
       "payDetail": "掛號費180元",
       "thisWeekRange": null,
-      "thisWeekCount": 0,
+      "thisWeekCount": 2,
       "nextWeekRange": null,
       "nextWeekCount": 2,
       "next2WeekRange": null,
       "next2WeekCount": 2,
       "next3WeekRange": null,
       "next3WeekCount": 2,
-      "in4WeekTotleCount": 6,
-      "editDate": "2025/09/09",
+      "in4WeekTotleCount": 8,
+      "editDate": "2025/09/30",
       "strTeleconsultation": "否"
     },
     {
@@ -52,7 +70,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 9,
-      "editDate": "2025/09/02",
+      "editDate": "2025/09/23",
       "strTeleconsultation": "否"
     },
     {
@@ -70,7 +88,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 12,
-      "editDate": "2025/08/29",
+      "editDate": "2025/09/16",
       "strTeleconsultation": "否"
     }
   ],

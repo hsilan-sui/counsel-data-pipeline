@@ -1,5 +1,5 @@
 {
-  "total": 4,
+  "total": 3,
   "rows": [
     {
       "countyName": "南投縣",
@@ -21,24 +21,6 @@
     },
     {
       "countyName": "南投縣",
-      "orgName": "<a href='https://www.pch.org.tw/department.php?depid=136#depblk287' target='_blank'>埔基醫療財團法人埔里基督教醫院</a>",
-      "phone": "049-2912151#5650",
-      "address": "<a href='https://www.google.com.tw/maps/place/南投縣埔里鎮鐵山路1號' target='_blank'>南投縣埔里鎮鐵山路1號</a>",
-      "payDetail": "無",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
-      "strTeleconsultation": "否"
-    },
-    {
-      "countyName": "南投縣",
       "orgName": "<a href='無' target='_blank'>致遠身心科診所</a>",
       "phone": "049-2248282",
       "address": "<a href='https://www.google.com.tw/maps/place/南投市康壽里南陽路415號' target='_blank'>南投市康壽里南陽路415號</a>",
@@ -52,7 +34,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/09/30",
       "strTeleconsultation": "是"
     },
     {
@@ -70,7 +52,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/24",
+      "editDate": "尚未更新",
       "strTeleconsultation": "否"
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "total": 2,
+  "total": 1,
   "rows": [
     {
       "countyName": "雲林縣",
@@ -12,29 +12,11 @@
       "nextWeekRange": null,
       "nextWeekCount": 4,
       "next2WeekRange": null,
-      "next2WeekCount": 4,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 13,
-      "editDate": "2025/09/06",
-      "strTeleconsultation": "否"
-    },
-    {
-      "countyName": "雲林縣",
-      "orgName": "<a href='https://yunching0108.blogspot.com/' target='_blank'>雲晴心理諮商所</a>",
-      "phone": "0921523828",
-      "address": "<a href='https://www.google.com.tw/maps/place/雲林縣虎尾鎮光復路315巷7號' target='_blank'>雲林縣虎尾鎮光復路315巷7號</a>",
-      "payDetail": "無",
-      "thisWeekRange": null,
-      "thisWeekCount": 8,
-      "nextWeekRange": null,
-      "nextWeekCount": 5,
-      "next2WeekRange": null,
       "next2WeekCount": 5,
       "next3WeekRange": null,
       "next3WeekCount": 0,
-      "in4WeekTotleCount": 18,
-      "editDate": "2025/09/04",
+      "in4WeekTotleCount": 14,
+      "editDate": "2025/09/22",
       "strTeleconsultation": "否"
     }
   ],

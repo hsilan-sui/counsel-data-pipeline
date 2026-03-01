@@ -1,5 +1,5 @@
 {
-  "total": 37,
+  "total": 45,
   "rows": [
     {
       "countyName": "高雄市",
@@ -16,7 +16,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/19",
+      "editDate": "2025/09/18",
       "strTeleconsultation": "是"
     },
     {
@@ -34,7 +34,25 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/17",
+      "editDate": "2025/09/12",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "高雄市",
+      "orgName": "<a href='https://www.facebook.com/wondermind515' target='_blank'>溫島心理治療所</a>",
+      "phone": "(07)963-8515",
+      "address": "<a href='https://www.google.com.tw/maps/place/高雄市前鎮區瑞和街6號' target='_blank'>高雄市前鎮區瑞和街6號</a>",
+      "payDetail": "掛號費100元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
       "strTeleconsultation": "否"
     },
     {
@@ -57,10 +75,10 @@
     },
     {
       "countyName": "高雄市",
-      "orgName": "<a href='https://www.howhowmind.com/' target='_blank'>禾好心理治療所</a>",
-      "phone": "0912-208-826",
-      "address": "<a href='https://www.google.com.tw/maps/place/高雄市苓雅區正大路119號2樓' target='_blank'>高雄市苓雅區正大路119號2樓</a>",
-      "payDetail": "行政處理費600元",
+      "orgName": "<a href='https://www.facebook.com/CheerfulMindsClinics' target='_blank'>欣寧心理治療所</a>",
+      "phone": "(07)350-2119",
+      "address": "<a href='https://www.google.com.tw/maps/place/高雄市左營區重愛路395號' target='_blank'>高雄市左營區重愛路395號</a>",
+      "payDetail": "平日下午五點前：掛號費100元+行政處理費300元，平日下午五點後與周六/日整日：掛號費100元+行政處理費500元",
       "thisWeekRange": null,
       "thisWeekCount": 0,
       "nextWeekRange": null,
@@ -70,26 +88,8 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
-      "strTeleconsultation": "是"
-    },
-    {
-      "countyName": "高雄市",
-      "orgName": "<a href='https://www.howhowmind.com/' target='_blank'>美術館禾好心理治療所</a>",
-      "phone": "0912-208-826",
-      "address": "<a href='https://www.google.com.tw/maps/place/高雄市鼓山區美術北一街81號' target='_blank'>高雄市鼓山區美術北一街81號</a>",
-      "payDetail": "行政處理費600元",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
-      "strTeleconsultation": "是"
+      "editDate": "2025/09/21",
+      "strTeleconsultation": "否"
     },
     {
       "countyName": "高雄市",
@@ -108,6 +108,24 @@
       "in4WeekTotleCount": 0,
       "editDate": "尚未更新",
       "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "高雄市",
+      "orgName": "<a href='https://sites.google.com/view/rosehappyfamily' target='_blank'>幸福家庭心理諮商所</a>",
+      "phone": "0931-890-895",
+      "address": "<a href='https://www.google.com.tw/maps/place/高雄市楠梓區大學東路620號' target='_blank'>高雄市楠梓區大學東路620號</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/09/23",
+      "strTeleconsultation": "是"
     },
     {
       "countyName": "高雄市",
@@ -142,7 +160,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/09/18",
       "strTeleconsultation": "是"
     },
     {
@@ -178,25 +196,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/09/03",
-      "strTeleconsultation": "是"
-    },
-    {
-      "countyName": "高雄市",
-      "orgName": "<a href='https://www.facebook.com/Pmindgarden/?locale=zh_TW' target='_blank'>繪心庭心理諮商所(可協助偏鄉)</a>",
-      "phone": "(07)553-0101",
-      "address": "<a href='https://www.google.com.tw/maps/place/高雄市鼓山區華榮路228號7樓' target='_blank'>高雄市鼓山區華榮路228號7樓</a>",
-      "payDetail": "無",
-      "thisWeekRange": null,
-      "thisWeekCount": 0,
-      "nextWeekRange": null,
-      "nextWeekCount": 0,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 0,
-      "editDate": "2025/09/03",
+      "editDate": "2025/09/29",
       "strTeleconsultation": "是"
     },
     {
@@ -214,7 +214,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/09/18",
       "strTeleconsultation": "是"
     },
     {
@@ -232,7 +232,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/09/04",
+      "editDate": "2025/09/22",
       "strTeleconsultation": "是"
     },
     {
@@ -250,7 +250,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/09/03",
+      "editDate": "尚未更新",
       "strTeleconsultation": "否"
     },
     {
@@ -268,7 +268,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/09/04",
+      "editDate": "2025/09/18",
       "strTeleconsultation": "否"
     },
     {
@@ -286,7 +286,61 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/09/07",
+      "editDate": "2025/09/29",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "高雄市",
+      "orgName": "<a href='https://www.facebook.com/profile.php?id=61556593215868&mibextid=LQQJ4d' target='_blank'>神木心理諮商所</a>",
+      "phone": "0901-245-230",
+      "address": "<a href='https://www.google.com.tw/maps/place/高雄市前鎮區二聖路230號' target='_blank'>高雄市前鎮區二聖路230號</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/09/28",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "高雄市",
+      "orgName": "<a href='https://www.outhearter.org' target='_blank'>浪心人心理諮商所</a>",
+      "phone": "0921-311-675",
+      "address": "<a href='https://www.google.com.tw/maps/place/高雄市鳳山區青年路一段262巷39號1樓' target='_blank'>高雄市鳳山區青年路一段262巷39號1樓</a>",
+      "payDetail": "行政處理費200元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/09/18",
+      "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "高雄市",
+      "orgName": "<a href='https://www.heartrich2017.com/' target='_blank'>欣語心理諮商所</a>",
+      "phone": "0968-991-520",
+      "address": "<a href='https://www.google.com.tw/maps/place/高雄市三民區天津街148號1-2樓' target='_blank'>高雄市三民區天津街148號1-2樓</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/09/30",
       "strTeleconsultation": "否"
     },
     {
@@ -322,15 +376,15 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/09/08",
+      "editDate": "2025/09/17",
       "strTeleconsultation": "是"
     },
     {
       "countyName": "高雄市",
-      "orgName": "<a href='https://clinic3.ark-medicine.com/doctorterm' target='_blank'>和成診所</a>",
-      "phone": "(07)796-1900",
-      "address": "<a href='https://www.google.com.tw/maps/place/高雄市鳳山區和成路71號' target='_blank'>高雄市鳳山區和成路71號</a>",
-      "payDetail": "掛號費100元",
+      "orgName": "<a href='https://www.facebook.com/profile.php?id=100090506332137' target='_blank'>維佳身心診所</a>",
+      "phone": "(07)364-6776",
+      "address": "<a href='https://www.google.com.tw/maps/place/高雄市楠梓區加仁路153號' target='_blank'>高雄市楠梓區加仁路153號</a>",
+      "payDetail": "掛號費150元",
       "thisWeekRange": null,
       "thisWeekCount": 0,
       "nextWeekRange": null,
@@ -340,7 +394,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/09/30",
       "strTeleconsultation": "否"
     },
     {
@@ -358,7 +412,61 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/09/18",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "高雄市",
+      "orgName": "<a href='https://renwu-heartconsult.tw/' target='_blank'>仁武深忻診所</a>",
+      "phone": "(07)374-6583",
+      "address": "<a href='https://www.google.com.tw/maps/place/高雄市仁武區仁雄路67-5號' target='_blank'>高雄市仁武區仁雄路67-5號</a>",
+      "payDetail": "行政處理費400元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/09/26",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "高雄市",
+      "orgName": "<a href='https://www.healing.tw/' target='_blank'>耕心療癒診所</a>",
+      "phone": "(07)359-2011",
+      "address": "<a href='https://www.google.com.tw/maps/place/高雄市左營區曾子路332號' target='_blank'>高雄市左營區曾子路332號</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/10/01",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "高雄市",
+      "orgName": "<a href='https://gongxie.com.tw' target='_blank'>工協身心診所</a>",
+      "phone": "(07)702-0000",
+      "address": "<a href='https://www.google.com.tw/maps/place/高雄市鳳山區勝利路15號1-2樓' target='_blank'>高雄市鳳山區勝利路15號1-2樓</a>",
+      "payDetail": "掛號費150元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/09/29",
       "strTeleconsultation": "否"
     },
     {
@@ -394,7 +502,25 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/25",
+      "editDate": "2025/09/18",
+      "strTeleconsultation": "否"
+    },
+    {
+      "countyName": "高雄市",
+      "orgName": "<a href='http://www.lokan.com.tw/index.htm' target='_blank'>樂安醫院</a>",
+      "phone": "(07)625-6791",
+      "address": "<a href='https://www.google.com.tw/maps/place/高雄市岡山區通校路300號' target='_blank'>高雄市岡山區通校路300號</a>",
+      "payDetail": "行政處理費100元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "2025/09/17",
       "strTeleconsultation": "否"
     },
     {
@@ -412,7 +538,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/09/15",
       "strTeleconsultation": "否"
     },
     {
@@ -430,7 +556,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/10/01",
       "strTeleconsultation": "是"
     },
     {
@@ -448,7 +574,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/10/01",
       "strTeleconsultation": "是"
     },
     {
@@ -466,7 +592,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/27",
+      "editDate": "2025/09/15",
       "strTeleconsultation": "否"
     },
     {
@@ -538,7 +664,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/08/26",
+      "editDate": "尚未更新",
       "strTeleconsultation": "否"
     },
     {
@@ -574,7 +700,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "尚未更新",
+      "editDate": "2025/09/18",
       "strTeleconsultation": "是"
     },
     {
@@ -628,7 +754,7 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/09/03",
+      "editDate": "2025/09/29",
       "strTeleconsultation": "是"
     },
     {
@@ -646,7 +772,25 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/09/02",
+      "editDate": "尚未更新",
+      "strTeleconsultation": "是"
+    },
+    {
+      "countyName": "高雄市",
+      "orgName": "<a href='https://www.peacefulheart520.com/' target='_blank'>心和心理諮商所</a>",
+      "phone": "(07)215-5838、0963-985-063",
+      "address": "<a href='https://www.google.com.tw/maps/place/高雄市前金區中正四路235號9樓之5' target='_blank'>高雄市前金區中正四路235號9樓之5</a>",
+      "payDetail": "行政管理費600元",
+      "thisWeekRange": null,
+      "thisWeekCount": 0,
+      "nextWeekRange": null,
+      "nextWeekCount": 0,
+      "next2WeekRange": null,
+      "next2WeekCount": 0,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 0,
+      "editDate": "尚未更新",
       "strTeleconsultation": "是"
     },
     {
@@ -664,9 +808,9 @@
       "next3WeekRange": null,
       "next3WeekCount": 0,
       "in4WeekTotleCount": 0,
-      "editDate": "2025/09/01",
+      "editDate": "2025/09/30",
       "strTeleconsultation": "是"
     }
   ],
-  "totalPages": 4
+  "totalPages": 5
 }

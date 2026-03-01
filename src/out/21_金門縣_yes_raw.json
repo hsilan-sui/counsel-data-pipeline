@@ -1,5 +1,24 @@
 {
-  "total": 0,
-  "rows": [],
+  "total": 1,
+  "rows": [
+    {
+      "countyName": "金門縣",
+      "orgName": "<a href='' target='_blank'>曾杏榕診所</a>",
+      "phone": "082-335666",
+      "address": "<a href='https://www.google.com.tw/maps/place/金湖鎮市港二路170號1樓' target='_blank'>金湖鎮市港二路170號1樓</a>",
+      "payDetail": "無",
+      "thisWeekRange": null,
+      "thisWeekCount": 15,
+      "nextWeekRange": null,
+      "nextWeekCount": 15,
+      "next2WeekRange": null,
+      "next2WeekCount": 15,
+      "next3WeekRange": null,
+      "next3WeekCount": 0,
+      "in4WeekTotleCount": 45,
+      "editDate": "2026/01/06",
+      "strTeleconsultation": "否"
+    }
+  ],
   "totalPages": 1
 }

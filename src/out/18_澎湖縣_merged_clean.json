@@ -10,12 +10,12 @@
       "address": "澎湖縣馬公市中正路10號",
       "map_url": "https://www.google.com.tw/maps/place/澎湖縣馬公市中正路10號",
       "pay_detail": "無",
-      "this_week": 3,
-      "next_week": 3,
-      "next_2_week": 3,
+      "this_week": 0,
+      "next_week": 0,
+      "next_2_week": 2,
       "next_3_week": 0,
-      "in_4_weeks": 9,
-      "edit_date": "2025/11/24",
+      "in_4_weeks": 2,
+      "edit_date": "2026/01/07",
       "teleconsultation": false,
       "has_quota": true
     },
@@ -27,14 +27,14 @@
       "address": "澎湖縣馬公市新村路22號",
       "map_url": "https://www.google.com.tw/maps/place/澎湖縣馬公市新村路22號",
       "pay_detail": "無",
-      "this_week": 0,
-      "next_week": 0,
+      "this_week": 2,
+      "next_week": 2,
       "next_2_week": 0,
       "next_3_week": 0,
-      "in_4_weeks": 0,
-      "edit_date": "2025/11/13",
+      "in_4_weeks": 4,
+      "edit_date": "2026/01/08",
       "teleconsultation": false,
-      "has_quota": false
+      "has_quota": true
     }
   ]
 }

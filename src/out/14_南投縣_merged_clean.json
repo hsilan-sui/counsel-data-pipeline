@@ -11,11 +11,11 @@
       "map_url": "https://www.google.com.tw/maps/place/南投縣草屯鎮玉屏路161號",
       "pay_detail": "無",
       "this_week": 3,
-      "next_week": 3,
+      "next_week": 0,
       "next_2_week": 0,
       "next_3_week": 0,
-      "in_4_weeks": 6,
-      "edit_date": "2025/11/18",
+      "in_4_weeks": 3,
+      "edit_date": "2026/01/06",
       "teleconsultation": true,
       "has_quota": true
     },
@@ -27,12 +27,12 @@
       "address": "南投縣草屯鎮仁愛街270號",
       "map_url": "https://www.google.com.tw/maps/place/南投縣草屯鎮仁愛街270號",
       "pay_detail": "無",
-      "this_week": 3,
-      "next_week": 3,
-      "next_2_week": 3,
+      "this_week": 5,
+      "next_week": 5,
+      "next_2_week": 5,
       "next_3_week": 0,
-      "in_4_weeks": 9,
-      "edit_date": "2025/11/19",
+      "in_4_weeks": 15,
+      "edit_date": "2026/01/06",
       "teleconsultation": false,
       "has_quota": true
     },
@@ -46,11 +46,11 @@
       "pay_detail": null,
       "this_week": 6,
       "next_week": 6,
-      "next_2_week": 0,
+      "next_2_week": 6,
       "next_3_week": 0,
-      "in_4_weeks": 12,
-      "edit_date": "2025/11/17",
-      "teleconsultation": false,
+      "in_4_weeks": 18,
+      "edit_date": "2026/01/06",
+      "teleconsultation": true,
       "has_quota": true
     },
     {
@@ -66,7 +66,7 @@
       "next_2_week": 0,
       "next_3_week": 0,
       "in_4_weeks": 0,
-      "edit_date": "2025/11/21",
+      "edit_date": "2026/01/05",
       "teleconsultation": true,
       "has_quota": false
     },
@@ -83,7 +83,7 @@
       "next_2_week": 0,
       "next_3_week": 0,
       "in_4_weeks": 0,
-      "edit_date": "尚未更新",
+      "edit_date": "2026/01/01",
       "teleconsultation": false,
       "has_quota": false
     },
@@ -100,7 +100,7 @@
       "next_2_week": 0,
       "next_3_week": 0,
       "in_4_weeks": 0,
-      "edit_date": "2025/11/17",
+      "edit_date": "2026/01/01",
       "teleconsultation": false,
       "has_quota": false
     },
@@ -117,7 +117,7 @@
       "next_2_week": 0,
       "next_3_week": 0,
       "in_4_weeks": 0,
-      "edit_date": "2025/11/17",
+      "edit_date": "2026/01/05",
       "teleconsultation": true,
       "has_quota": false
     },
@@ -134,7 +134,7 @@
       "next_2_week": 0,
       "next_3_week": 0,
       "in_4_weeks": 0,
-      "edit_date": "2025/11/17",
+      "edit_date": "2026/01/05",
       "teleconsultation": false,
       "has_quota": false
     }

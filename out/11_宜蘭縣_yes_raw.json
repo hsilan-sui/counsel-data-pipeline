@@ -1,24 +1,5 @@
 {
-  "total": 1,
-  "rows": [
-    {
-      "countyName": "宜蘭縣",
-      "orgName": "<a href='https://portaly.cc/joycounseling' target='_blank'>喜悅心理諮商所</a>",
-      "phone": "0975216206",
-      "address": "<a href='https://www.google.com.tw/maps/place/宜蘭縣五結鄉鎮安村舊街一路110巷10號' target='_blank'>宜蘭縣五結鄉鎮安村舊街一路110巷10號</a>",
-      "payDetail": "無",
-      "thisWeekRange": null,
-      "thisWeekCount": 3,
-      "nextWeekRange": null,
-      "nextWeekCount": 2,
-      "next2WeekRange": null,
-      "next2WeekCount": 0,
-      "next3WeekRange": null,
-      "next3WeekCount": 0,
-      "in4WeekTotleCount": 5,
-      "editDate": "2025/08/29",
-      "strTeleconsultation": "否"
-    }
-  ],
+  "total": 0,
+  "rows": [],
   "totalPages": 1
 }
